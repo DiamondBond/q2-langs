@@ -1,0 +1,1167 @@
+# Русский
+History_record	History record	История
+about_cardcap	Card Capacity	Емкость карты
+about_cardremain	Remaining	Осталось
+about_ipaddr	IP Address	IP-адрес
+about_model	Model	Модель
+about_more	*Our sincere thanks go to the DiamondBond team and all its enthusiasts for their ingenuity, outstanding solutions, and generous contributions.	*Искренне благодарим команду DiamondBond и всех энтузиастов за изобретательность, выдающиеся решения и щедрый вклад.
+about_sn	Serial Number	Серийный номер
+about_version	Version	Версия
+about_wifimac	Wi-Fi MAC	MAC-адрес Wi-Fi
+album	Album	Альбом
+album	Album	Альбом
+albumsinger	Album artist	Исполнитель альбома
+allmusic	All Songs	Все песни
+audio_settings	Audio settings	Настройки звука
+baidu_login	Log In	Войти
+baidu_login_tips1	Please use Baidu Netdisk or Baidu App to scan the code to login	Отсканируйте код в Baidu Netdisk или приложении Baidu, чтобы войти
+baidu_login_tips2	Baidu encryption technology protects your privacy and security	Шифрование Baidu защищает вашу конфиденциальность и безопасность
+baidu_loginout	Log Out	Выйти
+baidunet_floderinfo_failed	Failed to get file list	Не удалось получить список файлов
+batch_addplaylist	Add to Playlist	Добавить в плейлист
+bt_adjvol	Bluetooth Headset Volume Control	Громкость гарнитуры Bluetooth
+bt_compatiabledev	Compatible Device	Совместимое устройство
+bt_name	Bluetooth Name	Имя Bluetooth
+bt_paireddev	Paired Device	Сопряжённое устройство
+bt_quality	Quality	Качество
+bt_search	Scan now	Сканировать
+btcode_aac	AAC	AAC
+btcode_aptx	aptX	aptX
+btcode_aptxhd	aptX HD	aptX HD
+btcode_ldacauto	LDAC Connection (auto)	LDAC: автоматически
+btcode_ldachq	LDAC HQ	LDAC: высокое качество
+btcode_ldacst	LDAC Standard	LDAC: стандартный
+btcode_sbc	SBC	SBC
+btcode_sbchq	SBC HQ	SBC HQ
+custom_eq	Custom	Своя
+display_backlight	Brightness	Яркость
+display_lighttime	Screen Off Time	Выключение экрана
+display_screenlock	Lock Screen	Экран блокировки
+dsdmode_d2p	D2P	D2P
+dsdmode_dop	DOP	DOP
+dsdmode_native	Native	Native
+eq_blues	Blues	Блюз
+eq_classical	Classical	Классика
+eq_club	Club	Клуб
+eq_custom1	Custom1	Своя 1
+eq_custom2	Custom2	Своя 2
+eq_custom3	Custom3	Своя 3
+eq_dance	Dance	Танцы
+eq_doublebass	Sub-bass	Саббас
+eq_jazz	Jazz	Джаз
+eq_metal	Metal	Метал
+eq_only48kmsg	EQ only for files below 48kHz.	Эквалайзер только для файлов до 48 кГц.
+eq_pop	Pop	Поп
+eq_reset	Reset	Сброс
+eq_rock	Rock	Рок
+eq_vocal	Vocal	Вокал
+fav	My Fav	Избранное
+filter_delayfast	Low Delay Fast Roll-off	Low Delay Fast Roll-off
+filter_delayslow	Low Delay Slow Roll-off	Low Delay Slow Roll-off
+filter_fast	Fast Roll-off	Fast Roll-off
+filter_slow	Slow Roll-off	Slow Roll-off
+frequentplay	Frequent	Часто слушаемые
+gain_high	High	Высокое
+gain_low	Low	Низкое
+genre	Genre	Жанр
+genre_statistics	Total %d songs	Всего песен: %d
+hr	Hi-Res	Hi-Res
+keyboard_keyword	Please enter keyword	Введите запрос
+keyboard_netname	Please enter network name	Введите имя сети
+keyboard_password	Please enter password	Введите пароль
+keylock_all	Lock Volume & Buttons	Блокировать громкость и кнопки
+keylock_info	Only effective when the screen is off	Только при выключенном экране
+keylock_info2	Effective on Lockscreen and when Screen Off	На экране блокировки и при выключенном экране
+keylock_key	Lock Buttons Only	Блокировать только кнопки
+keylock_volume	Lock Volume Only	Блокировать только громкость
+lan_english	English	English
+lan_french	Français	Français
+lan_german	Deutsch	Deutsch
+lan_italian	Italiano	Italiano
+lan_japanese	日本語	日本語
+lan_korean	한국어	한국어
+lan_polish	Polski	Polski
+lan_russian	Русский	Русский
+lan_simplified	简体中文	简体中文
+lan_spanish	español	español
+lan_thai	ภาษาไทย	ภาษาไทย
+lan_traditional	繁體中文	繁體中文
+lan_ukrainian	Українська	Українська
+lighttime_15s	15s	15 с
+lighttime_1min	1min	1 мин
+lighttime_2min	2min	2 мин
+lighttime_30min	30min	30 мин
+lighttime_30s	30s	30 с
+lighttime_5min	5min	5 мин
+lighttime_lyricmode	Lyrics mode	Режим текста
+lighttime_off	Off	Выкл.
+list_baidu	Baidu Netdisk	Baidu Netdisk
+list_tidal	TIDAL	TIDAL
+local_album	Albums	Альбомы
+local_allmusic	Local Songs	Локальные песни
+local_allsongs	Songs	Песни
+local_fav	My Fav	Избранное
+local_frequentplay	Frequent	Часто слушаемые
+local_genre	Genres	Жанры
+local_hr	Hi-Res	Hi-Res
+local_playlist	Playlists	Плейлисты
+local_recentadd	Recently Added	Недавно добавленные
+local_recentplay	Recent	Недавние
+local_songer	Artists	Исполнители
+local_upmusic	Update Library	Обновить библиотеку
+login_out	Logout	Выйти
+memplay_location	Location	Расположение
+memplay_off	Off	Выкл.
+memplay_track	Track	Трек
+msg_actionnotsupport	Non-local songs,not currently supported	Не локальные песни пока не поддерживаются
+msg_actionscan	Scan music?	Сканировать музыку?
+msg_add_task	Please enter the URL of the file you want to download	Введите URL файла для загрузки
+msg_addfailed	Adding Failed	Не удалось добавить
+msg_addfavsuccess	Added To Fav	Добавлено в избранное
+msg_addplaylistsuccess	Added To Playlist	Добавлено в плейлист
+msg_autoshutdown	Shutdown	Выключить
+msg_btabnormal	Bluetooth abnormal	Сбой Bluetooth
+msg_btinit_run	Bluetooth Starting	Запуск Bluetooth
+msg_btreconnect	Reconnect Bluetooth?	Переподключить Bluetooth?
+msg_cardeject	Audio Disconnected	Аудиоустройство отключено
+msg_cardinsert	Audio Connected	Аудиоустройство подключено
+msg_checkfw	Checking FW	Проверка прошивки
+msg_checkfwerr	FW. Check Error	Ошибка проверки прошивки
+msg_closesynclink	Please close SyncLink	Закройте SyncLink
+msg_confirmupdate	Confirm Update?	Подтвердить обновление?
+msg_connected	Connected	Подключено
+msg_connecting	Connecting	Подключение
+msg_delalbum	Delete Album?	Удалить альбом?
+msg_delalbumfailed	Failed To Delete Album	Не удалось удалить альбом
+msg_delalbumsuccess	Album Deleted	Альбом удалён
+msg_delartist	Delete Artist?	Удалить исполнителя?
+msg_delartistsuccess	Artist Deleted	Исполнитель удалён
+msg_delete_task	Are you sure you want to delete the download task?	Удалить задачу загрузки?
+msg_deletesource	Also delete source file	Удалить и исходный файл
+msg_delfile	Are you sure you want to delete this file?	Удалить этот файл?
+msg_delfile	Delete File?	Удалить файл?
+msg_delfilefailed	Failed To Delete File	Не удалось удалить файл
+msg_delfilesuccess	File Deleted	Файл удалён
+msg_delgenre	Delete Genre?	Удалить жанр?
+msg_delgenresuccess	Genre Deleted	Жанр удалён
+msg_delplaylist	Delete Playlist?	Удалить плейлист?
+msg_delplaylistfailed	Failed To Delete Playlist	Не удалось удалить плейлист
+msg_delplaylistsuccess	Playlist Deleted	Плейлист удалён
+msg_delsong	Delete Song?	Удалить песню?
+msg_delsongfailed	Failed To Delete Song	Не удалось удалить песню
+msg_delsongsuccess	Song Deleted	Песня удалена
+msg_disconnected	Disconnected	Отключено
+msg_disonnectbt	Please disconnect the bluetooth device	Отключите устройство Bluetooth
+msg_downloadpath	Download path is	Путь загрузки
+msg_exist_task	The download task already exists	Задача загрузки уже существует
+msg_exitairplay	Quit AirPlay?	Выйти из AirPlay?
+msg_exportplaylist	Export Playlist?	Экспортировать плейлист?
+msg_exportsuccess	Export successful	Экспорт выполнен
+msg_factorysuccess	Restore to factory settings succeeded	Заводские настройки восстановлены
+msg_favsuccess	Added To Fav	Добавлено в избранное
+msg_file_exist	The file already exists	Файл уже существует
+msg_importplaylist	Import Playlists?	Импортировать плейлисты?
+msg_importsuccess	Successfully imported	Импорт выполнен
+msg_initsetsuccess	All settings initialized successfully	Все настройки сброшены
+msg_latestfw	Latest Fw. Installed	Установлена последняя прошивка
+msg_linkerror	WiFi Connection Error	Ошибка подключения Wi-Fi
+msg_lowarn	Line Out sets max volume,continue?	Line Out включит макс. громкость. Продолжить?
+msg_lowpower	Low Battery	Низкий заряд
+msg_namenull	The name can't be empty	Имя не может быть пустым
+msg_netnameerr	Network Must Be Named	Укажите имя сети
+msg_no	Cancel	Отмена
+msg_no_storage	Storage is full.Some songs couldn't be added.	Память заполнена. Не все песни добавлены.
+msg_noheadset	Playback is disabled without headphones.Please insert headphones.	Без наушников воспроизведение отключено. Подключите наушники.
+msg_nosongs	No songs in this folder	В этой папке нет песен
+msg_notalbuminfo	This file has no Album data	В файле нет данных об альбоме
+msg_notfile	File Not Found	Файл не найден
+msg_notfolder	Folder not found	Папка не найдена
+msg_notfoundfw	Fw. Not Found	Прошивка не найдена
+msg_notmemory	Memory is not enough	Не хватает памяти
+msg_notmemory	Out of memory	Не хватает памяти
+msg_notnetwork	Network Disconnected	Сеть отключена
+msg_nototg	No OTG Found	OTG не найден
+msg_notplaylist	Playlist Not Found	Плейлист не найден
+msg_notsongerinfo	This file has no Artist data	В файле нет данных об исполнителе
+msg_notsonglist	No Song List	Нет списка песен
+msg_notspecdir	Folder not specified	Папка не указана
+msg_notsupport	Not Supported	Не поддерживается
+msg_notsupportdel	Can't be removed	Нельзя удалить
+msg_nottf	No TF Card Found	Карта TF не найдена
+msg_otgeject	OTG Disconnected	OTG отключён
+msg_otginfoerr	Failed To Get Version Info	Не удалось получить сведения о версии
+msg_otginsert	OTG Connected	OTG подключён
+msg_paircode	Bluetooth Code	Код Bluetooth
+msg_paired	Paired	Сопряжено
+msg_playlistexist	Playlist Already Exists	Плейлист уже существует
+msg_playlistfull	Could not create playlist	Не удалось создать плейлист
+msg_poweroff	Shut Down?	Выключить?
+msg_resetdbsuccess	Reset completed	Сброс выполнен
+msg_restarting	Restarting	Перезапуск
+msg_shortpasswd	8 Digits PIN At Least	PIN-код не короче 8 цифр
+msg_start_download_task	start the download task	Начать загрузку?
+msg_stop_download_task	stop the download task	Остановить загрузку?
+msg_testmode	Enter test mode?	Войти в тестовый режим?
+msg_tfeject	TF Card Removed	Карта TF извлечена
+msg_tfinsert	TF Card Inserted	Карта TF вставлена
+msg_unpaired	Unpaired	Не сопряжено
+msg_unpairing	unpair?	Разорвать пару?
+msg_unsupportformat	Unsupported format	Формат не поддерживается
+msg_update	Confirmed	Подтверждено
+msg_wificancelsave	Delete Record?	Удалить запись?
+msg_wifidisconnect	Disconnect Now?	Отключиться?
+msg_yes	OK	ОК
+navigation_all	All	Все
+netservice_airplay	AirPlay	AirPlay
+netservice_dlna	DLNA	DLNA
+netservice_wifitrans	Wi-Fi File Transfer	Передача файлов по Wi-Fi
+no_search	No search results	Ничего не найдено
+not_allmusic	Currently no songs	Песен пока нет
+otgdownload_percent	FW Downloaded	Прошивка загружена
+outputway	Output Options	Выход звука
+play_all	Play All	Играть все
+player_abrepeat	AB Repeat	Повтор A–B
+player_albuminfo	Look up Album	Найти альбом
+player_bitdepth	Bit Depth	Разрядность
+player_bitrate	Bitrate	Битрейт
+player_delete	Delete Song	Удалить песню
+player_encoding	Encoding	Кодирование
+player_era	Year	Год
+player_filesize	File Size	Размер файла
+player_location	Location	Расположение
+player_msgmul	*Affecting only files below 48khz	*Только для файлов до 48 кГц
+player_multiple	Multiple Speed	Скорость воспроизведения
+player_nolyric	No Lyrics	Нет текста
+player_onlinesearch	Download Cover & Lyrics	Скачать обложку и текст
+player_playlist	Queue	Очередь
+player_samplerate	Sample Rate	Частота дискретизации
+player_songerinfo	Look up Artist	Найти исполнителя
+player_unknown	Unknown	Неизвестно
+player_unknown	Unknown Artist	Неизвестный исполнитель
+playlist	Playlist	Плейлист
+playlist_create	New playlist	Новый плейлист
+playlist_export	Export playlist	Экспорт плейлиста
+playlist_import	Import playlist	Импорт плейлиста
+playmode_listplay	List Play	По списку
+playmode_repeatall	Repeat All	Повтор всех
+playmode_repeattrack	Repeat Track	Повтор трека
+playmode_shuffle	Shuffle	Вперемешку
+playset_balance	Channel Balance	Баланс каналов
+playset_bootvol	Default Volume	Громкость по умолчанию
+playset_covermode	Enlarged Album Art	Крупная обложка
+playset_dsdoutput	DSD Output Mode	Режим вывода DSD
+playset_eq	EQ	Эквалайзер
+playset_filter	Digital Filters	Цифровые фильтры
+playset_foldercover	Folder Album Cover	Обложка папки
+playset_folderjump	Folder Skip	Переход по папкам
+playset_gain	Gain	Усиление
+playset_gapless	Gapless	Без пауз
+playset_maxvol	Max Volume	Макс. громкость
+playset_memplay	Memory Playback	Запоминать позицию
+playset_noplay	Require Output (Beta)	Требовать выход (бета)
+playset_playmode	Play Mode	Режим воспроизведения
+playset_replaygain	ReplayGain	ReplayGain
+playset_usbaudiovol	USB Audio Output	Вывод звука по USB
+playset_volcover	Volume and Album Display	Громкость и обложка
+powerm_deep_off	Standby	Ожидание
+powerm_sleep	Sleep Timer	Таймер сна
+recentadd	Recently Added	Недавно добавленные
+recentplay	Recent	Недавние
+rename	Rename	Переименовать
+renamesuccess	Successfully renamed	Переименовано
+replaygain_track	Song	Песня
+reset_factory	Full Factory Reset	Полный сброс
+reset_initdatabase	Reset Database	Сбросить базу данных
+reset_initset	Reset Settings Only	Сбросить только настройки
+scan_automatic	Automatic Update	Автообновление
+scan_now	Scan music now	Сканировать сейчас
+scan_now	Scan music now	Сканировать сейчас
+scan_spec	Scan specified folders	Сканировать выбранные папки
+scan_spec	Scan specified folders	Сканировать выбранные папки
+scan_startscan	Scan	Сканировать
+scan_updatefinish	Library Updated,%d Updated	Библиотека обновлена, изменено: %d
+scan_updating	Updating No.%d	Обновление %d
+scover_cover	Cover	Обложка
+scover_lyric	Lyrics	Текст
+screenlock_about	Custom Lock Screen	Свой экран блокировки
+screenlock_info1	1. Put the pictures in a folder named "lockscreenimage" at the top of the card.	1. Положите картинки в папку «lockscreenimage» в корне карты.
+screenlock_info2	2. PNG or JPG, exactly 375 x 320 pixels, under 1 MB each.	2. PNG или JPG, ровно 375 x 320 пикселей, каждая до 1 МБ.
+screenlock_info3	3. Up to 5 pictures.	3. Не более 5 картинок.
+screenlock_timeshow	Show Time	Показывать время
+search_tips1	Search for music,artists,albums,genres	Поиск песен, исполнителей, альбомов, жанров
+search_track	Track	Трек
+singerbyalbum	Sort by album artist	Сортировать по исполнителю альбома
+singerbysong	Sort by song artist	Сортировать по исполнителю песни
+small_album	Albums	Альбомы
+small_coverflow	Album Wall	Стена альбомов
+small_folder	Folder	Папки
+small_local	Local Songs	Локальные песни
+small_playing	Now Playing	Сейчас играет
+small_playset	Playback	Воспроизведение
+small_stream	Streaming	Стриминг
+small_sysset	System	Система
+songer	Artist	Исполнитель
+sort_addtime	Time added	Дата добавления
+sort_alphabet	Alphabetical	По алфавиту
+sort_filename	File name	Имя файла
+sort_format	File format	Формат файла
+sort_time_asc	Time added (ascending)	Дата добавления (по возрастанию)
+sort_time_desc	Time added (descending)	Дата добавления (по убыванию)
+standbyoff_10min	10min	10 мин
+standbyoff_1min	1min	1 мин
+standbyoff_3min	3min	3 мин
+standbyoff_5min	5min	5 мин
+standbyoff_deep	Auto-standby	Авто-ожидание
+standbyoff_deepinfo	After 5 minute of idle,device will go into standby mode.	После 5 минут простоя устройство перейдёт в режим ожидания.
+standbyoff_saver	Auto-shutdown	Автовыключение
+synclink_off	Off	Выкл.
+system_about	About	О плеере
+system_carmode	In-Vehicle Mode	Автомобильный режим
+system_display	Display	Экран
+system_general	General	Общие
+system_keylock	Buttons Lock	Блокировка кнопок
+system_keytone	Key Tone	Звук кнопок
+system_language	Language	Язык
+system_navshow	Show Navigation Bar	Панель навигации
+system_netservice	Network	Сеть
+system_powermanager	Power	Питание
+system_prove	Certification	Сертификация
+system_reset	Reset Settings	Сброс настроек
+system_sys	System	Система
+system_time	Date & Time	Дата и время
+system_update	System Update	Обновление системы
+system_wheelmode	Wheel Function	Функция колеса
+system_wifiset	Wireless	Беспроводная связь
+timedate_24h	24-Hour	24-часовой формат
+timedate_auto	Automatic Time Set	Автоустановка времени
+timedate_manual	Set Time Manually	Установить время вручную
+timezone_gmt+1	(GMT+01:00)Europe/Amsterdam	(GMT+01:00)Амстердам
+timezone_gmt+10	(GMT+10:00)Australia/Sydney	(GMT+10:00)Сидней
+timezone_gmt+12	(GMT+12:00)Pacific/Fiji	(GMT+12:00)Фиджи
+timezone_gmt+2	(GMT+02:00)Europe/Bucharest	(GMT+02:00)Бухарест
+timezone_gmt+3	(GMT+03:00)Asia/Kuwait	(GMT+03:00)Кувейт
+timezone_gmt+3_30	(GMT+03:30)Asia/Tehran	(GMT+03:30)Тегеран
+timezone_gmt+4	(GMT+04:00)Asia/Muscat	(GMT+04:00)Маскат
+timezone_gmt+4_30	(GMT+04:30)Asia/Kabul	(GMT+04:30)Кабул
+timezone_gmt+5	(GMT+05:00)Asia/Karachi	(GMT+05:00)Карачи
+timezone_gmt+6	(GMT+06:00)Asia/Almaty	(GMT+06:00)Алматы
+timezone_gmt+7	(GMT+07:00)Asia/Bangkok	(GMT+07:00)Бангкок
+timezone_gmt+8	(GMT+08:00)Asia/Shanghai	(GMT+08:00)Шанхай
+timezone_gmt+9	(GMT+09:00)Asia/Tokyo	(GMT+09:00)Токио
+timezone_gmt+9_30	(GMT+09:30)Australia/Adelaide	(GMT+09:30)Аделаида
+timezone_gmt-0	(GMT 00:00)Europe/London	(GMT 00:00)Лондон
+timezone_gmt-1	(GMT-01:00)Atlantic/Azores	(GMT-01:00)Азорские о-ва
+timezone_gmt-10	(GMT-10:00)Pacific/Honolulu	(GMT-10:00)Гонолулу
+timezone_gmt-11	(GMT-11:00)Pacific/Midway	(GMT-11:00)Мидуэй
+timezone_gmt-12	(GMT-12:00)Pacific/Kwajalein	(GMT-12:00)Кваджалейн
+timezone_gmt-3	(GMT-03:00)America/Argentina/Buenos_Aires	(GMT-03:00)Буэнос-Айрес
+timezone_gmt-3_30	(GMT-03:30)America/St_Johns	(GMT-03:30)Сент-Джонс
+timezone_gmt-4	(GMT-04:00)Canada/Atlantic	(GMT-04:00)Канада, Атлантика
+timezone_gmt-5	(GMT-05:00)America/New_York	(GMT-05:00)Нью-Йорк
+timezone_gmt-6	(GMT-06:00)America/Mexico_City	(GMT-06:00)Мехико
+timezone_gmt-7	(GMT-07:00)America/Denver	(GMT-07:00)Денвер
+timezone_gmt-8	(GMT-08:00)America/Tijuana	(GMT-08:00)Тихуана
+timezone_gmt-9	(GMT-09:00)America/Anchorage	(GMT-09:00)Анкоридж
+timezone_select	Time Zone Selection	Часовой пояс
+title_downloaded	Downloaded	Загружено
+title_downloading	Downloading	Загрузка
+title_more	More	Ещё
+title_sort	List sort order	Порядок сортировки
+update_online	Network update	Обновление по сети
+update_tf	TF card update	Обновление с карты TF
+usb_chargeswitch	USB DAC Charging	Зарядка в режиме USB DAC
+usbmode_audio	USB AUDIO	USB-аудио
+usbmode_connect	USB Connected	USB подключён
+usbmode_dac	USB DAC	USB DAC
+usbmode_disconnect	USB Disconnected	USB отключён
+usbmode_storge	USB Storage	USB-накопитель
+usbvol_adjust	Volume Variable	Громкость регулируется
+usbvol_fixed	Volume Fixed	Громкость фиксирована
+wheelmode_menu	Menu Mode	Режим меню
+wheelmode_volume	Volume Mode	Режим громкости
+wifi_addnetwork	Add Network	Добавить сеть
+wifi_choice	Select Network	Выбрать сеть
+wifi_scan	Scanning	Сканирование
+wifiset_bt	Bluetooth	Bluetooth
+wifiset_synclink	SyncLink	SyncLink
+wifiset_wifi	Wi-Fi	Wi-Fi
+wifits_info1	Enter the following URL into your internet browser:	Введите этот URL в браузере:
+Search	Search	Поиск
+Streaming	Streaming	Стриминг
+Library's Games	Library's Games	Библиотека → Игры
+Library's Apps	Library's Apps	Библиотека → Приложения
+Network settings	Network settings	Настройки сети
+Wait until the App Store finishes	Wait until the App Store finishes	Дождитесь окончания работы App Store
+It isn't on the card	It isn't on the card	Его нет на карте
+It couldn't start	It couldn't start	Не удалось запустить
+Stop %s	Stop %s	Остановить %s
+Loading…	Loading…	Загрузка…
+More…	More…	Ещё…
+Working…	Working…	Выполняется…
+Starting %s…	Starting %s…	Запуск %s…
+Retry	Retry	Повторить
+Install it again in Library → App Store	Install it again in Library → App Store	Установите заново: Библиотека → App Store
+Cancel	Cancel	Отмена
+%s isn't running	%s isn't running	Не запущено: %s
+%s didn't answer	%s didn't answer	Нет ответа: %s
+Too long	Too long	Слишком длинный запрос
+%s stopped	%s stopped	Остановлено: %s
+%s isn't on the card	%s isn't on the card	Нет на карте: %s
+Apps	Apps	Приложения
+No apps	No apps	Нет приложений
+Not running	Not running	Не запущено
+No code yet	No code yet	Кода пока нет
+Connect the Q2 to Wi-Fi	Connect the Q2 to Wi-Fi	Подключите Q2 к Wi-Fi
+Open it again	Open it again	Откройте снова
+Wait a moment	Wait a moment	Подождите немного
+Then come back here	Then come back here	Потом вернитесь сюда
+Scan with your phone's	Scan with your phone's	Наведите камеру
+Scan with your	Scan with your	Наведите камеру
+camera	camera	телефона
+phone's camera	phone's camera	телефона
+or open	or open	или откройте
+PIN	PIN	PIN
+Couldn't import %s	Couldn't import %s	Не удалось импортировать %s
+Playlists updated	Playlists updated	Плейлисты обновлены
+No memory card	No memory card	Нет карты памяти
+Games	Games	Игры
+%d update	%d update	%d обновление
+%d updates	%d updates	Обновлений: %d
+INSTALL	INSTALL	УСТАНОВИТЬ
+UPDATE	UPDATE	ОБНОВИТЬ
+INSTALLED	INSTALLED	УСТАНОВЛЕНО
+AM	AM	AM
+PM	PM	PM
+Jan	Jan	Янв
+Feb	Feb	Фев
+Mar	Mar	Мар
+Apr	Apr	Апр
+May	May	Май
+Jun	Jun	Июн
+Jul	Jul	Июл
+Aug	Aug	Авг
+Sep	Sep	Сен
+Oct	Oct	Окт
+Nov	Nov	Ноя
+Dec	Dec	Дек
+The card is in use over USB	The card is in use over USB	Карта занята по USB
+Storage unavailable	Storage unavailable	Хранилище недоступно
+The card is full	The card is full	Карта заполнена
+Couldn't save	Couldn't save	Не удалось сохранить
+Saved to battery-log.txt	Saved to battery-log.txt	Сохранено в battery-log.txt
+Battery History	Battery History	История батареи
+Unplug to start	Unplug to start	Отключите зарядку, чтобы начать
+Export Log	Export Log	Экспорт журнала
+Done	Done	Готово
+space	space	пробел
+New Playlist	New Playlist	Новый плейлист
+Playlist Name	Playlist Name	Имя плейлиста
+Rename	Rename	Переименовать
+Songs	Songs	Песни
+Artists	Artists	Исполнители
+Albums	Albums	Альбомы
+Genres	Genres	Жанры
+Off	Off	Выкл.
+On	On	Вкл.
+%d of %d songs	%d of %d songs	%d из %d песен
+Updating Library	Updating Library	Обновление библиотеки
+Connected	Connected	Подключено
+Eject before disconnecting	Eject before disconnecting	Извлеките перед отключением
+%d:%02d AM	%d:%02d AM	%d:%02d AM
+%d:%02d PM	%d:%02d PM	%d:%02d PM
+Save	Save	Сохранить
+Sort: Album	Sort: Album	Сортировка: Альбом
+Sort: Artist	Sort: Artist	Сортировка: Исполнитель
+Sort: Recently Added	Sort: Recently Added	Сортировка: Недавно добавленные
+Sort: Most Played	Sort: Most Played	Сортировка: Часто слушаемые
+Sort: Random	Sort: Random	Сортировка: Случайно
+Sort: Rating	Sort: Rating	Сортировка: Рейтинг
+Sort: Year	Sort: Year	Сортировка: Год
+%u song	%u song	%u песня
+%u songs	%u songs	Песен: %u
+All albums	All albums	Все альбомы
+Preparing artwork… %d/%d	Preparing artwork… %d/%d	Подготовка обложек… %d/%d
+Update Library first	Update Library first	Сначала обновите библиотеку
+%u Song	%u Song	%u песня
+%u Songs	%u Songs	Песен: %u
+%u Album	%u Album	%u альбом
+%u Albums	%u Albums	Альбомов: %u
+%u Game	%u Game	%u игра
+%u Games	%u Games	Игр: %u
+%u Service	%u Service	%u сервис
+%u Services	%u Services	Сервисов: %u
+%u.%u GB Free	%u.%u GB Free	Свободно %u.%u ГБ
+Library	Library	Библиотека
+Settings	Settings	Настройки
+Crossfade: %d s	Crossfade: %d s	Кроссфейд: %d с
+Crossfade: Off	Crossfade: Off	Кроссфейд: Выкл.
+Wheel Sensitivity: %d%%	Wheel Sensitivity: %d%%	Чувствительность колеса: %d%%
+Resume Songs: %d min	Resume Songs: %d min	Продолжение песен: %d мин
+Resume Songs: Off	Resume Songs: Off	Продолжение песен: Выкл.
+Night Shift: %dK	Night Shift: %dK	Night Shift: %dK
+Night Shift: Auto	Night Shift: Auto	Night Shift: Авто
+Night Shift: Off	Night Shift: Off	Night Shift: Выкл.
+Mono Audio	Mono Audio	Моно
+Swap L/R	Swap L/R	Поменять L/R
+Crossfade needs Gapless	Crossfade needs Gapless	Кроссфейду нужен режим «Без пауз»
+Auto	Auto	Авто
+Night Shift	Night Shift	Night Shift
+Resume Songs	Resume Songs	Продолжение песен
+Wheel Sensitivity	Wheel Sensitivity	Чувствительность колеса
+Crossfade	Crossfade	Кроссфейд
+Measuring song lengths…	Measuring song lengths…	Измерение длительности песен…
+Sudoku	Sudoku	Судоку
+Solitaire	Solitaire	Пасьянс
+Snake	Snake	Змейка
+Paused	Paused	Пауза
+Continue	Continue	Продолжить
+Quit	Quit	Выйти
+New best!	New best!	Новый рекорд!
+Game over	Game over	Игра окончена
+Centre: play again	Centre: play again	Центр: сыграть снова
+Play/Pause: resume	Play/Pause: resume	Play/Pause: продолжить
+New game?	New game?	Новая игра?
+Centre: yes   Return: no	Centre: yes   Return: no	Центр: да   Назад: нет
+Solved!	Solved!	Решено!
+Play/Pause: new game	Play/Pause: new game	Play/Pause: новая игра
+Score	Score	Счёт
+Best	Best	Рекорд
+Level	Level	Уровень
+Centre	Centre	Центр
+You win!	You win!	Вы победили!
+Shuffle	Shuffle	Перемешать
+Era	Era	Эпоха
+Ratings	Ratings	Рейтинги
+Most Played	Most Played	Часто слушаемые
+Long Songs	Long Songs	Длинные песни
+App Store	App Store	App Store
+Upload Scrobbles	Upload Scrobbles	Отправить скробблы
+Tidal Downloads	Tidal Downloads	Загрузки Tidal
+Internet Radio	Internet Radio	Интернет-радио
+Configuration	Configuration	Настройка
+Restart to apply?	Restart to apply?	Перезапустить для применения?
+Couldn't copy the language	Couldn't copy the language	Не удалось скопировать язык
+Too many songs to shuffle	Too many songs to shuffle	Слишком много песен для перемешивания
+Shuffle Songs	Shuffle Songs	Перемешать песни
+Shuffle Albums	Shuffle Albums	Перемешать альбомы
+Shuffle Folders	Shuffle Folders	Перемешать папки
+Albums and folders take a moment to shuffle	Albums and folders take a moment to shuffle	Альбомы и папки перемешиваются не сразу
+No plays yet	No plays yet	Прослушиваний пока нет
+%u play	%u play	%u прослушивание
+%u plays	%u plays	Прослушиваний: %u
+No downloads yet	No downloads yet	Загрузок пока нет
+Clear All Downloads…	Clear All Downloads…	Удалить все загрузки…
+%u track	%u track	%u трек
+%u tracks	%u tracks	Треков: %u
+Remove Downloads?	Remove Downloads?	Удалить загрузки?
+Keeps settings	Keeps settings	Настройки сохранятся
+Remove	Remove	Удалить
+It isn't on the card any more	It isn't on the card any more	Его больше нет на карте
+Era unavailable	Era unavailable	Эпохи недоступны
+Album not found	Album not found	Альбом не найден
+%u album	%u album	%u альбом
+%u albums	%u albums	Альбомов: %u
+Play All	Play All	Играть все
+Every song, shuffled	Every song, shuffled	Все песни вперемешку
+No dated albums yet	No dated albums yet	Альбомов с датой пока нет
+No songs over 10 minutes	No songs over 10 minutes	Нет песен длиннее 10 минут
+Measuring songs… %d/%d	Measuring songs… %d/%d	Измерение песен… %d/%d
+Measuring songs…	Measuring songs…	Измерение песен…
+Release to search	Release to search	Отпустите для поиска
+Pull to search	Pull to search	Потяните для поиска
+Sleep Timer	Sleep Timer	Таймер сна
+Lock Screen	Lock Screen	Экран блокировки
+Accent	Accent	Акцент
+Everything	Everything	Всё
+Buttons only	Buttons only	Только кнопки
+Volume only	Volume only	Только громкость
+Wake: Single Press	Wake: Single Press	Пробуждение: одно нажатие
+Wake: Double Press	Wake: Double Press	Пробуждение: двойное нажатие
+Artist View: Grid	Artist View: Grid	Вид исполнителей: Сетка
+Artist View: Cover Flow	Artist View: Cover Flow	Вид исполнителей: Cover Flow
+Artist View: List	Artist View: List	Вид исполнителей: Список
+Year Order: Newest First	Year Order: Newest First	Порядок по годам: сначала новые
+Year Order: Oldest First	Year Order: Oldest First	Порядок по годам: сначала старые
+Artists: Artist	Artists: Artist	Исполнители: По песне
+Artists: Album Artist	Artists: Album Artist	Исполнители: По альбому
+Resume on Connect: Off	Resume on Connect: Off	Играть при подключении: Выкл.
+Resume on Connect: On	Resume on Connect: On	Играть при подключении: Вкл.
+Clock: Standard	Clock: Standard	Часы: Обычные
+Clock: Large	Clock: Large	Часы: Крупные
+Artist Album Order: Year	Artist Album Order: Year	Порядок альбомов: Год
+Artist Album Order: A–Z	Artist Album Order: A–Z	Порядок альбомов: А–Я
+Volume Guard: Off	Volume Guard: Off	Защита громкости: Выкл.
+Volume Guard: On	Volume Guard: On	Защита громкости: Вкл.
+Hold Return: Recent	Hold Return: Recent	Удержание «Назад»: Недавние
+Hold Return: Home	Hold Return: Home	Удержание «Назад»: Главная
+Standby Limit: Off	Standby Limit: Off	Лимит ожидания: Выкл.
+Standby Limit: %u h	Standby Limit: %u h	Лимит ожидания: %u ч
+Refresh Cover Flow	Refresh Cover Flow	Обновить Cover Flow
+Playlist View: List	Playlist View: List	Вид плейлистов: Список
+Playlist View: Cover Flow	Playlist View: Cover Flow	Вид плейлистов: Cover Flow
+Update Notifications: Off	Update Notifications: Off	Об обновлениях: Выкл.
+Update Notifications: On	Update Notifications: On	Об обновлениях: Вкл.
+Album View: List	Album View: List	Вид альбомов: Список
+Album View: Grid	Album View: Grid	Вид альбомов: Сетка
+Charge Limit (%u%%)	Charge Limit (%u%%)	Лимит заряда (%u%%)
+Resume on Connect	Resume on Connect	Играть при подключении
+Volume Guard	Volume Guard	Защита громкости
+Control Device Volume	Control Device Volume	Управлять громкостью устройства
+Key Tone	Key Tone	Звук кнопок
+In-Vehicle Mode	In-Vehicle Mode	Автомобильный режим
+Smart Wi-Fi	Smart Wi-Fi	Smart Wi-Fi
+Enlarged Album Art	Enlarged Album Art	Крупная обложка
+Folder Album Cover	Folder Album Cover	Обложка папки
+Fast Navigation	Fast Navigation	Быстрая навигация
+Scan Song Durations	Scan Song Durations	Измерить длительность песен
+Position Bar	Position Bar	Индикатор позиции
+Hide Streaming	Hide Streaming	Скрыть «Стриминг»
+Hide Folder	Hide Folder	Скрыть «Папки»
+Hide Apps	Hide Apps	Скрыть «Приложения»
+Hide Games	Hide Games	Скрыть «Игры»
+Hide App Store	Hide App Store	Скрыть App Store
+Receive Audio	Receive Audio	Приём звука
+Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	Cover Flow перестроит обложки в следующий раз
+Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	Выключите и включите Bluetooth для применения
+Folder Root: %s	Folder Root: %s	Корень папок: %s
+Folder Root: Card	Folder Root: Card	Корень папок: Карта
+Library & Folders	Library & Folders	Библиотека и папки
+Press Centre to Change Mode	Press Centre to Change Mode	Нажмите Центр для смены режима
+Press Centre to Turn On or Off	Press Centre to Turn On or Off	Нажмите Центр, чтобы включить или выключить
+Press Centre When Finished	Press Centre When Finished	По окончании нажмите Центр
+OK to Disconnect	OK to Disconnect	Можно отключать
+Now Playing	Now Playing	Сейчас играет
+Cover Flow	Cover Flow	Cover Flow
+EQ	EQ	Эквалайзер
+Update Library	Update Library	Обновить библиотеку
+Balance	Balance	Баланс
+Home: Split	Home: Split	Главная: Разделённая
+Home: Full	Home: Full	Главная: Полная
+Home: Carousel	Home: Carousel	Главная: Карусель
+Battery: Icon	Battery: Icon	Батарея: Значок
+Battery: Percent	Battery: Percent	Батарея: Проценты
+Battery: Icon + Percent	Battery: Icon + Percent	Батарея: Значок + проценты
+Battery: Percent Inside	Battery: Percent Inside	Батарея: Проценты внутри
+Light Mode: Off	Light Mode: Off	Светлый режим: Выкл.
+Light Mode: On	Light Mode: On	Светлый режим: Вкл.
+Light Mode: Auto	Light Mode: Auto	Светлый режим: Авто
+Accent: %s	Accent: %s	Акцент: %s
+Theme: %s	Theme: %s	Тема: %s
+Shortcut: None	Shortcut: None	Ярлык: Нет
+Shortcut: %s	Shortcut: %s	Ярлык: %s
+Rounded Corners	Rounded Corners	Скруглённые углы
+Smart Awake	Smart Awake	Не гасить экран
+Centred Now Playing	Centred Now Playing	Сейчас играет по центру
+Click With Headphones	Click With Headphones	Щелчок в наушниках
+Single Press Scrub	Single Press Scrub	Перемотка одним нажатием
+Time in Title	Time in Title	Время в заголовке
+Location	Location	Расположение
+Unknown	Unknown	Неизвестно
+Appearance	Appearance	Оформление
+Controls	Controls	Управление
+Theme	Theme	Тема
+Boot to: Rockbox	Boot to: Rockbox	Загрузка: Rockbox
+Boot to: Q2 Pod	Boot to: Q2 Pod	Загрузка: Q2 Pod
+Rockbox is not on the card	Rockbox is not on the card	Rockbox нет на карте
+Could not save boot choice	Could not save boot choice	Не удалось сохранить выбор загрузки
+No albums	No albums	Нет альбомов
+No artists	No artists	Нет исполнителей
+No composers	No composers	Нет композиторов
+No genres	No genres	Нет жанров
+Chapter %d	Chapter %d	Глава %d
+Chapters	Chapters	Главы
+Could not read chapters	Could not read chapters	Не удалось прочитать главы
+No embedded chapters	No embedded chapters	Нет встроенных глав
+Too long to read chapters on the Q2	Too long to read chapters on the Q2	Слишком длинный файл для чтения глав на Q2
+Loading chapters…	Loading chapters…	Загрузка глав…
+Spotify Cache: %s	Spotify Cache: %s	Кэш Spotify: %s
+Tidal Cache: %s	Tidal Cache: %s	Кэш Tidal: %s
+Erasing…	Erasing…	Стирание…
+Press again to erase login and cache	Press again to erase login and cache	Нажмите ещё раз: стереть вход и кэш
+Erase Spotify Data	Erase Spotify Data	Стереть данные Spotify
+Could not save setting	Could not save setting	Не удалось сохранить настройку
+Streaming stopped	Streaming stopped	Стриминг остановлен
+Wait for the one in progress	Wait for the one in progress	Дождитесь текущей операции
+Stop Streaming Services	Stop Streaming Services	Остановить стриминг-сервисы
+No %s folder on the card	No %s folder on the card	На карте нет папки %s
+CFW. Version	CFW. Version	Версия CFW
+Update to %s	Update to %s	Обновить до %s
+Latest firmware installed	Latest firmware installed	Установлена последняя прошивка
+Can't reach GitHub	Can't reach GitHub	GitHub недоступен
+No update for this build	No update for this build	Для этой сборки нет обновления
+Can't write to the card	Can't write to the card	Не удаётся записать на карту
+Download cancelled	Download cancelled	Загрузка отменена
+GitHub is busy, try later	GitHub is busy, try later	GitHub занят, попробуйте позже
+The download was damaged, try again	The download was damaged, try again	Загрузка повреждена, повторите
+Downloading %d%%	Downloading %d%%	Загрузка %d%%
+Cancelling…	Cancelling…	Отмена…
+Reconnecting…	Reconnecting…	Повторное подключение…
+Verifying…	Verifying…	Проверка целостности…
+Checking…	Checking…	Проверка…
+Needs %u MB more space	Needs %u MB more space	Нужно ещё %u МБ места
+Update downloaded: use TF card update	Update downloaded: use TF card update	Обновление загружено: используйте обновление с карты TF
+Charge the battery first	Charge the battery first	Сначала зарядите батарею
+Can't start the download	Can't start the download	Не удаётся начать загрузку
+Downloading…	Downloading…	Загрузка…
+Q2 Pod %s is out: System Update → Network update	Q2 Pod %s is out: System Update → Network update	Вышла Q2 Pod %s: Обновление системы → Обновление по сети
+Downloading	Downloading	Загрузка
+Unpacking…	Unpacking…	Распаковка…
+Installing…	Installing…	Установка…
+Removing…	Removing…	Удаление…
+Connect to Wi-Fi to load the list	Connect to Wi-Fi to load the list	Подключитесь к Wi-Fi, чтобы загрузить список
+Checked just now	Checked just now	Проверено только что
+Checked %u min ago	Checked %u min ago	Проверено %u мин назад
+Checked %u h ago	Checked %u h ago	Проверено %u ч назад
+Press again to remove	Press again to remove	Нажмите ещё раз, чтобы удалить
+Starts at power-on. Press again to install	Starts at power-on. Press again to install	Запуск при включении. Ещё раз — установить
+%d app can be updated	%d app can be updated	Можно обновить %d приложение
+%d apps can be updated	%d apps can be updated	Можно обновить приложений: %d
+All apps are up to date	All apps are up to date	Все приложения обновлены
+The download is not a usable app	The download is not a usable app	Загруженное не является приложением
+Rockbox is ready. Find it on Home	Rockbox is ready. Find it on Home	Rockbox готов. Он на главном экране
+Rockbox Themes are ready in Rockbox's Theme Settings	Rockbox Themes are ready in Rockbox's Theme Settings	Темы Rockbox готовы в настройках тем Rockbox
+%s is ready in %s	%s is ready in %s	Готово: %s (%s)
+%s removed	%s removed	Удалено: %s
+Spotify's login and cache erased	Spotify's login and cache erased	Вход и кэш Spotify стёрты
+Stopped checking for updates	Stopped checking for updates	Проверка обновлений остановлена
+Install Rockbox first	Install Rockbox first	Сначала установите Rockbox
+Check for Updates	Check for Updates	Проверить обновления
+%d of %d	%d of %d	%d из %d
+Album lyrics	Album lyrics	Тексты альбома
+LRCLIB stopped answering	LRCLIB stopped answering	LRCLIB перестал отвечать
+Cancelled	Cancelled	Отменено
+%d saved	%d saved	Сохранено: %d
+%d not found	%d not found	Не найдено: %d
+%d already had lyrics	%d already had lyrics	Уже с текстом: %d
+%d failed	%d failed	Ошибок: %d
+Album lyrics: no songs on the card	Album lyrics: no songs on the card	Тексты альбома: на карте нет песен
+Can't reach LRCLIB	Can't reach LRCLIB	LRCLIB недоступен
+Download Album Lyrics	Download Album Lyrics	Скачать тексты альбома
+Downloading %d of %d	Downloading %d of %d	Загрузка %d из %d
+No album songs on the card	No album songs on the card	На карте нет песен альбома
+file exceeds 16384 bytes	file exceeds 16384 bytes	файл больше 16384 байт
+line exceeds 512 bytes	line exceeds 512 bytes	строка длиннее 512 байт
+embedded NUL	embedded NUL	в файле нулевой байт
+unsupported filter form	unsupported filter form	неподдерживаемая форма фильтра
+expected Preamp: <gain> dB	expected Preamp: <gain> dB	ожидалось Preamp: <gain> dB
+preamp outside -60..24 dB or invalid number	preamp outside -60..24 dB or invalid number	предусиление вне -60..24 дБ или неверное число
+expected Channel: L, R or all	expected Channel: L, R or all	ожидалось Channel: L, R или all
+only channels L, R and all are supported	only channels L, R and all are supported	поддерживаются только каналы L, R и all
+unsupported command	unsupported command	неподдерживаемая команда
+invalid filter label	invalid filter label	неверная метка фильтра
+expected Filter [number]:	expected Filter [number]:	ожидалось Filter [number]:
+expected ON or OFF	expected ON or OFF	ожидалось ON или OFF
+unsupported filter type	unsupported filter type	неподдерживаемый тип фильтра
+expected Fc <Hz> Hz Gain <dB> dB	expected Fc <Hz> Hz Gain <dB> dB	ожидалось Fc <Hz> Hz Gain <dB> dB
+invalid frequency or gain number	invalid frequency or gain number	неверное значение частоты или усиления
+expected Q <number>	expected Q <number>	ожидалось Q <number>
+peaking filter requires Q	peaking filter requires Q	пиковому фильтру нужен Q
+range: 20..20000 Hz, -24..24 dB, Q 0.1..10	range: 20..20000 Hz, -24..24 dB, Q 0.1..10	диапазон: 20..20000 Гц, -24..24 дБ, Q 0.1..10
+more than 30 bands	more than 30 bands	больше 30 полос
+summed preamp outside -60..24 dB	summed preamp outside -60..24 dB	суммарное предусиление вне -60..24 дБ
+L/R preamp differ by more than 12 dB	L/R preamp differ by more than 12 dB	предусиление L/R различается более чем на 12 дБ
+out of memory	out of memory	не хватает памяти
+cannot open file	cannot open file	не удаётся открыть файл
+file read failed	file read failed	ошибка чтения файла
+EQ for 3.5 mm	EQ for 3.5 mm	Эквалайзер для 3,5 мм
+EQ for 4.4 mm	EQ for 4.4 mm	Эквалайзер для 4,4 мм
+EQ for USB	EQ for USB	Эквалайзер для USB
+EQ for this Bluetooth device	EQ for this Bluetooth device	Эквалайзер для этого устройства Bluetooth
+Auto (44.1: %.1f / 48: %.1f)	Auto (44.1: %.1f / 48: %.1f)	Авто (44,1: %.1f / 48: %.1f)
+Folder missing or unavailable	Folder missing or unavailable	Папка отсутствует или недоступна
+Out of memory; cannot list presets	Out of memory; cannot list presets	Не хватает памяти: список пресетов недоступен
+No presets found	No presets found	Пресеты не найдены
+Name not allowed; preset kept	Name not allowed; preset kept	Имя недопустимо, пресет не изменён
+Name taken; preset kept	Name taken; preset kept	Имя занято, пресет не изменён
+Rename failed; preset kept	Rename failed; preset kept	Не удалось переименовать, пресет не изменён
+Renamed to %.100s	Renamed to %.100s	Переименовано: %.100s
+Pop	Pop	Поп
+Rock	Rock	Рок
+Dance	Dance	Танцы
+Blues	Blues	Блюз
+Metal	Metal	Метал
+Vocal	Vocal	Вокал
+Classical	Classical	Классика
+Jazz	Jazz	Джаз
+Preset loaded; choose Apply to activate	Preset loaded; choose Apply to activate	Пресет загружен: выберите «Применить»
+Preset saved; active EQ unchanged	Preset saved; active EQ unchanged	Пресет сохранён, текущий эквалайзер не изменён
+Save failed; settings unchanged	Save failed; settings unchanged	Не удалось сохранить, настройки не изменены
+Switch failed; EQ unchanged	Switch failed; EQ unchanged	Не удалось переключить, эквалайзер не изменён
+Applied	Applied	Применено
+Apply failed; active EQ unchanged	Apply failed; active EQ unchanged	Не удалось применить, эквалайзер не изменён
+Reset; choose Apply to activate	Reset; choose Apply to activate	Сброшено: выберите «Применить»
+Delete failed; preset kept	Delete failed; preset kept	Не удалось удалить, пресет сохранён
+Deleted %.100s; active EQ unchanged	Deleted %.100s; active EQ unchanged	Удалён %.100s, текущий эквалайзер не изменён
+Line %u: %s	Line %u: %s	Строка %u: %s
+Cannot read preset; settings unchanged	Cannot read preset; settings unchanged	Не удалось прочитать пресет, настройки не изменены
+Peaking	Peaking	Пиковый
+Low shelf	Low shelf	Шельф НЧ
+High shelf	High shelf	Шельф ВЧ
+Apply changes	Apply changes	Применить изменения
+Nothing to apply	Nothing to apply	Нечего применять
+Reset to defaults	Reset to defaults	Сбросить по умолчанию
+Enabled	Enabled	Включено
+EQ per Output	EQ per Output	Эквалайзер по выходам
+Preamp	Preamp	Предусиление
+Presets	Presets	Пресеты
+Band	Band	Полоса
+Channels	Channels	Каналы
+Both	Both	Оба
+Left	Left	Левый
+Right	Right	Правый
+Type	Type	Тип
+Frequency	Frequency	Частота
+Gain	Gain	Усиление
+Band %d Q	Band %d Q	Q полосы %d
+Band %d Frequency (Hz)	Band %d Frequency (Hz)	Частота полосы %d (Гц)
+Raise	Raise	Повысить
+Lower	Lower	Понизить
+Step	Step	Шаг
+Delete %.100s? Confirm	Delete %.100s? Confirm	Удалить %.100s? Подтвердить
+Replace existing preset? Confirm	Replace existing preset? Confirm	Заменить пресет? Подтвердить
+Cancel replacement	Cancel replacement	Отменить замену
+Save as Manual %02d	Save as Manual %02d	Сохранить как Manual %02d
+Stock presets	Stock presets	Стандартные пресеты
+Import from SD /EQ	Import from SD /EQ	Импорт из SD /EQ
+Save editor preset	Save editor preset	Сохранить пресет редактора
+Rename a preset	Rename a preset	Переименовать пресет
+Delete a preset	Delete a preset	Удалить пресет
+Previous page	Previous page	Предыдущая страница
+Next page	Next page	Следующая страница
+Band %d	Band %d	Полоса %d
+Band %d Gain	Band %d Gain	Усиление полосы %d
+Presets %d/%d	Presets %d/%d	Пресеты %d/%d
+Save failed; EQ unchanged	Save failed; EQ unchanged	Не удалось сохранить, эквалайзер не изменён
+Advanced	Advanced	Дополнительно
+Enabled: On	Enabled: On	Включено: Вкл.
+Enabled: Off	Enabled: Off	Включено: Выкл.
+Low	Low	Низкие
+Mid	Mid	Средние
+High	High	Высокие
+Simple	Simple	Простой
+No photos	No photos	Нет фото
+All Photos	All Photos	Все фото
+Photos	Photos	Фото
+Can't open this photo	Can't open this photo	Не удаётся открыть фото
+%d of %d  %s	%d of %d  %s	%d из %d  %s
+Could not save folder speed	Could not save folder speed	Не удалось сохранить скорость папки
+Too long to play on the Q2: split it into parts	Too long to play on the Q2: split it into parts	Слишком длинный для Q2: разделите на части
+Press again to restart	Press again to restart	Нажмите ещё раз для перезапуска
+Could not save playlist	Could not save playlist	Не удалось сохранить плейлист
+Already in playlist	Already in playlist	Уже в плейлисте
+Added to Playlist	Added to Playlist	Добавлено в плейлист
+Search songs	Search songs	Поиск песен
+Editing: %s	Editing: %s	Правка: %s
+Add Songs: %s	Add Songs: %s	Добавить песни: %s
+Song Actions: %s	Song Actions: %s	Действия с песней: %s
+Remove song?: %s	Remove song?: %s	Убрать песню?: %s
+Add Songs	Add Songs	Добавить песни
+Move Up	Move Up	Вверх
+Move Down	Move Down	Вниз
+Remove from Playlist	Remove from Playlist	Убрать из плейлиста
+Search: %s	Search: %s	Поиск: %s
+No songs match	No songs match	Нет подходящих песен
+Search for more songs	Search for more songs	Искать другие песни
+Delete Playlist?	Delete Playlist?	Удалить плейлист?
+Delete	Delete	Удалить
+Playlist deleted	Playlist deleted	Плейлист удалён
+Could not delete playlist	Could not delete playlist	Не удалось удалить плейлист
+Delete Playlist	Delete Playlist	Удалить плейлист
+Edit Playlist	Edit Playlist	Изменить плейлист
+Queue unchanged	Queue unchanged	Очередь не изменена
+Deselect All	Deselect All	Снять выбор
+Select All	Select All	Выбрать все
+Export %d Playlist	Export %d Playlist	Экспорт: %d плейлист
+Export %d Playlists	Export %d Playlists	Экспорт плейлистов: %d
+Delete %d Playlist…	Delete %d Playlist…	Удалить %d плейлист…
+Delete %d Playlists…	Delete %d Playlists…	Удалить плейлистов: %d…
+%d Selected	%d Selected	Выбрано: %d
+Select Playlists	Select Playlists	Выбор плейлистов
+Playlists	Playlists	Плейлисты
+No Playlists	No Playlists	Нет плейлистов
+New Playlist…	New Playlist…	Новый плейлист…
+Select Playlists…	Select Playlists…	Выбрать плейлисты…
+Import Playlists	Import Playlists	Импорт плейлистов
+Export	Export	Экспорт
+No other group	No other group	Другой группы нет
+Folder not found	Folder not found	Папка не найдена
+All Songs	All Songs	Все песни
+Songs in Album	Songs in Album	Песни альбома
+Albums and Songs	Albums and Songs	Альбомы и песни
+Songs in Folder	Songs in Folder	Песни папки
+Folders	Folders	Папки
+Folders and Songs	Folders and Songs	Папки и песни
+Play One Song	Play One Song	Одна песня
+Play One Album	Play One Album	Один альбом
+Repeat Song	Repeat Song	Повтор песни
+Repeat Album	Repeat Album	Повтор альбома
+Repeat All	Repeat All	Повтор всех
+Play One Folder	Play One Folder	Одна папка
+Repeat Folder	Repeat Folder	Повтор папки
+Album	Album	Альбом
+Folder	Folder	Папка
+Repeat	Repeat	Повтор
+Group by	Group by	Группировка
+Play Next	Play Next	Играть следующей
+Add to Queue	Add to Queue	Добавить в очередь
+Add to Favourites	Add to Favourites	Добавить в избранное
+Remove from Favourites	Remove from Favourites	Убрать из избранного
+Add to Playlist	Add to Playlist	Добавить в плейлист
+Go to Album	Go to Album	К альбому
+Go to Artist	Go to Artist	К исполнителю
+Next Album	Next Album	Следующий альбом
+Previous Album	Previous Album	Предыдущий альбом
+Rate	Rate	Оценить
+Resume	Resume	Продолжить
+View Queue	View Queue	Показать очередь
+Go to Folder	Go to Folder	К папке
+Rate Album	Rate Album	Оценить альбом
+Group by: Folder	Group by: Folder	Группировка: Папка
+Group by: Album	Group by: Album	Группировка: Альбом
+Next Folder	Next Folder	Следующая папка
+Previous Folder	Previous Folder	Предыдущая папка
+Wheel: Volume	Wheel: Volume	Колесо: Громкость
+Wheel: Brightness	Wheel: Brightness	Колесо: Яркость
+Could not save Favourites	Could not save Favourites	Не удалось сохранить избранное
+Added to Favourites	Added to Favourites	Добавлено в избранное
+Removed from Favourites	Removed from Favourites	Убрано из избранного
+Stopped	Stopped	Остановлено
+Can't play: %s	Can't play: %s	Не удаётся воспроизвести: %s
+Can't play this station	Can't play this station	Станция не воспроизводится
+Connecting…	Connecting…	Подключение…
+Search is too long	Search is too long	Слишком длинный запрос
+Search stations	Search stations	Поиск станций
+Favourites	Favourites	Избранное
+Featured	Featured	Рекомендуемые
+Top Stations	Top Stations	Топ станций
+By Country	By Country	По странам
+By Genre	By Genre	По жанрам
+Countries	Countries	Страны
+Connecting to Wi-Fi…	Connecting to Wi-Fi…	Подключение к Wi-Fi…
+Directory unavailable	Directory unavailable	Каталог недоступен
+No Wi-Fi	No Wi-Fi	Нет Wi-Fi
+No stations	No stations	Нет станций
+No favourites	No favourites	Нет избранного
+Rating not saved	Rating not saved	Оценка не сохранена
+Ratings are full	Ratings are full	Список оценок заполнен
+Favourite not sent to the app	Favourite not sent to the app	Избранное не передано приложению
+Unrated	Unrated	Без оценки
+1 Heart	1 Heart	1 сердце
+%d Hearts	%d Hearts	Сердец: %d
+%d of 5	%d of 5	%d из 5
+Album changed	Album changed	Альбом изменился
+Favourite not saved	Favourite not saved	Избранное не сохранено
+This app has no favourites	This app has no favourites	В приложении нет избранного
+Top Rated	Top Rated	Лучшие по оценке
+Loved	Loved	Любимые
+All Rated	All Rated	Все с оценкой
+Disliked	Disliked	Не нравятся
+No songs yet	No songs yet	Песен пока нет
+Hold the heart on Now Playing to rate	Hold the heart on Now Playing to rate	Удерживайте сердце на экране «Сейчас играет», чтобы оценить
+No rated albums yet	No rated albums yet	Оценённых альбомов пока нет
+Upload failed, %d sent	Upload failed, %d sent	Сбой отправки, отправлено: %d
+Scrobbles sent: %d	Scrobbles sent: %d	Скробблов отправлено: %d
+Nothing to upload	Nothing to upload	Нечего отправлять
+Uploading scrobbles	Uploading scrobbles	Отправка скробблов
+Already uploading	Already uploading	Уже отправляется
+Upload failed	Upload failed	Не удалось отправить
+Connect to Wi-Fi first	Connect to Wi-Fi first	Сначала подключитесь к Wi-Fi
+Waiting for Spotify	Waiting for Spotify	Ожидание Spotify
+Spotify isn't on the card	Spotify isn't on the card	Spotify нет на карте
+See the Q2 Pod guide to add it	See the Q2 Pod guide to add it	Как добавить, см. в руководстве Q2 Pod
+Open Spotify on your phone	Open Spotify on your phone	Откройте Spotify на телефоне
+and choose Q2	and choose Q2	и выберите Q2
+Spotify refused this account	Spotify refused this account	Spotify отклонил этот аккаунт
+Its tracks can't play on the Q2	Its tracks can't play on the Q2	Его треки не играют на Q2
+Playback didn't start	Playback didn't start	Воспроизведение не началось
+Go back and try again	Go back and try again	Вернитесь и повторите
+Starting playback	Starting playback	Запуск воспроизведения
+Update Spotify on the card	Update Spotify on the card	Обновите Spotify на карте
+See the Q2 Pod guide	See the Q2 Pod guide	См. руководство Q2 Pod
+Nothing playing	Nothing playing	Ничего не играет
+Choose music in Spotify	Choose music in Spotify	Выберите музыку в Spotify
+Liked Songs	Liked Songs	Любимые треки
+Queue	Queue	Очередь
+Playback Settings	Playback Settings	Настройки воспроизведения
+Account	Account	Аккаунт
+Downloaded Tracks	Downloaded Tracks	Загруженные треки
+Downloads	Downloads	Загрузки
+Tracks	Tracks	Треки
+Open Spotify on your phone and choose Q2	Open Spotify on your phone and choose Q2	Откройте Spotify на телефоне и выберите Q2
+Both on the same Wi-Fi	Both on the same Wi-Fi	Оба в одной сети Wi-Fi
+to browse on the Q2	to browse on the Q2	для просмотра на Q2
+Downloaded Playlists	Downloaded Playlists	Загруженные плейлисты
+Download Progress	Download Progress	Ход загрузки
+Storage Management	Storage Management	Управление памятью
+Download Status	Download Status	Статус загрузки
+The latest download's progress	The latest download's progress	Ход последней загрузки
+for saved playlists and download controls	for saved playlists and download controls	для сохранённых плейлистов и управления загрузкой
+Remove Playlists…	Remove Playlists…	Удалить плейлисты…
+Remove Tracks…	Remove Tracks…	Удалить треки…
+Keeps login and settings	Keeps login and settings	Вход и настройки сохранятся
+Track removal can make playlists incomplete	Track removal can make playlists incomplete	После удаления треков плейлисты могут быть неполными
+Pause	Pause	Пауза
+Cancel Download	Cancel Download	Отменить загрузку
+Retry Failed	Retry Failed	Повторить неудавшиеся
+Update Download	Update Download	Обновить загрузку
+Sign Out of Spotify?	Sign Out of Spotify?	Выйти из Spotify?
+Sign Out	Sign Out	Выйти
+Nothing here	Nothing here	Здесь пусто
+Selected	Selected	Выбрано
+Press to select	Press to select	Нажмите, чтобы выбрать
+All	All	Все
+One	One	Один
+Download Liked Songs	Download Liked Songs	Загрузить любимые треки
+Download Playlist	Download Playlist	Загрузить плейлист
+For offline listening	For offline listening	Для прослушивания офлайн
+Download Controls	Download Controls	Управление загрузкой
+Update, retry, pause, resume or cancel	Update, retry, pause, resume or cancel	Обновить, повторить, пауза, продолжить или отмена
+Remove Selected…	Remove Selected…	Удалить выбранное…
+Confirm the affected count	Confirm the affected count	Подтвердите число затронутых
+Spotify isn't running	Spotify isn't running	Spotify не запущен
+Spotify didn't answer	Spotify didn't answer	Spotify не ответил
+Search Spotify	Search Spotify	Поиск в Spotify
+Select Tracks	Select Tracks	Выбор треков
+Select at least one item	Select at least one item	Выберите хотя бы один пункт
+Selection full. Remove these first	Selection full. Remove these first	Выбрано максимум. Сначала удалите эти
+Boot logo must be a 320x375 JPEG	Boot logo must be a 320x375 JPEG	Логотип загрузки: JPEG 320x375
+Could not save boot logo	Could not save boot logo	Не удалось сохранить логотип загрузки
+Accent: Graphite	Accent: Graphite	Акцент: Графит
+Accent: Crimson	Accent: Crimson	Акцент: Багровый
+Accent: Tidal	Accent: Tidal	Акцент: Tidal
+Accent: Champagne	Accent: Champagne	Акцент: Шампань
+Accent: Cobalt	Accent: Cobalt	Акцент: Кобальт
+Accent: Tangerine	Accent: Tangerine	Акцент: Мандарин
+Accent: Plum	Accent: Plum	Акцент: Слива
+Accent: Ivory	Accent: Ivory	Акцент: Слоновая кость
+Accent: Green	Accent: Green	Акцент: Зелёный
+Favorites	Favorites	Избранное
+Rated Albums	Rated Albums	Альбомы с рейтингом
+Podcasts	Podcasts	Подкасты
+Audiobooks	Audiobooks	Аудиокниги
+Groovebox can't start from the card	Groovebox can't start from the card	Groovebox не запускается с карты
+Groovebox is not on the card	Groovebox is not on the card	Groovebox нет на карте
+Play a Tidal album or playlist first	Play a Tidal album or playlist first	Сначала включите альбом или плейлист Tidal
+Downloading %u of %u. Press to stop	Downloading %u of %u. Press to stop	Загрузка %u из %u. Нажмите для остановки
+Download Playing Songs	Download Playing Songs	Скачать играющие песни
+Tidal Cache full: %u of %u song saved	Tidal Cache full: %u of %u song saved	Кэш Tidal заполнен. Сохранено песен: %u из %u
+Tidal Cache full: %u of %u songs saved	Tidal Cache full: %u of %u songs saved	Кэш Tidal заполнен. Сохранено песен: %u из %u
+Downloaded %u of %u song	Downloaded %u of %u song	Загружено песен: %u из %u
+Downloaded %u of %u songs	Downloaded %u of %u songs	Загружено песен: %u из %u
+Nothing to play next	Nothing to play next	Нет следующих
+Queue changed	Queue changed	Очередь изменена
+Never	Never	Никогда
+USB DAC Charging: %s	USB DAC Charging: %s	Зарядка в режиме USB DAC: %s
+Spectrum	Spectrum	Спектр
+Oscilloscope	Oscilloscope	Осциллограф
+VU Meters	VU Meters	VU-метры
+Halo	Halo	Ореол
+Pulsar	Pulsar	Пульсар
+Contour	Contour	Контур
+More	More	Ещё
+A-B Repeat	A-B Repeat	Повтор A–B
+Speed	Speed	Скорость
+*Only for 48 kHz and below	*Only for 48 kHz and below	*Только для 48 кГц и ниже
+No lyrics	No lyrics	Нет текста
+Genre	Genre	Жанр
+Size	Size	Размер
+Year	Year	Год
+Format	Format	Формат
+Bit Depth	Bit Depth	Разрядность
+Bit Rate	Bit Rate	Битрейт
+Sample Rate	Sample Rate	Частота дискретизации
+Auto Scan	Auto Scan	Автосканирование
+Update Library Now	Update Library Now	Обновить библиотеку
+Scan Folders	Scan Folders	Сканировать папки
+OK	OK	ОК
+Bluetooth	Bluetooth	Bluetooth
+Key Lock	Key Lock	Блокировка кнопок
+Low Gain	Low Gain	Низкое усиление
+USB Storage	USB Storage	USB-накопитель
+Playback	Playback	Воспроизведение
+Custom	Custom	Своя
+Reset	Reset	Сброс
+Open this address in a browser:	Open this address in a browser:	Откройте этот адрес в браузере:
+Downloaded	Downloaded	Загружено
+Baidu Netdisk	Baidu Netdisk	Baidu Netdisk
+Sign In	Sign In	Войти
+Scan with the Baidu app to sign in	Scan with the Baidu app to sign in	Отсканируйте код в приложении Baidu для входа
+Baidu encryption protects your privacy	Baidu encryption protects your privacy	Шифрование Baidu защищает вашу конфиденциальность
+Bluetooth RF test: connect from a computer	Bluetooth RF test: connect from a computer	Тест радиочастот Bluetooth: подключитесь с компьютера
+Press Next to exit	Press Next to exit	Нажмите «Далее» для выхода
+Brightness Test	Brightness Test	Тест яркости
+Next	Next	Далее
+Bluetooth Test	Bluetooth Test	Тест Bluetooth
+Down	Down	Вниз
+Up	Up	Вверх
+Swipe Left	Swipe Left	Свайп влево
+Swipe Right	Swipe Right	Свайп вправо
+Key Test	Key Test	Тест кнопок
+Headphone Test	Headphone Test	Тест наушников
+Plug in single-ended headphones	Plug in single-ended headphones	Подключите наушники с несимметричным выходом
+Play (left male, right female)	Play (left male, right female)	Играть (слева муж., справа жен.)
+Bluetooth Receiver Test	Bluetooth Receiver Test	Тест приёмника Bluetooth
+Battery Test	Battery Test	Тест батареи
+Battery:	Battery:	Батарея:
+Charging:	Charging:	Зарядка:
+microSD Test	microSD Test	Тест microSD
+Touch Test	Touch Test	Тест сенсора
+Wi-Fi Test	Wi-Fi Test	Тест Wi-Fi
+Artist	Artist	Исполнитель
+Export Playlists	Export Playlists	Экспорт плейлистов
+Playlist	Playlist	Плейлист
+0 songs	0 songs	0 песен
+System	System	Система
+Rockbox	Rockbox	Rockbox
+Baker Island	Baker Island	Остров Бейкер
+Midway	Midway	Мидуэй
+Honolulu	Honolulu	Гонолулу
+Anchorage	Anchorage	Анкоридж
+Los Angeles	Los Angeles	Лос-Анджелес
+Denver	Denver	Денвер
+Mexico City	Mexico City	Мехико
+New York	New York	Нью-Йорк
+Halifax	Halifax	Галифакс
+St. John's	St. John's	Сент-Джонс
+Buenos Aires	Buenos Aires	Буэнос-Айрес
+Azores	Azores	Азорские о-ва
+London	London	Лондон
+Amsterdam	Amsterdam	Амстердам
+Bucharest	Bucharest	Бухарест
+Kuwait	Kuwait	Кувейт
+Tehran	Tehran	Тегеран
+Muscat	Muscat	Маскат
+Kabul	Kabul	Кабул
+Karachi	Karachi	Карачи
+Dhaka	Dhaka	Дакка
+Bangkok	Bangkok	Бангкок
+Shanghai	Shanghai	Шанхай
+Tokyo	Tokyo	Токио
+Adelaide	Adelaide	Аделаида
+Sydney	Sydney	Сидней
+Fiji	Fiji	Фиджи
+Marquesas	Marquesas	Маркизские о-ва
+South Georgia	South Georgia	Южная Георгия
+Colombo	Colombo	Коломбо
+Kathmandu	Kathmandu	Катманду
+Yangon	Yangon	Янгон
+Eucla	Eucla	Икла
+L. Howe	L. Howe	Лорд-Хау
+Noumea	Noumea	Нумеа
+Chatham	Chatham	Чатем
+Tongatapu	Tongatapu	Тонгатапу
+Kiritimati	Kiritimati	Киритимати
+Chicago	Chicago	Чикаго
+Phoenix	Phoenix	Финикс
+Kolkata	Kolkata	Калькутта
+Brisbane	Brisbane	Брисбен
+Auckland	Auckland	Окленд
+Status Bar	Status Bar	Строка состояния
+Minimal	Minimal	Минимал
+Modern	Modern	Модерн
+Classic	Classic	Классика
+Show Wordmark	Show Wordmark	Показывать логотип
+Library on Home	Library on Home	Библиотека на главной
+Row Preview	Row Preview	Превью строк
+Row Art	Row Art	Обложки в строках
+Classic Blue	Classic Blue	Классический синий
