@@ -835,9 +835,9 @@ Save failed; EQ unchanged	Save failed; EQ unchanged	Speichern fehlgeschlagen; EQ
 Advanced	Advanced	Erweitert
 Enabled: On	Enabled: On	Aktiviert: Ein
 Enabled: Off	Enabled: Off	Aktiviert: Aus
-Low	Low	Niedrig
-Mid	Mid	Mittel
-High	High	Hoch
+Low	Low	Tiefen
+Mid	Mid	Mitten
+High	High	Höhen
 Simple	Simple	Einfach
 No photos	No photos	Keine Fotos
 All Photos	All Photos	Alle Fotos
@@ -1010,7 +1010,7 @@ Nothing here	Nothing here	Hier ist nichts
 Selected	Selected	Ausgewählt
 Press to select	Press to select	Zum Auswählen drücken
 All	All	Alle
-One	One	Eins
+One	One	Titel
 Download Liked Songs	Download Liked Songs	Lieblingstitel herunterladen
 Download Playlist	Download Playlist	Playlist herunterladen
 For offline listening	For offline listening	Zum Offline-Hören
