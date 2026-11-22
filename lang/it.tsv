@@ -1,0 +1,1167 @@
+# Italiano
+History_record	History record	Cronologia
+about_cardcap	Card Capacity	Capacità scheda
+about_cardremain	Remaining	Disponibile
+about_ipaddr	IP Address	Indirizzo IP
+about_model	Model	Modello
+about_more	*Our sincere thanks go to the DiamondBond team and all its enthusiasts for their ingenuity, outstanding solutions, and generous contributions.	*Un sincero ringraziamento al team DiamondBond e a tutti i suoi appassionati per l'ingegno, le soluzioni eccellenti e i generosi contributi.
+about_sn	Serial Number	Numero di serie
+about_version	Version	Versione
+about_wifimac	Wi-Fi MAC	MAC Wi-Fi
+album	Album	Album
+album	Album	Album
+albumsinger	Album artist	Artista dell'album
+allmusic	All Songs	Tutti i brani
+audio_settings	Audio settings	Impostazioni audio
+baidu_login	Log In	Accedi
+baidu_login_tips1	Please use Baidu Netdisk or Baidu App to scan the code to login	Usa Baidu Netdisk o l'app Baidu per scansionare il codice e accedere
+baidu_login_tips2	Baidu encryption technology protects your privacy and security	La crittografia Baidu protegge la tua privacy e la tua sicurezza
+baidu_loginout	Log Out	Esci
+baidunet_floderinfo_failed	Failed to get file list	Impossibile ottenere l'elenco dei file
+batch_addplaylist	Add to Playlist	Aggiungi a playlist
+bt_adjvol	Bluetooth Headset Volume Control	Controllo volume cuffie Bluetooth
+bt_compatiabledev	Compatible Device	Dispositivo compatibile
+bt_name	Bluetooth Name	Nome Bluetooth
+bt_paireddev	Paired Device	Dispositivo associato
+bt_quality	Quality	Qualità
+bt_search	Scan now	Cerca ora
+btcode_aac	AAC	AAC
+btcode_aptx	aptX	aptX
+btcode_aptxhd	aptX HD	aptX HD
+btcode_ldacauto	LDAC Connection (auto)	Connessione LDAC (auto)
+btcode_ldachq	LDAC HQ	LDAC HQ
+btcode_ldacst	LDAC Standard	LDAC Standard
+btcode_sbc	SBC	SBC
+btcode_sbchq	SBC HQ	SBC HQ
+custom_eq	Custom	Personalizzato
+display_backlight	Brightness	Luminosità
+display_lighttime	Screen Off Time	Spegnimento schermo
+display_screenlock	Lock Screen	Blocco schermo
+dsdmode_d2p	D2P	D2P
+dsdmode_dop	DOP	DOP
+dsdmode_native	Native	Nativo
+eq_blues	Blues	Blues
+eq_classical	Classical	Classica
+eq_club	Club	Club
+eq_custom1	Custom1	Personalizz. 1
+eq_custom2	Custom2	Personalizz. 2
+eq_custom3	Custom3	Personalizz. 3
+eq_dance	Dance	Dance
+eq_doublebass	Sub-bass	Sub-bass
+eq_jazz	Jazz	Jazz
+eq_metal	Metal	Metal
+eq_only48kmsg	EQ only for files below 48kHz.	EQ solo per file sotto 48 kHz.
+eq_pop	Pop	Pop
+eq_reset	Reset	Ripristina
+eq_rock	Rock	Rock
+eq_vocal	Vocal	Voce
+fav	My Fav	Preferiti
+filter_delayfast	Low Delay Fast Roll-off	Low Delay Fast Roll-off
+filter_delayslow	Low Delay Slow Roll-off	Low Delay Slow Roll-off
+filter_fast	Fast Roll-off	Fast Roll-off
+filter_slow	Slow Roll-off	Slow Roll-off
+frequentplay	Frequent	Frequenti
+gain_high	High	Alto
+gain_low	Low	Basso
+genre	Genre	Genere
+genre_statistics	Total %d songs	Totale: %d brani
+hr	Hi-Res	Hi-Res
+keyboard_keyword	Please enter keyword	Inserisci una parola chiave
+keyboard_netname	Please enter network name	Inserisci il nome della rete
+keyboard_password	Please enter password	Inserisci la password
+keylock_all	Lock Volume & Buttons	Blocca volume e tasti
+keylock_info	Only effective when the screen is off	Attivo solo a schermo spento
+keylock_info2	Effective on Lockscreen and when Screen Off	Attivo su schermata di blocco e a schermo spento
+keylock_key	Lock Buttons Only	Blocca solo i tasti
+keylock_volume	Lock Volume Only	Blocca solo il volume
+lan_english	English	English
+lan_french	Français	Français
+lan_german	Deutsch	Deutsch
+lan_italian	Italiano	Italiano
+lan_japanese	日本語	日本語
+lan_korean	한국어	한국어
+lan_polish	Polski	Polski
+lan_russian	Русский	Русский
+lan_simplified	简体中文	简体中文
+lan_spanish	español	español
+lan_thai	ภาษาไทย	ภาษาไทย
+lan_traditional	繁體中文	繁體中文
+lan_ukrainian	Українська	Українська
+lighttime_15s	15s	15 s
+lighttime_1min	1min	1 min
+lighttime_2min	2min	2 min
+lighttime_30min	30min	30 min
+lighttime_30s	30s	30 s
+lighttime_5min	5min	5 min
+lighttime_lyricmode	Lyrics mode	Modalità testi
+lighttime_off	Off	Off
+list_baidu	Baidu Netdisk	Baidu Netdisk
+list_tidal	TIDAL	TIDAL
+local_album	Albums	Album
+local_allmusic	Local Songs	Brani locali
+local_allsongs	Songs	Brani
+local_fav	My Fav	Preferiti
+local_frequentplay	Frequent	Frequenti
+local_genre	Genres	Generi
+local_hr	Hi-Res	Hi-Res
+local_playlist	Playlists	Playlist
+local_recentadd	Recently Added	Aggiunti di recente
+local_recentplay	Recent	Recenti
+local_songer	Artists	Artisti
+local_upmusic	Update Library	Aggiorna libreria
+login_out	Logout	Esci
+memplay_location	Location	Posizione
+memplay_off	Off	Off
+memplay_track	Track	Brano
+msg_actionnotsupport	Non-local songs,not currently supported	Brani non locali: non supportati
+msg_actionscan	Scan music?	Scansionare la musica?
+msg_add_task	Please enter the URL of the file you want to download	Inserisci l'URL del file da scaricare
+msg_addfailed	Adding Failed	Aggiunta non riuscita
+msg_addfavsuccess	Added To Fav	Aggiunto ai preferiti
+msg_addplaylistsuccess	Added To Playlist	Aggiunto alla playlist
+msg_autoshutdown	Shutdown	Spegnimento
+msg_btabnormal	Bluetooth abnormal	Errore Bluetooth
+msg_btinit_run	Bluetooth Starting	Avvio Bluetooth
+msg_btreconnect	Reconnect Bluetooth?	Riconnettere il Bluetooth?
+msg_cardeject	Audio Disconnected	Audio scollegato
+msg_cardinsert	Audio Connected	Audio collegato
+msg_checkfw	Checking FW	Controllo firmware
+msg_checkfwerr	FW. Check Error	Errore controllo firmware
+msg_closesynclink	Please close SyncLink	Chiudi SyncLink
+msg_confirmupdate	Confirm Update?	Confermare l'aggiornamento?
+msg_connected	Connected	Connesso
+msg_connecting	Connecting	Connessione in corso
+msg_delalbum	Delete Album?	Eliminare l'album?
+msg_delalbumfailed	Failed To Delete Album	Impossibile eliminare l'album
+msg_delalbumsuccess	Album Deleted	Album eliminato
+msg_delartist	Delete Artist?	Eliminare l'artista?
+msg_delartistsuccess	Artist Deleted	Artista eliminato
+msg_delete_task	Are you sure you want to delete the download task?	Eliminare il download?
+msg_deletesource	Also delete source file	Elimina anche il file di origine
+msg_delfile	Are you sure you want to delete this file?	Eliminare questo file?
+msg_delfile	Delete File?	Eliminare il file?
+msg_delfilefailed	Failed To Delete File	Impossibile eliminare il file
+msg_delfilesuccess	File Deleted	File eliminato
+msg_delgenre	Delete Genre?	Eliminare il genere?
+msg_delgenresuccess	Genre Deleted	Genere eliminato
+msg_delplaylist	Delete Playlist?	Eliminare la playlist?
+msg_delplaylistfailed	Failed To Delete Playlist	Impossibile eliminare la playlist
+msg_delplaylistsuccess	Playlist Deleted	Playlist eliminata
+msg_delsong	Delete Song?	Eliminare il brano?
+msg_delsongfailed	Failed To Delete Song	Impossibile eliminare il brano
+msg_delsongsuccess	Song Deleted	Brano eliminato
+msg_disconnected	Disconnected	Disconnesso
+msg_disonnectbt	Please disconnect the bluetooth device	Disconnetti il dispositivo Bluetooth
+msg_downloadpath	Download path is	Percorso di download
+msg_exist_task	The download task already exists	Il download è già in corso
+msg_exitairplay	Quit AirPlay?	Uscire da AirPlay?
+msg_exportplaylist	Export Playlist?	Esportare la playlist?
+msg_exportsuccess	Export successful	Esportazione completata
+msg_factorysuccess	Restore to factory settings succeeded	Impostazioni di fabbrica ripristinate
+msg_favsuccess	Added To Fav	Aggiunto ai preferiti
+msg_file_exist	The file already exists	Il file esiste già
+msg_importplaylist	Import Playlists?	Importare le playlist?
+msg_importsuccess	Successfully imported	Importazione completata
+msg_initsetsuccess	All settings initialized successfully	Impostazioni ripristinate
+msg_latestfw	Latest Fw. Installed	Firmware più recente già installato
+msg_linkerror	WiFi Connection Error	Errore di connessione Wi-Fi
+msg_lowarn	Line Out sets max volume,continue?	Line Out imposta il volume massimo. Continuare?
+msg_lowpower	Low Battery	Batteria scarica
+msg_namenull	The name can't be empty	Il nome non può essere vuoto
+msg_netnameerr	Network Must Be Named	La rete deve avere un nome
+msg_no	Cancel	Annulla
+msg_no_storage	Storage is full.Some songs couldn't be added.	Memoria piena. Alcuni brani non sono stati aggiunti.
+msg_noheadset	Playback is disabled without headphones.Please insert headphones.	Riproduzione disattivata senza cuffie. Inserisci le cuffie.
+msg_nosongs	No songs in this folder	Nessun brano in questa cartella
+msg_notalbuminfo	This file has no Album data	Questo file non ha dati sull'album
+msg_notfile	File Not Found	File non trovato
+msg_notfolder	Folder not found	Cartella non trovata
+msg_notfoundfw	Fw. Not Found	Firmware non trovato
+msg_notmemory	Memory is not enough	Memoria insufficiente
+msg_notmemory	Out of memory	Memoria esaurita
+msg_notnetwork	Network Disconnected	Rete disconnessa
+msg_nototg	No OTG Found	OTG non trovato
+msg_notplaylist	Playlist Not Found	Playlist non trovata
+msg_notsongerinfo	This file has no Artist data	Questo file non ha dati sull'artista
+msg_notsonglist	No Song List	Nessuna lista di brani
+msg_notspecdir	Folder not specified	Cartella non specificata
+msg_notsupport	Not Supported	Non supportato
+msg_notsupportdel	Can't be removed	Impossibile rimuovere
+msg_nottf	No TF Card Found	Nessuna scheda TF trovata
+msg_otgeject	OTG Disconnected	OTG disconnesso
+msg_otginfoerr	Failed To Get Version Info	Impossibile ottenere la versione
+msg_otginsert	OTG Connected	OTG connesso
+msg_paircode	Bluetooth Code	Codice Bluetooth
+msg_paired	Paired	Associato
+msg_playlistexist	Playlist Already Exists	La playlist esiste già
+msg_playlistfull	Could not create playlist	Impossibile creare la playlist
+msg_poweroff	Shut Down?	Spegnere?
+msg_resetdbsuccess	Reset completed	Reimpostazione completata
+msg_restarting	Restarting	Riavvio in corso
+msg_shortpasswd	8 Digits PIN At Least	PIN di almeno 8 cifre
+msg_start_download_task	start the download task	Avviare il download
+msg_stop_download_task	stop the download task	Interrompere il download
+msg_testmode	Enter test mode?	Entrare in modalità test?
+msg_tfeject	TF Card Removed	Scheda TF rimossa
+msg_tfinsert	TF Card Inserted	Scheda TF inserita
+msg_unpaired	Unpaired	Dissociato
+msg_unpairing	unpair?	Dissociare?
+msg_unsupportformat	Unsupported format	Formato non supportato
+msg_update	Confirmed	Confermato
+msg_wificancelsave	Delete Record?	Eliminare la rete salvata?
+msg_wifidisconnect	Disconnect Now?	Disconnettere ora?
+msg_yes	OK	OK
+navigation_all	All	Tutti
+netservice_airplay	AirPlay	AirPlay
+netservice_dlna	DLNA	DLNA
+netservice_wifitrans	Wi-Fi File Transfer	Trasferimento file Wi-Fi
+no_search	No search results	Nessun risultato
+not_allmusic	Currently no songs	Nessun brano al momento
+otgdownload_percent	FW Downloaded	Firmware scaricato
+outputway	Output Options	Opzioni di uscita
+play_all	Play All	Riproduci tutto
+player_abrepeat	AB Repeat	Ripeti A-B
+player_albuminfo	Look up Album	Info album
+player_bitdepth	Bit Depth	Profondità bit
+player_bitrate	Bitrate	Bitrate
+player_delete	Delete Song	Elimina brano
+player_encoding	Encoding	Codifica
+player_era	Year	Anno
+player_filesize	File Size	Dimensione file
+player_location	Location	Posizione
+player_msgmul	*Affecting only files below 48khz	*Solo per file sotto 48 kHz
+player_multiple	Multiple Speed	Velocità multipla
+player_nolyric	No Lyrics	Nessun testo
+player_onlinesearch	Download Cover & Lyrics	Scarica copertina e testi
+player_playlist	Queue	Coda
+player_samplerate	Sample Rate	Campionamento
+player_songerinfo	Look up Artist	Info artista
+player_unknown	Unknown	Sconosciuto
+player_unknown	Unknown Artist	Artista sconosciuto
+playlist	Playlist	Playlist
+playlist_create	New playlist	Nuova playlist
+playlist_export	Export playlist	Esporta playlist
+playlist_import	Import playlist	Importa playlist
+playmode_listplay	List Play	Riproduci elenco
+playmode_repeatall	Repeat All	Ripeti tutto
+playmode_repeattrack	Repeat Track	Ripeti brano
+playmode_shuffle	Shuffle	Casuale
+playset_balance	Channel Balance	Bilanciamento canali
+playset_bootvol	Default Volume	Volume predefinito
+playset_covermode	Enlarged Album Art	Copertina ingrandita
+playset_dsdoutput	DSD Output Mode	Modalità uscita DSD
+playset_eq	EQ	EQ
+playset_filter	Digital Filters	Filtri digitali
+playset_foldercover	Folder Album Cover	Copertina cartella
+playset_folderjump	Folder Skip	Salto cartella
+playset_gain	Gain	Guadagno
+playset_gapless	Gapless	Gapless
+playset_maxvol	Max Volume	Volume massimo
+playset_memplay	Memory Playback	Riprendi riproduzione
+playset_noplay	Require Output (Beta)	Richiedi uscita (Beta)
+playset_playmode	Play Mode	Modalità riproduzione
+playset_replaygain	ReplayGain	ReplayGain
+playset_usbaudiovol	USB Audio Output	Uscita audio USB
+playset_volcover	Volume and Album Display	Volume e copertina
+powerm_deep_off	Standby	Standby
+powerm_sleep	Sleep Timer	Timer di spegnimento
+recentadd	Recently Added	Aggiunti di recente
+recentplay	Recent	Recenti
+rename	Rename	Rinomina
+renamesuccess	Successfully renamed	Rinominato
+replaygain_track	Song	Brano
+reset_factory	Full Factory Reset	Ripristino completo
+reset_initdatabase	Reset Database	Reimposta database
+reset_initset	Reset Settings Only	Reimposta solo impostazioni
+scan_automatic	Automatic Update	Aggiornamento automatico
+scan_now	Scan music now	Scansiona musica ora
+scan_now	Scan music now	Scansiona musica ora
+scan_spec	Scan specified folders	Scansiona cartelle specifiche
+scan_spec	Scan specified folders	Scansiona cartelle specifiche
+scan_startscan	Scan	Scansiona
+scan_updatefinish	Library Updated,%d Updated	Libreria aggiornata, %d aggiornati
+scan_updating	Updating No.%d	Aggiornamento n. %d
+scover_cover	Cover	Copertina
+scover_lyric	Lyrics	Testi
+screenlock_about	Custom Lock Screen	Schermata di blocco personalizzata
+screenlock_info1	1. Put the pictures in a folder named "lockscreenimage" at the top of the card.	1. Metti le immagini in una cartella chiamata "lockscreenimage" nella radice della scheda.
+screenlock_info2	2. PNG or JPG, exactly 375 x 320 pixels, under 1 MB each.	2. PNG o JPG, esattamente 375 x 320 pixel, sotto 1 MB ciascuna.
+screenlock_info3	3. Up to 5 pictures.	3. Fino a 5 immagini.
+screenlock_timeshow	Show Time	Mostra ora
+search_tips1	Search for music,artists,albums,genres	Cerca brani, artisti, album, generi
+search_track	Track	Brano
+singerbyalbum	Sort by album artist	Ordina per artista dell'album
+singerbysong	Sort by song artist	Ordina per artista del brano
+small_album	Albums	Album
+small_coverflow	Album Wall	Muro album
+small_folder	Folder	Cartelle
+small_local	Local Songs	Brani locali
+small_playing	Now Playing	In riproduzione
+small_playset	Playback	Riproduzione
+small_stream	Streaming	Streaming
+small_sysset	System	Sistema
+songer	Artist	Artista
+sort_addtime	Time added	Data di aggiunta
+sort_alphabet	Alphabetical	Alfabetico
+sort_filename	File name	Nome file
+sort_format	File format	Formato file
+sort_time_asc	Time added (ascending)	Data di aggiunta (crescente)
+sort_time_desc	Time added (descending)	Data di aggiunta (decrescente)
+standbyoff_10min	10min	10 min
+standbyoff_1min	1min	1 min
+standbyoff_3min	3min	3 min
+standbyoff_5min	5min	5 min
+standbyoff_deep	Auto-standby	Standby automatico
+standbyoff_deepinfo	After 5 minute of idle,device will go into standby mode.	Dopo 5 minuti di inattività il dispositivo va in standby.
+standbyoff_saver	Auto-shutdown	Spegnimento automatico
+synclink_off	Off	Off
+system_about	About	Info
+system_carmode	In-Vehicle Mode	Modalità auto
+system_display	Display	Schermo
+system_general	General	Generali
+system_keylock	Buttons Lock	Blocco tasti
+system_keytone	Key Tone	Suono tasti
+system_language	Language	Lingua
+system_navshow	Show Navigation Bar	Mostra barra di navigazione
+system_netservice	Network	Rete
+system_powermanager	Power	Alimentazione
+system_prove	Certification	Certificazioni
+system_reset	Reset Settings	Reimposta impostazioni
+system_sys	System	Sistema
+system_time	Date & Time	Data e ora
+system_update	System Update	Aggiornamento sistema
+system_wheelmode	Wheel Function	Funzione ghiera
+system_wifiset	Wireless	Wireless
+timedate_24h	24-Hour	24 ore
+timedate_auto	Automatic Time Set	Ora automatica
+timedate_manual	Set Time Manually	Imposta ora manualmente
+timezone_gmt+1	(GMT+01:00)Europe/Amsterdam	(GMT+01:00)Europe/Amsterdam
+timezone_gmt+10	(GMT+10:00)Australia/Sydney	(GMT+10:00)Australia/Sydney
+timezone_gmt+12	(GMT+12:00)Pacific/Fiji	(GMT+12:00)Pacific/Fiji
+timezone_gmt+2	(GMT+02:00)Europe/Bucharest	(GMT+02:00)Europe/Bucharest
+timezone_gmt+3	(GMT+03:00)Asia/Kuwait	(GMT+03:00)Asia/Kuwait
+timezone_gmt+3_30	(GMT+03:30)Asia/Tehran	(GMT+03:30)Asia/Tehran
+timezone_gmt+4	(GMT+04:00)Asia/Muscat	(GMT+04:00)Asia/Muscat
+timezone_gmt+4_30	(GMT+04:30)Asia/Kabul	(GMT+04:30)Asia/Kabul
+timezone_gmt+5	(GMT+05:00)Asia/Karachi	(GMT+05:00)Asia/Karachi
+timezone_gmt+6	(GMT+06:00)Asia/Almaty	(GMT+06:00)Asia/Almaty
+timezone_gmt+7	(GMT+07:00)Asia/Bangkok	(GMT+07:00)Asia/Bangkok
+timezone_gmt+8	(GMT+08:00)Asia/Shanghai	(GMT+08:00)Asia/Shanghai
+timezone_gmt+9	(GMT+09:00)Asia/Tokyo	(GMT+09:00)Asia/Tokyo
+timezone_gmt+9_30	(GMT+09:30)Australia/Adelaide	(GMT+09:30)Australia/Adelaide
+timezone_gmt-0	(GMT 00:00)Europe/London	(GMT 00:00)Europe/London
+timezone_gmt-1	(GMT-01:00)Atlantic/Azores	(GMT-01:00)Atlantic/Azores
+timezone_gmt-10	(GMT-10:00)Pacific/Honolulu	(GMT-10:00)Pacific/Honolulu
+timezone_gmt-11	(GMT-11:00)Pacific/Midway	(GMT-11:00)Pacific/Midway
+timezone_gmt-12	(GMT-12:00)Pacific/Kwajalein	(GMT-12:00)Pacific/Kwajalein
+timezone_gmt-3	(GMT-03:00)America/Argentina/Buenos_Aires	(GMT-03:00)America/Argentina/Buenos_Aires
+timezone_gmt-3_30	(GMT-03:30)America/St_Johns	(GMT-03:30)America/St_Johns
+timezone_gmt-4	(GMT-04:00)Canada/Atlantic	(GMT-04:00)Canada/Atlantic
+timezone_gmt-5	(GMT-05:00)America/New_York	(GMT-05:00)America/New_York
+timezone_gmt-6	(GMT-06:00)America/Mexico_City	(GMT-06:00)America/Mexico_City
+timezone_gmt-7	(GMT-07:00)America/Denver	(GMT-07:00)America/Denver
+timezone_gmt-8	(GMT-08:00)America/Tijuana	(GMT-08:00)America/Tijuana
+timezone_gmt-9	(GMT-09:00)America/Anchorage	(GMT-09:00)America/Anchorage
+timezone_select	Time Zone Selection	Fuso orario
+title_downloaded	Downloaded	Scaricati
+title_downloading	Downloading	Download in corso
+title_more	More	Altro
+title_sort	List sort order	Ordinamento elenco
+update_online	Network update	Aggiornamento online
+update_tf	TF card update	Aggiornamento da scheda TF
+usb_chargeswitch	USB DAC Charging	Ricarica DAC USB
+usbmode_audio	USB AUDIO	Audio USB
+usbmode_connect	USB Connected	USB connesso
+usbmode_dac	USB DAC	DAC USB
+usbmode_disconnect	USB Disconnected	USB disconnesso
+usbmode_storge	USB Storage	Archiviazione USB
+usbvol_adjust	Volume Variable	Volume variabile
+usbvol_fixed	Volume Fixed	Volume fisso
+wheelmode_menu	Menu Mode	Modalità menu
+wheelmode_volume	Volume Mode	Modalità volume
+wifi_addnetwork	Add Network	Aggiungi rete
+wifi_choice	Select Network	Seleziona rete
+wifi_scan	Scanning	Ricerca in corso
+wifiset_bt	Bluetooth	Bluetooth
+wifiset_synclink	SyncLink	SyncLink
+wifiset_wifi	Wi-Fi	Wi-Fi
+wifits_info1	Enter the following URL into your internet browser:	Inserisci questo URL nel browser:
+Search	Search	Cerca
+Streaming	Streaming	Streaming
+Library's Games	Library's Games	Giochi della libreria
+Library's Apps	Library's Apps	App della libreria
+Network settings	Network settings	Impostazioni di rete
+Wait until the App Store finishes	Wait until the App Store finishes	Attendi la fine dell'App Store
+It isn't on the card	It isn't on the card	Non è sulla scheda
+It couldn't start	It couldn't start	Impossibile avviare
+Stop %s	Stop %s	Ferma %s
+Loading…	Loading…	Caricamento…
+More…	More…	Altro…
+Working…	Working…	Elaborazione…
+Starting %s…	Starting %s…	Avvio di %s…
+Retry	Retry	Riprova
+Install it again in Library → App Store	Install it again in Library → App Store	Installala di nuovo da Libreria → App Store
+Cancel	Cancel	Annulla
+%s isn't running	%s isn't running	%s non è in esecuzione
+%s didn't answer	%s didn't answer	%s non ha risposto
+Too long	Too long	Troppo lungo
+%s stopped	%s stopped	%s si è fermato
+%s isn't on the card	%s isn't on the card	%s non è sulla scheda
+Apps	Apps	App
+No apps	No apps	Nessuna app
+Not running	Not running	Non in esecuzione
+No code yet	No code yet	Ancora nessun codice
+Connect the Q2 to Wi-Fi	Connect the Q2 to Wi-Fi	Collega il Q2 al Wi-Fi
+Open it again	Open it again	Aprila di nuovo
+Wait a moment	Wait a moment	Attendi un momento
+Then come back here	Then come back here	Poi torna qui
+Scan with your phone's	Scan with your phone's	Inquadra con la fotocamera
+Scan with your	Scan with your	Inquadra con la
+camera	camera	del telefono
+phone's camera	phone's camera	fotocamera del telefono
+or open	or open	oppure apri
+PIN	PIN	PIN
+Couldn't import %s	Couldn't import %s	Impossibile importare %s
+Playlists updated	Playlists updated	Playlist aggiornate
+No memory card	No memory card	Nessuna scheda di memoria
+Games	Games	Giochi
+%d update	%d update	%d aggiornamento
+%d updates	%d updates	%d aggiornamenti
+INSTALL	INSTALL	INSTALLA
+UPDATE	UPDATE	AGGIORNA
+INSTALLED	INSTALLED	INSTALLATO
+AM	AM	AM
+PM	PM	PM
+Jan	Jan	Gen
+Feb	Feb	Feb
+Mar	Mar	Mar
+Apr	Apr	Apr
+May	May	Mag
+Jun	Jun	Giu
+Jul	Jul	Lug
+Aug	Aug	Ago
+Sep	Sep	Set
+Oct	Oct	Ott
+Nov	Nov	Nov
+Dec	Dec	Dic
+The card is in use over USB	The card is in use over USB	La scheda è in uso via USB
+Storage unavailable	Storage unavailable	Archiviazione non disponibile
+The card is full	The card is full	La scheda è piena
+Couldn't save	Couldn't save	Impossibile salvare
+Saved to battery-log.txt	Saved to battery-log.txt	Salvato in battery-log.txt
+Battery History	Battery History	Cronologia batteria
+Unplug to start	Unplug to start	Scollega per iniziare
+Export Log	Export Log	Esporta registro
+Done	Done	Fine
+space	space	spazio
+New Playlist	New Playlist	Nuova playlist
+Playlist Name	Playlist Name	Nome playlist
+Rename	Rename	Rinomina
+Songs	Songs	Brani
+Artists	Artists	Artisti
+Albums	Albums	Album
+Genres	Genres	Generi
+Off	Off	Off
+On	On	On
+%d of %d songs	%d of %d songs	%d di %d brani
+Updating Library	Updating Library	Aggiornamento libreria
+Connected	Connected	Connesso
+Eject before disconnecting	Eject before disconnecting	Espelli prima di scollegare
+%d:%02d AM	%d:%02d AM	%d:%02d AM
+%d:%02d PM	%d:%02d PM	%d:%02d PM
+Save	Save	Salva
+Sort: Album	Sort: Album	Ordina: Album
+Sort: Artist	Sort: Artist	Ordina: Artista
+Sort: Recently Added	Sort: Recently Added	Ordina: Aggiunti di recente
+Sort: Most Played	Sort: Most Played	Ordina: Più ascoltati
+Sort: Random	Sort: Random	Ordina: Casuale
+Sort: Rating	Sort: Rating	Ordina: Valutazione
+Sort: Year	Sort: Year	Ordina: Anno
+%u song	%u song	%u brano
+%u songs	%u songs	%u brani
+All albums	All albums	Tutti gli album
+Preparing artwork… %d/%d	Preparing artwork… %d/%d	Preparazione copertine… %d/%d
+Update Library first	Update Library first	Prima aggiorna la libreria
+%u Song	%u Song	%u Brano
+%u Songs	%u Songs	%u Brani
+%u Album	%u Album	%u Album
+%u Albums	%u Albums	%u Album
+%u Game	%u Game	%u Gioco
+%u Games	%u Games	%u Giochi
+%u Service	%u Service	%u Servizio
+%u Services	%u Services	%u Servizi
+%u.%u GB Free	%u.%u GB Free	%u.%u GB liberi
+Library	Library	Libreria
+Settings	Settings	Impostazioni
+Crossfade: %d s	Crossfade: %d s	Crossfade: %d s
+Crossfade: Off	Crossfade: Off	Crossfade: Off
+Wheel Sensitivity: %d%%	Wheel Sensitivity: %d%%	Sensibilità ghiera: %d%%
+Resume Songs: %d min	Resume Songs: %d min	Riprendi brani: %d min
+Resume Songs: Off	Resume Songs: Off	Riprendi brani: Off
+Night Shift: %dK	Night Shift: %dK	Night Shift: %dK
+Night Shift: Auto	Night Shift: Auto	Night Shift: Auto
+Night Shift: Off	Night Shift: Off	Night Shift: Off
+Mono Audio	Mono Audio	Audio mono
+Swap L/R	Swap L/R	Inverti S/D
+Crossfade needs Gapless	Crossfade needs Gapless	Crossfade richiede Gapless
+Auto	Auto	Auto
+Night Shift	Night Shift	Night Shift
+Resume Songs	Resume Songs	Riprendi brani
+Wheel Sensitivity	Wheel Sensitivity	Sensibilità ghiera
+Crossfade	Crossfade	Crossfade
+Measuring song lengths…	Measuring song lengths…	Misurazione durata brani…
+Sudoku	Sudoku	Sudoku
+Solitaire	Solitaire	Solitario
+Snake	Snake	Snake
+Paused	Paused	In pausa
+Continue	Continue	Continua
+Quit	Quit	Esci
+New best!	New best!	Nuovo record!
+Game over	Game over	Fine partita
+Centre: play again	Centre: play again	Centro: gioca ancora
+Play/Pause: resume	Play/Pause: resume	Play/Pausa: riprendi
+New game?	New game?	Nuova partita?
+Centre: yes   Return: no	Centre: yes   Return: no	Centro: sì   Indietro: no
+Solved!	Solved!	Risolto!
+Play/Pause: new game	Play/Pause: new game	Play/Pausa: nuova partita
+Score	Score	Punti
+Best	Best	Record
+Level	Level	Livello
+Centre	Centre	Centro
+You win!	You win!	Hai vinto!
+Shuffle	Shuffle	Casuale
+Era	Era	Decenni
+Ratings	Ratings	Valutazioni
+Most Played	Most Played	Più ascoltati
+Long Songs	Long Songs	Brani lunghi
+App Store	App Store	App Store
+Upload Scrobbles	Upload Scrobbles	Invia scrobble
+Tidal Downloads	Tidal Downloads	Download Tidal
+Internet Radio	Internet Radio	Radio Internet
+Configuration	Configuration	Configurazione
+Restart to apply?	Restart to apply?	Riavviare per applicare?
+Couldn't copy the language	Couldn't copy the language	Impossibile copiare la lingua
+Too many songs to shuffle	Too many songs to shuffle	Troppi brani da mescolare
+Shuffle Songs	Shuffle Songs	Mescola brani
+Shuffle Albums	Shuffle Albums	Mescola album
+Shuffle Folders	Shuffle Folders	Mescola cartelle
+Albums and folders take a moment to shuffle	Albums and folders take a moment to shuffle	Album e cartelle richiedono un momento
+No plays yet	No plays yet	Ancora nessun ascolto
+%u play	%u play	%u ascolto
+%u plays	%u plays	%u ascolti
+No downloads yet	No downloads yet	Ancora nessun download
+Clear All Downloads…	Clear All Downloads…	Elimina tutti i download…
+%u track	%u track	%u traccia
+%u tracks	%u tracks	%u tracce
+Remove Downloads?	Remove Downloads?	Rimuovere i download?
+Keeps settings	Keeps settings	Mantiene le impostazioni
+Remove	Remove	Rimuovi
+It isn't on the card any more	It isn't on the card any more	Non è più sulla scheda
+Era unavailable	Era unavailable	Decenni non disponibili
+Album not found	Album not found	Album non trovato
+%u album	%u album	%u album
+%u albums	%u albums	%u album
+Play All	Play All	Riproduci tutto
+Every song, shuffled	Every song, shuffled	Tutti i brani, in ordine casuale
+No dated albums yet	No dated albums yet	Nessun album con data
+No songs over 10 minutes	No songs over 10 minutes	Nessun brano oltre 10 minuti
+Measuring songs… %d/%d	Measuring songs… %d/%d	Misurazione brani… %d/%d
+Measuring songs…	Measuring songs…	Misurazione brani…
+Release to search	Release to search	Rilascia per cercare
+Pull to search	Pull to search	Tira per cercare
+Sleep Timer	Sleep Timer	Timer di spegnimento
+Lock Screen	Lock Screen	Blocco schermo
+Accent	Accent	Accento
+Everything	Everything	Tutto
+Buttons only	Buttons only	Solo tasti
+Volume only	Volume only	Solo volume
+Wake: Single Press	Wake: Single Press	Riattiva: 1 pressione
+Wake: Double Press	Wake: Double Press	Riattiva: 2 pressioni
+Artist View: Grid	Artist View: Grid	Vista artisti: Griglia
+Artist View: Cover Flow	Artist View: Cover Flow	Vista artisti: Cover Flow
+Artist View: List	Artist View: List	Vista artisti: Elenco
+Year Order: Newest First	Year Order: Newest First	Ordine anni: dal più recente
+Year Order: Oldest First	Year Order: Oldest First	Ordine anni: dal meno recente
+Artists: Artist	Artists: Artist	Artisti: Artista
+Artists: Album Artist	Artists: Album Artist	Artisti: Artista album
+Resume on Connect: Off	Resume on Connect: Off	Riprendi alla connessione: Off
+Resume on Connect: On	Resume on Connect: On	Riprendi alla connessione: On
+Clock: Standard	Clock: Standard	Orologio: Standard
+Clock: Large	Clock: Large	Orologio: Grande
+Artist Album Order: Year	Artist Album Order: Year	Ordine album artista: Anno
+Artist Album Order: A–Z	Artist Album Order: A–Z	Ordine album artista: A–Z
+Volume Guard: Off	Volume Guard: Off	Protezione volume: Off
+Volume Guard: On	Volume Guard: On	Protezione volume: On
+Hold Return: Recent	Hold Return: Recent	Tieni Indietro: Recenti
+Hold Return: Home	Hold Return: Home	Tieni Indietro: Home
+Standby Limit: Off	Standby Limit: Off	Limite standby: Off
+Standby Limit: %u h	Standby Limit: %u h	Limite standby: %u h
+Refresh Cover Flow	Refresh Cover Flow	Aggiorna Cover Flow
+Playlist View: List	Playlist View: List	Vista playlist: Elenco
+Playlist View: Cover Flow	Playlist View: Cover Flow	Vista playlist: Cover Flow
+Update Notifications: Off	Update Notifications: Off	Notifiche aggiornamenti: Off
+Update Notifications: On	Update Notifications: On	Notifiche aggiornamenti: On
+Album View: List	Album View: List	Vista album: Elenco
+Album View: Grid	Album View: Grid	Vista album: Griglia
+Charge Limit (%u%%)	Charge Limit (%u%%)	Limite carica (%u%%)
+Resume on Connect	Resume on Connect	Riprendi alla connessione
+Volume Guard	Volume Guard	Protezione volume
+Control Device Volume	Control Device Volume	Controlla volume dispositivo
+Key Tone	Key Tone	Suono tasti
+In-Vehicle Mode	In-Vehicle Mode	Modalità auto
+Smart Wi-Fi	Smart Wi-Fi	Smart Wi-Fi
+Enlarged Album Art	Enlarged Album Art	Copertina ingrandita
+Folder Album Cover	Folder Album Cover	Copertina cartella
+Fast Navigation	Fast Navigation	Navigazione rapida
+Scan Song Durations	Scan Song Durations	Misura durata brani
+Position Bar	Position Bar	Barra di posizione
+Hide Streaming	Hide Streaming	Nascondi Streaming
+Hide Folder	Hide Folder	Nascondi Cartelle
+Hide Apps	Hide Apps	Nascondi App
+Hide Games	Hide Games	Nascondi Giochi
+Hide App Store	Hide App Store	Nascondi App Store
+Receive Audio	Receive Audio	Ricevi audio
+Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	Cover Flow ricrea le copertine la prossima volta
+Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	Spegni e riaccendi il Bluetooth per applicare
+Folder Root: %s	Folder Root: %s	Cartella radice: %s
+Folder Root: Card	Folder Root: Card	Cartella radice: Scheda
+Library & Folders	Library & Folders	Libreria e cartelle
+Press Centre to Change Mode	Press Centre to Change Mode	Premi Centro per cambiare modalità
+Press Centre to Turn On or Off	Press Centre to Turn On or Off	Premi Centro per attivare o disattivare
+Press Centre When Finished	Press Centre When Finished	Premi Centro al termine
+OK to Disconnect	OK to Disconnect	Puoi scollegare
+Now Playing	Now Playing	In riproduzione
+Cover Flow	Cover Flow	Cover Flow
+EQ	EQ	EQ
+Update Library	Update Library	Aggiorna libreria
+Balance	Balance	Bilanciamento
+Home: Split	Home: Split	Home: Divisa
+Home: Full	Home: Full	Home: Piena
+Home: Carousel	Home: Carousel	Home: Carosello
+Battery: Icon	Battery: Icon	Batteria: Icona
+Battery: Percent	Battery: Percent	Batteria: Percentuale
+Battery: Icon + Percent	Battery: Icon + Percent	Batteria: Icona + percentuale
+Battery: Percent Inside	Battery: Percent Inside	Batteria: Percentuale nell'icona
+Light Mode: Off	Light Mode: Off	Modalità chiara: Off
+Light Mode: On	Light Mode: On	Modalità chiara: On
+Light Mode: Auto	Light Mode: Auto	Modalità chiara: Auto
+Accent: %s	Accent: %s	Accento: %s
+Theme: %s	Theme: %s	Tema: %s
+Shortcut: None	Shortcut: None	Scorciatoia: Nessuna
+Shortcut: %s	Shortcut: %s	Scorciatoia: %s
+Rounded Corners	Rounded Corners	Angoli arrotondati
+Smart Awake	Smart Awake	Smart Awake
+Centred Now Playing	Centred Now Playing	In riproduzione centrata
+Click With Headphones	Click With Headphones	Clic con le cuffie
+Single Press Scrub	Single Press Scrub	Scrub a pressione singola
+Time in Title	Time in Title	Ora nel titolo
+Location	Location	Posizione
+Unknown	Unknown	Sconosciuto
+Appearance	Appearance	Aspetto
+Controls	Controls	Controlli
+Theme	Theme	Tema
+Boot to: Rockbox	Boot to: Rockbox	Avvia: Rockbox
+Boot to: Q2 Pod	Boot to: Q2 Pod	Avvia: Q2 Pod
+Rockbox is not on the card	Rockbox is not on the card	Rockbox non è sulla scheda
+Could not save boot choice	Could not save boot choice	Impossibile salvare la scelta di avvio
+No albums	No albums	Nessun album
+No artists	No artists	Nessun artista
+No composers	No composers	Nessun compositore
+No genres	No genres	Nessun genere
+Chapter %d	Chapter %d	Capitolo %d
+Chapters	Chapters	Capitoli
+Could not read chapters	Could not read chapters	Impossibile leggere i capitoli
+No embedded chapters	No embedded chapters	Nessun capitolo incorporato
+Too long to read chapters on the Q2	Too long to read chapters on the Q2	Troppo lungo per leggere i capitoli sul Q2
+Loading chapters…	Loading chapters…	Caricamento capitoli…
+Spotify Cache: %s	Spotify Cache: %s	Cache Spotify: %s
+Tidal Cache: %s	Tidal Cache: %s	Cache Tidal: %s
+Erasing…	Erasing…	Cancellazione…
+Press again to erase login and cache	Press again to erase login and cache	Premi di nuovo per cancellare accesso e cache
+Erase Spotify Data	Erase Spotify Data	Cancella dati Spotify
+Could not save setting	Could not save setting	Impossibile salvare l'impostazione
+Streaming stopped	Streaming stopped	Streaming interrotto
+Wait for the one in progress	Wait for the one in progress	Attendi quello in corso
+Stop Streaming Services	Stop Streaming Services	Ferma servizi di streaming
+No %s folder on the card	No %s folder on the card	Nessuna cartella %s sulla scheda
+CFW. Version	CFW. Version	Versione CFW
+Update to %s	Update to %s	Aggiorna a %s
+Latest firmware installed	Latest firmware installed	Firmware più recente già installato
+Can't reach GitHub	Can't reach GitHub	GitHub non raggiungibile
+No update for this build	No update for this build	Nessun aggiornamento per questa build
+Can't write to the card	Can't write to the card	Impossibile scrivere sulla scheda
+Download cancelled	Download cancelled	Download annullato
+GitHub is busy, try later	GitHub is busy, try later	GitHub è occupato, riprova più tardi
+The download was damaged, try again	The download was damaged, try again	Download danneggiato, riprova
+Downloading %d%%	Downloading %d%%	Download %d%%
+Cancelling…	Cancelling…	Annullamento…
+Reconnecting…	Reconnecting…	Riconnessione…
+Verifying…	Verifying…	Verifica…
+Checking…	Checking…	Controllo…
+Needs %u MB more space	Needs %u MB more space	Servono altri %u MB di spazio
+Update downloaded: use TF card update	Update downloaded: use TF card update	Aggiornamento scaricato: usa Aggiornamento da scheda TF
+Charge the battery first	Charge the battery first	Prima carica la batteria
+Can't start the download	Can't start the download	Impossibile avviare il download
+Downloading…	Downloading…	Download…
+Q2 Pod %s is out: System Update → Network update	Q2 Pod %s is out: System Update → Network update	Q2 Pod %s è disponibile: Aggiornamento sistema → Aggiornamento online
+Downloading	Downloading	Download in corso
+Unpacking…	Unpacking…	Estrazione…
+Installing…	Installing…	Installazione…
+Removing…	Removing…	Rimozione…
+Connect to Wi-Fi to load the list	Connect to Wi-Fi to load the list	Collegati al Wi-Fi per caricare l'elenco
+Checked just now	Checked just now	Controllato adesso
+Checked %u min ago	Checked %u min ago	Controllato %u min fa
+Checked %u h ago	Checked %u h ago	Controllato %u h fa
+Press again to remove	Press again to remove	Premi di nuovo per rimuovere
+Starts at power-on. Press again to install	Starts at power-on. Press again to install	Parte all'accensione. Premi di nuovo per installare
+%d app can be updated	%d app can be updated	%d app aggiornabile
+%d apps can be updated	%d apps can be updated	%d app aggiornabili
+All apps are up to date	All apps are up to date	Tutte le app sono aggiornate
+The download is not a usable app	The download is not a usable app	Il download non è un'app utilizzabile
+Rockbox is ready. Find it on Home	Rockbox is ready. Find it on Home	Rockbox è pronto. Lo trovi in Home
+Rockbox Themes are ready in Rockbox's Theme Settings	Rockbox Themes are ready in Rockbox's Theme Settings	I temi Rockbox sono pronti nelle impostazioni Tema di Rockbox
+%s is ready in %s	%s is ready in %s	%s è pronto in %s
+%s removed	%s removed	%s rimosso
+Spotify's login and cache erased	Spotify's login and cache erased	Accesso e cache di Spotify cancellati
+Stopped checking for updates	Stopped checking for updates	Controllo aggiornamenti interrotto
+Install Rockbox first	Install Rockbox first	Installa prima Rockbox
+Check for Updates	Check for Updates	Cerca aggiornamenti
+%d of %d	%d of %d	%d di %d
+Album lyrics	Album lyrics	Testi album
+LRCLIB stopped answering	LRCLIB stopped answering	LRCLIB non risponde più
+Cancelled	Cancelled	Annullato
+%d saved	%d saved	%d salvati
+%d not found	%d not found	%d non trovati
+%d already had lyrics	%d already had lyrics	%d avevano già i testi
+%d failed	%d failed	%d non riusciti
+Album lyrics: no songs on the card	Album lyrics: no songs on the card	Testi album: nessun brano sulla scheda
+Can't reach LRCLIB	Can't reach LRCLIB	LRCLIB non raggiungibile
+Download Album Lyrics	Download Album Lyrics	Scarica testi album
+Downloading %d of %d	Downloading %d of %d	Download %d di %d
+No album songs on the card	No album songs on the card	Nessun brano dell'album sulla scheda
+file exceeds 16384 bytes	file exceeds 16384 bytes	il file supera 16384 byte
+line exceeds 512 bytes	line exceeds 512 bytes	la riga supera 512 byte
+embedded NUL	embedded NUL	NUL incorporato
+unsupported filter form	unsupported filter form	forma di filtro non supportata
+expected Preamp: <gain> dB	expected Preamp: <gain> dB	atteso Preamp: <gain> dB
+preamp outside -60..24 dB or invalid number	preamp outside -60..24 dB or invalid number	preamp fuori da -60..24 dB o numero non valido
+expected Channel: L, R or all	expected Channel: L, R or all	atteso Channel: L, R o all
+only channels L, R and all are supported	only channels L, R and all are supported	sono supportati solo i canali L, R e all
+unsupported command	unsupported command	comando non supportato
+invalid filter label	invalid filter label	etichetta filtro non valida
+expected Filter [number]:	expected Filter [number]:	atteso Filter [numero]:
+expected ON or OFF	expected ON or OFF	atteso ON o OFF
+unsupported filter type	unsupported filter type	tipo di filtro non supportato
+expected Fc <Hz> Hz Gain <dB> dB	expected Fc <Hz> Hz Gain <dB> dB	atteso Fc <Hz> Hz Gain <dB> dB
+invalid frequency or gain number	invalid frequency or gain number	frequenza o guadagno non validi
+expected Q <number>	expected Q <number>	atteso Q <numero>
+peaking filter requires Q	peaking filter requires Q	il filtro peaking richiede Q
+range: 20..20000 Hz, -24..24 dB, Q 0.1..10	range: 20..20000 Hz, -24..24 dB, Q 0.1..10	intervallo: 20..20000 Hz, -24..24 dB, Q 0.1..10
+more than 30 bands	more than 30 bands	più di 30 bande
+summed preamp outside -60..24 dB	summed preamp outside -60..24 dB	preamp complessivo fuori da -60..24 dB
+L/R preamp differ by more than 12 dB	L/R preamp differ by more than 12 dB	i preamp S/D differiscono di oltre 12 dB
+out of memory	out of memory	memoria esaurita
+cannot open file	cannot open file	impossibile aprire il file
+file read failed	file read failed	lettura del file non riuscita
+EQ for 3.5 mm	EQ for 3.5 mm	EQ per 3,5 mm
+EQ for 4.4 mm	EQ for 4.4 mm	EQ per 4,4 mm
+EQ for USB	EQ for USB	EQ per USB
+EQ for this Bluetooth device	EQ for this Bluetooth device	EQ per questo dispositivo Bluetooth
+Auto (44.1: %.1f / 48: %.1f)	Auto (44.1: %.1f / 48: %.1f)	Auto (44,1: %.1f / 48: %.1f)
+Folder missing or unavailable	Folder missing or unavailable	Cartella mancante o non disponibile
+Out of memory; cannot list presets	Out of memory; cannot list presets	Memoria esaurita: impossibile elencare i preset
+No presets found	No presets found	Nessun preset trovato
+Name not allowed; preset kept	Name not allowed; preset kept	Nome non consentito: preset mantenuto
+Name taken; preset kept	Name taken; preset kept	Nome già in uso: preset mantenuto
+Rename failed; preset kept	Rename failed; preset kept	Rinomina non riuscita: preset mantenuto
+Renamed to %.100s	Renamed to %.100s	Rinominato in %.100s
+Pop	Pop	Pop
+Rock	Rock	Rock
+Dance	Dance	Dance
+Blues	Blues	Blues
+Metal	Metal	Metal
+Vocal	Vocal	Voce
+Classical	Classical	Classica
+Jazz	Jazz	Jazz
+Preset loaded; choose Apply to activate	Preset loaded; choose Apply to activate	Preset caricato: scegli Applica per attivarlo
+Preset saved; active EQ unchanged	Preset saved; active EQ unchanged	Preset salvato: EQ attivo invariato
+Save failed; settings unchanged	Save failed; settings unchanged	Salvataggio non riuscito: impostazioni invariate
+Switch failed; EQ unchanged	Switch failed; EQ unchanged	Cambio non riuscito: EQ invariato
+Applied	Applied	Applicato
+Apply failed; active EQ unchanged	Apply failed; active EQ unchanged	Applicazione non riuscita: EQ attivo invariato
+Reset; choose Apply to activate	Reset; choose Apply to activate	Reimpostato: scegli Applica per attivarlo
+Delete failed; preset kept	Delete failed; preset kept	Eliminazione non riuscita: preset mantenuto
+Deleted %.100s; active EQ unchanged	Deleted %.100s; active EQ unchanged	Eliminato %.100s: EQ attivo invariato
+Line %u: %s	Line %u: %s	Riga %u: %s
+Cannot read preset; settings unchanged	Cannot read preset; settings unchanged	Impossibile leggere il preset: impostazioni invariate
+Peaking	Peaking	Peaking
+Low shelf	Low shelf	Low shelf
+High shelf	High shelf	High shelf
+Apply changes	Apply changes	Applica modifiche
+Nothing to apply	Nothing to apply	Niente da applicare
+Reset to defaults	Reset to defaults	Ripristina predefiniti
+Enabled	Enabled	Attivo
+EQ per Output	EQ per Output	EQ per uscita
+Preamp	Preamp	Preamp
+Presets	Presets	Preset
+Band	Band	Banda
+Channels	Channels	Canali
+Both	Both	Entrambi
+Left	Left	Sinistro
+Right	Right	Destro
+Type	Type	Tipo
+Frequency	Frequency	Frequenza
+Gain	Gain	Guadagno
+Band %d Q	Band %d Q	Banda %d Q
+Band %d Frequency (Hz)	Band %d Frequency (Hz)	Banda %d frequenza (Hz)
+Raise	Raise	Aumenta
+Lower	Lower	Riduci
+Step	Step	Passo
+Delete %.100s? Confirm	Delete %.100s? Confirm	Eliminare %.100s? Conferma
+Replace existing preset? Confirm	Replace existing preset? Confirm	Sostituire il preset esistente? Conferma
+Cancel replacement	Cancel replacement	Annulla sostituzione
+Save as Manual %02d	Save as Manual %02d	Salva come Manuale %02d
+Stock presets	Stock presets	Preset di serie
+Import from SD /EQ	Import from SD /EQ	Importa da SD /EQ
+Save editor preset	Save editor preset	Salva preset dell'editor
+Rename a preset	Rename a preset	Rinomina un preset
+Delete a preset	Delete a preset	Elimina un preset
+Previous page	Previous page	Pagina precedente
+Next page	Next page	Pagina successiva
+Band %d	Band %d	Banda %d
+Band %d Gain	Band %d Gain	Banda %d guadagno
+Presets %d/%d	Presets %d/%d	Preset %d/%d
+Save failed; EQ unchanged	Save failed; EQ unchanged	Salvataggio non riuscito: EQ invariato
+Advanced	Advanced	Avanzate
+Enabled: On	Enabled: On	Attivo: On
+Enabled: Off	Enabled: Off	Attivo: Off
+Low	Low	Bassi
+Mid	Mid	Medi
+High	High	Alti
+Simple	Simple	Semplice
+No photos	No photos	Nessuna foto
+All Photos	All Photos	Tutte le foto
+Photos	Photos	Foto
+Can't open this photo	Can't open this photo	Impossibile aprire questa foto
+%d of %d  %s	%d of %d  %s	%d di %d  %s
+Could not save folder speed	Could not save folder speed	Impossibile salvare la velocità della cartella
+Too long to play on the Q2: split it into parts	Too long to play on the Q2: split it into parts	Troppo lungo da riprodurre sul Q2: dividilo in parti
+Press again to restart	Press again to restart	Premi di nuovo per riavviare
+Could not save playlist	Could not save playlist	Impossibile salvare la playlist
+Already in playlist	Already in playlist	Già nella playlist
+Added to Playlist	Added to Playlist	Aggiunto alla playlist
+Search songs	Search songs	Cerca brani
+Editing: %s	Editing: %s	Modifica: %s
+Add Songs: %s	Add Songs: %s	Aggiungi brani: %s
+Song Actions: %s	Song Actions: %s	Azioni brano: %s
+Remove song?: %s	Remove song?: %s	Rimuovere il brano?: %s
+Add Songs	Add Songs	Aggiungi brani
+Move Up	Move Up	Sposta su
+Move Down	Move Down	Sposta giù
+Remove from Playlist	Remove from Playlist	Rimuovi dalla playlist
+Search: %s	Search: %s	Cerca: %s
+No songs match	No songs match	Nessun brano corrisponde
+Search for more songs	Search for more songs	Cerca altri brani
+Delete Playlist?	Delete Playlist?	Eliminare la playlist?
+Delete	Delete	Elimina
+Playlist deleted	Playlist deleted	Playlist eliminata
+Could not delete playlist	Could not delete playlist	Impossibile eliminare la playlist
+Delete Playlist	Delete Playlist	Elimina playlist
+Edit Playlist	Edit Playlist	Modifica playlist
+Queue unchanged	Queue unchanged	Coda invariata
+Deselect All	Deselect All	Deseleziona tutto
+Select All	Select All	Seleziona tutto
+Export %d Playlist	Export %d Playlist	Esporta %d playlist
+Export %d Playlists	Export %d Playlists	Esporta %d playlist
+Delete %d Playlist…	Delete %d Playlist…	Elimina %d playlist…
+Delete %d Playlists…	Delete %d Playlists…	Elimina %d playlist…
+%d Selected	%d Selected	Selezionate: %d
+Select Playlists	Select Playlists	Seleziona playlist
+Playlists	Playlists	Playlist
+No Playlists	No Playlists	Nessuna playlist
+New Playlist…	New Playlist…	Nuova playlist…
+Select Playlists…	Select Playlists…	Seleziona playlist…
+Import Playlists	Import Playlists	Importa playlist
+Export	Export	Esporta
+No other group	No other group	Nessun altro gruppo
+Folder not found	Folder not found	Cartella non trovata
+All Songs	All Songs	Tutti i brani
+Songs in Album	Songs in Album	Brani nell'album
+Albums and Songs	Albums and Songs	Album e brani
+Songs in Folder	Songs in Folder	Brani nella cartella
+Folders	Folders	Cartelle
+Folders and Songs	Folders and Songs	Cartelle e brani
+Play One Song	Play One Song	Riproduci un brano
+Play One Album	Play One Album	Riproduci un album
+Repeat Song	Repeat Song	Ripeti brano
+Repeat Album	Repeat Album	Ripeti album
+Repeat All	Repeat All	Ripeti tutto
+Play One Folder	Play One Folder	Riproduci una cartella
+Repeat Folder	Repeat Folder	Ripeti cartella
+Album	Album	Album
+Folder	Folder	Cartella
+Repeat	Repeat	Ripeti
+Group by	Group by	Raggruppa per
+Play Next	Play Next	Riproduci dopo
+Add to Queue	Add to Queue	Aggiungi alla coda
+Add to Favourites	Add to Favourites	Aggiungi ai preferiti
+Remove from Favourites	Remove from Favourites	Rimuovi dai preferiti
+Add to Playlist	Add to Playlist	Aggiungi a playlist
+Go to Album	Go to Album	Vai all'album
+Go to Artist	Go to Artist	Vai all'artista
+Next Album	Next Album	Album successivo
+Previous Album	Previous Album	Album precedente
+Rate	Rate	Valuta
+Resume	Resume	Riprendi
+View Queue	View Queue	Mostra coda
+Go to Folder	Go to Folder	Vai alla cartella
+Rate Album	Rate Album	Valuta album
+Group by: Folder	Group by: Folder	Raggruppa per: Cartella
+Group by: Album	Group by: Album	Raggruppa per: Album
+Next Folder	Next Folder	Cartella successiva
+Previous Folder	Previous Folder	Cartella precedente
+Wheel: Volume	Wheel: Volume	Ghiera: Volume
+Wheel: Brightness	Wheel: Brightness	Ghiera: Luminosità
+Could not save Favourites	Could not save Favourites	Impossibile salvare i preferiti
+Added to Favourites	Added to Favourites	Aggiunta ai preferiti
+Removed from Favourites	Removed from Favourites	Rimossa dai preferiti
+Stopped	Stopped	Fermato
+Can't play: %s	Can't play: %s	Impossibile riprodurre: %s
+Can't play this station	Can't play this station	Impossibile riprodurre questa stazione
+Connecting…	Connecting…	Connessione…
+Search is too long	Search is too long	Ricerca troppo lunga
+Search stations	Search stations	Cerca stazioni
+Favourites	Favourites	Preferiti
+Featured	Featured	In evidenza
+Top Stations	Top Stations	Stazioni top
+By Country	By Country	Per paese
+By Genre	By Genre	Per genere
+Countries	Countries	Paesi
+Connecting to Wi-Fi…	Connecting to Wi-Fi…	Connessione al Wi-Fi…
+Directory unavailable	Directory unavailable	Elenco non disponibile
+No Wi-Fi	No Wi-Fi	Nessun Wi-Fi
+No stations	No stations	Nessuna stazione
+No favourites	No favourites	Nessun preferito
+Rating not saved	Rating not saved	Valutazione non salvata
+Ratings are full	Ratings are full	Valutazioni piene
+Favourite not sent to the app	Favourite not sent to the app	Preferito non inviato all'app
+Unrated	Unrated	Non valutato
+1 Heart	1 Heart	1 cuore
+%d Hearts	%d Hearts	%d cuori
+%d of 5	%d of 5	%d su 5
+Album changed	Album changed	Album cambiato
+Favourite not saved	Favourite not saved	Preferito non salvato
+This app has no favourites	This app has no favourites	Questa app non ha preferiti
+Top Rated	Top Rated	Più votati
+Loved	Loved	Amati
+All Rated	All Rated	Tutti i valutati
+Disliked	Disliked	Non graditi
+No songs yet	No songs yet	Ancora nessun brano
+Hold the heart on Now Playing to rate	Hold the heart on Now Playing to rate	Tieni premuto il cuore in "In riproduzione" per valutare
+No rated albums yet	No rated albums yet	Ancora nessun album valutato
+Upload failed, %d sent	Upload failed, %d sent	Invio non riuscito, %d inviati
+Scrobbles sent: %d	Scrobbles sent: %d	Scrobble inviati: %d
+Nothing to upload	Nothing to upload	Niente da inviare
+Uploading scrobbles	Uploading scrobbles	Invio scrobble
+Already uploading	Already uploading	Invio già in corso
+Upload failed	Upload failed	Invio non riuscito
+Connect to Wi-Fi first	Connect to Wi-Fi first	Prima collegati al Wi-Fi
+Waiting for Spotify	Waiting for Spotify	In attesa di Spotify
+Spotify isn't on the card	Spotify isn't on the card	Spotify non è sulla scheda
+See the Q2 Pod guide to add it	See the Q2 Pod guide to add it	Vedi la guida di Q2 Pod per aggiungerlo
+Open Spotify on your phone	Open Spotify on your phone	Apri Spotify sul telefono
+and choose Q2	and choose Q2	e scegli Q2
+Spotify refused this account	Spotify refused this account	Spotify ha rifiutato questo account
+Its tracks can't play on the Q2	Its tracks can't play on the Q2	I suoi brani non si riproducono sul Q2
+Playback didn't start	Playback didn't start	Riproduzione non avviata
+Go back and try again	Go back and try again	Torna indietro e riprova
+Starting playback	Starting playback	Avvio riproduzione
+Update Spotify on the card	Update Spotify on the card	Aggiorna Spotify sulla scheda
+See the Q2 Pod guide	See the Q2 Pod guide	Vedi la guida di Q2 Pod
+Nothing playing	Nothing playing	Niente in riproduzione
+Choose music in Spotify	Choose music in Spotify	Scegli musica in Spotify
+Liked Songs	Liked Songs	Brani che ti piacciono
+Queue	Queue	Coda
+Playback Settings	Playback Settings	Impostazioni di riproduzione
+Account	Account	Account
+Downloaded Tracks	Downloaded Tracks	Tracce scaricate
+Downloads	Downloads	Download
+Tracks	Tracks	Tracce
+Open Spotify on your phone and choose Q2	Open Spotify on your phone and choose Q2	Apri Spotify sul telefono e scegli Q2
+Both on the same Wi-Fi	Both on the same Wi-Fi	Entrambi sullo stesso Wi-Fi
+to browse on the Q2	to browse on the Q2	per sfogliare sul Q2
+Downloaded Playlists	Downloaded Playlists	Playlist scaricate
+Download Progress	Download Progress	Avanzamento download
+Storage Management	Storage Management	Gestione archivio
+Download Status	Download Status	Stato download
+The latest download's progress	The latest download's progress	Avanzamento dell'ultimo download
+for saved playlists and download controls	for saved playlists and download controls	per playlist salvate e controlli download
+Remove Playlists…	Remove Playlists…	Rimuovi playlist…
+Remove Tracks…	Remove Tracks…	Rimuovi tracce…
+Keeps login and settings	Keeps login and settings	Mantiene accesso e impostazioni
+Track removal can make playlists incomplete	Track removal can make playlists incomplete	Rimuovere tracce può rendere incomplete le playlist
+Pause	Pause	Pausa
+Cancel Download	Cancel Download	Annulla download
+Retry Failed	Retry Failed	Riprova i falliti
+Update Download	Update Download	Aggiorna download
+Sign Out of Spotify?	Sign Out of Spotify?	Uscire da Spotify?
+Sign Out	Sign Out	Esci
+Nothing here	Nothing here	Niente qui
+Selected	Selected	Selezionato
+Press to select	Press to select	Premi per selezionare
+All	All	Tutto
+One	One	Brano
+Download Liked Songs	Download Liked Songs	Scarica brani che ti piacciono
+Download Playlist	Download Playlist	Scarica playlist
+For offline listening	For offline listening	Per l'ascolto offline
+Download Controls	Download Controls	Controlli download
+Update, retry, pause, resume or cancel	Update, retry, pause, resume or cancel	Aggiorna, riprova, metti in pausa, riprendi o annulla
+Remove Selected…	Remove Selected…	Rimuovi selezionati…
+Confirm the affected count	Confirm the affected count	Conferma il numero interessato
+Spotify isn't running	Spotify isn't running	Spotify non è in esecuzione
+Spotify didn't answer	Spotify didn't answer	Spotify non ha risposto
+Search Spotify	Search Spotify	Cerca su Spotify
+Select Tracks	Select Tracks	Seleziona tracce
+Select at least one item	Select at least one item	Seleziona almeno un elemento
+Selection full. Remove these first	Selection full. Remove these first	Selezione piena. Rimuovi prima questi
+Boot logo must be a 320x375 JPEG	Boot logo must be a 320x375 JPEG	Il logo di avvio deve essere un JPEG 320x375
+Could not save boot logo	Could not save boot logo	Impossibile salvare il logo di avvio
+Accent: Graphite	Accent: Graphite	Accento: Grafite
+Accent: Crimson	Accent: Crimson	Accento: Cremisi
+Accent: Tidal	Accent: Tidal	Accento: Tidal
+Accent: Champagne	Accent: Champagne	Accento: Champagne
+Accent: Cobalt	Accent: Cobalt	Accento: Cobalto
+Accent: Tangerine	Accent: Tangerine	Accento: Mandarino
+Accent: Plum	Accent: Plum	Accento: Prugna
+Accent: Ivory	Accent: Ivory	Accento: Avorio
+Accent: Green	Accent: Green	Accento: Verde
+Favorites	Favorites	Preferiti
+Rated Albums	Rated Albums	Album valutati
+Podcasts	Podcasts	Podcast
+Audiobooks	Audiobooks	Audiolibri
+Groovebox can't start from the card	Groovebox can't start from the card	Groovebox non si avvia dalla scheda
+Groovebox is not on the card	Groovebox is not on the card	Groovebox non è sulla scheda
+Play a Tidal album or playlist first	Play a Tidal album or playlist first	Prima riproduci un album o una playlist Tidal
+Downloading %u of %u. Press to stop	Downloading %u of %u. Press to stop	Download %u di %u. Premi per fermare
+Download Playing Songs	Download Playing Songs	Scarica i brani in riproduzione
+Tidal Cache full: %u of %u song saved	Tidal Cache full: %u of %u song saved	Cache Tidal piena: %u di %u brano salvato
+Tidal Cache full: %u of %u songs saved	Tidal Cache full: %u of %u songs saved	Cache Tidal piena: %u di %u brani salvati
+Downloaded %u of %u song	Downloaded %u of %u song	Scaricato %u di %u brano
+Downloaded %u of %u songs	Downloaded %u of %u songs	Scaricati %u di %u brani
+Nothing to play next	Nothing to play next	Niente da riprodurre dopo
+Queue changed	Queue changed	Coda modificata
+Never	Never	Mai
+USB DAC Charging: %s	USB DAC Charging: %s	Ricarica DAC USB: %s
+Spectrum	Spectrum	Spettro
+Oscilloscope	Oscilloscope	Oscilloscopio
+VU Meters	VU Meters	VU meter
+Halo	Halo	Halo
+Pulsar	Pulsar	Pulsar
+Contour	Contour	Contorno
+More	More	Altro
+A-B Repeat	A-B Repeat	Ripeti A-B
+Speed	Speed	Velocità
+*Only for 48 kHz and below	*Only for 48 kHz and below	*Solo fino a 48 kHz
+No lyrics	No lyrics	Nessun testo
+Genre	Genre	Genere
+Size	Size	Dimensione
+Year	Year	Anno
+Format	Format	Formato
+Bit Depth	Bit Depth	Profondità bit
+Bit Rate	Bit Rate	Bitrate
+Sample Rate	Sample Rate	Campionamento
+Auto Scan	Auto Scan	Scansione auto
+Update Library Now	Update Library Now	Aggiorna libreria ora
+Scan Folders	Scan Folders	Scansiona cartelle
+OK	OK	OK
+Bluetooth	Bluetooth	Bluetooth
+Key Lock	Key Lock	Blocco tasti
+Low Gain	Low Gain	Guadagno basso
+USB Storage	USB Storage	Archiviazione USB
+Playback	Playback	Riproduzione
+Custom	Custom	Personalizzato
+Reset	Reset	Ripristina
+Open this address in a browser:	Open this address in a browser:	Apri questo indirizzo nel browser:
+Downloaded	Downloaded	Scaricati
+Baidu Netdisk	Baidu Netdisk	Baidu Netdisk
+Sign In	Sign In	Accedi
+Scan with the Baidu app to sign in	Scan with the Baidu app to sign in	Scansiona con l'app Baidu per accedere
+Baidu encryption protects your privacy	Baidu encryption protects your privacy	La crittografia Baidu protegge la tua privacy
+Bluetooth RF test: connect from a computer	Bluetooth RF test: connect from a computer	Test RF Bluetooth: collegati da un computer
+Press Next to exit	Press Next to exit	Premi Avanti per uscire
+Brightness Test	Brightness Test	Test luminosità
+Next	Next	Avanti
+Bluetooth Test	Bluetooth Test	Test Bluetooth
+Down	Down	Giù
+Up	Up	Su
+Swipe Left	Swipe Left	Scorri a sinistra
+Swipe Right	Swipe Right	Scorri a destra
+Key Test	Key Test	Test tasti
+Headphone Test	Headphone Test	Test cuffie
+Plug in single-ended headphones	Plug in single-ended headphones	Collega cuffie non bilanciate
+Play (left male, right female)	Play (left male, right female)	Riproduci (uomo a sinistra, donna a destra)
+Bluetooth Receiver Test	Bluetooth Receiver Test	Test ricevitore Bluetooth
+Battery Test	Battery Test	Test batteria
+Battery:	Battery:	Batteria:
+Charging:	Charging:	In carica:
+microSD Test	microSD Test	Test microSD
+Touch Test	Touch Test	Test touch
+Wi-Fi Test	Wi-Fi Test	Test Wi-Fi
+Artist	Artist	Artista
+Export Playlists	Export Playlists	Esporta playlist
+Playlist	Playlist	Playlist
+0 songs	0 songs	0 brani
+System	System	Sistema
+Rockbox	Rockbox	Rockbox
+Baker Island	Baker Island	Isola Baker
+Midway	Midway	Midway
+Honolulu	Honolulu	Honolulu
+Anchorage	Anchorage	Anchorage
+Los Angeles	Los Angeles	Los Angeles
+Denver	Denver	Denver
+Mexico City	Mexico City	Città del Messico
+New York	New York	New York
+Halifax	Halifax	Halifax
+St. John's	St. John's	St. John's
+Buenos Aires	Buenos Aires	Buenos Aires
+Azores	Azores	Azzorre
+London	London	Londra
+Amsterdam	Amsterdam	Amsterdam
+Bucharest	Bucharest	Bucarest
+Kuwait	Kuwait	Kuwait
+Tehran	Tehran	Teheran
+Muscat	Muscat	Mascate
+Kabul	Kabul	Kabul
+Karachi	Karachi	Karachi
+Dhaka	Dhaka	Dacca
+Bangkok	Bangkok	Bangkok
+Shanghai	Shanghai	Shanghai
+Tokyo	Tokyo	Tokyo
+Adelaide	Adelaide	Adelaide
+Sydney	Sydney	Sydney
+Fiji	Fiji	Figi
+Marquesas	Marquesas	Marchesi
+South Georgia	South Georgia	Georgia del Sud
+Colombo	Colombo	Colombo
+Kathmandu	Kathmandu	Katmandu
+Yangon	Yangon	Yangon
+Eucla	Eucla	Eucla
+L. Howe	L. Howe	L. Howe
+Noumea	Noumea	Numea
+Chatham	Chatham	Chatham
+Tongatapu	Tongatapu	Tongatapu
+Kiritimati	Kiritimati	Kiritimati
+Chicago	Chicago	Chicago
+Phoenix	Phoenix	Phoenix
+Kolkata	Kolkata	Calcutta
+Brisbane	Brisbane	Brisbane
+Auckland	Auckland	Auckland
+Status Bar	Status Bar	Barra di stato
+Minimal	Minimal	Minimale
+Modern	Modern	Moderno
+Classic	Classic	Classico
+Show Wordmark	Show Wordmark	Mostra logotipo
+Library on Home	Library on Home	Libreria in Home
+Row Preview	Row Preview	Anteprima righe
+Row Art	Row Art	Copertine righe
+Classic Blue	Classic Blue	Classico blu
