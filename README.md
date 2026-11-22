@@ -6,6 +6,8 @@ Q2 Pod is in English. With this card app installed, System settings shows **Lang
 
 Install it from Q2 Pod's App Store (Library → App Store), or unzip `langs.zip` at the card's root (it holds one folder, `.langs`). It has no row of its own: it only adds the Language row.
 
+It also carries an Arabic font, so Arabic, Persian and Urdu titles, artists, albums and lyrics show in any language, English too, right to left with their letters joined. Without it they are blank: no font on the Q2 has those letters.
+
 ## Languages
 
 | Language | Table |
@@ -32,7 +34,7 @@ It names each line the Q2 would skip and each character the font lacks, then how
 
 ## Building
 
-`./build.sh` makes `dist/langs.zip` (Python 3 only), the same bytes from build to build.
+`./build.sh` makes `dist/langs.zip`, the same bytes from build to build. It needs Python 3 with fontTools (`PYTHON=` names another Python), which `tools/font.py` uses to make `lang/font.ttf` from Noto Sans Arabic UI: cut to the characters Q2 Pod asks a pack's font for, and sized to the Q2's own face.
 
 ## Credits
 
@@ -40,4 +42,4 @@ The Simplified Chinese table started from gukey's, in Q2 Pod's pull request #452
 
 ## License
 
-GPL-3.0, as Q2 Pod.
+GPL-3.0, as Q2 Pod. The font is Noto Sans Arabic UI (`fonts/`), under the SIL Open Font License 1.1, whose text the zip carries beside it.
