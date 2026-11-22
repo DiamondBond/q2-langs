@@ -35,6 +35,8 @@ key	English	translation
 
 The key and the English are what Q2 Pod asks for, copied from `en.tsv`; the translation is yours. Write a line break as `\n`, a tab as `\t` and a backslash as `\\`. A `%d`, `%s` or other conversion in the English stays in the translation, in the same order. A line whose English Q2 Pod no longer uses, or whose conversions differ from its English's, is skipped and that text shows in English, so an old table never breaks a newer Q2 Pod.
 
+Two things the Q2 does with your text: a settings row whose English is `Title: value` (`Shortcut: %s`) is split at its `": "` into a label and a value, so keep that ASCII `": "` in those rows; and of a count's two lines (`%u song`, `%u songs`), the first shows for exactly 1 and the second for every other number, so in a language with more plural forms word the second to fit any of them (`Songs: %u`). One English text of Q2 Pod's own has one translation everywhere it shows.
+
 `en.tsv` lists every text Q2 Pod shows, made from a build with Q2 Pod's `tools/langpack.py template BUILD`. Check a table against it, and against the Q2's font, before sending it:
 
 ```
