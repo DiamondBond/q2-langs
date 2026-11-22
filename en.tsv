@@ -1,0 +1,1166 @@
+History_record	History record	stock
+about_cardcap	Card Capacity	stock
+about_cardremain	Remaining	stock
+about_ipaddr	IP Address	stock
+about_model	Model	stock
+about_more	*Our sincere thanks go to the DiamondBond team and all its enthusiasts for their ingenuity, outstanding solutions, and generous contributions.	stock
+about_sn	Serial Number	stock
+about_version	Version	stock
+about_wifimac	Wi-Fi MAC	stock
+album	Album	stock
+album	Album	stock
+albumsinger	Album artist	stock
+allmusic	All Songs	stock
+audio_settings	Audio settings	stock
+baidu_login	Log In	stock
+baidu_login_tips1	Please use Baidu Netdisk or Baidu App to scan the code to login	stock
+baidu_login_tips2	Baidu encryption technology protects your privacy and security	stock
+baidu_loginout	Log Out	stock
+baidunet_floderinfo_failed	Failed to get file list	stock
+batch_addplaylist	Add to Playlist	stock
+bt_adjvol	Bluetooth Headset Volume Control	stock
+bt_compatiabledev	Compatible Device	stock
+bt_name	Bluetooth Name	stock
+bt_paireddev	Paired Device	stock
+bt_quality	Quality	stock
+bt_search	Scan now	stock
+btcode_aac	AAC	stock
+btcode_aptx	aptX	stock
+btcode_aptxhd	aptX HD	stock
+btcode_ldacauto	LDAC Connection (auto)	stock
+btcode_ldachq	LDAC HQ	stock
+btcode_ldacst	LDAC Standard	stock
+btcode_sbc	SBC	stock
+btcode_sbchq	SBC HQ	stock
+custom_eq	Custom	stock
+display_backlight	Brightness	stock
+display_lighttime	Screen Off Time	stock
+display_screenlock	Lock Screen	stock
+dsdmode_d2p	D2P	stock
+dsdmode_dop	DOP	stock
+dsdmode_native	Native	stock
+eq_blues	Blues	stock
+eq_classical	Classical	stock
+eq_club	Club	stock
+eq_custom1	Custom1	stock
+eq_custom2	Custom2	stock
+eq_custom3	Custom3	stock
+eq_dance	Dance	stock
+eq_doublebass	Sub-bass	stock
+eq_jazz	Jazz	stock
+eq_metal	Metal	stock
+eq_only48kmsg	EQ only for files below 48kHz.	stock
+eq_pop	Pop	stock
+eq_reset	Reset	stock
+eq_rock	Rock	stock
+eq_vocal	Vocal	stock
+fav	My Fav	stock
+filter_delayfast	Low Delay Fast Roll-off	stock
+filter_delayslow	Low Delay Slow Roll-off	stock
+filter_fast	Fast Roll-off	stock
+filter_slow	Slow Roll-off	stock
+frequentplay	Frequent	stock
+gain_high	High	stock
+gain_low	Low	stock
+genre	Genre	stock
+genre_statistics	Total %d songs	stock
+hr	Hi-Res	stock
+keyboard_keyword	Please enter keyword	stock
+keyboard_netname	Please enter network name	stock
+keyboard_password	Please enter password	stock
+keylock_all	Lock Volume & Buttons	stock
+keylock_info	Only effective when the screen is off	stock
+keylock_info2	Effective on Lockscreen and when Screen Off	stock
+keylock_key	Lock Buttons Only	stock
+keylock_volume	Lock Volume Only	stock
+lan_english	English	stock
+lan_french	Français	stock
+lan_german	Deutsch	stock
+lan_italian	Italiano	stock
+lan_japanese	日本語	stock
+lan_korean	한국어	stock
+lan_polish	Polski	stock
+lan_russian	Русский	stock
+lan_simplified	简体中文	stock
+lan_spanish	español	stock
+lan_thai	ภาษาไทย	stock
+lan_traditional	繁體中文	stock
+lan_ukrainian	Українська	stock
+lighttime_15s	15s	stock
+lighttime_1min	1min	stock
+lighttime_2min	2min	stock
+lighttime_30min	30min	stock
+lighttime_30s	30s	stock
+lighttime_5min	5min	stock
+lighttime_lyricmode	Lyrics mode	stock
+lighttime_off	Off	stock
+list_baidu	Baidu Netdisk	stock
+list_tidal	TIDAL	stock
+local_album	Albums	stock
+local_allmusic	Local Songs	stock
+local_allsongs	Songs	stock
+local_fav	My Fav	stock
+local_frequentplay	Frequent	stock
+local_genre	Genres	stock
+local_hr	Hi-Res	stock
+local_playlist	Playlists	stock
+local_recentadd	Recently Added	stock
+local_recentplay	Recent	stock
+local_songer	Artists	stock
+local_upmusic	Update Library	stock
+login_out	Logout	stock
+memplay_location	Location	stock
+memplay_off	Off	stock
+memplay_track	Track	stock
+msg_actionnotsupport	Non-local songs,not currently supported	stock
+msg_actionscan	Scan music?	stock
+msg_add_task	Please enter the URL of the file you want to download	stock
+msg_addfailed	Adding Failed	stock
+msg_addfavsuccess	Added To Fav	stock
+msg_addplaylistsuccess	Added To Playlist	stock
+msg_autoshutdown	Shutdown	stock
+msg_btabnormal	Bluetooth abnormal	stock
+msg_btinit_run	Bluetooth Starting	stock
+msg_btreconnect	Reconnect Bluetooth?	stock
+msg_cardeject	Audio Disconnected	stock
+msg_cardinsert	Audio Connected	stock
+msg_checkfw	Checking FW	stock
+msg_checkfwerr	FW. Check Error	stock
+msg_closesynclink	Please close SyncLink	stock
+msg_confirmupdate	Confirm Update?	stock
+msg_connected	Connected	stock
+msg_connecting	Connecting	stock
+msg_delalbum	Delete Album?	stock
+msg_delalbumfailed	Failed To Delete Album	stock
+msg_delalbumsuccess	Album Deleted	stock
+msg_delartist	Delete Artist?	stock
+msg_delartistsuccess	Artist Deleted	stock
+msg_delete_task	Are you sure you want to delete the download task?	stock
+msg_deletesource	Also delete source file	stock
+msg_delfile	Are you sure you want to delete this file?	stock
+msg_delfile	Delete File?	stock
+msg_delfilefailed	Failed To Delete File	stock
+msg_delfilesuccess	File Deleted	stock
+msg_delgenre	Delete Genre?	stock
+msg_delgenresuccess	Genre Deleted	stock
+msg_delplaylist	Delete Playlist?	stock
+msg_delplaylistfailed	Failed To Delete Playlist	stock
+msg_delplaylistsuccess	Playlist Deleted	stock
+msg_delsong	Delete Song?	stock
+msg_delsongfailed	Failed To Delete Song	stock
+msg_delsongsuccess	Song Deleted	stock
+msg_disconnected	Disconnected	stock
+msg_disonnectbt	Please disconnect the bluetooth device	stock
+msg_downloadpath	Download path is	stock
+msg_exist_task	The download task already exists	stock
+msg_exitairplay	Quit AirPlay?	stock
+msg_exportplaylist	Export Playlist?	stock
+msg_exportsuccess	Export successful	stock
+msg_factorysuccess	Restore to factory settings succeeded	stock
+msg_favsuccess	Added To Fav	stock
+msg_file_exist	The file already exists	stock
+msg_importplaylist	Import Playlists?	stock
+msg_importsuccess	Successfully imported	stock
+msg_initsetsuccess	All settings initialized successfully	stock
+msg_latestfw	Latest Fw. Installed	stock
+msg_linkerror	WiFi Connection Error	stock
+msg_lowarn	Line Out sets max volume,continue?	stock
+msg_lowpower	Low Battery	stock
+msg_namenull	The name can't be empty	stock
+msg_netnameerr	Network Must Be Named	stock
+msg_no	Cancel	stock
+msg_no_storage	Storage is full.Some songs couldn't be added.	stock
+msg_noheadset	Playback is disabled without headphones.Please insert headphones.	stock
+msg_nosongs	No songs in this folder	stock
+msg_notalbuminfo	This file has no Album data	stock
+msg_notfile	File Not Found	stock
+msg_notfolder	Folder not found	stock
+msg_notfoundfw	Fw. Not Found	stock
+msg_notmemory	Memory is not enough	stock
+msg_notmemory	Out of memory	stock
+msg_notnetwork	Network Disconnected	stock
+msg_nototg	No OTG Found	stock
+msg_notplaylist	Playlist Not Found	stock
+msg_notsongerinfo	This file has no Artist data	stock
+msg_notsonglist	No Song List	stock
+msg_notspecdir	Folder not specified	stock
+msg_notsupport	Not Supported	stock
+msg_notsupportdel	Can't be removed	stock
+msg_nottf	No TF Card Found	stock
+msg_otgeject	OTG Disconnected	stock
+msg_otginfoerr	Failed To Get Version Info	stock
+msg_otginsert	OTG Connected	stock
+msg_paircode	Bluetooth Code	stock
+msg_paired	Paired	stock
+msg_playlistexist	Playlist Already Exists	stock
+msg_playlistfull	Could not create playlist	stock
+msg_poweroff	Shut Down?	stock
+msg_resetdbsuccess	Reset completed	stock
+msg_restarting	Restarting	stock
+msg_shortpasswd	8 Digits PIN At Least	stock
+msg_start_download_task	start the download task	stock
+msg_stop_download_task	stop the download task	stock
+msg_testmode	Enter test mode?	stock
+msg_tfeject	TF Card Removed	stock
+msg_tfinsert	TF Card Inserted	stock
+msg_unpaired	Unpaired	stock
+msg_unpairing	unpair?	stock
+msg_unsupportformat	Unsupported format	stock
+msg_update	Confirmed	stock
+msg_wificancelsave	Delete Record?	stock
+msg_wifidisconnect	Disconnect Now?	stock
+msg_yes	OK	stock
+navigation_all	All	stock
+netservice_airplay	AirPlay	stock
+netservice_dlna	DLNA	stock
+netservice_wifitrans	Wi-Fi File Transfer	stock
+no_search	No search results	stock
+not_allmusic	Currently no songs	stock
+otgdownload_percent	FW Downloaded	stock
+outputway	Output Options	stock
+play_all	Play All	stock
+player_abrepeat	AB Repeat	stock
+player_albuminfo	Look up Album	stock
+player_bitdepth	Bit Depth	stock
+player_bitrate	Bitrate	stock
+player_delete	Delete Song	stock
+player_encoding	Encoding	stock
+player_era	Year	stock
+player_filesize	File Size	stock
+player_location	Location	stock
+player_msgmul	*Affecting only files below 48khz	stock
+player_multiple	Multiple Speed	stock
+player_nolyric	No Lyrics	stock
+player_onlinesearch	Download Cover & Lyrics	stock
+player_playlist	Queue	stock
+player_samplerate	Sample Rate	stock
+player_songerinfo	Look up Artist	stock
+player_unknown	Unknown	stock
+player_unknown	Unknown Artist	stock
+playlist	Playlist	stock
+playlist_create	New playlist	stock
+playlist_export	Export playlist	stock
+playlist_import	Import playlist	stock
+playmode_listplay	List Play	stock
+playmode_repeatall	Repeat All	stock
+playmode_repeattrack	Repeat Track	stock
+playmode_shuffle	Shuffle	stock
+playset_balance	Channel Balance	stock
+playset_bootvol	Default Volume	stock
+playset_covermode	Enlarged Album Art	stock
+playset_dsdoutput	DSD Output Mode	stock
+playset_eq	EQ	stock
+playset_filter	Digital Filters	stock
+playset_foldercover	Folder Album Cover	stock
+playset_folderjump	Folder Skip	stock
+playset_gain	Gain	stock
+playset_gapless	Gapless	stock
+playset_maxvol	Max Volume	stock
+playset_memplay	Memory Playback	stock
+playset_noplay	Require Output (Beta)	stock
+playset_playmode	Play Mode	stock
+playset_replaygain	ReplayGain	stock
+playset_usbaudiovol	USB Audio Output	stock
+playset_volcover	Volume and Album Display	stock
+powerm_deep_off	Standby	stock
+powerm_sleep	Sleep Timer	stock
+recentadd	Recently Added	stock
+recentplay	Recent	stock
+rename	Rename	stock
+renamesuccess	Successfully renamed	stock
+replaygain_track	Song	stock
+reset_factory	Full Factory Reset	stock
+reset_initdatabase	Reset Database	stock
+reset_initset	Reset Settings Only	stock
+scan_automatic	Automatic Update	stock
+scan_now	Scan music now	stock
+scan_now	Scan music now	stock
+scan_spec	Scan specified folders	stock
+scan_spec	Scan specified folders	stock
+scan_startscan	Scan	stock
+scan_updatefinish	Library Updated,%d Updated	stock
+scan_updating	Updating No.%d	stock
+scover_cover	Cover	stock
+scover_lyric	Lyrics	stock
+screenlock_about	Custom Lock Screen	stock
+screenlock_info1	1. Put the pictures in a folder named "lockscreenimage" at the top of the card.	stock
+screenlock_info2	2. PNG or JPG, exactly 375 x 320 pixels, under 1 MB each.	stock
+screenlock_info3	3. Up to 5 pictures.	stock
+screenlock_timeshow	Show Time	stock
+search_tips1	Search for music,artists,albums,genres	stock
+search_track	Track	stock
+singerbyalbum	Sort by album artist	stock
+singerbysong	Sort by song artist	stock
+small_album	Albums	stock
+small_coverflow	Album Wall	stock
+small_folder	Folder	stock
+small_local	Local Songs	stock
+small_playing	Now Playing	stock
+small_playset	Playback	stock
+small_stream	Streaming	stock
+small_sysset	System	stock
+songer	Artist	stock
+sort_addtime	Time added	stock
+sort_alphabet	Alphabetical	stock
+sort_filename	File name	stock
+sort_format	File format	stock
+sort_time_asc	Time added (ascending)	stock
+sort_time_desc	Time added (descending)	stock
+standbyoff_10min	10min	stock
+standbyoff_1min	1min	stock
+standbyoff_3min	3min	stock
+standbyoff_5min	5min	stock
+standbyoff_deep	Auto-standby	stock
+standbyoff_deepinfo	After 5 minute of idle,device will go into standby mode.	stock
+standbyoff_saver	Auto-shutdown	stock
+synclink_off	Off	stock
+system_about	About	stock
+system_carmode	In-Vehicle Mode	stock
+system_display	Display	stock
+system_general	General	stock
+system_keylock	Buttons Lock	stock
+system_keytone	Key Tone	stock
+system_language	Language	stock
+system_navshow	Show Navigation Bar	stock
+system_netservice	Network	stock
+system_powermanager	Power	stock
+system_prove	Certification	stock
+system_reset	Reset Settings	stock
+system_sys	System	stock
+system_time	Date & Time	stock
+system_update	System Update	stock
+system_wheelmode	Wheel Function	stock
+system_wifiset	Wireless	stock
+timedate_24h	24-Hour	stock
+timedate_auto	Automatic Time Set	stock
+timedate_manual	Set Time Manually	stock
+timezone_gmt+1	(GMT+01:00)Europe/Amsterdam	stock
+timezone_gmt+10	(GMT+10:00)Australia/Sydney	stock
+timezone_gmt+12	(GMT+12:00)Pacific/Fiji	stock
+timezone_gmt+2	(GMT+02:00)Europe/Bucharest	stock
+timezone_gmt+3	(GMT+03:00)Asia/Kuwait	stock
+timezone_gmt+3_30	(GMT+03:30)Asia/Tehran	stock
+timezone_gmt+4	(GMT+04:00)Asia/Muscat	stock
+timezone_gmt+4_30	(GMT+04:30)Asia/Kabul	stock
+timezone_gmt+5	(GMT+05:00)Asia/Karachi	stock
+timezone_gmt+6	(GMT+06:00)Asia/Almaty	stock
+timezone_gmt+7	(GMT+07:00)Asia/Bangkok	stock
+timezone_gmt+8	(GMT+08:00)Asia/Shanghai	stock
+timezone_gmt+9	(GMT+09:00)Asia/Tokyo	stock
+timezone_gmt+9_30	(GMT+09:30)Australia/Adelaide	stock
+timezone_gmt-0	(GMT 00:00)Europe/London	stock
+timezone_gmt-1	(GMT-01:00)Atlantic/Azores	stock
+timezone_gmt-10	(GMT-10:00)Pacific/Honolulu	stock
+timezone_gmt-11	(GMT-11:00)Pacific/Midway	stock
+timezone_gmt-12	(GMT-12:00)Pacific/Kwajalein	stock
+timezone_gmt-3	(GMT-03:00)America/Argentina/Buenos_Aires	stock
+timezone_gmt-3_30	(GMT-03:30)America/St_Johns	stock
+timezone_gmt-4	(GMT-04:00)Canada/Atlantic	stock
+timezone_gmt-5	(GMT-05:00)America/New_York	stock
+timezone_gmt-6	(GMT-06:00)America/Mexico_City	stock
+timezone_gmt-7	(GMT-07:00)America/Denver	stock
+timezone_gmt-8	(GMT-08:00)America/Tijuana	stock
+timezone_gmt-9	(GMT-09:00)America/Anchorage	stock
+timezone_select	Time Zone Selection	stock
+title_downloaded	Downloaded	stock
+title_downloading	Downloading	stock
+title_more	More	stock
+title_sort	List sort order	stock
+update_online	Network update	stock
+update_tf	TF card update	stock
+usb_chargeswitch	USB DAC Charging	stock
+usbmode_audio	USB AUDIO	stock
+usbmode_connect	USB Connected	stock
+usbmode_dac	USB DAC	stock
+usbmode_disconnect	USB Disconnected	stock
+usbmode_storge	USB Storage	stock
+usbvol_adjust	Volume Variable	stock
+usbvol_fixed	Volume Fixed	stock
+wheelmode_menu	Menu Mode	stock
+wheelmode_volume	Volume Mode	stock
+wifi_addnetwork	Add Network	stock
+wifi_choice	Select Network	stock
+wifi_scan	Scanning	stock
+wifiset_bt	Bluetooth	stock
+wifiset_synclink	SyncLink	stock
+wifiset_wifi	Wi-Fi	stock
+wifits_info1	Enter the following URL into your internet browser:	stock
+Search	Search	addon.c
+Streaming	Streaming	addon.c
+Library's Games	Library's Games	addon.c
+Library's Apps	Library's Apps	addon.c
+Network settings	Network settings	addon.c
+Wait until the App Store finishes	Wait until the App Store finishes	addon.c
+It isn't on the card	It isn't on the card	addon.c
+It couldn't start	It couldn't start	addon.c
+Stop %s	Stop %s	addon.c
+Loading…	Loading…	addon.c
+More…	More…	addon.c
+Working…	Working…	addon.c
+Starting %s…	Starting %s…	addon.c
+Retry	Retry	addon.c
+Install it again in Library → App Store	Install it again in Library → App Store	addon.c
+Cancel	Cancel	addon.c
+%s isn't running	%s isn't running	addon.c
+%s didn't answer	%s didn't answer	addon.c
+Too long	Too long	addon.c
+%s stopped	%s stopped	addon.c
+%s isn't on the card	%s isn't on the card	addon.c
+Apps	Apps	addon.c
+No apps	No apps	addon.c
+Not running	Not running	addon.c
+No code yet	No code yet	addon.c
+Connect the Q2 to Wi-Fi	Connect the Q2 to Wi-Fi	addon.c
+Open it again	Open it again	addon.c
+Wait a moment	Wait a moment	addon.c
+Then come back here	Then come back here	addon.c
+Scan with your phone's	Scan with your phone's	addon.c
+Scan with your	Scan with your	addon.c
+camera	camera	addon.c
+phone's camera	phone's camera	addon.c
+or open	or open	addon.c
+PIN	PIN	addon.c
+Couldn't import %s	Couldn't import %s	addon_library.c
+Playlists updated	Playlists updated	addon_library.c
+No memory card	No memory card	addon_library.c
+Games	Games	app_store.c
+%d update	%d update	app_store.c
+%d updates	%d updates	app_store.c
+INSTALL	INSTALL	app_store.c
+UPDATE	UPDATE	app_store.c
+INSTALLED	INSTALLED	app_store.c
+AM	AM	battery.c
+PM	PM	battery.c
+Jan	Jan	battery.c
+Feb	Feb	battery.c
+Mar	Mar	battery.c
+Apr	Apr	battery.c
+May	May	battery.c
+Jun	Jun	battery.c
+Jul	Jul	battery.c
+Aug	Aug	battery.c
+Sep	Sep	battery.c
+Oct	Oct	battery.c
+Nov	Nov	battery.c
+Dec	Dec	battery.c
+The card is in use over USB	The card is in use over USB	battery.c
+Storage unavailable	Storage unavailable	battery.c
+The card is full	The card is full	battery.c
+Couldn't save	Couldn't save	battery.c
+Saved to battery-log.txt	Saved to battery-log.txt	battery.c
+Battery History	Battery History	battery.c
+Unplug to start	Unplug to start	battery.c
+Export Log	Export Log	battery.c
+Done	Done	classic_pages.c
+space	space	classic_pages.c
+New Playlist	New Playlist	classic_pages.c
+Playlist Name	Playlist Name	classic_pages.c
+Rename	Rename	classic_pages.c
+Songs	Songs	classic_pages.c
+Artists	Artists	classic_pages.c
+Albums	Albums	classic_pages.c
+Genres	Genres	classic_pages.c
+Off	Off	classic_pages.c
+On	On	classic_pages.c
+%d of %d songs	%d of %d songs	classic_pages.c
+Updating Library	Updating Library	classic_pages.c
+Connected	Connected	classic_pages.c
+Eject before disconnecting	Eject before disconnecting	classic_pages.c
+%d:%02d AM	%d:%02d AM	clock.c
+%d:%02d PM	%d:%02d PM	clock.c
+Save	Save	clock.c
+Sort: Album	Sort: Album	coverflow.c
+Sort: Artist	Sort: Artist	coverflow.c
+Sort: Recently Added	Sort: Recently Added	coverflow.c
+Sort: Most Played	Sort: Most Played	coverflow.c
+Sort: Random	Sort: Random	coverflow.c
+Sort: Rating	Sort: Rating	coverflow.c
+Sort: Year	Sort: Year	coverflow.c
+%u song	%u song	coverflow.c
+%u songs	%u songs	coverflow.c
+All albums	All albums	coverflow.c
+Preparing artwork… %d/%d	Preparing artwork… %d/%d	coverflow.c
+Update Library first	Update Library first	coverflow.c
+%u Song	%u Song	coverflow.c
+%u Songs	%u Songs	coverflow.c
+%u Album	%u Album	coverflow.c
+%u Albums	%u Albums	coverflow.c
+%u Game	%u Game	coverflow.c
+%u Games	%u Games	coverflow.c
+%u Service	%u Service	coverflow.c
+%u Services	%u Services	coverflow.c
+%u.%u GB Free	%u.%u GB Free	coverflow.c
+Library	Library	coverflow.c
+Settings	Settings	coverflow.c
+Crossfade: %d s	Crossfade: %d s	crossfade.c
+Crossfade: Off	Crossfade: Off	crossfade.c
+Wheel Sensitivity: %d%%	Wheel Sensitivity: %d%%	crossfade.c
+Resume Songs: %d min	Resume Songs: %d min	crossfade.c
+Resume Songs: Off	Resume Songs: Off	crossfade.c
+Night Shift: %dK	Night Shift: %dK	crossfade.c
+Night Shift: Auto	Night Shift: Auto	crossfade.c
+Night Shift: Off	Night Shift: Off	crossfade.c
+Mono Audio	Mono Audio	crossfade.c
+Swap L/R	Swap L/R	crossfade.c
+Crossfade needs Gapless	Crossfade needs Gapless	crossfade.c
+Auto	Auto	crossfade.c
+Night Shift	Night Shift	crossfade.c
+Resume Songs	Resume Songs	crossfade.c
+Wheel Sensitivity	Wheel Sensitivity	crossfade.c
+Crossfade	Crossfade	crossfade.c
+Measuring song lengths…	Measuring song lengths…	durations.c
+Sudoku	Sudoku	games.c
+Solitaire	Solitaire	games.c
+Snake	Snake	games.c
+Paused	Paused	games.c
+Continue	Continue	games.c
+Quit	Quit	games.c
+New best!	New best!	games.c
+Game over	Game over	games.c
+Centre: play again	Centre: play again	games.c
+Play/Pause: resume	Play/Pause: resume	games.c
+New game?	New game?	games.c
+Centre: yes   Return: no	Centre: yes   Return: no	games.c
+Solved!	Solved!	games.c
+Play/Pause: new game	Play/Pause: new game	games.c
+Score	Score	games.c
+Best	Best	games.c
+Level	Level	games.c
+Centre	Centre	games.c
+You win!	You win!	games.c
+Shuffle	Shuffle	home.c
+Era	Era	home.c
+Ratings	Ratings	home.c
+Most Played	Most Played	home.c
+Long Songs	Long Songs	home.c
+App Store	App Store	home.c
+Upload Scrobbles	Upload Scrobbles	home.c
+Tidal Downloads	Tidal Downloads	home.c
+Internet Radio	Internet Radio	home.c
+Configuration	Configuration	home.c
+Restart to apply?	Restart to apply?	language.c
+Couldn't copy the language	Couldn't copy the language	language.c
+Too many songs to shuffle	Too many songs to shuffle	library_lists.c
+Shuffle Songs	Shuffle Songs	library_lists.c
+Shuffle Albums	Shuffle Albums	library_lists.c
+Shuffle Folders	Shuffle Folders	library_lists.c
+Albums and folders take a moment to shuffle	Albums and folders take a moment to shuffle	library_lists.c
+No plays yet	No plays yet	library_lists.c
+%u play	%u play	library_lists.c
+%u plays	%u plays	library_lists.c
+No downloads yet	No downloads yet	library_lists.c
+Clear All Downloads…	Clear All Downloads…	library_lists.c
+%u track	%u track	library_lists.c
+%u tracks	%u tracks	library_lists.c
+Remove Downloads?	Remove Downloads?	library_lists.c
+Keeps settings	Keeps settings	library_lists.c
+Remove	Remove	library_lists.c
+It isn't on the card any more	It isn't on the card any more	library_lists.c
+Era unavailable	Era unavailable	library_lists.c
+Album not found	Album not found	library_lists.c
+%u album	%u album	library_lists.c
+%u albums	%u albums	library_lists.c
+Play All	Play All	library_lists.c
+Every song, shuffled	Every song, shuffled	library_lists.c
+No dated albums yet	No dated albums yet	library_lists.c
+No songs over 10 minutes	No songs over 10 minutes	library_lists.c
+Measuring songs… %d/%d	Measuring songs… %d/%d	library_lists.c
+Measuring songs…	Measuring songs…	library_lists.c
+Release to search	Release to search	navigation.c
+Pull to search	Pull to search	navigation.c
+Sleep Timer	Sleep Timer	navigation.c
+Lock Screen	Lock Screen	navigation.c
+Accent	Accent	navigation.c
+Everything	Everything	navigation.c
+Buttons only	Buttons only	navigation.c
+Volume only	Volume only	navigation.c
+Wake: Single Press	Wake: Single Press	navigation.c
+Wake: Double Press	Wake: Double Press	navigation.c
+Artist View: Grid	Artist View: Grid	navigation.c
+Artist View: Cover Flow	Artist View: Cover Flow	navigation.c
+Artist View: List	Artist View: List	navigation.c
+Year Order: Newest First	Year Order: Newest First	navigation.c
+Year Order: Oldest First	Year Order: Oldest First	navigation.c
+Artists: Artist	Artists: Artist	navigation.c
+Artists: Album Artist	Artists: Album Artist	navigation.c
+Resume on Connect: Off	Resume on Connect: Off	navigation.c
+Resume on Connect: On	Resume on Connect: On	navigation.c
+Clock: Standard	Clock: Standard	navigation.c
+Clock: Large	Clock: Large	navigation.c
+Artist Album Order: Year	Artist Album Order: Year	navigation.c
+Artist Album Order: A–Z	Artist Album Order: A–Z	navigation.c
+Volume Guard: Off	Volume Guard: Off	navigation.c
+Volume Guard: On	Volume Guard: On	navigation.c
+Hold Return: Recent	Hold Return: Recent	navigation.c
+Hold Return: Home	Hold Return: Home	navigation.c
+Standby Limit: Off	Standby Limit: Off	navigation.c
+Standby Limit: %u h	Standby Limit: %u h	navigation.c
+Refresh Cover Flow	Refresh Cover Flow	navigation.c
+Playlist View: List	Playlist View: List	navigation.c
+Playlist View: Cover Flow	Playlist View: Cover Flow	navigation.c
+Update Notifications: Off	Update Notifications: Off	navigation.c
+Update Notifications: On	Update Notifications: On	navigation.c
+Album View: List	Album View: List	navigation.c
+Album View: Grid	Album View: Grid	navigation.c
+Charge Limit (%u%%)	Charge Limit (%u%%)	navigation.c
+Resume on Connect	Resume on Connect	navigation.c
+Volume Guard	Volume Guard	navigation.c
+Control Device Volume	Control Device Volume	navigation.c
+Key Tone	Key Tone	navigation.c
+In-Vehicle Mode	In-Vehicle Mode	navigation.c
+Smart Wi-Fi	Smart Wi-Fi	navigation.c
+Enlarged Album Art	Enlarged Album Art	navigation.c
+Folder Album Cover	Folder Album Cover	navigation.c
+Fast Navigation	Fast Navigation	navigation.c
+Scan Song Durations	Scan Song Durations	navigation.c
+Position Bar	Position Bar	navigation.c
+Hide Streaming	Hide Streaming	navigation.c
+Hide Folder	Hide Folder	navigation.c
+Hide Apps	Hide Apps	navigation.c
+Hide Games	Hide Games	navigation.c
+Hide App Store	Hide App Store	navigation.c
+Receive Audio	Receive Audio	navigation.c
+Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	navigation.c
+Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	navigation.c
+Folder Root: %s	Folder Root: %s	navigation.c
+Folder Root: Card	Folder Root: Card	navigation.c
+Library & Folders	Library & Folders	navigation.c
+Press Centre to Change Mode	Press Centre to Change Mode	navigation.c
+Press Centre to Turn On or Off	Press Centre to Turn On or Off	navigation.c
+Press Centre When Finished	Press Centre When Finished	navigation.c
+OK to Disconnect	OK to Disconnect	navigation.c
+Now Playing	Now Playing	navigation.c
+Cover Flow	Cover Flow	navigation.c
+EQ	EQ	navigation.c
+Update Library	Update Library	navigation.c
+Balance	Balance	navigation.c
+Home: Split	Home: Split	navigation.c
+Home: Full	Home: Full	navigation.c
+Home: Carousel	Home: Carousel	navigation.c
+Battery: Icon	Battery: Icon	navigation.c
+Battery: Percent	Battery: Percent	navigation.c
+Battery: Icon + Percent	Battery: Icon + Percent	navigation.c
+Battery: Percent Inside	Battery: Percent Inside	navigation.c
+Light Mode: Off	Light Mode: Off	navigation.c
+Light Mode: On	Light Mode: On	navigation.c
+Light Mode: Auto	Light Mode: Auto	navigation.c
+Accent: %s	Accent: %s	navigation.c
+Theme: %s	Theme: %s	navigation.c
+Shortcut: None	Shortcut: None	navigation.c
+Shortcut: %s	Shortcut: %s	navigation.c
+Rounded Corners	Rounded Corners	navigation.c
+Smart Awake	Smart Awake	navigation.c
+Centred Now Playing	Centred Now Playing	navigation.c
+Click With Headphones	Click With Headphones	navigation.c
+Single Press Scrub	Single Press Scrub	navigation.c
+Time in Title	Time in Title	navigation.c
+Location	Location	navigation.c
+Unknown	Unknown	navigation.c
+Appearance	Appearance	navigation.c
+Controls	Controls	navigation.c
+Theme	Theme	navigation.c
+Boot to: Rockbox	Boot to: Rockbox	navigation.c
+Boot to: Q2 Pod	Boot to: Q2 Pod	navigation.c
+Rockbox is not on the card	Rockbox is not on the card	navigation.c
+Could not save boot choice	Could not save boot choice	navigation.c
+No albums	No albums	navigation.c
+No artists	No artists	navigation.c
+No composers	No composers	navigation.c
+No genres	No genres	navigation.c
+Chapter %d	Chapter %d	navigation.c
+Chapters	Chapters	navigation.c
+Could not read chapters	Could not read chapters	navigation.c
+No embedded chapters	No embedded chapters	navigation.c
+Too long to read chapters on the Q2	Too long to read chapters on the Q2	navigation.c
+Loading chapters…	Loading chapters…	navigation.c
+Spotify Cache: %s	Spotify Cache: %s	navigation.c
+Tidal Cache: %s	Tidal Cache: %s	navigation.c
+Erasing…	Erasing…	navigation.c
+Press again to erase login and cache	Press again to erase login and cache	navigation.c
+Erase Spotify Data	Erase Spotify Data	navigation.c
+Could not save setting	Could not save setting	navigation.c
+Streaming stopped	Streaming stopped	navigation.c
+Wait for the one in progress	Wait for the one in progress	navigation.c
+Stop Streaming Services	Stop Streaming Services	navigation.c
+No %s folder on the card	No %s folder on the card	navigation.c
+CFW. Version	CFW. Version	navigation.c
+Update to %s	Update to %s	netupdate.c
+Latest firmware installed	Latest firmware installed	netupdate.c
+Can't reach GitHub	Can't reach GitHub	netupdate.c
+No update for this build	No update for this build	netupdate.c
+Can't write to the card	Can't write to the card	netupdate.c
+Download cancelled	Download cancelled	netupdate.c
+GitHub is busy, try later	GitHub is busy, try later	netupdate.c
+The download was damaged, try again	The download was damaged, try again	netupdate.c
+Downloading %d%%	Downloading %d%%	netupdate.c
+Cancelling…	Cancelling…	netupdate.c
+Reconnecting…	Reconnecting…	netupdate.c
+Verifying…	Verifying…	netupdate.c
+Checking…	Checking…	netupdate.c
+Needs %u MB more space	Needs %u MB more space	netupdate.c
+Update downloaded: use TF card update	Update downloaded: use TF card update	netupdate.c
+Charge the battery first	Charge the battery first	netupdate.c
+Can't start the download	Can't start the download	netupdate.c
+Downloading…	Downloading…	netupdate.c
+Q2 Pod %s is out: System Update → Network update	Q2 Pod %s is out: System Update → Network update	netupdate.c
+Downloading	Downloading	netupdate.c
+Unpacking…	Unpacking…	netupdate.c
+Installing…	Installing…	netupdate.c
+Removing…	Removing…	netupdate.c
+Connect to Wi-Fi to load the list	Connect to Wi-Fi to load the list	netupdate.c
+Checked just now	Checked just now	netupdate.c
+Checked %u min ago	Checked %u min ago	netupdate.c
+Checked %u h ago	Checked %u h ago	netupdate.c
+Press again to remove	Press again to remove	netupdate.c
+Starts at power-on. Press again to install	Starts at power-on. Press again to install	netupdate.c
+%d app can be updated	%d app can be updated	netupdate.c
+%d apps can be updated	%d apps can be updated	netupdate.c
+All apps are up to date	All apps are up to date	netupdate.c
+The download is not a usable app	The download is not a usable app	netupdate.c
+Rockbox is ready. Find it on Home	Rockbox is ready. Find it on Home	netupdate.c
+Rockbox Themes are ready in Rockbox's Theme Settings	Rockbox Themes are ready in Rockbox's Theme Settings	netupdate.c
+%s is ready in %s	%s is ready in %s	netupdate.c
+%s removed	%s removed	netupdate.c
+Spotify's login and cache erased	Spotify's login and cache erased	netupdate.c
+Stopped checking for updates	Stopped checking for updates	netupdate.c
+Install Rockbox first	Install Rockbox first	netupdate.c
+Check for Updates	Check for Updates	netupdate.c
+%d of %d	%d of %d	np_bar.c
+Album lyrics	Album lyrics	onlinematch.c
+LRCLIB stopped answering	LRCLIB stopped answering	onlinematch.c
+Cancelled	Cancelled	onlinematch.c
+%d saved	%d saved	onlinematch.c
+%d not found	%d not found	onlinematch.c
+%d already had lyrics	%d already had lyrics	onlinematch.c
+%d failed	%d failed	onlinematch.c
+Album lyrics: no songs on the card	Album lyrics: no songs on the card	onlinematch.c
+Can't reach LRCLIB	Can't reach LRCLIB	onlinematch.c
+Download Album Lyrics	Download Album Lyrics	onlinematch.c
+Downloading %d of %d	Downloading %d of %d	onlinematch.c
+No album songs on the card	No album songs on the card	onlinematch.c
+file exceeds 16384 bytes	file exceeds 16384 bytes	peq.c
+line exceeds 512 bytes	line exceeds 512 bytes	peq.c
+embedded NUL	embedded NUL	peq.c
+unsupported filter form	unsupported filter form	peq.c
+expected Preamp: <gain> dB	expected Preamp: <gain> dB	peq.c
+preamp outside -60..24 dB or invalid number	preamp outside -60..24 dB or invalid number	peq.c
+expected Channel: L, R or all	expected Channel: L, R or all	peq.c
+only channels L, R and all are supported	only channels L, R and all are supported	peq.c
+unsupported command	unsupported command	peq.c
+invalid filter label	invalid filter label	peq.c
+expected Filter [number]:	expected Filter [number]:	peq.c
+expected ON or OFF	expected ON or OFF	peq.c
+unsupported filter type	unsupported filter type	peq.c
+expected Fc <Hz> Hz Gain <dB> dB	expected Fc <Hz> Hz Gain <dB> dB	peq.c
+invalid frequency or gain number	invalid frequency or gain number	peq.c
+expected Q <number>	expected Q <number>	peq.c
+peaking filter requires Q	peaking filter requires Q	peq.c
+range: 20..20000 Hz, -24..24 dB, Q 0.1..10	range: 20..20000 Hz, -24..24 dB, Q 0.1..10	peq.c
+more than 30 bands	more than 30 bands	peq.c
+summed preamp outside -60..24 dB	summed preamp outside -60..24 dB	peq.c
+L/R preamp differ by more than 12 dB	L/R preamp differ by more than 12 dB	peq.c
+out of memory	out of memory	peq.c
+cannot open file	cannot open file	peq.c
+file read failed	file read failed	peq.c
+EQ for 3.5 mm	EQ for 3.5 mm	peq_ui.c
+EQ for 4.4 mm	EQ for 4.4 mm	peq_ui.c
+EQ for USB	EQ for USB	peq_ui.c
+EQ for this Bluetooth device	EQ for this Bluetooth device	peq_ui.c
+Auto (44.1: %.1f / 48: %.1f)	Auto (44.1: %.1f / 48: %.1f)	peq_ui.c
+Folder missing or unavailable	Folder missing or unavailable	peq_ui.c
+Out of memory; cannot list presets	Out of memory; cannot list presets	peq_ui.c
+No presets found	No presets found	peq_ui.c
+Name not allowed; preset kept	Name not allowed; preset kept	peq_ui.c
+Name taken; preset kept	Name taken; preset kept	peq_ui.c
+Rename failed; preset kept	Rename failed; preset kept	peq_ui.c
+Renamed to %.100s	Renamed to %.100s	peq_ui.c
+Pop	Pop	peq_ui.c
+Rock	Rock	peq_ui.c
+Dance	Dance	peq_ui.c
+Blues	Blues	peq_ui.c
+Metal	Metal	peq_ui.c
+Vocal	Vocal	peq_ui.c
+Classical	Classical	peq_ui.c
+Jazz	Jazz	peq_ui.c
+Preset loaded; choose Apply to activate	Preset loaded; choose Apply to activate	peq_ui.c
+Preset saved; active EQ unchanged	Preset saved; active EQ unchanged	peq_ui.c
+Save failed; settings unchanged	Save failed; settings unchanged	peq_ui.c
+Switch failed; EQ unchanged	Switch failed; EQ unchanged	peq_ui.c
+Applied	Applied	peq_ui.c
+Apply failed; active EQ unchanged	Apply failed; active EQ unchanged	peq_ui.c
+Reset; choose Apply to activate	Reset; choose Apply to activate	peq_ui.c
+Delete failed; preset kept	Delete failed; preset kept	peq_ui.c
+Deleted %.100s; active EQ unchanged	Deleted %.100s; active EQ unchanged	peq_ui.c
+Line %u: %s	Line %u: %s	peq_ui.c
+Cannot read preset; settings unchanged	Cannot read preset; settings unchanged	peq_ui.c
+Peaking	Peaking	peq_ui.c
+Low shelf	Low shelf	peq_ui.c
+High shelf	High shelf	peq_ui.c
+Apply changes	Apply changes	peq_ui.c
+Nothing to apply	Nothing to apply	peq_ui.c
+Reset to defaults	Reset to defaults	peq_ui.c
+Enabled	Enabled	peq_ui.c
+EQ per Output	EQ per Output	peq_ui.c
+Preamp	Preamp	peq_ui.c
+Presets	Presets	peq_ui.c
+Band	Band	peq_ui.c
+Channels	Channels	peq_ui.c
+Both	Both	peq_ui.c
+Left	Left	peq_ui.c
+Right	Right	peq_ui.c
+Type	Type	peq_ui.c
+Frequency	Frequency	peq_ui.c
+Gain	Gain	peq_ui.c
+Band %d Q	Band %d Q	peq_ui.c
+Band %d Frequency (Hz)	Band %d Frequency (Hz)	peq_ui.c
+Raise	Raise	peq_ui.c
+Lower	Lower	peq_ui.c
+Step	Step	peq_ui.c
+Delete %.100s? Confirm	Delete %.100s? Confirm	peq_ui.c
+Replace existing preset? Confirm	Replace existing preset? Confirm	peq_ui.c
+Cancel replacement	Cancel replacement	peq_ui.c
+Save as Manual %02d	Save as Manual %02d	peq_ui.c
+Stock presets	Stock presets	peq_ui.c
+Import from SD /EQ	Import from SD /EQ	peq_ui.c
+Save editor preset	Save editor preset	peq_ui.c
+Rename a preset	Rename a preset	peq_ui.c
+Delete a preset	Delete a preset	peq_ui.c
+Previous page	Previous page	peq_ui.c
+Next page	Next page	peq_ui.c
+Band %d	Band %d	peq_ui.c
+Band %d Gain	Band %d Gain	peq_ui.c
+Presets %d/%d	Presets %d/%d	peq_ui.c
+Save failed; EQ unchanged	Save failed; EQ unchanged	peq_ui.c
+Advanced	Advanced	peq_ui.c
+Enabled: On	Enabled: On	peq_ui.c
+Enabled: Off	Enabled: Off	peq_ui.c
+Low	Low	peq_ui.c
+Mid	Mid	peq_ui.c
+High	High	peq_ui.c
+Simple	Simple	peq_ui.c
+No photos	No photos	photos.c
+All Photos	All Photos	photos.c
+Photos	Photos	photos.c
+Can't open this photo	Can't open this photo	photos.c
+%d of %d  %s	%d of %d  %s	photos.c
+Could not save folder speed	Could not save folder speed	playback.c
+Too long to play on the Q2: split it into parts	Too long to play on the Q2: split it into parts	playback.c
+Press again to restart	Press again to restart	playback.c
+Could not save playlist	Could not save playlist	playlists.c
+Already in playlist	Already in playlist	playlists.c
+Added to Playlist	Added to Playlist	playlists.c
+Search songs	Search songs	playlists.c
+Editing: %s	Editing: %s	playlists.c
+Add Songs: %s	Add Songs: %s	playlists.c
+Song Actions: %s	Song Actions: %s	playlists.c
+Remove song?: %s	Remove song?: %s	playlists.c
+Add Songs	Add Songs	playlists.c
+Move Up	Move Up	playlists.c
+Move Down	Move Down	playlists.c
+Remove from Playlist	Remove from Playlist	playlists.c
+Search: %s	Search: %s	playlists.c
+No songs match	No songs match	playlists.c
+Search for more songs	Search for more songs	playlists.c
+Delete Playlist?	Delete Playlist?	playlists.c
+Delete	Delete	playlists.c
+Playlist deleted	Playlist deleted	playlists.c
+Could not delete playlist	Could not delete playlist	playlists.c
+Delete Playlist	Delete Playlist	playlists.c
+Edit Playlist	Edit Playlist	playlists.c
+Queue unchanged	Queue unchanged	playlists.c
+Deselect All	Deselect All	playlists.c
+Select All	Select All	playlists.c
+Export %d Playlist	Export %d Playlist	playlists.c
+Export %d Playlists	Export %d Playlists	playlists.c
+Delete %d Playlist…	Delete %d Playlist…	playlists.c
+Delete %d Playlists…	Delete %d Playlists…	playlists.c
+%d Selected	%d Selected	playlists.c
+Select Playlists	Select Playlists	playlists.c
+Playlists	Playlists	playlists.c
+No Playlists	No Playlists	playlists.c
+New Playlist…	New Playlist…	playlists.c
+Select Playlists…	Select Playlists…	playlists.c
+Import Playlists	Import Playlists	playlists.c
+Export	Export	playlists.c
+No other group	No other group	queue_menu.c
+Folder not found	Folder not found	queue_menu.c
+All Songs	All Songs	queue_menu.c
+Songs in Album	Songs in Album	queue_menu.c
+Albums and Songs	Albums and Songs	queue_menu.c
+Songs in Folder	Songs in Folder	queue_menu.c
+Folders	Folders	queue_menu.c
+Folders and Songs	Folders and Songs	queue_menu.c
+Play One Song	Play One Song	queue_menu.c
+Play One Album	Play One Album	queue_menu.c
+Repeat Song	Repeat Song	queue_menu.c
+Repeat Album	Repeat Album	queue_menu.c
+Repeat All	Repeat All	queue_menu.c
+Play One Folder	Play One Folder	queue_menu.c
+Repeat Folder	Repeat Folder	queue_menu.c
+Album	Album	queue_menu.c
+Folder	Folder	queue_menu.c
+Repeat	Repeat	queue_menu.c
+Group by	Group by	queue_menu.c
+Play Next	Play Next	queue_menu.c
+Add to Queue	Add to Queue	queue_menu.c
+Add to Favourites	Add to Favourites	queue_menu.c
+Remove from Favourites	Remove from Favourites	queue_menu.c
+Add to Playlist	Add to Playlist	queue_menu.c
+Go to Album	Go to Album	queue_menu.c
+Go to Artist	Go to Artist	queue_menu.c
+Next Album	Next Album	queue_menu.c
+Previous Album	Previous Album	queue_menu.c
+Rate	Rate	queue_menu.c
+Resume	Resume	queue_menu.c
+View Queue	View Queue	queue_menu.c
+Go to Folder	Go to Folder	queue_menu.c
+Rate Album	Rate Album	queue_menu.c
+Group by: Folder	Group by: Folder	queue_menu.c
+Group by: Album	Group by: Album	queue_menu.c
+Next Folder	Next Folder	queue_menu.c
+Previous Folder	Previous Folder	queue_menu.c
+Wheel: Volume	Wheel: Volume	quick_settings.c
+Wheel: Brightness	Wheel: Brightness	quick_settings.c
+Could not save Favourites	Could not save Favourites	radio.c
+Added to Favourites	Added to Favourites	radio.c
+Removed from Favourites	Removed from Favourites	radio.c
+Stopped	Stopped	radio.c
+Can't play: %s	Can't play: %s	radio.c
+Can't play this station	Can't play this station	radio.c
+Connecting…	Connecting…	radio.c
+Search is too long	Search is too long	radio.c
+Search stations	Search stations	radio.c
+Favourites	Favourites	radio.c
+Featured	Featured	radio.c
+Top Stations	Top Stations	radio.c
+By Country	By Country	radio.c
+By Genre	By Genre	radio.c
+Countries	Countries	radio.c
+Connecting to Wi-Fi…	Connecting to Wi-Fi…	radio.c
+Directory unavailable	Directory unavailable	radio.c
+No Wi-Fi	No Wi-Fi	radio.c
+No stations	No stations	radio.c
+No favourites	No favourites	radio.c
+Rating not saved	Rating not saved	ratings.c
+Ratings are full	Ratings are full	ratings.c
+Favourite not sent to the app	Favourite not sent to the app	ratings.c
+Unrated	Unrated	ratings.c
+1 Heart	1 Heart	ratings.c
+%d Hearts	%d Hearts	ratings.c
+%d of 5	%d of 5	ratings.c
+Album changed	Album changed	ratings.c
+Favourite not saved	Favourite not saved	ratings.c
+This app has no favourites	This app has no favourites	ratings.c
+Top Rated	Top Rated	ratings.c
+Loved	Loved	ratings.c
+All Rated	All Rated	ratings.c
+Disliked	Disliked	ratings.c
+No songs yet	No songs yet	ratings.c
+Hold the heart on Now Playing to rate	Hold the heart on Now Playing to rate	ratings.c
+No rated albums yet	No rated albums yet	ratings.c
+Upload failed, %d sent	Upload failed, %d sent	scrobble_ui.c
+Scrobbles sent: %d	Scrobbles sent: %d	scrobble_ui.c
+Nothing to upload	Nothing to upload	scrobble_ui.c
+Uploading scrobbles	Uploading scrobbles	scrobble_ui.c
+Already uploading	Already uploading	scrobble_ui.c
+Upload failed	Upload failed	scrobble_ui.c
+Connect to Wi-Fi first	Connect to Wi-Fi first	smart_wifi.c
+Waiting for Spotify	Waiting for Spotify	spotify.c
+Spotify isn't on the card	Spotify isn't on the card	spotify.c
+See the Q2 Pod guide to add it	See the Q2 Pod guide to add it	spotify.c
+Open Spotify on your phone	Open Spotify on your phone	spotify.c
+and choose Q2	and choose Q2	spotify.c
+Spotify refused this account	Spotify refused this account	spotify.c
+Its tracks can't play on the Q2	Its tracks can't play on the Q2	spotify.c
+Playback didn't start	Playback didn't start	spotify.c
+Go back and try again	Go back and try again	spotify.c
+Starting playback	Starting playback	spotify.c
+Update Spotify on the card	Update Spotify on the card	spotify.c
+See the Q2 Pod guide	See the Q2 Pod guide	spotify.c
+Nothing playing	Nothing playing	spotify.c
+Choose music in Spotify	Choose music in Spotify	spotify.c
+Liked Songs	Liked Songs	spotify.c
+Queue	Queue	spotify.c
+Playback Settings	Playback Settings	spotify.c
+Account	Account	spotify.c
+Downloaded Tracks	Downloaded Tracks	spotify.c
+Downloads	Downloads	spotify.c
+Tracks	Tracks	spotify.c
+Open Spotify on your phone and choose Q2	Open Spotify on your phone and choose Q2	spotify.c
+Both on the same Wi-Fi	Both on the same Wi-Fi	spotify.c
+to browse on the Q2	to browse on the Q2	spotify.c
+Downloaded Playlists	Downloaded Playlists	spotify.c
+Download Progress	Download Progress	spotify.c
+Storage Management	Storage Management	spotify.c
+Download Status	Download Status	spotify.c
+The latest download's progress	The latest download's progress	spotify.c
+for saved playlists and download controls	for saved playlists and download controls	spotify.c
+Remove Playlists…	Remove Playlists…	spotify.c
+Remove Tracks…	Remove Tracks…	spotify.c
+Keeps login and settings	Keeps login and settings	spotify.c
+Track removal can make playlists incomplete	Track removal can make playlists incomplete	spotify.c
+Pause	Pause	spotify.c
+Cancel Download	Cancel Download	spotify.c
+Retry Failed	Retry Failed	spotify.c
+Update Download	Update Download	spotify.c
+Sign Out of Spotify?	Sign Out of Spotify?	spotify.c
+Sign Out	Sign Out	spotify.c
+Nothing here	Nothing here	spotify.c
+Selected	Selected	spotify.c
+Press to select	Press to select	spotify.c
+All	All	spotify.c
+One	One	spotify.c
+Download Liked Songs	Download Liked Songs	spotify.c
+Download Playlist	Download Playlist	spotify.c
+For offline listening	For offline listening	spotify.c
+Download Controls	Download Controls	spotify.c
+Update, retry, pause, resume or cancel	Update, retry, pause, resume or cancel	spotify.c
+Remove Selected…	Remove Selected…	spotify.c
+Confirm the affected count	Confirm the affected count	spotify.c
+Spotify isn't running	Spotify isn't running	spotify.c
+Spotify didn't answer	Spotify didn't answer	spotify.c
+Search Spotify	Search Spotify	spotify.c
+Select Tracks	Select Tracks	spotify.c
+Select at least one item	Select at least one item	spotify.c
+Selection full. Remove these first	Selection full. Remove these first	spotify.c
+Boot logo must be a 320x375 JPEG	Boot logo must be a 320x375 JPEG	system.c
+Could not save boot logo	Could not save boot logo	system.c
+Accent: Graphite	Accent: Graphite	theme_engine.c
+Accent: Crimson	Accent: Crimson	theme_engine.c
+Accent: Tidal	Accent: Tidal	theme_engine.c
+Accent: Champagne	Accent: Champagne	theme_engine.c
+Accent: Cobalt	Accent: Cobalt	theme_engine.c
+Accent: Tangerine	Accent: Tangerine	theme_engine.c
+Accent: Plum	Accent: Plum	theme_engine.c
+Accent: Ivory	Accent: Ivory	theme_engine.c
+Accent: Green	Accent: Green	theme_engine.c
+Favorites	Favorites	theme_engine.c
+Rated Albums	Rated Albums	theme_engine.c
+Podcasts	Podcasts	theme_engine.c
+Audiobooks	Audiobooks	theme_engine.c
+Groovebox can't start from the card	Groovebox can't start from the card	theme_engine.c
+Groovebox is not on the card	Groovebox is not on the card	theme_engine.c
+Play a Tidal album or playlist first	Play a Tidal album or playlist first	tidal.c
+Downloading %u of %u. Press to stop	Downloading %u of %u. Press to stop	tidal.c
+Download Playing Songs	Download Playing Songs	tidal.c
+Tidal Cache full: %u of %u song saved	Tidal Cache full: %u of %u song saved	tidal.c
+Tidal Cache full: %u of %u songs saved	Tidal Cache full: %u of %u songs saved	tidal.c
+Downloaded %u of %u song	Downloaded %u of %u song	tidal.c
+Downloaded %u of %u songs	Downloaded %u of %u songs	tidal.c
+Nothing to play next	Nothing to play next	upnext.c
+Queue changed	Queue changed	upnext.c
+Never	Never	usb_charge.c
+USB DAC Charging: %s	USB DAC Charging: %s	usb_charge.c
+Spectrum	Spectrum	visualizer.c
+Oscilloscope	Oscilloscope	visualizer.c
+VU Meters	VU Meters	visualizer.c
+Halo	Halo	visualizer.c
+Pulsar	Pulsar	visualizer.c
+Contour	Contour	visualizer.c
+More	More	assets
+A-B Repeat	A-B Repeat	assets
+Speed	Speed	assets
+*Only for 48 kHz and below	*Only for 48 kHz and below	assets
+No lyrics	No lyrics	assets
+Genre	Genre	assets
+Size	Size	assets
+Year	Year	assets
+Format	Format	assets
+Bit Depth	Bit Depth	assets
+Bit Rate	Bit Rate	assets
+Sample Rate	Sample Rate	assets
+Auto Scan	Auto Scan	assets
+Update Library Now	Update Library Now	assets
+Scan Folders	Scan Folders	assets
+OK	OK	assets
+Bluetooth	Bluetooth	assets
+Key Lock	Key Lock	assets
+Low Gain	Low Gain	assets
+USB Storage	USB Storage	assets
+Playback	Playback	assets
+Custom	Custom	assets
+Reset	Reset	assets
+Open this address in a browser:	Open this address in a browser:	assets
+Downloaded	Downloaded	assets
+Baidu Netdisk	Baidu Netdisk	assets
+Sign In	Sign In	assets
+Scan with the Baidu app to sign in	Scan with the Baidu app to sign in	assets
+Baidu encryption protects your privacy	Baidu encryption protects your privacy	assets
+Bluetooth RF test: connect from a computer	Bluetooth RF test: connect from a computer	assets
+Press Next to exit	Press Next to exit	assets
+Brightness Test	Brightness Test	assets
+Next	Next	assets
+Bluetooth Test	Bluetooth Test	assets
+Down	Down	assets
+Up	Up	assets
+Swipe Left	Swipe Left	assets
+Swipe Right	Swipe Right	assets
+Key Test	Key Test	assets
+Headphone Test	Headphone Test	assets
+Plug in single-ended headphones	Plug in single-ended headphones	assets
+Play (left male, right female)	Play (left male, right female)	assets
+Bluetooth Receiver Test	Bluetooth Receiver Test	assets
+Battery Test	Battery Test	assets
+Battery:	Battery:	assets
+Charging:	Charging:	assets
+microSD Test	microSD Test	assets
+Touch Test	Touch Test	assets
+Wi-Fi Test	Wi-Fi Test	assets
+Artist	Artist	assets
+Export Playlists	Export Playlists	assets
+Playlist	Playlist	assets
+0 songs	0 songs	assets
+System	System	assets
+Rockbox	Rockbox	assets
+Baker Island	Baker Island	assets
+Midway	Midway	assets
+Honolulu	Honolulu	assets
+Anchorage	Anchorage	assets
+Los Angeles	Los Angeles	assets
+Denver	Denver	assets
+Mexico City	Mexico City	assets
+New York	New York	assets
+Halifax	Halifax	assets
+St. John's	St. John's	assets
+Buenos Aires	Buenos Aires	assets
+Azores	Azores	assets
+London	London	assets
+Amsterdam	Amsterdam	assets
+Bucharest	Bucharest	assets
+Kuwait	Kuwait	assets
+Tehran	Tehran	assets
+Muscat	Muscat	assets
+Kabul	Kabul	assets
+Karachi	Karachi	assets
+Dhaka	Dhaka	assets
+Bangkok	Bangkok	assets
+Shanghai	Shanghai	assets
+Tokyo	Tokyo	assets
+Adelaide	Adelaide	assets
+Sydney	Sydney	assets
+Fiji	Fiji	assets
+Marquesas	Marquesas	assets
+South Georgia	South Georgia	assets
+Colombo	Colombo	assets
+Kathmandu	Kathmandu	assets
+Yangon	Yangon	assets
+Eucla	Eucla	assets
+L. Howe	L. Howe	assets
+Noumea	Noumea	assets
+Chatham	Chatham	assets
+Tongatapu	Tongatapu	assets
+Kiritimati	Kiritimati	assets
+Chicago	Chicago	assets
+Phoenix	Phoenix	assets
+Kolkata	Kolkata	assets
+Brisbane	Brisbane	assets
+Auckland	Auckland	assets
+Status Bar	Status Bar	assets
+Minimal	Minimal	assets
+Modern	Modern	assets
+Classic	Classic	assets
+Show Wordmark	Show Wordmark	assets
+Library on Home	Library on Home	assets
+Row Preview	Row Preview	assets
+Row Art	Row Art	assets
+Classic Blue	Classic Blue	assets
