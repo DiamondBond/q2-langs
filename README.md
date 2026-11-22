@@ -23,6 +23,7 @@ It also carries an Arabic font, so Arabic, Persian and Urdu titles, artists, alb
 | Español | `lang/es.tsv` |
 | ภาษาไทย | `lang/th.tsv` |
 | 繁體中文 | `lang/zh_HK.tsv` |
+| Українська | `lang/uk.tsv` |
 
 ## A table
 

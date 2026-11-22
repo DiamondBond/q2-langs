@@ -1,0 +1,1167 @@
+# Українська
+History_record	History record	Історія
+about_cardcap	Card Capacity	Ємність картки
+about_cardremain	Remaining	Залишилося
+about_ipaddr	IP Address	IP-адреса
+about_model	Model	Модель
+about_more	*Our sincere thanks go to the DiamondBond team and all its enthusiasts for their ingenuity, outstanding solutions, and generous contributions.	*Щиро дякуємо команді DiamondBond і всім її ентузіастам за винахідливість, чудові рішення та щедрий внесок.
+about_sn	Serial Number	Серійний номер
+about_version	Version	Версія
+about_wifimac	Wi-Fi MAC	MAC-адреса Wi-Fi
+album	Album	Альбом
+album	Album	Альбом
+albumsinger	Album artist	Виконавець альбому
+allmusic	All Songs	Усі пісні
+audio_settings	Audio settings	Налаштування звуку
+baidu_login	Log In	Увійти
+baidu_login_tips1	Please use Baidu Netdisk or Baidu App to scan the code to login	Скануйте код у Baidu Netdisk або в застосунку Baidu, щоб увійти
+baidu_login_tips2	Baidu encryption technology protects your privacy and security	Шифрування Baidu захищає вашу приватність і безпеку
+baidu_loginout	Log Out	Вийти
+baidunet_floderinfo_failed	Failed to get file list	Не вдалося отримати список файлів
+batch_addplaylist	Add to Playlist	Додати до плейлиста
+bt_adjvol	Bluetooth Headset Volume Control	Керування гучністю Bluetooth-гарнітури
+bt_compatiabledev	Compatible Device	Сумісний пристрій
+bt_name	Bluetooth Name	Ім'я Bluetooth
+bt_paireddev	Paired Device	Спарений пристрій
+bt_quality	Quality	Якість
+bt_search	Scan now	Шукати зараз
+btcode_aac	AAC	AAC
+btcode_aptx	aptX	aptX
+btcode_aptxhd	aptX HD	aptX HD
+btcode_ldacauto	LDAC Connection (auto)	З'єднання LDAC (авто)
+btcode_ldachq	LDAC HQ	LDAC HQ
+btcode_ldacst	LDAC Standard	LDAC стандарт
+btcode_sbc	SBC	SBC
+btcode_sbchq	SBC HQ	SBC HQ
+custom_eq	Custom	Власний
+display_backlight	Brightness	Яскравість
+display_lighttime	Screen Off Time	Вимкнення екрана
+display_screenlock	Lock Screen	Екран блокування
+dsdmode_d2p	D2P	D2P
+dsdmode_dop	DOP	DOP
+dsdmode_native	Native	Нативний
+eq_blues	Blues	Блюз
+eq_classical	Classical	Класика
+eq_club	Club	Клуб
+eq_custom1	Custom1	Власний 1
+eq_custom2	Custom2	Власний 2
+eq_custom3	Custom3	Власний 3
+eq_dance	Dance	Танці
+eq_doublebass	Sub-bass	Суббас
+eq_jazz	Jazz	Джаз
+eq_metal	Metal	Метал
+eq_only48kmsg	EQ only for files below 48kHz.	EQ лише для файлів нижче 48 кГц.
+eq_pop	Pop	Поп
+eq_reset	Reset	Скинути
+eq_rock	Rock	Рок
+eq_vocal	Vocal	Вокал
+fav	My Fav	Вибране
+filter_delayfast	Low Delay Fast Roll-off	Швидкий спад, мала затримка
+filter_delayslow	Low Delay Slow Roll-off	Повільний спад, мала затримка
+filter_fast	Fast Roll-off	Швидкий спад
+filter_slow	Slow Roll-off	Повільний спад
+frequentplay	Frequent	Часто відтворювані
+gain_high	High	Високе
+gain_low	Low	Низьке
+genre	Genre	Жанр
+genre_statistics	Total %d songs	Усього пісень: %d
+hr	Hi-Res	Hi-Res
+keyboard_keyword	Please enter keyword	Введіть ключове слово
+keyboard_netname	Please enter network name	Введіть назву мережі
+keyboard_password	Please enter password	Введіть пароль
+keylock_all	Lock Volume & Buttons	Блокувати гучність і кнопки
+keylock_info	Only effective when the screen is off	Діє лише при вимкненому екрані
+keylock_info2	Effective on Lockscreen and when Screen Off	Діє на екрані блокування й при вимкненому екрані
+keylock_key	Lock Buttons Only	Блокувати лише кнопки
+keylock_volume	Lock Volume Only	Блокувати лише гучність
+lan_english	English	English
+lan_french	Français	Français
+lan_german	Deutsch	Deutsch
+lan_italian	Italiano	Italiano
+lan_japanese	日本語	日本語
+lan_korean	한국어	한국어
+lan_polish	Polski	Polski
+lan_russian	Русский	Русский
+lan_simplified	简体中文	简体中文
+lan_spanish	español	español
+lan_thai	ภาษาไทย	ภาษาไทย
+lan_traditional	繁體中文	繁體中文
+lan_ukrainian	Українська	Українська
+lighttime_15s	15s	15 с
+lighttime_1min	1min	1 хв
+lighttime_2min	2min	2 хв
+lighttime_30min	30min	30 хв
+lighttime_30s	30s	30 с
+lighttime_5min	5min	5 хв
+lighttime_lyricmode	Lyrics mode	Режим текстів
+lighttime_off	Off	Вимкнено
+list_baidu	Baidu Netdisk	Baidu Netdisk
+list_tidal	TIDAL	TIDAL
+local_album	Albums	Альбоми
+local_allmusic	Local Songs	Локальні пісні
+local_allsongs	Songs	Пісні
+local_fav	My Fav	Вибране
+local_frequentplay	Frequent	Часто відтворювані
+local_genre	Genres	Жанри
+local_hr	Hi-Res	Hi-Res
+local_playlist	Playlists	Плейлисти
+local_recentadd	Recently Added	Нещодавно додані
+local_recentplay	Recent	Нещодавні
+local_songer	Artists	Виконавці
+local_upmusic	Update Library	Оновити медіатеку
+login_out	Logout	Вийти
+memplay_location	Location	Позиція
+memplay_off	Off	Вимкнено
+memplay_track	Track	Трек
+msg_actionnotsupport	Non-local songs,not currently supported	Нелокальні пісні поки не підтримуються
+msg_actionscan	Scan music?	Сканувати музику?
+msg_add_task	Please enter the URL of the file you want to download	Введіть URL файлу для завантаження
+msg_addfailed	Adding Failed	Не вдалося додати
+msg_addfavsuccess	Added To Fav	Додано до вибраного
+msg_addplaylistsuccess	Added To Playlist	Додано до плейлиста
+msg_autoshutdown	Shutdown	Вимкнення
+msg_btabnormal	Bluetooth abnormal	Збій Bluetooth
+msg_btinit_run	Bluetooth Starting	Запуск Bluetooth
+msg_btreconnect	Reconnect Bluetooth?	Перепідключити Bluetooth?
+msg_cardeject	Audio Disconnected	Аудіопристрій від'єднано
+msg_cardinsert	Audio Connected	Аудіопристрій підключено
+msg_checkfw	Checking FW	Перевірка прошивки
+msg_checkfwerr	FW. Check Error	Помилка перевірки прошивки
+msg_closesynclink	Please close SyncLink	Закрийте SyncLink
+msg_confirmupdate	Confirm Update?	Підтвердити оновлення?
+msg_connected	Connected	Підключено
+msg_connecting	Connecting	Підключення
+msg_delalbum	Delete Album?	Видалити альбом?
+msg_delalbumfailed	Failed To Delete Album	Не вдалося видалити альбом
+msg_delalbumsuccess	Album Deleted	Альбом видалено
+msg_delartist	Delete Artist?	Видалити виконавця?
+msg_delartistsuccess	Artist Deleted	Виконавця видалено
+msg_delete_task	Are you sure you want to delete the download task?	Дійсно видалити завдання завантаження?
+msg_deletesource	Also delete source file	Також видалити вихідний файл
+msg_delfile	Are you sure you want to delete this file?	Дійсно видалити цей файл?
+msg_delfile	Delete File?	Видалити файл?
+msg_delfilefailed	Failed To Delete File	Не вдалося видалити файл
+msg_delfilesuccess	File Deleted	Файл видалено
+msg_delgenre	Delete Genre?	Видалити жанр?
+msg_delgenresuccess	Genre Deleted	Жанр видалено
+msg_delplaylist	Delete Playlist?	Видалити плейлист?
+msg_delplaylistfailed	Failed To Delete Playlist	Не вдалося видалити плейлист
+msg_delplaylistsuccess	Playlist Deleted	Плейлист видалено
+msg_delsong	Delete Song?	Видалити пісню?
+msg_delsongfailed	Failed To Delete Song	Не вдалося видалити пісню
+msg_delsongsuccess	Song Deleted	Пісню видалено
+msg_disconnected	Disconnected	Від'єднано
+msg_disonnectbt	Please disconnect the bluetooth device	Від'єднайте Bluetooth-пристрій
+msg_downloadpath	Download path is	Шлях завантаження:
+msg_exist_task	The download task already exists	Таке завантаження вже існує
+msg_exitairplay	Quit AirPlay?	Вийти з AirPlay?
+msg_exportplaylist	Export Playlist?	Експортувати плейлист?
+msg_exportsuccess	Export successful	Експорт виконано
+msg_factorysuccess	Restore to factory settings succeeded	Заводські налаштування відновлено
+msg_favsuccess	Added To Fav	Додано до вибраного
+msg_file_exist	The file already exists	Файл уже існує
+msg_importplaylist	Import Playlists?	Імпортувати плейлисти?
+msg_importsuccess	Successfully imported	Імпорт виконано
+msg_initsetsuccess	All settings initialized successfully	Усі налаштування скинуто
+msg_latestfw	Latest Fw. Installed	Встановлено останню прошивку
+msg_linkerror	WiFi Connection Error	Помилка підключення до Wi-Fi
+msg_lowarn	Line Out sets max volume,continue?	Line Out задає максимальну гучність. Продовжити?
+msg_lowpower	Low Battery	Низький заряд
+msg_namenull	The name can't be empty	Назва не може бути порожньою
+msg_netnameerr	Network Must Be Named	Потрібна назва мережі
+msg_no	Cancel	Скасувати
+msg_no_storage	Storage is full.Some songs couldn't be added.	Сховище заповнене. Не всі пісні вдалося додати.
+msg_noheadset	Playback is disabled without headphones.Please insert headphones.	Без навушників відтворення вимкнено. Підключіть навушники.
+msg_nosongs	No songs in this folder	У цій папці немає пісень
+msg_notalbuminfo	This file has no Album data	У цьому файлі немає даних про альбом
+msg_notfile	File Not Found	Файл не знайдено
+msg_notfolder	Folder not found	Папку не знайдено
+msg_notfoundfw	Fw. Not Found	Прошивку не знайдено
+msg_notmemory	Memory is not enough	Недостатньо пам'яті
+msg_notmemory	Out of memory	Пам'ять вичерпано
+msg_notnetwork	Network Disconnected	Мережу відключено
+msg_nototg	No OTG Found	OTG не знайдено
+msg_notplaylist	Playlist Not Found	Плейлист не знайдено
+msg_notsongerinfo	This file has no Artist data	У цьому файлі немає даних про виконавця
+msg_notsonglist	No Song List	Немає списку пісень
+msg_notspecdir	Folder not specified	Папку не вказано
+msg_notsupport	Not Supported	Не підтримується
+msg_notsupportdel	Can't be removed	Не можна видалити
+msg_nottf	No TF Card Found	Картку TF не знайдено
+msg_otgeject	OTG Disconnected	OTG від'єднано
+msg_otginfoerr	Failed To Get Version Info	Не вдалося отримати інформацію про версію
+msg_otginsert	OTG Connected	OTG підключено
+msg_paircode	Bluetooth Code	Код Bluetooth
+msg_paired	Paired	Спарено
+msg_playlistexist	Playlist Already Exists	Плейлист уже існує
+msg_playlistfull	Could not create playlist	Не вдалося створити плейлист
+msg_poweroff	Shut Down?	Вимкнути?
+msg_resetdbsuccess	Reset completed	Скидання завершено
+msg_restarting	Restarting	Перезапуск
+msg_shortpasswd	8 Digits PIN At Least	PIN-код: щонайменше 8 цифр
+msg_start_download_task	start the download task	почати завантаження
+msg_stop_download_task	stop the download task	зупинити завантаження
+msg_testmode	Enter test mode?	Увійти в тестовий режим?
+msg_tfeject	TF Card Removed	Картку TF вилучено
+msg_tfinsert	TF Card Inserted	Картку TF вставлено
+msg_unpaired	Unpaired	Розпарено
+msg_unpairing	unpair?	Розпарити?
+msg_unsupportformat	Unsupported format	Непідтримуваний формат
+msg_update	Confirmed	Підтверджено
+msg_wificancelsave	Delete Record?	Видалити запис?
+msg_wifidisconnect	Disconnect Now?	Від'єднатися зараз?
+msg_yes	OK	OK
+navigation_all	All	Усі
+netservice_airplay	AirPlay	AirPlay
+netservice_dlna	DLNA	DLNA
+netservice_wifitrans	Wi-Fi File Transfer	Передача файлів через Wi-Fi
+no_search	No search results	Нічого не знайдено
+not_allmusic	Currently no songs	Пісень поки немає
+otgdownload_percent	FW Downloaded	Прошивку завантажено
+outputway	Output Options	Параметри виходу
+play_all	Play All	Відтворити все
+player_abrepeat	AB Repeat	Повтор A-B
+player_albuminfo	Look up Album	Знайти альбом
+player_bitdepth	Bit Depth	Розрядність
+player_bitrate	Bitrate	Бітрейт
+player_delete	Delete Song	Видалити пісню
+player_encoding	Encoding	Кодування
+player_era	Year	Рік
+player_filesize	File Size	Розмір файлу
+player_location	Location	Розташування
+player_msgmul	*Affecting only files below 48khz	*Лише для файлів нижче 48 кГц
+player_multiple	Multiple Speed	Швидкість
+player_nolyric	No Lyrics	Немає тексту
+player_onlinesearch	Download Cover & Lyrics	Завантажити обкладинку й текст
+player_playlist	Queue	Черга
+player_samplerate	Sample Rate	Частота дискретизації
+player_songerinfo	Look up Artist	Знайти виконавця
+player_unknown	Unknown	Невідомо
+player_unknown	Unknown Artist	Невідомий виконавець
+playlist	Playlist	Плейлист
+playlist_create	New playlist	Новий плейлист
+playlist_export	Export playlist	Експортувати плейлист
+playlist_import	Import playlist	Імпортувати плейлист
+playmode_listplay	List Play	По порядку
+playmode_repeatall	Repeat All	Повтор усіх
+playmode_repeattrack	Repeat Track	Повтор пісні
+playmode_shuffle	Shuffle	Перемішати
+playset_balance	Channel Balance	Баланс каналів
+playset_bootvol	Default Volume	Гучність за замовчуванням
+playset_covermode	Enlarged Album Art	Збільшена обкладинка
+playset_dsdoutput	DSD Output Mode	Режим виводу DSD
+playset_eq	EQ	EQ
+playset_filter	Digital Filters	Цифрові фільтри
+playset_foldercover	Folder Album Cover	Обкладинка папки
+playset_folderjump	Folder Skip	Пропуск папок
+playset_gain	Gain	Підсилення
+playset_gapless	Gapless	Без пауз
+playset_maxvol	Max Volume	Макс. гучність
+playset_memplay	Memory Playback	Пам'ять відтворення
+playset_noplay	Require Output (Beta)	Потрібен вихід (бета)
+playset_playmode	Play Mode	Режим відтворення
+playset_replaygain	ReplayGain	ReplayGain
+playset_usbaudiovol	USB Audio Output	Вихід USB Audio
+playset_volcover	Volume and Album Display	Гучність і обкладинка
+powerm_deep_off	Standby	Очікування
+powerm_sleep	Sleep Timer	Таймер сну
+recentadd	Recently Added	Нещодавно додані
+recentplay	Recent	Нещодавні
+rename	Rename	Перейменувати
+renamesuccess	Successfully renamed	Перейменовано
+replaygain_track	Song	Пісня
+reset_factory	Full Factory Reset	Повне скидання до заводських
+reset_initdatabase	Reset Database	Скинути базу даних
+reset_initset	Reset Settings Only	Скинути лише налаштування
+scan_automatic	Automatic Update	Автооновлення
+scan_now	Scan music now	Сканувати музику зараз
+scan_now	Scan music now	Сканувати музику зараз
+scan_spec	Scan specified folders	Сканувати вибрані папки
+scan_spec	Scan specified folders	Сканувати вибрані папки
+scan_startscan	Scan	Сканувати
+scan_updatefinish	Library Updated,%d Updated	Медіатеку оновлено, оновлено: %d
+scan_updating	Updating No.%d	Оновлення %d
+scover_cover	Cover	Обкладинка
+scover_lyric	Lyrics	Текст
+screenlock_about	Custom Lock Screen	Власний екран блокування
+screenlock_info1	1. Put the pictures in a folder named "lockscreenimage" at the top of the card.	1. Покладіть зображення в папку "lockscreenimage" у корені картки.
+screenlock_info2	2. PNG or JPG, exactly 375 x 320 pixels, under 1 MB each.	2. PNG або JPG, точно 375 x 320 пікселів, до 1 МБ кожне.
+screenlock_info3	3. Up to 5 pictures.	3. До 5 зображень.
+screenlock_timeshow	Show Time	Показувати час
+search_tips1	Search for music,artists,albums,genres	Пошук музики, виконавців, альбомів, жанрів
+search_track	Track	Трек
+singerbyalbum	Sort by album artist	Сортувати за виконавцем альбому
+singerbysong	Sort by song artist	Сортувати за виконавцем пісні
+small_album	Albums	Альбоми
+small_coverflow	Album Wall	Стіна альбомів
+small_folder	Folder	Папки
+small_local	Local Songs	Локальні пісні
+small_playing	Now Playing	Зараз грає
+small_playset	Playback	Відтворення
+small_stream	Streaming	Стримінг
+small_sysset	System	Система
+songer	Artist	Виконавець
+sort_addtime	Time added	Час додавання
+sort_alphabet	Alphabetical	За алфавітом
+sort_filename	File name	Назва файлу
+sort_format	File format	Формат файлу
+sort_time_asc	Time added (ascending)	Час додавання (за зростанням)
+sort_time_desc	Time added (descending)	Час додавання (за спаданням)
+standbyoff_10min	10min	10 хв
+standbyoff_1min	1min	1 хв
+standbyoff_3min	3min	3 хв
+standbyoff_5min	5min	5 хв
+standbyoff_deep	Auto-standby	Автоочікування
+standbyoff_deepinfo	After 5 minute of idle,device will go into standby mode.	Після 5 хвилин бездіяльності пристрій перейде в режим очікування.
+standbyoff_saver	Auto-shutdown	Автовимкнення
+synclink_off	Off	Вимкнено
+system_about	About	Про пристрій
+system_carmode	In-Vehicle Mode	Автомобільний режим
+system_display	Display	Дисплей
+system_general	General	Загальні
+system_keylock	Buttons Lock	Блокування кнопок
+system_keytone	Key Tone	Звук кнопок
+system_language	Language	Мова
+system_navshow	Show Navigation Bar	Показувати панель навігації
+system_netservice	Network	Мережа
+system_powermanager	Power	Живлення
+system_prove	Certification	Сертифікація
+system_reset	Reset Settings	Скидання налаштувань
+system_sys	System	Система
+system_time	Date & Time	Дата й час
+system_update	System Update	Оновлення системи
+system_wheelmode	Wheel Function	Функція колеса
+system_wifiset	Wireless	Бездротові мережі
+timedate_24h	24-Hour	24-годинний
+timedate_auto	Automatic Time Set	Автоматичне встановлення часу
+timedate_manual	Set Time Manually	Встановити час вручну
+timezone_gmt+1	(GMT+01:00)Europe/Amsterdam	(GMT+01:00)Європа/Амстердам
+timezone_gmt+10	(GMT+10:00)Australia/Sydney	(GMT+10:00)Австралія/Сідней
+timezone_gmt+12	(GMT+12:00)Pacific/Fiji	(GMT+12:00)Тихий океан/Фіджі
+timezone_gmt+2	(GMT+02:00)Europe/Bucharest	(GMT+02:00)Європа/Бухарест
+timezone_gmt+3	(GMT+03:00)Asia/Kuwait	(GMT+03:00)Азія/Кувейт
+timezone_gmt+3_30	(GMT+03:30)Asia/Tehran	(GMT+03:30)Азія/Тегеран
+timezone_gmt+4	(GMT+04:00)Asia/Muscat	(GMT+04:00)Азія/Маскат
+timezone_gmt+4_30	(GMT+04:30)Asia/Kabul	(GMT+04:30)Азія/Кабул
+timezone_gmt+5	(GMT+05:00)Asia/Karachi	(GMT+05:00)Азія/Карачі
+timezone_gmt+6	(GMT+06:00)Asia/Almaty	(GMT+06:00)Азія/Алмати
+timezone_gmt+7	(GMT+07:00)Asia/Bangkok	(GMT+07:00)Азія/Бангкок
+timezone_gmt+8	(GMT+08:00)Asia/Shanghai	(GMT+08:00)Азія/Шанхай
+timezone_gmt+9	(GMT+09:00)Asia/Tokyo	(GMT+09:00)Азія/Токіо
+timezone_gmt+9_30	(GMT+09:30)Australia/Adelaide	(GMT+09:30)Австралія/Аделаїда
+timezone_gmt-0	(GMT 00:00)Europe/London	(GMT 00:00)Європа/Лондон
+timezone_gmt-1	(GMT-01:00)Atlantic/Azores	(GMT-01:00)Атлантика/Азори
+timezone_gmt-10	(GMT-10:00)Pacific/Honolulu	(GMT-10:00)Тихий океан/Гонолулу
+timezone_gmt-11	(GMT-11:00)Pacific/Midway	(GMT-11:00)Тихий океан/Мідвей
+timezone_gmt-12	(GMT-12:00)Pacific/Kwajalein	(GMT-12:00)Тихий океан/Кваджалейн
+timezone_gmt-3	(GMT-03:00)America/Argentina/Buenos_Aires	(GMT-03:00)Америка/Аргентина/Буенос-Айрес
+timezone_gmt-3_30	(GMT-03:30)America/St_Johns	(GMT-03:30)Америка/Сент-Джонс
+timezone_gmt-4	(GMT-04:00)Canada/Atlantic	(GMT-04:00)Канада/Атлантика
+timezone_gmt-5	(GMT-05:00)America/New_York	(GMT-05:00)Америка/Нью-Йорк
+timezone_gmt-6	(GMT-06:00)America/Mexico_City	(GMT-06:00)Америка/Мехіко
+timezone_gmt-7	(GMT-07:00)America/Denver	(GMT-07:00)Америка/Денвер
+timezone_gmt-8	(GMT-08:00)America/Tijuana	(GMT-08:00)Америка/Тіхуана
+timezone_gmt-9	(GMT-09:00)America/Anchorage	(GMT-09:00)Америка/Анкоридж
+timezone_select	Time Zone Selection	Вибір часового поясу
+title_downloaded	Downloaded	Завантажено
+title_downloading	Downloading	Завантаження
+title_more	More	Більше
+title_sort	List sort order	Порядок сортування
+update_online	Network update	Мережеве оновлення
+update_tf	TF card update	Оновлення з картки TF
+usb_chargeswitch	USB DAC Charging	Заряджання USB DAC
+usbmode_audio	USB AUDIO	USB AUDIO
+usbmode_connect	USB Connected	USB підключено
+usbmode_dac	USB DAC	USB DAC
+usbmode_disconnect	USB Disconnected	USB відключено
+usbmode_storge	USB Storage	USB-накопичувач
+usbvol_adjust	Volume Variable	Гучність змінна
+usbvol_fixed	Volume Fixed	Гучність фіксована
+wheelmode_menu	Menu Mode	Режим меню
+wheelmode_volume	Volume Mode	Режим гучності
+wifi_addnetwork	Add Network	Додати мережу
+wifi_choice	Select Network	Вибрати мережу
+wifi_scan	Scanning	Пошук
+wifiset_bt	Bluetooth	Bluetooth
+wifiset_synclink	SyncLink	SyncLink
+wifiset_wifi	Wi-Fi	Wi-Fi
+wifits_info1	Enter the following URL into your internet browser:	Введіть цю адресу в браузері:
+Search	Search	Пошук
+Streaming	Streaming	Стримінг
+Library's Games	Library's Games	Медіатека → Ігри
+Library's Apps	Library's Apps	Медіатека → Застосунки
+Network settings	Network settings	Налаштування мережі
+Wait until the App Store finishes	Wait until the App Store finishes	Зачекайте, поки App Store закінчить
+It isn't on the card	It isn't on the card	Його немає на картці
+It couldn't start	It couldn't start	Не вдалося запустити
+Stop %s	Stop %s	Зупинити %s
+Loading…	Loading…	Завантаження…
+More…	More…	Ще…
+Working…	Working…	Виконується…
+Starting %s…	Starting %s…	Запуск %s…
+Retry	Retry	Повторити
+Install it again in Library → App Store	Install it again in Library → App Store	Установіть його знову: Медіатека → App Store
+Cancel	Cancel	Скасувати
+%s isn't running	%s isn't running	%s не запущено
+%s didn't answer	%s didn't answer	%s не відповідає
+Too long	Too long	Занадто довгий запит
+%s stopped	%s stopped	%s зупинено
+%s isn't on the card	%s isn't on the card	%s немає на картці
+Apps	Apps	Застосунки
+No apps	No apps	Немає застосунків
+Not running	Not running	Не запущено
+No code yet	No code yet	Коду ще немає
+Connect the Q2 to Wi-Fi	Connect the Q2 to Wi-Fi	Підключіть Q2 до Wi-Fi
+Open it again	Open it again	Відкрийте його знову
+Wait a moment	Wait a moment	Зачекайте
+Then come back here	Then come back here	Потім поверніться сюди
+Scan with your phone's	Scan with your phone's	Скануйте камерою
+Scan with your	Scan with your	Скануйте
+camera	camera	телефона
+phone's camera	phone's camera	камерою телефона
+or open	or open	або відкрийте
+PIN	PIN	PIN
+Couldn't import %s	Couldn't import %s	Не вдалося імпортувати %s
+Playlists updated	Playlists updated	Плейлисти оновлено
+No memory card	No memory card	Немає карти пам'яті
+Games	Games	Ігри
+%d update	%d update	%d оновлення
+%d updates	%d updates	Оновлень: %d
+INSTALL	INSTALL	ВСТАНОВИТИ
+UPDATE	UPDATE	ОНОВИТИ
+INSTALLED	INSTALLED	ВСТАНОВЛЕНО
+AM	AM	дп
+PM	PM	пп
+Jan	Jan	січ
+Feb	Feb	лют
+Mar	Mar	бер
+Apr	Apr	кві
+May	May	тра
+Jun	Jun	чер
+Jul	Jul	лип
+Aug	Aug	сер
+Sep	Sep	вер
+Oct	Oct	жов
+Nov	Nov	лис
+Dec	Dec	гру
+The card is in use over USB	The card is in use over USB	Картка використовується через USB
+Storage unavailable	Storage unavailable	Сховище недоступне
+The card is full	The card is full	Картка заповнена
+Couldn't save	Couldn't save	Не вдалося зберегти
+Saved to battery-log.txt	Saved to battery-log.txt	Збережено в battery-log.txt
+Battery History	Battery History	Історія батареї
+Unplug to start	Unplug to start	Від'єднайте, щоб почати
+Export Log	Export Log	Експортувати журнал
+Done	Done	Готово
+space	space	пробіл
+New Playlist	New Playlist	Новий плейлист
+Playlist Name	Playlist Name	Назва плейлиста
+Rename	Rename	Перейменувати
+Songs	Songs	Пісні
+Artists	Artists	Виконавці
+Albums	Albums	Альбоми
+Genres	Genres	Жанри
+Off	Off	Вимкнено
+On	On	Увімкнено
+%d of %d songs	%d of %d songs	Пісень: %d з %d
+Updating Library	Updating Library	Оновлення медіатеки
+Connected	Connected	Підключено
+Eject before disconnecting	Eject before disconnecting	Вилучіть перед відключенням
+%d:%02d AM	%d:%02d AM	%d:%02d дп
+%d:%02d PM	%d:%02d PM	%d:%02d пп
+Save	Save	Зберегти
+Sort: Album	Sort: Album	Сортування: Альбом
+Sort: Artist	Sort: Artist	Сортування: Виконавець
+Sort: Recently Added	Sort: Recently Added	Сортування: Нещодавно додані
+Sort: Most Played	Sort: Most Played	Сортування: Найбільш відтворювані
+Sort: Random	Sort: Random	Сортування: Випадково
+Sort: Rating	Sort: Rating	Сортування: Оцінка
+Sort: Year	Sort: Year	Сортування: Рік
+%u song	%u song	%u пісня
+%u songs	%u songs	Пісень: %u
+All albums	All albums	Усі альбоми
+Preparing artwork… %d/%d	Preparing artwork… %d/%d	Підготовка обкладинок… %d/%d
+Update Library first	Update Library first	Спершу оновіть медіатеку
+%u Song	%u Song	%u пісня
+%u Songs	%u Songs	Пісень: %u
+%u Album	%u Album	%u альбом
+%u Albums	%u Albums	Альбомів: %u
+%u Game	%u Game	%u гра
+%u Games	%u Games	Ігор: %u
+%u Service	%u Service	%u сервіс
+%u Services	%u Services	Сервісів: %u
+%u.%u GB Free	%u.%u GB Free	Вільно: %u.%u ГБ
+Library	Library	Медіатека
+Settings	Settings	Налаштування
+Crossfade: %d s	Crossfade: %d s	Кросфейд: %d с
+Crossfade: Off	Crossfade: Off	Кросфейд: Вимкнено
+Wheel Sensitivity: %d%%	Wheel Sensitivity: %d%%	Чутливість колеса: %d%%
+Resume Songs: %d min	Resume Songs: %d min	Відновлення позиції: %d хв
+Resume Songs: Off	Resume Songs: Off	Відновлення позиції: Вимкнено
+Night Shift: %dK	Night Shift: %dK	Нічний режим: %dK
+Night Shift: Auto	Night Shift: Auto	Нічний режим: Авто
+Night Shift: Off	Night Shift: Off	Нічний режим: Вимкнено
+Mono Audio	Mono Audio	Моно звук
+Swap L/R	Swap L/R	Поміняти Л/П
+Crossfade needs Gapless	Crossfade needs Gapless	Кросфейду потрібен режим без пауз
+Auto	Auto	Авто
+Night Shift	Night Shift	Нічний режим
+Resume Songs	Resume Songs	Відновлення позиції
+Wheel Sensitivity	Wheel Sensitivity	Чутливість колеса
+Crossfade	Crossfade	Кросфейд
+Measuring song lengths…	Measuring song lengths…	Вимірювання тривалості пісень…
+Sudoku	Sudoku	Судоку
+Solitaire	Solitaire	Пасьянс
+Snake	Snake	Змійка
+Paused	Paused	Пауза
+Continue	Continue	Продовжити
+Quit	Quit	Вийти
+New best!	New best!	Новий рекорд!
+Game over	Game over	Гру закінчено
+Centre: play again	Centre: play again	Центр: ще раз
+Play/Pause: resume	Play/Pause: resume	Грати/Пауза: продовжити
+New game?	New game?	Нова гра?
+Centre: yes   Return: no	Centre: yes   Return: no	Центр: так   Назад: ні
+Solved!	Solved!	Розв'язано!
+Play/Pause: new game	Play/Pause: new game	Грати/Пауза: нова гра
+Score	Score	Рахунок
+Best	Best	Рекорд
+Level	Level	Рівень
+Centre	Centre	Центр
+You win!	You win!	Ви виграли!
+Shuffle	Shuffle	Перемішати
+Era	Era	Десятиліття
+Ratings	Ratings	Оцінки
+Most Played	Most Played	Найбільш відтворювані
+Long Songs	Long Songs	Довгі пісні
+App Store	App Store	App Store
+Upload Scrobbles	Upload Scrobbles	Надіслати скробли
+Tidal Downloads	Tidal Downloads	Завантаження Tidal
+Internet Radio	Internet Radio	Інтернет-радіо
+Configuration	Configuration	Конфігурація
+Restart to apply?	Restart to apply?	Перезапустити, щоб застосувати?
+Couldn't copy the language	Couldn't copy the language	Не вдалося скопіювати мову
+Too many songs to shuffle	Too many songs to shuffle	Забагато пісень для перемішування
+Shuffle Songs	Shuffle Songs	Перемішати пісні
+Shuffle Albums	Shuffle Albums	Перемішати альбоми
+Shuffle Folders	Shuffle Folders	Перемішати папки
+Albums and folders take a moment to shuffle	Albums and folders take a moment to shuffle	Альбоми й папки перемішуються не відразу
+No plays yet	No plays yet	Відтворень ще немає
+%u play	%u play	%u відтворення
+%u plays	%u plays	Відтворень: %u
+No downloads yet	No downloads yet	Завантажень ще немає
+Clear All Downloads…	Clear All Downloads…	Видалити всі завантаження…
+%u track	%u track	%u трек
+%u tracks	%u tracks	Треків: %u
+Remove Downloads?	Remove Downloads?	Видалити завантаження?
+Keeps settings	Keeps settings	Налаштування збережуться
+Remove	Remove	Видалити
+It isn't on the card any more	It isn't on the card any more	Його більше немає на картці
+Era unavailable	Era unavailable	Десятиліття недоступні
+Album not found	Album not found	Альбом не знайдено
+%u album	%u album	%u альбом
+%u albums	%u albums	Альбомів: %u
+Play All	Play All	Відтворити все
+Every song, shuffled	Every song, shuffled	Усі пісні в довільному порядку
+No dated albums yet	No dated albums yet	Альбомів з датою ще немає
+No songs over 10 minutes	No songs over 10 minutes	Немає пісень довших за 10 хвилин
+Measuring songs… %d/%d	Measuring songs… %d/%d	Вимірювання пісень… %d/%d
+Measuring songs…	Measuring songs…	Вимірювання пісень…
+Release to search	Release to search	Відпустіть для пошуку
+Pull to search	Pull to search	Потягніть для пошуку
+Sleep Timer	Sleep Timer	Таймер сну
+Lock Screen	Lock Screen	Екран блокування
+Accent	Accent	Акцент
+Everything	Everything	Усе
+Buttons only	Buttons only	Лише кнопки
+Volume only	Volume only	Лише гучність
+Wake: Single Press	Wake: Single Press	Пробудження: одне натискання
+Wake: Double Press	Wake: Double Press	Пробудження: подвійне натискання
+Artist View: Grid	Artist View: Grid	Вигляд виконавців: Сітка
+Artist View: Cover Flow	Artist View: Cover Flow	Вигляд виконавців: Cover Flow
+Artist View: List	Artist View: List	Вигляд виконавців: Список
+Year Order: Newest First	Year Order: Newest First	Порядок років: нові першими
+Year Order: Oldest First	Year Order: Oldest First	Порядок років: старі першими
+Artists: Artist	Artists: Artist	Виконавці: Виконавець
+Artists: Album Artist	Artists: Album Artist	Виконавці: Виконавець альбому
+Resume on Connect: Off	Resume on Connect: Off	Відновлення при підключенні: Вимкнено
+Resume on Connect: On	Resume on Connect: On	Відновлення при підключенні: Увімкнено
+Clock: Standard	Clock: Standard	Годинник: Стандартний
+Clock: Large	Clock: Large	Годинник: Великий
+Artist Album Order: Year	Artist Album Order: Year	Альбоми виконавця: За роком
+Artist Album Order: A–Z	Artist Album Order: A–Z	Альбоми виконавця: А–Я
+Volume Guard: Off	Volume Guard: Off	Захист гучності: Вимкнено
+Volume Guard: On	Volume Guard: On	Захист гучності: Увімкнено
+Hold Return: Recent	Hold Return: Recent	Утримання Назад: Нещодавні
+Hold Return: Home	Hold Return: Home	Утримання Назад: Головна
+Standby Limit: Off	Standby Limit: Off	Ліміт очікування: Вимкнено
+Standby Limit: %u h	Standby Limit: %u h	Ліміт очікування: %u год
+Refresh Cover Flow	Refresh Cover Flow	Оновити Cover Flow
+Playlist View: List	Playlist View: List	Вигляд плейлистів: Список
+Playlist View: Cover Flow	Playlist View: Cover Flow	Вигляд плейлистів: Cover Flow
+Update Notifications: Off	Update Notifications: Off	Сповіщення про оновлення: Вимкнено
+Update Notifications: On	Update Notifications: On	Сповіщення про оновлення: Увімкнено
+Album View: List	Album View: List	Вигляд альбомів: Список
+Album View: Grid	Album View: Grid	Вигляд альбомів: Сітка
+Charge Limit (%u%%)	Charge Limit (%u%%)	Ліміт заряду (%u%%)
+Resume on Connect	Resume on Connect	Відновлення при підключенні
+Volume Guard	Volume Guard	Захист гучності
+Control Device Volume	Control Device Volume	Керування гучністю пристрою
+Key Tone	Key Tone	Звук кнопок
+In-Vehicle Mode	In-Vehicle Mode	Автомобільний режим
+Smart Wi-Fi	Smart Wi-Fi	Smart Wi-Fi
+Enlarged Album Art	Enlarged Album Art	Збільшена обкладинка
+Folder Album Cover	Folder Album Cover	Обкладинка папки
+Fast Navigation	Fast Navigation	Швидка навігація
+Scan Song Durations	Scan Song Durations	Сканувати тривалість пісень
+Position Bar	Position Bar	Смуга позиції
+Hide Streaming	Hide Streaming	Сховати стримінг
+Hide Folder	Hide Folder	Сховати папки
+Hide Apps	Hide Apps	Сховати застосунки
+Hide Games	Hide Games	Сховати ігри
+Hide App Store	Hide App Store	Сховати App Store
+Receive Audio	Receive Audio	Приймати звук
+Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	Cover Flow оновить обкладинки наступного разу
+Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	Вимкніть і ввімкніть Bluetooth, щоб застосувати
+Folder Root: %s	Folder Root: %s	Корінь папок: %s
+Folder Root: Card	Folder Root: Card	Корінь папок: Картка
+Library & Folders	Library & Folders	Медіатека й папки
+Press Centre to Change Mode	Press Centre to Change Mode	Натисніть Центр, щоб змінити режим
+Press Centre to Turn On or Off	Press Centre to Turn On or Off	Натисніть Центр, щоб увімкнути чи вимкнути
+Press Centre When Finished	Press Centre When Finished	Натисніть Центр, коли закінчите
+OK to Disconnect	OK to Disconnect	Можна відключати
+Now Playing	Now Playing	Зараз грає
+Cover Flow	Cover Flow	Cover Flow
+EQ	EQ	EQ
+Update Library	Update Library	Оновити медіатеку
+Balance	Balance	Баланс
+Home: Split	Home: Split	Головна: Розділена
+Home: Full	Home: Full	Головна: Повна
+Home: Carousel	Home: Carousel	Головна: Карусель
+Battery: Icon	Battery: Icon	Батарея: Значок
+Battery: Percent	Battery: Percent	Батарея: Відсотки
+Battery: Icon + Percent	Battery: Icon + Percent	Батарея: Значок + відсотки
+Battery: Percent Inside	Battery: Percent Inside	Батарея: Відсотки всередині
+Light Mode: Off	Light Mode: Off	Світлий режим: Вимкнено
+Light Mode: On	Light Mode: On	Світлий режим: Увімкнено
+Light Mode: Auto	Light Mode: Auto	Світлий режим: Авто
+Accent: %s	Accent: %s	Акцент: %s
+Theme: %s	Theme: %s	Тема: %s
+Shortcut: None	Shortcut: None	Ярлик: Немає
+Shortcut: %s	Shortcut: %s	Ярлик: %s
+Rounded Corners	Rounded Corners	Округлі кути
+Smart Awake	Smart Awake	Розумне пробудження
+Centred Now Playing	Centred Now Playing	Зараз грає по центру
+Click With Headphones	Click With Headphones	Клік із навушниками
+Single Press Scrub	Single Press Scrub	Перемотування одним натисканням
+Time in Title	Time in Title	Час у заголовку
+Location	Location	Розташування
+Unknown	Unknown	Невідомо
+Appearance	Appearance	Вигляд
+Controls	Controls	Керування
+Theme	Theme	Тема
+Boot to: Rockbox	Boot to: Rockbox	Запуск: Rockbox
+Boot to: Q2 Pod	Boot to: Q2 Pod	Запуск: Q2 Pod
+Rockbox is not on the card	Rockbox is not on the card	Rockbox немає на картці
+Could not save boot choice	Could not save boot choice	Не вдалося зберегти вибір запуску
+No albums	No albums	Немає альбомів
+No artists	No artists	Немає виконавців
+No composers	No composers	Немає композиторів
+No genres	No genres	Немає жанрів
+Chapter %d	Chapter %d	Розділ %d
+Chapters	Chapters	Розділи
+Could not read chapters	Could not read chapters	Не вдалося прочитати розділи
+No embedded chapters	No embedded chapters	Вбудованих розділів немає
+Too long to read chapters on the Q2	Too long to read chapters on the Q2	Занадто довго для читання розділів на Q2
+Loading chapters…	Loading chapters…	Завантаження розділів…
+Spotify Cache: %s	Spotify Cache: %s	Кеш Spotify: %s
+Tidal Cache: %s	Tidal Cache: %s	Кеш Tidal: %s
+Erasing…	Erasing…	Стирання…
+Press again to erase login and cache	Press again to erase login and cache	Натисніть ще раз, щоб стерти вхід і кеш
+Erase Spotify Data	Erase Spotify Data	Стерти дані Spotify
+Could not save setting	Could not save setting	Не вдалося зберегти налаштування
+Streaming stopped	Streaming stopped	Стримінг зупинено
+Wait for the one in progress	Wait for the one in progress	Зачекайте на завершення поточного
+Stop Streaming Services	Stop Streaming Services	Зупинити стримінгові сервіси
+No %s folder on the card	No %s folder on the card	На картці немає папки %s
+CFW. Version	CFW. Version	Версія CFW
+Update to %s	Update to %s	Оновити до %s
+Latest firmware installed	Latest firmware installed	Встановлено останню прошивку
+Can't reach GitHub	Can't reach GitHub	Немає зв'язку з GitHub
+No update for this build	No update for this build	Для цієї збірки оновлень немає
+Can't write to the card	Can't write to the card	Не вдалося записати на картку
+Download cancelled	Download cancelled	Завантаження скасовано
+GitHub is busy, try later	GitHub is busy, try later	GitHub зайнятий, спробуйте пізніше
+The download was damaged, try again	The download was damaged, try again	Завантаження пошкоджено, спробуйте ще раз
+Downloading %d%%	Downloading %d%%	Завантаження %d%%
+Cancelling…	Cancelling…	Скасування…
+Reconnecting…	Reconnecting…	Повторне підключення…
+Verifying…	Verifying…	Перевірка…
+Checking…	Checking…	Перевірка…
+Needs %u MB more space	Needs %u MB more space	Потрібно ще %u МБ місця
+Update downloaded: use TF card update	Update downloaded: use TF card update	Оновлення завантажено: Оновлення з картки TF
+Charge the battery first	Charge the battery first	Спершу зарядіть батарею
+Can't start the download	Can't start the download	Не вдалося почати завантаження
+Downloading…	Downloading…	Завантаження…
+Q2 Pod %s is out: System Update → Network update	Q2 Pod %s is out: System Update → Network update	Вийшов Q2 Pod %s: Оновлення системи → Мережеве оновлення
+Downloading	Downloading	Завантаження
+Unpacking…	Unpacking…	Розпакування…
+Installing…	Installing…	Встановлення…
+Removing…	Removing…	Видалення…
+Connect to Wi-Fi to load the list	Connect to Wi-Fi to load the list	Підключіться до Wi-Fi, щоб завантажити список
+Checked just now	Checked just now	Щойно перевірено
+Checked %u min ago	Checked %u min ago	Перевірено %u хв тому
+Checked %u h ago	Checked %u h ago	Перевірено %u год тому
+Press again to remove	Press again to remove	Натисніть ще раз, щоб видалити
+Starts at power-on. Press again to install	Starts at power-on. Press again to install	Запускається під час ввімкнення. Натисніть ще раз, щоб встановити
+%d app can be updated	%d app can be updated	%d застосунок можна оновити
+%d apps can be updated	%d apps can be updated	Застосунків для оновлення: %d
+All apps are up to date	All apps are up to date	Усі застосунки оновлено
+The download is not a usable app	The download is not a usable app	Завантажене не є робочим застосунком
+Rockbox is ready. Find it on Home	Rockbox is ready. Find it on Home	Rockbox готовий. Він на Головній
+Rockbox Themes are ready in Rockbox's Theme Settings	Rockbox Themes are ready in Rockbox's Theme Settings	Теми Rockbox готові в налаштуваннях тем Rockbox
+%s is ready in %s	%s is ready in %s	%s готово: %s
+%s removed	%s removed	%s видалено
+Spotify's login and cache erased	Spotify's login and cache erased	Вхід і кеш Spotify стерто
+Stopped checking for updates	Stopped checking for updates	Перевірку оновлень зупинено
+Install Rockbox first	Install Rockbox first	Спершу встановіть Rockbox
+Check for Updates	Check for Updates	Перевірити оновлення
+%d of %d	%d of %d	%d з %d
+Album lyrics	Album lyrics	Тексти альбому
+LRCLIB stopped answering	LRCLIB stopped answering	LRCLIB перестав відповідати
+Cancelled	Cancelled	Скасовано
+%d saved	%d saved	Збережено: %d
+%d not found	%d not found	Не знайдено: %d
+%d already had lyrics	%d already had lyrics	Уже з текстами: %d
+%d failed	%d failed	Помилок: %d
+Album lyrics: no songs on the card	Album lyrics: no songs on the card	Тексти альбому: на картці немає пісень
+Can't reach LRCLIB	Can't reach LRCLIB	Немає зв'язку з LRCLIB
+Download Album Lyrics	Download Album Lyrics	Завантажити тексти альбому
+Downloading %d of %d	Downloading %d of %d	Завантаження %d з %d
+No album songs on the card	No album songs on the card	На картці немає пісень альбому
+file exceeds 16384 bytes	file exceeds 16384 bytes	файл більший за 16384 байтів
+line exceeds 512 bytes	line exceeds 512 bytes	рядок довший за 512 байтів
+embedded NUL	embedded NUL	вбудований нульовий символ
+unsupported filter form	unsupported filter form	непідтримувана форма фільтра
+expected Preamp: <gain> dB	expected Preamp: <gain> dB	очікується Preamp: <gain> dB
+preamp outside -60..24 dB or invalid number	preamp outside -60..24 dB or invalid number	передпідсилення поза -60..24 дБ або недійсне число
+expected Channel: L, R or all	expected Channel: L, R or all	очікується Channel: L, R або all
+only channels L, R and all are supported	only channels L, R and all are supported	підтримуються лише канали L, R і all
+unsupported command	unsupported command	непідтримувана команда
+invalid filter label	invalid filter label	недійсна мітка фільтра
+expected Filter [number]:	expected Filter [number]:	очікується Filter [number]:
+expected ON or OFF	expected ON or OFF	очікується ON або OFF
+unsupported filter type	unsupported filter type	непідтримуваний тип фільтра
+expected Fc <Hz> Hz Gain <dB> dB	expected Fc <Hz> Hz Gain <dB> dB	очікується Fc <Hz> Hz Gain <dB> dB
+invalid frequency or gain number	invalid frequency or gain number	недійсна частота або підсилення
+expected Q <number>	expected Q <number>	очікується Q <number>
+peaking filter requires Q	peaking filter requires Q	піковому фільтру потрібен Q
+range: 20..20000 Hz, -24..24 dB, Q 0.1..10	range: 20..20000 Hz, -24..24 dB, Q 0.1..10	діапазон: 20..20000 Гц, -24..24 дБ, Q 0.1..10
+more than 30 bands	more than 30 bands	більше 30 смуг
+summed preamp outside -60..24 dB	summed preamp outside -60..24 dB	сумарне передпідсилення поза -60..24 дБ
+L/R preamp differ by more than 12 dB	L/R preamp differ by more than 12 dB	передпідсилення Л/П відрізняється більш ніж на 12 дБ
+out of memory	out of memory	недостатньо пам'яті
+cannot open file	cannot open file	не вдається відкрити файл
+file read failed	file read failed	не вдалося прочитати файл
+EQ for 3.5 mm	EQ for 3.5 mm	EQ для 3.5 мм
+EQ for 4.4 mm	EQ for 4.4 mm	EQ для 4.4 мм
+EQ for USB	EQ for USB	EQ для USB
+EQ for this Bluetooth device	EQ for this Bluetooth device	EQ для цього Bluetooth-пристрою
+Auto (44.1: %.1f / 48: %.1f)	Auto (44.1: %.1f / 48: %.1f)	Авто (44.1: %.1f / 48: %.1f)
+Folder missing or unavailable	Folder missing or unavailable	Папки немає або вона недоступна
+Out of memory; cannot list presets	Out of memory; cannot list presets	Бракує пам'яті; не вдалося показати пресети
+No presets found	No presets found	Пресетів не знайдено
+Name not allowed; preset kept	Name not allowed; preset kept	Назва недопустима; пресет без змін
+Name taken; preset kept	Name taken; preset kept	Назва вже зайнята; пресет без змін
+Rename failed; preset kept	Rename failed; preset kept	Не вдалося перейменувати; пресет без змін
+Renamed to %.100s	Renamed to %.100s	Перейменовано на %.100s
+Pop	Pop	Поп
+Rock	Rock	Рок
+Dance	Dance	Танці
+Blues	Blues	Блюз
+Metal	Metal	Метал
+Vocal	Vocal	Вокал
+Classical	Classical	Класика
+Jazz	Jazz	Джаз
+Preset loaded; choose Apply to activate	Preset loaded; choose Apply to activate	Пресет завантажено; щоб увімкнути, виберіть Застосувати
+Preset saved; active EQ unchanged	Preset saved; active EQ unchanged	Пресет збережено; активний EQ без змін
+Save failed; settings unchanged	Save failed; settings unchanged	Не вдалося зберегти; налаштування без змін
+Switch failed; EQ unchanged	Switch failed; EQ unchanged	Не вдалося перемкнути; EQ без змін
+Applied	Applied	Застосовано
+Apply failed; active EQ unchanged	Apply failed; active EQ unchanged	Не вдалося застосувати; активний EQ без змін
+Reset; choose Apply to activate	Reset; choose Apply to activate	Скинуто; щоб увімкнути, виберіть Застосувати
+Delete failed; preset kept	Delete failed; preset kept	Не вдалося видалити; пресет без змін
+Deleted %.100s; active EQ unchanged	Deleted %.100s; active EQ unchanged	Видалено %.100s; активний EQ без змін
+Line %u: %s	Line %u: %s	Рядок %u: %s
+Cannot read preset; settings unchanged	Cannot read preset; settings unchanged	Не вдалося прочитати пресет; налаштування без змін
+Peaking	Peaking	Піковий
+Low shelf	Low shelf	НЧ-полиця
+High shelf	High shelf	ВЧ-полиця
+Apply changes	Apply changes	Застосувати зміни
+Nothing to apply	Nothing to apply	Немає змін
+Reset to defaults	Reset to defaults	Скинути до типових
+Enabled	Enabled	Увімкнено
+EQ per Output	EQ per Output	EQ для кожного виходу
+Preamp	Preamp	Передпідсилення
+Presets	Presets	Пресети
+Band	Band	Смуга
+Channels	Channels	Канали
+Both	Both	Обидва
+Left	Left	Лівий
+Right	Right	Правий
+Type	Type	Тип
+Frequency	Frequency	Частота
+Gain	Gain	Підсилення
+Band %d Q	Band %d Q	Смуга %d Q
+Band %d Frequency (Hz)	Band %d Frequency (Hz)	Смуга %d: частота (Гц)
+Raise	Raise	Підвищити
+Lower	Lower	Знизити
+Step	Step	Крок
+Delete %.100s? Confirm	Delete %.100s? Confirm	Видалити %.100s? Підтвердьте
+Replace existing preset? Confirm	Replace existing preset? Confirm	Замінити наявний пресет? Підтвердьте
+Cancel replacement	Cancel replacement	Скасувати заміну
+Save as Manual %02d	Save as Manual %02d	Зберегти як Власний %02d
+Stock presets	Stock presets	Заводські пресети
+Import from SD /EQ	Import from SD /EQ	Імпорт із SD /EQ
+Save editor preset	Save editor preset	Зберегти пресет редактора
+Rename a preset	Rename a preset	Перейменувати пресет
+Delete a preset	Delete a preset	Видалити пресет
+Previous page	Previous page	Попередня сторінка
+Next page	Next page	Наступна сторінка
+Band %d	Band %d	Смуга %d
+Band %d Gain	Band %d Gain	Смуга %d: підсилення
+Presets %d/%d	Presets %d/%d	Пресети %d/%d
+Save failed; EQ unchanged	Save failed; EQ unchanged	Не вдалося зберегти; EQ без змін
+Advanced	Advanced	Розширений
+Enabled: On	Enabled: On	Увімкнено: Так
+Enabled: Off	Enabled: Off	Увімкнено: Ні
+Low	Low	Низькі
+Mid	Mid	Середні
+High	High	Високі
+Simple	Simple	Простий
+No photos	No photos	Немає фото
+All Photos	All Photos	Усі фото
+Photos	Photos	Фото
+Can't open this photo	Can't open this photo	Не вдалося відкрити фото
+%d of %d  %s	%d of %d  %s	%d з %d  %s
+Could not save folder speed	Could not save folder speed	Не вдалося зберегти швидкість папки
+Too long to play on the Q2: split it into parts	Too long to play on the Q2: split it into parts	Задовга для відтворення на Q2: розділіть на частини
+Press again to restart	Press again to restart	Натисніть ще раз для перезапуску
+Could not save playlist	Could not save playlist	Не вдалося зберегти плейлист
+Already in playlist	Already in playlist	Уже в плейлисті
+Added to Playlist	Added to Playlist	Додано до плейлиста
+Search songs	Search songs	Пошук пісень
+Editing: %s	Editing: %s	Редагування: %s
+Add Songs: %s	Add Songs: %s	Додати пісні: %s
+Song Actions: %s	Song Actions: %s	Дії з піснею: %s
+Remove song?: %s	Remove song?: %s	Видалити пісню?: %s
+Add Songs	Add Songs	Додати пісні
+Move Up	Move Up	Вгору
+Move Down	Move Down	Вниз
+Remove from Playlist	Remove from Playlist	Видалити з плейлиста
+Search: %s	Search: %s	Пошук: %s
+No songs match	No songs match	Збігів немає
+Search for more songs	Search for more songs	Шукати більше пісень
+Delete Playlist?	Delete Playlist?	Видалити плейлист?
+Delete	Delete	Видалити
+Playlist deleted	Playlist deleted	Плейлист видалено
+Could not delete playlist	Could not delete playlist	Не вдалося видалити плейлист
+Delete Playlist	Delete Playlist	Видалити плейлист
+Edit Playlist	Edit Playlist	Редагувати плейлист
+Queue unchanged	Queue unchanged	Чергу не змінено
+Deselect All	Deselect All	Зняти вибір
+Select All	Select All	Вибрати все
+Export %d Playlist	Export %d Playlist	Експортувати %d плейлист
+Export %d Playlists	Export %d Playlists	Експортувати плейлисти: %d
+Delete %d Playlist…	Delete %d Playlist…	Видалити %d плейлист…
+Delete %d Playlists…	Delete %d Playlists…	Видалити плейлисти: %d…
+%d Selected	%d Selected	Вибрано: %d
+Select Playlists	Select Playlists	Вибрати плейлисти
+Playlists	Playlists	Плейлисти
+No Playlists	No Playlists	Немає плейлистів
+New Playlist…	New Playlist…	Новий плейлист…
+Select Playlists…	Select Playlists…	Вибрати плейлисти…
+Import Playlists	Import Playlists	Імпортувати плейлисти
+Export	Export	Експортувати
+No other group	No other group	Іншої групи немає
+Folder not found	Folder not found	Папку не знайдено
+All Songs	All Songs	Усі пісні
+Songs in Album	Songs in Album	Пісні альбому
+Albums and Songs	Albums and Songs	Альбоми та пісні
+Songs in Folder	Songs in Folder	Пісні папки
+Folders	Folders	Папки
+Folders and Songs	Folders and Songs	Папки та пісні
+Play One Song	Play One Song	Одна пісня
+Play One Album	Play One Album	Один альбом
+Repeat Song	Repeat Song	Повтор пісні
+Repeat Album	Repeat Album	Повтор альбому
+Repeat All	Repeat All	Повтор усіх
+Play One Folder	Play One Folder	Одна папка
+Repeat Folder	Repeat Folder	Повтор папки
+Album	Album	Альбом
+Folder	Folder	Папка
+Repeat	Repeat	Повтор
+Group by	Group by	Групування
+Play Next	Play Next	Грати наступною
+Add to Queue	Add to Queue	Додати до черги
+Add to Favourites	Add to Favourites	Додати до вибраного
+Remove from Favourites	Remove from Favourites	Видалити з вибраного
+Add to Playlist	Add to Playlist	Додати до плейлиста
+Go to Album	Go to Album	До альбому
+Go to Artist	Go to Artist	До виконавця
+Next Album	Next Album	Наступний альбом
+Previous Album	Previous Album	Попередній альбом
+Rate	Rate	Оцінити
+Resume	Resume	Продовжити
+View Queue	View Queue	Переглянути чергу
+Go to Folder	Go to Folder	До папки
+Rate Album	Rate Album	Оцінити альбом
+Group by: Folder	Group by: Folder	Групування: Папка
+Group by: Album	Group by: Album	Групування: Альбом
+Next Folder	Next Folder	Наступна папка
+Previous Folder	Previous Folder	Попередня папка
+Wheel: Volume	Wheel: Volume	Колесо: Гучність
+Wheel: Brightness	Wheel: Brightness	Колесо: Яскравість
+Could not save Favourites	Could not save Favourites	Не вдалося зберегти вибране
+Added to Favourites	Added to Favourites	Додано до вибраного
+Removed from Favourites	Removed from Favourites	Видалено з вибраного
+Stopped	Stopped	Зупинено
+Can't play: %s	Can't play: %s	Не вдалося відтворити: %s
+Can't play this station	Can't play this station	Станцію неможливо відтворити
+Connecting…	Connecting…	Підключення…
+Search is too long	Search is too long	Запит надто довгий
+Search stations	Search stations	Пошук станцій
+Favourites	Favourites	Вибране
+Featured	Featured	Рекомендовані
+Top Stations	Top Stations	Топ станцій
+By Country	By Country	За країною
+By Genre	By Genre	За жанром
+Countries	Countries	Країни
+Connecting to Wi-Fi…	Connecting to Wi-Fi…	Підключення до Wi-Fi…
+Directory unavailable	Directory unavailable	Каталог недоступний
+No Wi-Fi	No Wi-Fi	Немає Wi-Fi
+No stations	No stations	Немає станцій
+No favourites	No favourites	Вибраного немає
+Rating not saved	Rating not saved	Оцінку не збережено
+Ratings are full	Ratings are full	Місце для оцінок вичерпано
+Favourite not sent to the app	Favourite not sent to the app	Вибране не передано застосунку
+Unrated	Unrated	Без оцінки
+1 Heart	1 Heart	1 серце
+%d Hearts	%d Hearts	Сердець: %d
+%d of 5	%d of 5	%d з 5
+Album changed	Album changed	Альбом змінено
+Favourite not saved	Favourite not saved	Вибране не збережено
+This app has no favourites	This app has no favourites	У цьому застосунку немає вибраного
+Top Rated	Top Rated	Найкраще оцінені
+Loved	Loved	Улюблені
+All Rated	All Rated	Усі оцінені
+Disliked	Disliked	Не сподобалися
+No songs yet	No songs yet	Пісень ще немає
+Hold the heart on Now Playing to rate	Hold the heart on Now Playing to rate	Щоб оцінити, утримуйте серце на екрані Зараз грає
+No rated albums yet	No rated albums yet	Оцінених альбомів ще немає
+Upload failed, %d sent	Upload failed, %d sent	Помилка надсилання, надіслано: %d
+Scrobbles sent: %d	Scrobbles sent: %d	Надіслано скроблів: %d
+Nothing to upload	Nothing to upload	Нічого надсилати
+Uploading scrobbles	Uploading scrobbles	Надсилання скроблів
+Already uploading	Already uploading	Уже надсилається
+Upload failed	Upload failed	Не вдалося надіслати
+Connect to Wi-Fi first	Connect to Wi-Fi first	Спершу підключіться до Wi-Fi
+Waiting for Spotify	Waiting for Spotify	Очікування Spotify
+Spotify isn't on the card	Spotify isn't on the card	Spotify немає на картці
+See the Q2 Pod guide to add it	See the Q2 Pod guide to add it	Як додати, дивіться в посібнику Q2 Pod
+Open Spotify on your phone	Open Spotify on your phone	Відкрийте Spotify на телефоні
+and choose Q2	and choose Q2	і виберіть Q2
+Spotify refused this account	Spotify refused this account	Spotify відхилив цей обліковий запис
+Its tracks can't play on the Q2	Its tracks can't play on the Q2	Його треки не відтворюються на Q2
+Playback didn't start	Playback didn't start	Відтворення не почалося
+Go back and try again	Go back and try again	Поверніться й спробуйте ще раз
+Starting playback	Starting playback	Початок відтворення
+Update Spotify on the card	Update Spotify on the card	Оновіть Spotify на картці
+See the Q2 Pod guide	See the Q2 Pod guide	Дивіться посібник Q2 Pod
+Nothing playing	Nothing playing	Нічого не грає
+Choose music in Spotify	Choose music in Spotify	Виберіть музику в Spotify
+Liked Songs	Liked Songs	Вподобані пісні
+Queue	Queue	Черга
+Playback Settings	Playback Settings	Налаштування відтворення
+Account	Account	Обліковий запис
+Downloaded Tracks	Downloaded Tracks	Завантажені треки
+Downloads	Downloads	Завантаження
+Tracks	Tracks	Треки
+Open Spotify on your phone and choose Q2	Open Spotify on your phone and choose Q2	Відкрийте Spotify на телефоні й виберіть Q2
+Both on the same Wi-Fi	Both on the same Wi-Fi	Обидва в одній мережі Wi-Fi
+to browse on the Q2	to browse on the Q2	щоб переглядати на Q2
+Downloaded Playlists	Downloaded Playlists	Завантажені плейлисти
+Download Progress	Download Progress	Хід завантаження
+Storage Management	Storage Management	Керування сховищем
+Download Status	Download Status	Стан завантаження
+The latest download's progress	The latest download's progress	Хід останнього завантаження
+for saved playlists and download controls	for saved playlists and download controls	для збережених плейлистів і керування завантаженням
+Remove Playlists…	Remove Playlists…	Видалити плейлисти…
+Remove Tracks…	Remove Tracks…	Видалити треки…
+Keeps login and settings	Keeps login and settings	Вхід і налаштування збережуться
+Track removal can make playlists incomplete	Track removal can make playlists incomplete	Через видалення треків плейлисти можуть стати неповними
+Pause	Pause	Пауза
+Cancel Download	Cancel Download	Скасувати завантаження
+Retry Failed	Retry Failed	Повторити невдалі
+Update Download	Update Download	Оновити завантаження
+Sign Out of Spotify?	Sign Out of Spotify?	Вийти зі Spotify?
+Sign Out	Sign Out	Вийти
+Nothing here	Nothing here	Тут нічого немає
+Selected	Selected	Вибрано
+Press to select	Press to select	Натисніть, щоб вибрати
+All	All	Усі
+One	One	Один
+Download Liked Songs	Download Liked Songs	Завантажити вподобані пісні
+Download Playlist	Download Playlist	Завантажити плейлист
+For offline listening	For offline listening	Для прослуховування офлайн
+Download Controls	Download Controls	Керування завантаженням
+Update, retry, pause, resume or cancel	Update, retry, pause, resume or cancel	Оновити, повторити, призупинити, продовжити чи скасувати
+Remove Selected…	Remove Selected…	Видалити вибране…
+Confirm the affected count	Confirm the affected count	Підтвердьте кількість
+Spotify isn't running	Spotify isn't running	Spotify не запущено
+Spotify didn't answer	Spotify didn't answer	Spotify не відповідає
+Search Spotify	Search Spotify	Пошук у Spotify
+Select Tracks	Select Tracks	Вибрати треки
+Select at least one item	Select at least one item	Виберіть щонайменше один елемент
+Selection full. Remove these first	Selection full. Remove these first	Вибір заповнено. Спершу видаліть ці
+Boot logo must be a 320x375 JPEG	Boot logo must be a 320x375 JPEG	Логотип запуску має бути JPEG 320x375
+Could not save boot logo	Could not save boot logo	Не вдалося зберегти логотип запуску
+Accent: Graphite	Accent: Graphite	Акцент: Графіт
+Accent: Crimson	Accent: Crimson	Акцент: Багряний
+Accent: Tidal	Accent: Tidal	Акцент: Tidal
+Accent: Champagne	Accent: Champagne	Акцент: Шампань
+Accent: Cobalt	Accent: Cobalt	Акцент: Кобальт
+Accent: Tangerine	Accent: Tangerine	Акцент: Мандарин
+Accent: Plum	Accent: Plum	Акцент: Слива
+Accent: Ivory	Accent: Ivory	Акцент: Слонова кістка
+Accent: Green	Accent: Green	Акцент: Зелений
+Favorites	Favorites	Вибране
+Rated Albums	Rated Albums	Оцінені альбоми
+Podcasts	Podcasts	Подкасти
+Audiobooks	Audiobooks	Аудіокниги
+Groovebox can't start from the card	Groovebox can't start from the card	Groovebox не можна запустити з картки
+Groovebox is not on the card	Groovebox is not on the card	Groovebox немає на картці
+Play a Tidal album or playlist first	Play a Tidal album or playlist first	Спершу відтворіть альбом або плейлист Tidal
+Downloading %u of %u. Press to stop	Downloading %u of %u. Press to stop	Завантаження %u з %u. Натисніть, щоб зупинити
+Download Playing Songs	Download Playing Songs	Завантажити пісні, що грають
+Tidal Cache full: %u of %u song saved	Tidal Cache full: %u of %u song saved	Кеш Tidal заповнено: збережено %u з %u пісні
+Tidal Cache full: %u of %u songs saved	Tidal Cache full: %u of %u songs saved	Кеш Tidal заповнено: пісень збережено %u з %u
+Downloaded %u of %u song	Downloaded %u of %u song	Завантажено %u з %u пісні
+Downloaded %u of %u songs	Downloaded %u of %u songs	Завантажено пісень: %u з %u
+Nothing to play next	Nothing to play next	Далі нічого немає
+Queue changed	Queue changed	Чергу змінено
+Never	Never	Ніколи
+USB DAC Charging: %s	USB DAC Charging: %s	Заряджання USB DAC: %s
+Spectrum	Spectrum	Спектр
+Oscilloscope	Oscilloscope	Осцилограф
+VU Meters	VU Meters	VU-метри
+Halo	Halo	Гало
+Pulsar	Pulsar	Пульсар
+Contour	Contour	Контур
+More	More	Більше
+A-B Repeat	A-B Repeat	Повтор A-B
+Speed	Speed	Швидкість
+*Only for 48 kHz and below	*Only for 48 kHz and below	*Лише для 48 кГц і нижче
+No lyrics	No lyrics	Немає тексту
+Genre	Genre	Жанр
+Size	Size	Розмір
+Year	Year	Рік
+Format	Format	Формат
+Bit Depth	Bit Depth	Розрядність
+Bit Rate	Bit Rate	Бітрейт
+Sample Rate	Sample Rate	Частота дискретизації
+Auto Scan	Auto Scan	Автосканування
+Update Library Now	Update Library Now	Оновити медіатеку зараз
+Scan Folders	Scan Folders	Сканувати папки
+OK	OK	OK
+Bluetooth	Bluetooth	Bluetooth
+Key Lock	Key Lock	Блокування кнопок
+Low Gain	Low Gain	Низьке підсилення
+USB Storage	USB Storage	USB-накопичувач
+Playback	Playback	Відтворення
+Custom	Custom	Власний
+Reset	Reset	Скинути
+Open this address in a browser:	Open this address in a browser:	Відкрийте цю адресу в браузері:
+Downloaded	Downloaded	Завантажено
+Baidu Netdisk	Baidu Netdisk	Baidu Netdisk
+Sign In	Sign In	Увійти
+Scan with the Baidu app to sign in	Scan with the Baidu app to sign in	Скануйте в застосунку Baidu, щоб увійти
+Baidu encryption protects your privacy	Baidu encryption protects your privacy	Шифрування Baidu захищає вашу приватність
+Bluetooth RF test: connect from a computer	Bluetooth RF test: connect from a computer	Тест Bluetooth RF: підключіться з комп'ютера
+Press Next to exit	Press Next to exit	Натисніть Далі, щоб вийти
+Brightness Test	Brightness Test	Тест яскравості
+Next	Next	Далі
+Bluetooth Test	Bluetooth Test	Тест Bluetooth
+Down	Down	Вниз
+Up	Up	Вгору
+Swipe Left	Swipe Left	Свайп вліво
+Swipe Right	Swipe Right	Свайп вправо
+Key Test	Key Test	Тест кнопок
+Headphone Test	Headphone Test	Тест навушників
+Plug in single-ended headphones	Plug in single-ended headphones	Підключіть навушники з несиметричним виходом
+Play (left male, right female)	Play (left male, right female)	Відтворити (ліворуч чоловік, праворуч жінка)
+Bluetooth Receiver Test	Bluetooth Receiver Test	Тест Bluetooth-приймача
+Battery Test	Battery Test	Тест батареї
+Battery:	Battery:	Батарея:
+Charging:	Charging:	Заряджання:
+microSD Test	microSD Test	Тест microSD
+Touch Test	Touch Test	Тест сенсора
+Wi-Fi Test	Wi-Fi Test	Тест Wi-Fi
+Artist	Artist	Виконавець
+Export Playlists	Export Playlists	Експортувати плейлисти
+Playlist	Playlist	Плейлист
+0 songs	0 songs	0 пісень
+System	System	Система
+Rockbox	Rockbox	Rockbox
+Baker Island	Baker Island	Острів Бейкер
+Midway	Midway	Мідвей
+Honolulu	Honolulu	Гонолулу
+Anchorage	Anchorage	Анкоридж
+Los Angeles	Los Angeles	Лос-Анджелес
+Denver	Denver	Денвер
+Mexico City	Mexico City	Мехіко
+New York	New York	Нью-Йорк
+Halifax	Halifax	Галіфакс
+St. John's	St. John's	Сент-Джонс
+Buenos Aires	Buenos Aires	Буенос-Айрес
+Azores	Azores	Азори
+London	London	Лондон
+Amsterdam	Amsterdam	Амстердам
+Bucharest	Bucharest	Бухарест
+Kuwait	Kuwait	Кувейт
+Tehran	Tehran	Тегеран
+Muscat	Muscat	Маскат
+Kabul	Kabul	Кабул
+Karachi	Karachi	Карачі
+Dhaka	Dhaka	Дакка
+Bangkok	Bangkok	Бангкок
+Shanghai	Shanghai	Шанхай
+Tokyo	Tokyo	Токіо
+Adelaide	Adelaide	Аделаїда
+Sydney	Sydney	Сідней
+Fiji	Fiji	Фіджі
+Marquesas	Marquesas	Маркізькі о-ви
+South Georgia	South Georgia	Пд. Джорджія
+Colombo	Colombo	Коломбо
+Kathmandu	Kathmandu	Катманду
+Yangon	Yangon	Янгон
+Eucla	Eucla	Евкла
+L. Howe	L. Howe	Лорд-Хау
+Noumea	Noumea	Нумеа
+Chatham	Chatham	Чатем
+Tongatapu	Tongatapu	Тонгатапу
+Kiritimati	Kiritimati	Кірітіматі
+Chicago	Chicago	Чикаго
+Phoenix	Phoenix	Фінікс
+Kolkata	Kolkata	Колката
+Brisbane	Brisbane	Брисбен
+Auckland	Auckland	Окленд
+Status Bar	Status Bar	Рядок стану
+Minimal	Minimal	Мінімальна
+Modern	Modern	Сучасна
+Classic	Classic	Класична
+Show Wordmark	Show Wordmark	Показувати логотип
+Library on Home	Library on Home	Медіатека на Головній
+Row Preview	Row Preview	Попередній перегляд рядка
+Row Art	Row Art	Обкладинки в рядках
+Classic Blue	Classic Blue	Класична синя
