@@ -12,6 +12,7 @@ It also carries an Arabic font, so Arabic, Persian and Urdu titles, artists, alb
 
 | Language | Table |
 | --- | --- |
+| Deutsch | `lang/de.tsv` |
 | 简体中文 | `lang/zh_CN.tsv` |
 
 ## A table
