@@ -1,0 +1,1167 @@
+# 日本語
+History_record	History record	履歴
+about_cardcap	Card Capacity	カード容量
+about_cardremain	Remaining	空き容量
+about_ipaddr	IP Address	IPアドレス
+about_model	Model	モデル
+about_more	*Our sincere thanks go to the DiamondBond team and all its enthusiasts for their ingenuity, outstanding solutions, and generous contributions.	*DiamondBondチームと、独創的な解決策と惜しみない貢献をくださったすべての愛好家の皆さまに心より感謝します。
+about_sn	Serial Number	シリアル番号
+about_version	Version	バージョン
+about_wifimac	Wi-Fi MAC	Wi-Fi MAC
+album	Album	アルバム
+album	Album	アルバム
+albumsinger	Album artist	アルバムアーティスト
+allmusic	All Songs	すべての曲
+audio_settings	Audio settings	オーディオ設定
+baidu_login	Log In	ログイン
+baidu_login_tips1	Please use Baidu Netdisk or Baidu App to scan the code to login	BaiduネットディスクまたはBaiduアプリでコードを読み取ってログインしてください
+baidu_login_tips2	Baidu encryption technology protects your privacy and security	Baiduの暗号化技術がプライバシーとセキュリティを守ります
+baidu_loginout	Log Out	ログアウト
+baidunet_floderinfo_failed	Failed to get file list	ファイル一覧を取得できませんでした
+batch_addplaylist	Add to Playlist	プレイリストに追加
+bt_adjvol	Bluetooth Headset Volume Control	Bluetooth音量調整
+bt_compatiabledev	Compatible Device	対応デバイス
+bt_name	Bluetooth Name	Bluetooth名
+bt_paireddev	Paired Device	ペアリング済みデバイス
+bt_quality	Quality	音質
+bt_search	Scan now	今すぐスキャン
+btcode_aac	AAC	AAC
+btcode_aptx	aptX	aptX
+btcode_aptxhd	aptX HD	aptX HD
+btcode_ldacauto	LDAC Connection (auto)	LDAC 接続優先
+btcode_ldachq	LDAC HQ	LDAC 音質優先
+btcode_ldacst	LDAC Standard	LDAC 標準
+btcode_sbc	SBC	SBC
+btcode_sbchq	SBC HQ	SBC HQ
+custom_eq	Custom	カスタム
+display_backlight	Brightness	明るさ
+display_lighttime	Screen Off Time	画面消灯時間
+display_screenlock	Lock Screen	ロック画面
+dsdmode_d2p	D2P	D2P
+dsdmode_dop	DOP	DOP
+dsdmode_native	Native	Native
+eq_blues	Blues	ブルース
+eq_classical	Classical	クラシック
+eq_club	Club	クラブ
+eq_custom1	Custom1	カスタム1
+eq_custom2	Custom2	カスタム2
+eq_custom3	Custom3	カスタム3
+eq_dance	Dance	ダンス
+eq_doublebass	Sub-bass	サブベース
+eq_jazz	Jazz	ジャズ
+eq_metal	Metal	メタル
+eq_only48kmsg	EQ only for files below 48kHz.	EQは48kHz未満のファイルにのみ適用されます。
+eq_pop	Pop	ポップ
+eq_reset	Reset	リセット
+eq_rock	Rock	ロック
+eq_vocal	Vocal	ボーカル
+fav	My Fav	お気に入り
+filter_delayfast	Low Delay Fast Roll-off	低遅延 ファストロールオフ
+filter_delayslow	Low Delay Slow Roll-off	低遅延 スローロールオフ
+filter_fast	Fast Roll-off	ファストロールオフ
+filter_slow	Slow Roll-off	スローロールオフ
+frequentplay	Frequent	よく再生
+gain_high	High	高
+gain_low	Low	低
+genre	Genre	ジャンル
+genre_statistics	Total %d songs	合計%d曲
+hr	Hi-Res	ハイレゾ
+keyboard_keyword	Please enter keyword	キーワードを入力してください
+keyboard_netname	Please enter network name	ネットワーク名を入力してください
+keyboard_password	Please enter password	パスワードを入力してください
+keylock_all	Lock Volume & Buttons	音量とボタンをロック
+keylock_info	Only effective when the screen is off	画面オフのときのみ有効
+keylock_info2	Effective on Lockscreen and when Screen Off	ロック画面と画面オフのときに有効
+keylock_key	Lock Buttons Only	ボタンのみロック
+keylock_volume	Lock Volume Only	音量のみロック
+lan_english	English	English
+lan_french	Français	Français
+lan_german	Deutsch	Deutsch
+lan_italian	Italiano	Italiano
+lan_japanese	日本語	日本語
+lan_korean	한국어	한국어
+lan_polish	Polski	Polski
+lan_russian	Русский	Русский
+lan_simplified	简体中文	简体中文
+lan_spanish	español	español
+lan_thai	ภาษาไทย	ภาษาไทย
+lan_traditional	繁體中文	繁體中文
+lan_ukrainian	Українська	Українська
+lighttime_15s	15s	15秒
+lighttime_1min	1min	1分
+lighttime_2min	2min	2分
+lighttime_30min	30min	30分
+lighttime_30s	30s	30秒
+lighttime_5min	5min	5分
+lighttime_lyricmode	Lyrics mode	歌詞モード
+lighttime_off	Off	オフ
+list_baidu	Baidu Netdisk	Baiduネットディスク
+list_tidal	TIDAL	TIDAL
+local_album	Albums	アルバム
+local_allmusic	Local Songs	ローカルの曲
+local_allsongs	Songs	曲
+local_fav	My Fav	お気に入り
+local_frequentplay	Frequent	よく再生
+local_genre	Genres	ジャンル
+local_hr	Hi-Res	ハイレゾ
+local_playlist	Playlists	プレイリスト
+local_recentadd	Recently Added	最近追加
+local_recentplay	Recent	最近再生
+local_songer	Artists	アーティスト
+local_upmusic	Update Library	ライブラリを更新
+login_out	Logout	ログアウト
+memplay_location	Location	停止位置
+memplay_off	Off	オフ
+memplay_track	Track	トラック
+msg_actionnotsupport	Non-local songs,not currently supported	ローカルにない曲は現在サポートしていません
+msg_actionscan	Scan music?	音楽をスキャンしますか？
+msg_add_task	Please enter the URL of the file you want to download	ダウンロードするファイルのURLを入力してください
+msg_addfailed	Adding Failed	追加できませんでした
+msg_addfavsuccess	Added To Fav	お気に入りに追加しました
+msg_addplaylistsuccess	Added To Playlist	プレイリストに追加しました
+msg_autoshutdown	Shutdown	シャットダウン
+msg_btabnormal	Bluetooth abnormal	Bluetoothに異常があります
+msg_btinit_run	Bluetooth Starting	Bluetooth起動中
+msg_btreconnect	Reconnect Bluetooth?	Bluetoothに再接続しますか？
+msg_cardeject	Audio Disconnected	オーディオ機器を切断しました
+msg_cardinsert	Audio Connected	オーディオ機器を接続しました
+msg_checkfw	Checking FW	ファームウェアを確認中
+msg_checkfwerr	FW. Check Error	ファームウェアの確認エラー
+msg_closesynclink	Please close SyncLink	SyncLinkを閉じてください
+msg_confirmupdate	Confirm Update?	アップデートしますか？
+msg_connected	Connected	接続済み
+msg_connecting	Connecting	接続中
+msg_delalbum	Delete Album?	アルバムを削除しますか？
+msg_delalbumfailed	Failed To Delete Album	アルバムを削除できませんでした
+msg_delalbumsuccess	Album Deleted	アルバムを削除しました
+msg_delartist	Delete Artist?	アーティストを削除しますか？
+msg_delartistsuccess	Artist Deleted	アーティストを削除しました
+msg_delete_task	Are you sure you want to delete the download task?	ダウンロードタスクを削除しますか？
+msg_deletesource	Also delete source file	元のファイルも削除
+msg_delfile	Are you sure you want to delete this file?	このファイルを削除しますか？
+msg_delfile	Delete File?	ファイルを削除しますか？
+msg_delfilefailed	Failed To Delete File	ファイルを削除できませんでした
+msg_delfilesuccess	File Deleted	ファイルを削除しました
+msg_delgenre	Delete Genre?	ジャンルを削除しますか？
+msg_delgenresuccess	Genre Deleted	ジャンルを削除しました
+msg_delplaylist	Delete Playlist?	プレイリストを削除しますか？
+msg_delplaylistfailed	Failed To Delete Playlist	プレイリストを削除できませんでした
+msg_delplaylistsuccess	Playlist Deleted	プレイリストを削除しました
+msg_delsong	Delete Song?	曲を削除しますか？
+msg_delsongfailed	Failed To Delete Song	曲を削除できませんでした
+msg_delsongsuccess	Song Deleted	曲を削除しました
+msg_disconnected	Disconnected	切断しました
+msg_disonnectbt	Please disconnect the bluetooth device	Bluetoothデバイスを切断してください
+msg_downloadpath	Download path is	ダウンロード先:
+msg_exist_task	The download task already exists	すでにダウンロードタスクがあります
+msg_exitairplay	Quit AirPlay?	AirPlayを終了しますか？
+msg_exportplaylist	Export Playlist?	プレイリストをエクスポートしますか？
+msg_exportsuccess	Export successful	エクスポートしました
+msg_factorysuccess	Restore to factory settings succeeded	工場出荷時の設定に戻しました
+msg_favsuccess	Added To Fav	お気に入りに追加しました
+msg_file_exist	The file already exists	ファイルはすでに存在します
+msg_importplaylist	Import Playlists?	プレイリストをインポートしますか？
+msg_importsuccess	Successfully imported	インポートしました
+msg_initsetsuccess	All settings initialized successfully	すべての設定を初期化しました
+msg_latestfw	Latest Fw. Installed	最新のファームウェアです
+msg_linkerror	WiFi Connection Error	Wi-Fiに接続できません
+msg_lowarn	Line Out sets max volume,continue?	ライン出力では音量が最大に固定されます。続けますか？
+msg_lowpower	Low Battery	バッテリー残量わずか
+msg_namenull	The name can't be empty	名前を空にはできません
+msg_netnameerr	Network Must Be Named	ネットワーク名が必要です
+msg_no	Cancel	キャンセル
+msg_no_storage	Storage is full.Some songs couldn't be added.	空き容量がありません。追加できなかった曲があります。
+msg_noheadset	Playback is disabled without headphones.Please insert headphones.	ヘッドホンなしでは再生できません。ヘッドホンを接続してください。
+msg_nosongs	No songs in this folder	このフォルダに曲がありません
+msg_notalbuminfo	This file has no Album data	このファイルにアルバム情報がありません
+msg_notfile	File Not Found	ファイルが見つかりません
+msg_notfolder	Folder not found	フォルダが見つかりません
+msg_notfoundfw	Fw. Not Found	ファームウェアが見つかりません
+msg_notmemory	Memory is not enough	メモリが足りません
+msg_notmemory	Out of memory	メモリ不足
+msg_notnetwork	Network Disconnected	ネットワーク切断
+msg_nototg	No OTG Found	OTGが見つかりません
+msg_notplaylist	Playlist Not Found	プレイリストが見つかりません
+msg_notsongerinfo	This file has no Artist data	このファイルにアーティスト情報がありません
+msg_notsonglist	No Song List	曲リストがありません
+msg_notspecdir	Folder not specified	フォルダが未指定です
+msg_notsupport	Not Supported	非対応
+msg_notsupportdel	Can't be removed	削除できません
+msg_nottf	No TF Card Found	microSDカードが見つかりません
+msg_otgeject	OTG Disconnected	OTG切断
+msg_otginfoerr	Failed To Get Version Info	バージョン情報を取得できませんでした
+msg_otginsert	OTG Connected	OTG接続
+msg_paircode	Bluetooth Code	Bluetoothコード
+msg_paired	Paired	ペアリングしました
+msg_playlistexist	Playlist Already Exists	プレイリストはすでに存在します
+msg_playlistfull	Could not create playlist	プレイリストを作成できませんでした
+msg_poweroff	Shut Down?	シャットダウンしますか？
+msg_resetdbsuccess	Reset completed	リセットしました
+msg_restarting	Restarting	再起動中
+msg_shortpasswd	8 Digits PIN At Least	PINは8桁以上必要です
+msg_start_download_task	start the download task	ダウンロードタスクを開始
+msg_stop_download_task	stop the download task	ダウンロードタスクを停止
+msg_testmode	Enter test mode?	テストモードに入りますか？
+msg_tfeject	TF Card Removed	microSDカードが取り出されました
+msg_tfinsert	TF Card Inserted	microSDカードが挿入されました
+msg_unpaired	Unpaired	ペアリング解除
+msg_unpairing	unpair?	ペアリングを解除しますか？
+msg_unsupportformat	Unsupported format	非対応の形式です
+msg_update	Confirmed	確認しました
+msg_wificancelsave	Delete Record?	記録を削除しますか？
+msg_wifidisconnect	Disconnect Now?	今すぐ切断しますか？
+msg_yes	OK	OK
+navigation_all	All	すべて
+netservice_airplay	AirPlay	AirPlay
+netservice_dlna	DLNA	DLNA
+netservice_wifitrans	Wi-Fi File Transfer	Wi-Fiファイル転送
+no_search	No search results	検索結果がありません
+not_allmusic	Currently no songs	曲がありません
+otgdownload_percent	FW Downloaded	ファームウェアをダウンロードしました
+outputway	Output Options	出力先
+play_all	Play All	すべて再生
+player_abrepeat	AB Repeat	A/Bリピート
+player_albuminfo	Look up Album	アルバムを調べる
+player_bitdepth	Bit Depth	ビット深度
+player_bitrate	Bitrate	ビットレート
+player_delete	Delete Song	曲を削除
+player_encoding	Encoding	エンコード
+player_era	Year	年
+player_filesize	File Size	ファイルサイズ
+player_location	Location	場所
+player_msgmul	*Affecting only files below 48khz	*48kHz未満のファイルのみに影響します
+player_multiple	Multiple Speed	再生速度
+player_nolyric	No Lyrics	歌詞なし
+player_onlinesearch	Download Cover & Lyrics	カバーと歌詞をダウンロード
+player_playlist	Queue	キュー
+player_samplerate	Sample Rate	サンプリングレート
+player_songerinfo	Look up Artist	アーティストを調べる
+player_unknown	Unknown	不明
+player_unknown	Unknown Artist	不明なアーティスト
+playlist	Playlist	プレイリスト
+playlist_create	New playlist	新しいプレイリスト
+playlist_export	Export playlist	プレイリストをエクスポート
+playlist_import	Import playlist	プレイリストをインポート
+playmode_listplay	List Play	リスト再生
+playmode_repeatall	Repeat All	全曲リピート
+playmode_repeattrack	Repeat Track	1曲リピート
+playmode_shuffle	Shuffle	シャッフル
+playset_balance	Channel Balance	左右バランス
+playset_bootvol	Default Volume	起動時の音量
+playset_covermode	Enlarged Album Art	アルバムアートを拡大
+playset_dsdoutput	DSD Output Mode	DSD出力モード
+playset_eq	EQ	EQ
+playset_filter	Digital Filters	デジタルフィルター
+playset_foldercover	Folder Album Cover	フォルダのアルバムカバー
+playset_folderjump	Folder Skip	フォルダ間スキップ
+playset_gain	Gain	ゲイン
+playset_gapless	Gapless	ギャップレス
+playset_maxvol	Max Volume	最大音量
+playset_memplay	Memory Playback	再生位置の記憶
+playset_noplay	Require Output (Beta)	出力接続時のみ再生(ベータ)
+playset_playmode	Play Mode	再生モード
+playset_replaygain	ReplayGain	リプレイゲイン
+playset_usbaudiovol	USB Audio Output	USBオーディオ出力
+playset_volcover	Volume and Album Display	音量とアルバム表示
+powerm_deep_off	Standby	スタンバイ
+powerm_sleep	Sleep Timer	スリープタイマー
+recentadd	Recently Added	最近追加
+recentplay	Recent	最近再生
+rename	Rename	名前を変更
+renamesuccess	Successfully renamed	名前を変更しました
+replaygain_track	Song	曲
+reset_factory	Full Factory Reset	工場出荷時の状態に戻す
+reset_initdatabase	Reset Database	データベースをリセット
+reset_initset	Reset Settings Only	設定のみリセット
+scan_automatic	Automatic Update	自動更新
+scan_now	Scan music now	今すぐ音楽をスキャン
+scan_now	Scan music now	今すぐ音楽をスキャン
+scan_spec	Scan specified folders	指定フォルダをスキャン
+scan_spec	Scan specified folders	指定フォルダをスキャン
+scan_startscan	Scan	スキャン
+scan_updatefinish	Library Updated,%d Updated	ライブラリを更新しました(%d件)
+scan_updating	Updating No.%d	更新中 %d
+scover_cover	Cover	カバー
+scover_lyric	Lyrics	歌詞
+screenlock_about	Custom Lock Screen	カスタムロック画面
+screenlock_info1	1. Put the pictures in a folder named "lockscreenimage" at the top of the card.	1. カードの最上位に「lockscreenimage」フォルダを作り、画像を入れてください。
+screenlock_info2	2. PNG or JPG, exactly 375 x 320 pixels, under 1 MB each.	2. PNGまたはJPG、375 x 320ピクセル、各1MB未満。
+screenlock_info3	3. Up to 5 pictures.	3. 最大5枚。
+screenlock_timeshow	Show Time	時刻を表示
+search_tips1	Search for music,artists,albums,genres	音楽、アーティスト、アルバム、ジャンルを検索
+search_track	Track	トラック
+singerbyalbum	Sort by album artist	アルバムアーティスト順
+singerbysong	Sort by song artist	曲のアーティスト順
+small_album	Albums	アルバム
+small_coverflow	Album Wall	アルバムウォール
+small_folder	Folder	フォルダ
+small_local	Local Songs	ローカルの曲
+small_playing	Now Playing	再生中
+small_playset	Playback	再生
+small_stream	Streaming	ストリーミング
+small_sysset	System	システム
+songer	Artist	アーティスト
+sort_addtime	Time added	追加日
+sort_alphabet	Alphabetical	名前順
+sort_filename	File name	ファイル名
+sort_format	File format	ファイル形式
+sort_time_asc	Time added (ascending)	追加日(古い順)
+sort_time_desc	Time added (descending)	追加日(新しい順)
+standbyoff_10min	10min	10分
+standbyoff_1min	1min	1分
+standbyoff_3min	3min	3分
+standbyoff_5min	5min	5分
+standbyoff_deep	Auto-standby	自動スタンバイ
+standbyoff_deepinfo	After 5 minute of idle,device will go into standby mode.	5分間操作しないとスタンバイになります。
+standbyoff_saver	Auto-shutdown	自動シャットダウン
+synclink_off	Off	オフ
+system_about	About	製品情報
+system_carmode	In-Vehicle Mode	車載モード
+system_display	Display	ディスプレイ
+system_general	General	一般
+system_keylock	Buttons Lock	ボタンロック
+system_keytone	Key Tone	キー操作音
+system_language	Language	言語
+system_navshow	Show Navigation Bar	ナビゲーションバーを表示
+system_netservice	Network	ネットワーク
+system_powermanager	Power	電源
+system_prove	Certification	認証
+system_reset	Reset Settings	設定をリセット
+system_sys	System	システム
+system_time	Date & Time	日付と時刻
+system_update	System Update	システムアップデート
+system_wheelmode	Wheel Function	ホイール機能
+system_wifiset	Wireless	ワイヤレス
+timedate_24h	24-Hour	24時間表示
+timedate_auto	Automatic Time Set	時刻を自動設定
+timedate_manual	Set Time Manually	時刻を手動設定
+timezone_gmt+1	(GMT+01:00)Europe/Amsterdam	(GMT+01:00)アムステルダム
+timezone_gmt+10	(GMT+10:00)Australia/Sydney	(GMT+10:00)シドニー
+timezone_gmt+12	(GMT+12:00)Pacific/Fiji	(GMT+12:00)フィジー
+timezone_gmt+2	(GMT+02:00)Europe/Bucharest	(GMT+02:00)ブカレスト
+timezone_gmt+3	(GMT+03:00)Asia/Kuwait	(GMT+03:00)クウェート
+timezone_gmt+3_30	(GMT+03:30)Asia/Tehran	(GMT+03:30)テヘラン
+timezone_gmt+4	(GMT+04:00)Asia/Muscat	(GMT+04:00)マスカット
+timezone_gmt+4_30	(GMT+04:30)Asia/Kabul	(GMT+04:30)カブール
+timezone_gmt+5	(GMT+05:00)Asia/Karachi	(GMT+05:00)カラチ
+timezone_gmt+6	(GMT+06:00)Asia/Almaty	(GMT+06:00)アルマトイ
+timezone_gmt+7	(GMT+07:00)Asia/Bangkok	(GMT+07:00)バンコク
+timezone_gmt+8	(GMT+08:00)Asia/Shanghai	(GMT+08:00)上海
+timezone_gmt+9	(GMT+09:00)Asia/Tokyo	(GMT+09:00)東京
+timezone_gmt+9_30	(GMT+09:30)Australia/Adelaide	(GMT+09:30)アデレード
+timezone_gmt-0	(GMT 00:00)Europe/London	(GMT 00:00)ロンドン
+timezone_gmt-1	(GMT-01:00)Atlantic/Azores	(GMT-01:00)アゾレス
+timezone_gmt-10	(GMT-10:00)Pacific/Honolulu	(GMT-10:00)ホノルル
+timezone_gmt-11	(GMT-11:00)Pacific/Midway	(GMT-11:00)ミッドウェー
+timezone_gmt-12	(GMT-12:00)Pacific/Kwajalein	(GMT-12:00)クェゼリン
+timezone_gmt-3	(GMT-03:00)America/Argentina/Buenos_Aires	(GMT-03:00)ブエノスアイレス
+timezone_gmt-3_30	(GMT-03:30)America/St_Johns	(GMT-03:30)セントジョンズ
+timezone_gmt-4	(GMT-04:00)Canada/Atlantic	(GMT-04:00)ハリファックス
+timezone_gmt-5	(GMT-05:00)America/New_York	(GMT-05:00)ニューヨーク
+timezone_gmt-6	(GMT-06:00)America/Mexico_City	(GMT-06:00)メキシコシティ
+timezone_gmt-7	(GMT-07:00)America/Denver	(GMT-07:00)デンバー
+timezone_gmt-8	(GMT-08:00)America/Tijuana	(GMT-08:00)ティファナ
+timezone_gmt-9	(GMT-09:00)America/Anchorage	(GMT-09:00)アンカレッジ
+timezone_select	Time Zone Selection	タイムゾーンを選択
+title_downloaded	Downloaded	ダウンロード済み
+title_downloading	Downloading	ダウンロード中
+title_more	More	その他
+title_sort	List sort order	並べ替え
+update_online	Network update	ネットワークアップデート
+update_tf	TF card update	microSDカードアップデート
+usb_chargeswitch	USB DAC Charging	USB DAC充電
+usbmode_audio	USB AUDIO	USBオーディオ
+usbmode_connect	USB Connected	USB接続済み
+usbmode_dac	USB DAC	USB DAC
+usbmode_disconnect	USB Disconnected	USB切断
+usbmode_storge	USB Storage	USBストレージ
+usbvol_adjust	Volume Variable	可変
+usbvol_fixed	Volume Fixed	固定
+wheelmode_menu	Menu Mode	メニューモード
+wheelmode_volume	Volume Mode	音量モード
+wifi_addnetwork	Add Network	ネットワークを追加
+wifi_choice	Select Network	ネットワークを選択
+wifi_scan	Scanning	スキャン中
+wifiset_bt	Bluetooth	Bluetooth
+wifiset_synclink	SyncLink	SyncLink
+wifiset_wifi	Wi-Fi	Wi-Fi
+wifits_info1	Enter the following URL into your internet browser:	次のURLをブラウザに入力してください:
+Search	Search	検索
+Streaming	Streaming	ストリーミング
+Library's Games	Library's Games	ライブラリのゲーム
+Library's Apps	Library's Apps	ライブラリのアプリ
+Network settings	Network settings	ネットワーク設定
+Wait until the App Store finishes	Wait until the App Store finishes	App Storeの処理が終わるまでお待ちください
+It isn't on the card	It isn't on the card	カードにありません
+It couldn't start	It couldn't start	起動できませんでした
+Stop %s	Stop %s	%sを停止
+Loading…	Loading…	読み込み中…
+More…	More…	その他…
+Working…	Working…	処理中…
+Starting %s…	Starting %s…	%sを起動中…
+Retry	Retry	再試行
+Install it again in Library → App Store	Install it again in Library → App Store	ライブラリ → App Storeで再インストールしてください
+Cancel	Cancel	キャンセル
+%s isn't running	%s isn't running	%sは起動していません
+%s didn't answer	%s didn't answer	%sから応答がありません
+Too long	Too long	長すぎます
+%s stopped	%s stopped	%sが停止しました
+%s isn't on the card	%s isn't on the card	%sがカードにありません
+Apps	Apps	アプリ
+No apps	No apps	アプリなし
+Not running	Not running	未起動
+No code yet	No code yet	コードがまだありません
+Connect the Q2 to Wi-Fi	Connect the Q2 to Wi-Fi	Q2をWi-Fiに接続してください
+Open it again	Open it again	もう一度開いてください
+Wait a moment	Wait a moment	しばらくお待ちください
+Then come back here	Then come back here	その後ここに戻ってください
+Scan with your phone's	Scan with your phone's	スマホの
+Scan with your	Scan with your	お手持ちの
+camera	camera	カメラで読み取るか
+phone's camera	phone's camera	スマホのカメラで読み取るか
+or open	or open	または次を開く
+PIN	PIN	PIN
+Couldn't import %s	Couldn't import %s	%sをインポートできませんでした
+Playlists updated	Playlists updated	プレイリストを更新しました
+No memory card	No memory card	メモリーカードがありません
+Games	Games	ゲーム
+%d update	%d update	%d件のアップデート
+%d updates	%d updates	%d件のアップデート
+INSTALL	INSTALL	インストール
+UPDATE	UPDATE	アップデート
+INSTALLED	INSTALLED	インストール済み
+AM	AM	午前
+PM	PM	午後
+Jan	Jan	1月
+Feb	Feb	2月
+Mar	Mar	3月
+Apr	Apr	4月
+May	May	5月
+Jun	Jun	6月
+Jul	Jul	7月
+Aug	Aug	8月
+Sep	Sep	9月
+Oct	Oct	10月
+Nov	Nov	11月
+Dec	Dec	12月
+The card is in use over USB	The card is in use over USB	カードはUSBで使用中です
+Storage unavailable	Storage unavailable	ストレージを利用できません
+The card is full	The card is full	カードがいっぱいです
+Couldn't save	Couldn't save	保存できませんでした
+Saved to battery-log.txt	Saved to battery-log.txt	battery-log.txtに保存しました
+Battery History	Battery History	バッテリー履歴
+Unplug to start	Unplug to start	取り外すと開始
+Export Log	Export Log	ログを書き出し
+Done	Done	完了
+space	space	スペース
+New Playlist	New Playlist	新しいプレイリスト
+Playlist Name	Playlist Name	プレイリスト名
+Rename	Rename	名前を変更
+Songs	Songs	曲
+Artists	Artists	アーティスト
+Albums	Albums	アルバム
+Genres	Genres	ジャンル
+Off	Off	オフ
+On	On	オン
+%d of %d songs	%d of %d songs	%d / %d曲
+Updating Library	Updating Library	ライブラリを更新中
+Connected	Connected	接続済み
+Eject before disconnecting	Eject before disconnecting	ケーブルを抜く前に取り出してください
+%d:%02d AM	%d:%02d AM	午前%d:%02d
+%d:%02d PM	%d:%02d PM	午後%d:%02d
+Save	Save	保存
+Sort: Album	Sort: Album	並べ替え: アルバム
+Sort: Artist	Sort: Artist	並べ替え: アーティスト
+Sort: Recently Added	Sort: Recently Added	並べ替え: 最近追加
+Sort: Most Played	Sort: Most Played	並べ替え: 再生回数順
+Sort: Random	Sort: Random	並べ替え: ランダム
+Sort: Rating	Sort: Rating	並べ替え: 評価
+Sort: Year	Sort: Year	並べ替え: 年
+%u song	%u song	%u曲
+%u songs	%u songs	%u曲
+All albums	All albums	すべてのアルバム
+Preparing artwork… %d/%d	Preparing artwork… %d/%d	アートワークを準備中… %d/%d
+Update Library first	Update Library first	先にライブラリを更新してください
+%u Song	%u Song	%u曲
+%u Songs	%u Songs	%u曲
+%u Album	%u Album	%uアルバム
+%u Albums	%u Albums	%uアルバム
+%u Game	%u Game	%uゲーム
+%u Games	%u Games	%uゲーム
+%u Service	%u Service	%uサービス
+%u Services	%u Services	%uサービス
+%u.%u GB Free	%u.%u GB Free	空き %u.%u GB
+Library	Library	ライブラリ
+Settings	Settings	設定
+Crossfade: %d s	Crossfade: %d s	クロスフェード: %d秒
+Crossfade: Off	Crossfade: Off	クロスフェード: オフ
+Wheel Sensitivity: %d%%	Wheel Sensitivity: %d%%	ホイール感度: %d%%
+Resume Songs: %d min	Resume Songs: %d min	続きから再生: %d分以上
+Resume Songs: Off	Resume Songs: Off	続きから再生: オフ
+Night Shift: %dK	Night Shift: %dK	ナイトシフト: %dK
+Night Shift: Auto	Night Shift: Auto	ナイトシフト: 自動
+Night Shift: Off	Night Shift: Off	ナイトシフト: オフ
+Mono Audio	Mono Audio	モノラル音声
+Swap L/R	Swap L/R	左右を入れ替え
+Crossfade needs Gapless	Crossfade needs Gapless	クロスフェードにはギャップレスが必要です
+Auto	Auto	自動
+Night Shift	Night Shift	ナイトシフト
+Resume Songs	Resume Songs	続きから再生
+Wheel Sensitivity	Wheel Sensitivity	ホイール感度
+Crossfade	Crossfade	クロスフェード
+Measuring song lengths…	Measuring song lengths…	曲の長さを測定中…
+Sudoku	Sudoku	数独
+Solitaire	Solitaire	ソリティア
+Snake	Snake	スネーク
+Paused	Paused	一時停止中
+Continue	Continue	続ける
+Quit	Quit	終了
+New best!	New best!	新記録！
+Game over	Game over	ゲームオーバー
+Centre: play again	Centre: play again	センター: もう一度
+Play/Pause: resume	Play/Pause: resume	再生/一時停止: 再開
+New game?	New game?	新しいゲームを始めますか？
+Centre: yes   Return: no	Centre: yes   Return: no	センター: はい   戻る: いいえ
+Solved!	Solved!	クリア！
+Play/Pause: new game	Play/Pause: new game	再生/一時停止: 新しいゲーム
+Score	Score	スコア
+Best	Best	ベスト
+Level	Level	レベル
+Centre	Centre	センター
+You win!	You win!	あなたの勝ち！
+Shuffle	Shuffle	シャッフル
+Era	Era	年代
+Ratings	Ratings	評価
+Most Played	Most Played	再生回数順
+Long Songs	Long Songs	長い曲
+App Store	App Store	App Store
+Upload Scrobbles	Upload Scrobbles	スクロブルを送信
+Tidal Downloads	Tidal Downloads	Tidalダウンロード
+Internet Radio	Internet Radio	インターネットラジオ
+Configuration	Configuration	ストリーミング設定
+Restart to apply?	Restart to apply?	再起動して適用しますか？
+Couldn't copy the language	Couldn't copy the language	言語をコピーできませんでした
+Too many songs to shuffle	Too many songs to shuffle	曲が多すぎてシャッフルできません
+Shuffle Songs	Shuffle Songs	曲をシャッフル
+Shuffle Albums	Shuffle Albums	アルバムをシャッフル
+Shuffle Folders	Shuffle Folders	フォルダをシャッフル
+Albums and folders take a moment to shuffle	Albums and folders take a moment to shuffle	アルバムとフォルダのシャッフルには少し時間がかかります
+No plays yet	No plays yet	再生履歴がありません
+%u play	%u play	%u回再生
+%u plays	%u plays	%u回再生
+No downloads yet	No downloads yet	ダウンロードはまだありません
+Clear All Downloads…	Clear All Downloads…	すべてのダウンロードを削除…
+%u track	%u track	%uトラック
+%u tracks	%u tracks	%uトラック
+Remove Downloads?	Remove Downloads?	ダウンロードを削除しますか？
+Keeps settings	Keeps settings	設定は残ります
+Remove	Remove	削除
+It isn't on the card any more	It isn't on the card any more	カードにもうありません
+Era unavailable	Era unavailable	年代を利用できません
+Album not found	Album not found	アルバムが見つかりません
+%u album	%u album	%uアルバム
+%u albums	%u albums	%uアルバム
+Play All	Play All	すべて再生
+Every song, shuffled	Every song, shuffled	すべての曲をシャッフル
+No dated albums yet	No dated albums yet	年のあるアルバムがありません
+No songs over 10 minutes	No songs over 10 minutes	10分を超える曲がありません
+Measuring songs… %d/%d	Measuring songs… %d/%d	曲を測定中… %d/%d
+Measuring songs…	Measuring songs…	曲を測定中…
+Release to search	Release to search	離して検索
+Pull to search	Pull to search	引いて検索
+Sleep Timer	Sleep Timer	スリープタイマー
+Lock Screen	Lock Screen	ロック画面
+Accent	Accent	アクセント
+Everything	Everything	すべて
+Buttons only	Buttons only	ボタンのみ
+Volume only	Volume only	音量のみ
+Wake: Single Press	Wake: Single Press	復帰: 1回押し
+Wake: Double Press	Wake: Double Press	復帰: 2回押し
+Artist View: Grid	Artist View: Grid	アーティスト表示: グリッド
+Artist View: Cover Flow	Artist View: Cover Flow	アーティスト表示: Cover Flow
+Artist View: List	Artist View: List	アーティスト表示: リスト
+Year Order: Newest First	Year Order: Newest First	年順: 新しい順
+Year Order: Oldest First	Year Order: Oldest First	年順: 古い順
+Artists: Artist	Artists: Artist	アーティスト: 曲のアーティスト
+Artists: Album Artist	Artists: Album Artist	アーティスト: アルバムアーティスト
+Resume on Connect: Off	Resume on Connect: Off	接続時に再開: オフ
+Resume on Connect: On	Resume on Connect: On	接続時に再開: オン
+Clock: Standard	Clock: Standard	時計: 標準
+Clock: Large	Clock: Large	時計: 大
+Artist Album Order: Year	Artist Album Order: Year	アーティストのアルバム順: 年
+Artist Album Order: A–Z	Artist Album Order: A–Z	アーティストのアルバム順: 名前順
+Volume Guard: Off	Volume Guard: Off	音量ガード: オフ
+Volume Guard: On	Volume Guard: On	音量ガード: オン
+Hold Return: Recent	Hold Return: Recent	戻る長押し: 最近再生
+Hold Return: Home	Hold Return: Home	戻る長押し: ホーム
+Standby Limit: Off	Standby Limit: Off	スタンバイ上限: オフ
+Standby Limit: %u h	Standby Limit: %u h	スタンバイ上限: %u時間
+Refresh Cover Flow	Refresh Cover Flow	Cover Flowを更新
+Playlist View: List	Playlist View: List	プレイリスト表示: リスト
+Playlist View: Cover Flow	Playlist View: Cover Flow	プレイリスト表示: Cover Flow
+Update Notifications: Off	Update Notifications: Off	アップデート通知: オフ
+Update Notifications: On	Update Notifications: On	アップデート通知: オン
+Album View: List	Album View: List	アルバム表示: リスト
+Album View: Grid	Album View: Grid	アルバム表示: グリッド
+Charge Limit (%u%%)	Charge Limit (%u%%)	充電上限 (%u%%)
+Resume on Connect	Resume on Connect	接続時に再開
+Volume Guard	Volume Guard	音量ガード
+Control Device Volume	Control Device Volume	機器の音量を操作
+Key Tone	Key Tone	キー操作音
+In-Vehicle Mode	In-Vehicle Mode	車載モード
+Smart Wi-Fi	Smart Wi-Fi	Smart Wi-Fi
+Enlarged Album Art	Enlarged Album Art	アルバムアートを拡大
+Folder Album Cover	Folder Album Cover	フォルダのアルバムカバー
+Fast Navigation	Fast Navigation	高速ナビゲーション
+Scan Song Durations	Scan Song Durations	曲の長さをスキャン
+Position Bar	Position Bar	位置バー
+Hide Streaming	Hide Streaming	ストリーミングを非表示
+Hide Folder	Hide Folder	フォルダを非表示
+Hide Apps	Hide Apps	アプリを非表示
+Hide Games	Hide Games	ゲームを非表示
+Hide App Store	Hide App Store	App Storeを非表示
+Receive Audio	Receive Audio	音声を受信
+Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	次回、Cover Flowがアートワークを作り直します
+Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	適用するにはBluetoothをオフ/オンしてください
+Folder Root: %s	Folder Root: %s	フォルダのルート: %s
+Folder Root: Card	Folder Root: Card	フォルダのルート: カード
+Library & Folders	Library & Folders	ライブラリとフォルダ
+Press Centre to Change Mode	Press Centre to Change Mode	センターを押してモード変更
+Press Centre to Turn On or Off	Press Centre to Turn On or Off	センターを押してオン/オフ
+Press Centre When Finished	Press Centre When Finished	終わったらセンターを押す
+OK to Disconnect	OK to Disconnect	取り外せます
+Now Playing	Now Playing	再生中
+Cover Flow	Cover Flow	Cover Flow
+EQ	EQ	EQ
+Update Library	Update Library	ライブラリを更新
+Balance	Balance	バランス
+Home: Split	Home: Split	ホーム: 分割
+Home: Full	Home: Full	ホーム: フル
+Home: Carousel	Home: Carousel	ホーム: カルーセル
+Battery: Icon	Battery: Icon	バッテリー: アイコン
+Battery: Percent	Battery: Percent	バッテリー: パーセント
+Battery: Icon + Percent	Battery: Icon + Percent	バッテリー: アイコン + パーセント
+Battery: Percent Inside	Battery: Percent Inside	バッテリー: パーセント内表示
+Light Mode: Off	Light Mode: Off	ライトモード: オフ
+Light Mode: On	Light Mode: On	ライトモード: オン
+Light Mode: Auto	Light Mode: Auto	ライトモード: 自動
+Accent: %s	Accent: %s	アクセント: %s
+Theme: %s	Theme: %s	テーマ: %s
+Shortcut: None	Shortcut: None	ショートカット: なし
+Shortcut: %s	Shortcut: %s	ショートカット: %s
+Rounded Corners	Rounded Corners	角丸
+Smart Awake	Smart Awake	Smart Awake
+Centred Now Playing	Centred Now Playing	再生中を中央揃え
+Click With Headphones	Click With Headphones	ヘッドホンでクリック音
+Single Press Scrub	Single Press Scrub	1回押しでシーク
+Time in Title	Time in Title	タイトルに時刻
+Location	Location	場所
+Unknown	Unknown	不明
+Appearance	Appearance	外観
+Controls	Controls	操作
+Theme	Theme	テーマ
+Boot to: Rockbox	Boot to: Rockbox	起動先: Rockbox
+Boot to: Q2 Pod	Boot to: Q2 Pod	起動先: Q2 Pod
+Rockbox is not on the card	Rockbox is not on the card	Rockboxがカードにありません
+Could not save boot choice	Could not save boot choice	起動先を保存できませんでした
+No albums	No albums	アルバムなし
+No artists	No artists	アーティストなし
+No composers	No composers	作曲者なし
+No genres	No genres	ジャンルなし
+Chapter %d	Chapter %d	チャプター %d
+Chapters	Chapters	チャプター
+Could not read chapters	Could not read chapters	チャプターを読み込めません
+No embedded chapters	No embedded chapters	埋め込みチャプターなし
+Too long to read chapters on the Q2	Too long to read chapters on the Q2	長すぎてQ2ではチャプターを読めません
+Loading chapters…	Loading chapters…	チャプターを読み込み中…
+Spotify Cache: %s	Spotify Cache: %s	Spotifyキャッシュ: %s
+Tidal Cache: %s	Tidal Cache: %s	Tidalキャッシュ: %s
+Erasing…	Erasing…	消去中…
+Press again to erase login and cache	Press again to erase login and cache	もう一度押すとログインとキャッシュを消去
+Erase Spotify Data	Erase Spotify Data	Spotifyデータを消去
+Could not save setting	Could not save setting	設定を保存できませんでした
+Streaming stopped	Streaming stopped	ストリーミングを停止しました
+Wait for the one in progress	Wait for the one in progress	実行中の処理をお待ちください
+Stop Streaming Services	Stop Streaming Services	ストリーミングサービスを停止
+No %s folder on the card	No %s folder on the card	カードに%sフォルダがありません
+CFW. Version	CFW. Version	CFWバージョン
+Update to %s	Update to %s	%sにアップデート
+Latest firmware installed	Latest firmware installed	最新のファームウェアです
+Can't reach GitHub	Can't reach GitHub	GitHubに接続できません
+No update for this build	No update for this build	このビルドのアップデートはありません
+Can't write to the card	Can't write to the card	カードに書き込めません
+Download cancelled	Download cancelled	ダウンロードを中止しました
+GitHub is busy, try later	GitHub is busy, try later	GitHubが混み合っています。後でお試しください
+The download was damaged, try again	The download was damaged, try again	ダウンロードが壊れています。もう一度お試しください
+Downloading %d%%	Downloading %d%%	ダウンロード中 %d%%
+Cancelling…	Cancelling…	中止中…
+Reconnecting…	Reconnecting…	再接続中…
+Verifying…	Verifying…	検証中…
+Checking…	Checking…	確認中…
+Needs %u MB more space	Needs %u MB more space	あと%u MBの空きが必要です
+Update downloaded: use TF card update	Update downloaded: use TF card update	ダウンロード済み: microSDカードアップデートを使ってください
+Charge the battery first	Charge the battery first	先にバッテリーを充電してください
+Can't start the download	Can't start the download	ダウンロードを開始できません
+Downloading…	Downloading…	ダウンロード中…
+Q2 Pod %s is out: System Update → Network update	Q2 Pod %s is out: System Update → Network update	Q2 Pod %sが公開されました: システムアップデート → ネットワークアップデート
+Downloading	Downloading	ダウンロード中
+Unpacking…	Unpacking…	展開中…
+Installing…	Installing…	インストール中…
+Removing…	Removing…	削除中…
+Connect to Wi-Fi to load the list	Connect to Wi-Fi to load the list	一覧を読み込むにはWi-Fiに接続してください
+Checked just now	Checked just now	たった今確認しました
+Checked %u min ago	Checked %u min ago	%u分前に確認
+Checked %u h ago	Checked %u h ago	%u時間前に確認
+Press again to remove	Press again to remove	もう一度押すと削除
+Starts at power-on. Press again to install	Starts at power-on. Press again to install	電源オン時に起動。もう一度押してインストール
+%d app can be updated	%d app can be updated	アプリ%d件を更新できます
+%d apps can be updated	%d apps can be updated	アプリ%d件を更新できます
+All apps are up to date	All apps are up to date	すべてのアプリは最新です
+The download is not a usable app	The download is not a usable app	ダウンロードしたものはアプリとして使えません
+Rockbox is ready. Find it on Home	Rockbox is ready. Find it on Home	Rockboxの準備ができました。ホームにあります
+Rockbox Themes are ready in Rockbox's Theme Settings	Rockbox Themes are ready in Rockbox's Theme Settings	RockboxのテーマはRockboxのテーマ設定で使えます
+%s is ready in %s	%s is ready in %s	%sを%sに追加しました
+%s removed	%s removed	%sを削除しました
+Spotify's login and cache erased	Spotify's login and cache erased	Spotifyのログインとキャッシュを消去しました
+Stopped checking for updates	Stopped checking for updates	アップデートの確認を中止しました
+Install Rockbox first	Install Rockbox first	先にRockboxをインストールしてください
+Check for Updates	Check for Updates	アップデートを確認
+%d of %d	%d of %d	%d / %d
+Album lyrics	Album lyrics	アルバムの歌詞
+LRCLIB stopped answering	LRCLIB stopped answering	LRCLIBから応答がなくなりました
+Cancelled	Cancelled	キャンセルしました
+%d saved	%d saved	%d件保存
+%d not found	%d not found	%d件見つからず
+%d already had lyrics	%d already had lyrics	%d件は歌詞あり
+%d failed	%d failed	%d件失敗
+Album lyrics: no songs on the card	Album lyrics: no songs on the card	アルバムの歌詞: カードに曲がありません
+Can't reach LRCLIB	Can't reach LRCLIB	LRCLIBに接続できません
+Download Album Lyrics	Download Album Lyrics	アルバムの歌詞をダウンロード
+Downloading %d of %d	Downloading %d of %d	ダウンロード中 %d / %d
+No album songs on the card	No album songs on the card	カードにアルバムの曲がありません
+file exceeds 16384 bytes	file exceeds 16384 bytes	ファイルが16384バイトを超えています
+line exceeds 512 bytes	line exceeds 512 bytes	行が512バイトを超えています
+embedded NUL	embedded NUL	NULが含まれています
+unsupported filter form	unsupported filter form	非対応のフィルター形式です
+expected Preamp: <gain> dB	expected Preamp: <gain> dB	Preamp: <gain> dB が必要です
+preamp outside -60..24 dB or invalid number	preamp outside -60..24 dB or invalid number	プリアンプが-60..24 dBの範囲外か、数値が不正です
+expected Channel: L, R or all	expected Channel: L, R or all	Channel: L, R または all が必要です
+only channels L, R and all are supported	only channels L, R and all are supported	チャンネルはL、R、allのみ対応です
+unsupported command	unsupported command	非対応のコマンドです
+invalid filter label	invalid filter label	フィルターのラベルが不正です
+expected Filter [number]:	expected Filter [number]:	Filter [number]: が必要です
+expected ON or OFF	expected ON or OFF	ON または OFF が必要です
+unsupported filter type	unsupported filter type	非対応のフィルタータイプです
+expected Fc <Hz> Hz Gain <dB> dB	expected Fc <Hz> Hz Gain <dB> dB	Fc <Hz> Hz Gain <dB> dB が必要です
+invalid frequency or gain number	invalid frequency or gain number	周波数またはゲインの数値が不正です
+expected Q <number>	expected Q <number>	Q <number> が必要です
+peaking filter requires Q	peaking filter requires Q	ピーキングフィルターにはQが必要です
+range: 20..20000 Hz, -24..24 dB, Q 0.1..10	range: 20..20000 Hz, -24..24 dB, Q 0.1..10	範囲: 20..20000 Hz、-24..24 dB、Q 0.1..10
+more than 30 bands	more than 30 bands	30バンドを超えています
+summed preamp outside -60..24 dB	summed preamp outside -60..24 dB	プリアンプの合計が-60..24 dBの範囲外です
+L/R preamp differ by more than 12 dB	L/R preamp differ by more than 12 dB	L/Rのプリアンプ差が12 dBを超えています
+out of memory	out of memory	メモリ不足
+cannot open file	cannot open file	ファイルを開けません
+file read failed	file read failed	ファイルを読み込めませんでした
+EQ for 3.5 mm	EQ for 3.5 mm	3.5 mm用EQ
+EQ for 4.4 mm	EQ for 4.4 mm	4.4 mm用EQ
+EQ for USB	EQ for USB	USB用EQ
+EQ for this Bluetooth device	EQ for this Bluetooth device	このBluetoothデバイス用EQ
+Auto (44.1: %.1f / 48: %.1f)	Auto (44.1: %.1f / 48: %.1f)	自動 (44.1: %.1f / 48: %.1f)
+Folder missing or unavailable	Folder missing or unavailable	フォルダがないか利用できません
+Out of memory; cannot list presets	Out of memory; cannot list presets	メモリ不足です。プリセットを一覧できません
+No presets found	No presets found	プリセットが見つかりません
+Name not allowed; preset kept	Name not allowed; preset kept	使えない名前です。プリセットはそのままです
+Name taken; preset kept	Name taken; preset kept	その名前は使用中です。プリセットはそのままです
+Rename failed; preset kept	Rename failed; preset kept	名前を変更できませんでした。プリセットはそのままです
+Renamed to %.100s	Renamed to %.100s	%.100sに名前を変更しました
+Pop	Pop	ポップ
+Rock	Rock	ロック
+Dance	Dance	ダンス
+Blues	Blues	ブルース
+Metal	Metal	メタル
+Vocal	Vocal	ボーカル
+Classical	Classical	クラシック
+Jazz	Jazz	ジャズ
+Preset loaded; choose Apply to activate	Preset loaded; choose Apply to activate	プリセットを読み込みました。有効にするには適用を選んでください
+Preset saved; active EQ unchanged	Preset saved; active EQ unchanged	プリセットを保存しました。現在のEQは変わりません
+Save failed; settings unchanged	Save failed; settings unchanged	保存できませんでした。設定は変わりません
+Switch failed; EQ unchanged	Switch failed; EQ unchanged	切り替えできませんでした。EQは変わりません
+Applied	Applied	適用しました
+Apply failed; active EQ unchanged	Apply failed; active EQ unchanged	適用できませんでした。現在のEQは変わりません
+Reset; choose Apply to activate	Reset; choose Apply to activate	リセットしました。有効にするには適用を選んでください
+Delete failed; preset kept	Delete failed; preset kept	削除できませんでした。プリセットはそのままです
+Deleted %.100s; active EQ unchanged	Deleted %.100s; active EQ unchanged	%.100sを削除しました。現在のEQは変わりません
+Line %u: %s	Line %u: %s	%u行目: %s
+Cannot read preset; settings unchanged	Cannot read preset; settings unchanged	プリセットを読み込めません。設定は変わりません
+Peaking	Peaking	ピーキング
+Low shelf	Low shelf	ローシェルフ
+High shelf	High shelf	ハイシェルフ
+Apply changes	Apply changes	変更を適用
+Nothing to apply	Nothing to apply	適用する変更はありません
+Reset to defaults	Reset to defaults	初期設定に戻す
+Enabled	Enabled	有効
+EQ per Output	EQ per Output	出力別EQ
+Preamp	Preamp	プリアンプ
+Presets	Presets	プリセット
+Band	Band	バンド
+Channels	Channels	チャンネル
+Both	Both	両方
+Left	Left	左
+Right	Right	右
+Type	Type	タイプ
+Frequency	Frequency	周波数
+Gain	Gain	ゲイン
+Band %d Q	Band %d Q	バンド%d Q
+Band %d Frequency (Hz)	Band %d Frequency (Hz)	バンド%d 周波数 (Hz)
+Raise	Raise	上げる
+Lower	Lower	下げる
+Step	Step	刻み
+Delete %.100s? Confirm	Delete %.100s? Confirm	%.100sを削除しますか？ はい
+Replace existing preset? Confirm	Replace existing preset? Confirm	既存のプリセットを置き換えますか？ はい
+Cancel replacement	Cancel replacement	置き換えをキャンセル
+Save as Manual %02d	Save as Manual %02d	手動%02dとして保存
+Stock presets	Stock presets	標準プリセット
+Import from SD /EQ	Import from SD /EQ	SDの/EQから読み込み
+Save editor preset	Save editor preset	編集中のプリセットを保存
+Rename a preset	Rename a preset	プリセットの名前を変更
+Delete a preset	Delete a preset	プリセットを削除
+Previous page	Previous page	前のページ
+Next page	Next page	次のページ
+Band %d	Band %d	バンド%d
+Band %d Gain	Band %d Gain	バンド%d ゲイン
+Presets %d/%d	Presets %d/%d	プリセット %d/%d
+Save failed; EQ unchanged	Save failed; EQ unchanged	保存できませんでした。EQは変わりません
+Advanced	Advanced	詳細
+Enabled: On	Enabled: On	有効: オン
+Enabled: Off	Enabled: Off	有効: オフ
+Low	Low	低域
+Mid	Mid	中域
+High	High	高域
+Simple	Simple	シンプル
+No photos	No photos	写真なし
+All Photos	All Photos	すべての写真
+Photos	Photos	写真
+Can't open this photo	Can't open this photo	この写真を開けません
+%d of %d  %s	%d of %d  %s	%d / %d  %s
+Could not save folder speed	Could not save folder speed	フォルダの再生速度を保存できませんでした
+Too long to play on the Q2: split it into parts	Too long to play on the Q2: split it into parts	Q2で再生するには長すぎます。分割してください
+Press again to restart	Press again to restart	もう一度押すと再起動
+Could not save playlist	Could not save playlist	プレイリストを保存できませんでした
+Already in playlist	Already in playlist	すでにプレイリストにあります
+Added to Playlist	Added to Playlist	プレイリストに追加しました
+Search songs	Search songs	曲を検索
+Editing: %s	Editing: %s	編集中: %s
+Add Songs: %s	Add Songs: %s	曲を追加: %s
+Song Actions: %s	Song Actions: %s	曲の操作: %s
+Remove song?: %s	Remove song?: %s	曲を外しますか？: %s
+Add Songs	Add Songs	曲を追加
+Move Up	Move Up	上へ移動
+Move Down	Move Down	下へ移動
+Remove from Playlist	Remove from Playlist	プレイリストから削除
+Search: %s	Search: %s	検索: %s
+No songs match	No songs match	一致する曲がありません
+Search for more songs	Search for more songs	ほかの曲を検索
+Delete Playlist?	Delete Playlist?	プレイリストを削除しますか？
+Delete	Delete	削除
+Playlist deleted	Playlist deleted	プレイリストを削除しました
+Could not delete playlist	Could not delete playlist	プレイリストを削除できませんでした
+Delete Playlist	Delete Playlist	プレイリストを削除
+Edit Playlist	Edit Playlist	プレイリストを編集
+Queue unchanged	Queue unchanged	キューは変わりません
+Deselect All	Deselect All	すべて選択解除
+Select All	Select All	すべて選択
+Export %d Playlist	Export %d Playlist	プレイリスト%d件をエクスポート
+Export %d Playlists	Export %d Playlists	プレイリスト%d件をエクスポート
+Delete %d Playlist…	Delete %d Playlist…	プレイリスト%d件を削除…
+Delete %d Playlists…	Delete %d Playlists…	プレイリスト%d件を削除…
+%d Selected	%d Selected	%d件選択中
+Select Playlists	Select Playlists	プレイリストを選択
+Playlists	Playlists	プレイリスト
+No Playlists	No Playlists	プレイリストなし
+New Playlist…	New Playlist…	新しいプレイリスト…
+Select Playlists…	Select Playlists…	プレイリストを選択…
+Import Playlists	Import Playlists	プレイリストをインポート
+Export	Export	エクスポート
+No other group	No other group	ほかのグループはありません
+Folder not found	Folder not found	フォルダが見つかりません
+All Songs	All Songs	すべての曲
+Songs in Album	Songs in Album	アルバム内の曲
+Albums and Songs	Albums and Songs	アルバムと曲
+Songs in Folder	Songs in Folder	フォルダ内の曲
+Folders	Folders	フォルダ
+Folders and Songs	Folders and Songs	フォルダと曲
+Play One Song	Play One Song	1曲だけ再生
+Play One Album	Play One Album	1アルバムだけ再生
+Repeat Song	Repeat Song	曲をリピート
+Repeat Album	Repeat Album	アルバムをリピート
+Repeat All	Repeat All	全曲リピート
+Play One Folder	Play One Folder	1フォルダだけ再生
+Repeat Folder	Repeat Folder	フォルダをリピート
+Album	Album	アルバム
+Folder	Folder	フォルダ
+Repeat	Repeat	リピート
+Group by	Group by	グループ化
+Play Next	Play Next	次に再生
+Add to Queue	Add to Queue	キューに追加
+Add to Favourites	Add to Favourites	お気に入りに追加
+Remove from Favourites	Remove from Favourites	お気に入りから削除
+Add to Playlist	Add to Playlist	プレイリストに追加
+Go to Album	Go to Album	アルバムへ移動
+Go to Artist	Go to Artist	アーティストへ移動
+Next Album	Next Album	次のアルバム
+Previous Album	Previous Album	前のアルバム
+Rate	Rate	評価
+Resume	Resume	再開
+View Queue	View Queue	キューを表示
+Go to Folder	Go to Folder	フォルダへ移動
+Rate Album	Rate Album	アルバムを評価
+Group by: Folder	Group by: Folder	グループ化: フォルダ
+Group by: Album	Group by: Album	グループ化: アルバム
+Next Folder	Next Folder	次のフォルダ
+Previous Folder	Previous Folder	前のフォルダ
+Wheel: Volume	Wheel: Volume	ホイール: 音量
+Wheel: Brightness	Wheel: Brightness	ホイール: 明るさ
+Could not save Favourites	Could not save Favourites	お気に入りを保存できませんでした
+Added to Favourites	Added to Favourites	お気に入りに追加しました
+Removed from Favourites	Removed from Favourites	お気に入りから削除しました
+Stopped	Stopped	停止しました
+Can't play: %s	Can't play: %s	再生できません: %s
+Can't play this station	Can't play this station	この局は再生できません
+Connecting…	Connecting…	接続中…
+Search is too long	Search is too long	検索語が長すぎます
+Search stations	Search stations	局を検索
+Favourites	Favourites	お気に入り
+Featured	Featured	おすすめ
+Top Stations	Top Stations	人気の局
+By Country	By Country	国別
+By Genre	By Genre	ジャンル別
+Countries	Countries	国
+Connecting to Wi-Fi…	Connecting to Wi-Fi…	Wi-Fiに接続中…
+Directory unavailable	Directory unavailable	ディレクトリを利用できません
+No Wi-Fi	No Wi-Fi	Wi-Fiなし
+No stations	No stations	局がありません
+No favourites	No favourites	お気に入りなし
+Rating not saved	Rating not saved	評価を保存できませんでした
+Ratings are full	Ratings are full	評価がいっぱいです
+Favourite not sent to the app	Favourite not sent to the app	お気に入りをアプリに送れませんでした
+Unrated	Unrated	未評価
+1 Heart	1 Heart	ハート1つ
+%d Hearts	%d Hearts	ハート%d個
+%d of 5	%d of 5	%d / 5
+Album changed	Album changed	アルバムが変わりました
+Favourite not saved	Favourite not saved	お気に入りを保存できませんでした
+This app has no favourites	This app has no favourites	このアプリにはお気に入りがありません
+Top Rated	Top Rated	高評価
+Loved	Loved	大好き
+All Rated	All Rated	すべての評価済み
+Disliked	Disliked	苦手
+No songs yet	No songs yet	曲はまだありません
+Hold the heart on Now Playing to rate	Hold the heart on Now Playing to rate	再生中のハートを長押しして評価
+No rated albums yet	No rated albums yet	評価済みのアルバムはまだありません
+Upload failed, %d sent	Upload failed, %d sent	送信失敗(%d件送信済み)
+Scrobbles sent: %d	Scrobbles sent: %d	スクロブル送信: %d
+Nothing to upload	Nothing to upload	送信するものがありません
+Uploading scrobbles	Uploading scrobbles	スクロブルを送信中
+Already uploading	Already uploading	すでに送信中です
+Upload failed	Upload failed	送信できませんでした
+Connect to Wi-Fi first	Connect to Wi-Fi first	先にWi-Fiに接続してください
+Waiting for Spotify	Waiting for Spotify	Spotifyを待っています
+Spotify isn't on the card	Spotify isn't on the card	Spotifyがカードにありません
+See the Q2 Pod guide to add it	See the Q2 Pod guide to add it	追加方法はQ2 Podガイドをご覧ください
+Open Spotify on your phone	Open Spotify on your phone	スマホでSpotifyを開き
+and choose Q2	and choose Q2	Q2を選んでください
+Spotify refused this account	Spotify refused this account	Spotifyがこのアカウントを拒否しました
+Its tracks can't play on the Q2	Its tracks can't play on the Q2	その曲はQ2で再生できません
+Playback didn't start	Playback didn't start	再生を開始できませんでした
+Go back and try again	Go back and try again	戻ってもう一度お試しください
+Starting playback	Starting playback	再生を開始中
+Update Spotify on the card	Update Spotify on the card	カード上のSpotifyをアップデートしてください
+See the Q2 Pod guide	See the Q2 Pod guide	Q2 Podガイドをご覧ください
+Nothing playing	Nothing playing	再生中の曲なし
+Choose music in Spotify	Choose music in Spotify	Spotifyで音楽を選んでください
+Liked Songs	Liked Songs	お気に入りの曲
+Queue	Queue	キュー
+Playback Settings	Playback Settings	再生設定
+Account	Account	アカウント
+Downloaded Tracks	Downloaded Tracks	ダウンロード済みトラック
+Downloads	Downloads	ダウンロード
+Tracks	Tracks	トラック
+Open Spotify on your phone and choose Q2	Open Spotify on your phone and choose Q2	スマホでSpotifyを開き、Q2を選んでください
+Both on the same Wi-Fi	Both on the same Wi-Fi	両方を同じWi-Fiに接続
+to browse on the Q2	to browse on the Q2	Q2で閲覧するには
+Downloaded Playlists	Downloaded Playlists	ダウンロード済みプレイリスト
+Download Progress	Download Progress	ダウンロードの進行状況
+Storage Management	Storage Management	ストレージ管理
+Download Status	Download Status	ダウンロード状況
+The latest download's progress	The latest download's progress	最新ダウンロードの進行状況
+for saved playlists and download controls	for saved playlists and download controls	保存済みプレイリストとダウンロード操作
+Remove Playlists…	Remove Playlists…	プレイリストを削除…
+Remove Tracks…	Remove Tracks…	トラックを削除…
+Keeps login and settings	Keeps login and settings	ログインと設定は残ります
+Track removal can make playlists incomplete	Track removal can make playlists incomplete	トラックを削除するとプレイリストが不完全になることがあります
+Pause	Pause	一時停止
+Cancel Download	Cancel Download	ダウンロードをキャンセル
+Retry Failed	Retry Failed	失敗分を再試行
+Update Download	Update Download	ダウンロードを更新
+Sign Out of Spotify?	Sign Out of Spotify?	Spotifyからサインアウトしますか？
+Sign Out	Sign Out	サインアウト
+Nothing here	Nothing here	ここには何もありません
+Selected	Selected	選択済み
+Press to select	Press to select	押して選択
+All	All	すべて
+One	One	1曲
+Download Liked Songs	Download Liked Songs	お気に入りの曲をダウンロード
+Download Playlist	Download Playlist	プレイリストをダウンロード
+For offline listening	For offline listening	オフライン再生用
+Download Controls	Download Controls	ダウンロード操作
+Update, retry, pause, resume or cancel	Update, retry, pause, resume or cancel	更新、再試行、一時停止、再開、キャンセル
+Remove Selected…	Remove Selected…	選択項目を削除…
+Confirm the affected count	Confirm the affected count	対象の件数を確認してください
+Spotify isn't running	Spotify isn't running	Spotifyは起動していません
+Spotify didn't answer	Spotify didn't answer	Spotifyから応答がありません
+Search Spotify	Search Spotify	Spotifyを検索
+Select Tracks	Select Tracks	トラックを選択
+Select at least one item	Select at least one item	1つ以上選択してください
+Selection full. Remove these first	Selection full. Remove these first	選択がいっぱいです。先にこれらを削除してください
+Boot logo must be a 320x375 JPEG	Boot logo must be a 320x375 JPEG	起動ロゴは320x375のJPEGにしてください
+Could not save boot logo	Could not save boot logo	起動ロゴを保存できませんでした
+Accent: Graphite	Accent: Graphite	アクセント: グラファイト
+Accent: Crimson	Accent: Crimson	アクセント: クリムゾン
+Accent: Tidal	Accent: Tidal	アクセント: Tidal
+Accent: Champagne	Accent: Champagne	アクセント: シャンパン
+Accent: Cobalt	Accent: Cobalt	アクセント: コバルト
+Accent: Tangerine	Accent: Tangerine	アクセント: タンジェリン
+Accent: Plum	Accent: Plum	アクセント: プラム
+Accent: Ivory	Accent: Ivory	アクセント: アイボリー
+Accent: Green	Accent: Green	アクセント: グリーン
+Favorites	Favorites	お気に入り
+Rated Albums	Rated Albums	評価済みアルバム
+Podcasts	Podcasts	ポッドキャスト
+Audiobooks	Audiobooks	オーディオブック
+Groovebox can't start from the card	Groovebox can't start from the card	Grooveboxをカードから起動できません
+Groovebox is not on the card	Groovebox is not on the card	Grooveboxがカードにありません
+Play a Tidal album or playlist first	Play a Tidal album or playlist first	先にTidalのアルバムかプレイリストを再生してください
+Downloading %u of %u. Press to stop	Downloading %u of %u. Press to stop	ダウンロード中 %u / %u。押すと停止
+Download Playing Songs	Download Playing Songs	再生中の曲をダウンロード
+Tidal Cache full: %u of %u song saved	Tidal Cache full: %u of %u song saved	Tidalキャッシュがいっぱい: %u / %u曲を保存
+Tidal Cache full: %u of %u songs saved	Tidal Cache full: %u of %u songs saved	Tidalキャッシュがいっぱい: %u / %u曲を保存
+Downloaded %u of %u song	Downloaded %u of %u song	%u / %u曲をダウンロードしました
+Downloaded %u of %u songs	Downloaded %u of %u songs	%u / %u曲をダウンロードしました
+Nothing to play next	Nothing to play next	次に再生する曲がありません
+Queue changed	Queue changed	キューが変わりました
+Never	Never	しない
+USB DAC Charging: %s	USB DAC Charging: %s	USB DAC充電: %s
+Spectrum	Spectrum	スペクトラム
+Oscilloscope	Oscilloscope	オシロスコープ
+VU Meters	VU Meters	VUメーター
+Halo	Halo	ハロー
+Pulsar	Pulsar	パルサー
+Contour	Contour	コンター
+More	More	その他
+A-B Repeat	A-B Repeat	A-Bリピート
+Speed	Speed	速度
+*Only for 48 kHz and below	*Only for 48 kHz and below	*48 kHz以下のみ
+No lyrics	No lyrics	歌詞なし
+Genre	Genre	ジャンル
+Size	Size	サイズ
+Year	Year	年
+Format	Format	形式
+Bit Depth	Bit Depth	ビット深度
+Bit Rate	Bit Rate	ビットレート
+Sample Rate	Sample Rate	サンプリングレート
+Auto Scan	Auto Scan	自動スキャン
+Update Library Now	Update Library Now	今すぐライブラリを更新
+Scan Folders	Scan Folders	フォルダをスキャン
+OK	OK	OK
+Bluetooth	Bluetooth	Bluetooth
+Key Lock	Key Lock	キーロック
+Low Gain	Low Gain	低ゲイン
+USB Storage	USB Storage	USBストレージ
+Playback	Playback	再生
+Custom	Custom	カスタム
+Reset	Reset	リセット
+Open this address in a browser:	Open this address in a browser:	このアドレスをブラウザで開いてください:
+Downloaded	Downloaded	ダウンロード済み
+Baidu Netdisk	Baidu Netdisk	Baiduネットディスク
+Sign In	Sign In	サインイン
+Scan with the Baidu app to sign in	Scan with the Baidu app to sign in	Baiduアプリで読み取ってサインイン
+Baidu encryption protects your privacy	Baidu encryption protects your privacy	Baiduの暗号化がプライバシーを守ります
+Bluetooth RF test: connect from a computer	Bluetooth RF test: connect from a computer	Bluetooth RFテスト: パソコンから接続してください
+Press Next to exit	Press Next to exit	次へを押して終了
+Brightness Test	Brightness Test	明るさテスト
+Next	Next	次へ
+Bluetooth Test	Bluetooth Test	Bluetoothテスト
+Down	Down	下
+Up	Up	上
+Swipe Left	Swipe Left	左にスワイプ
+Swipe Right	Swipe Right	右にスワイプ
+Key Test	Key Test	キーテスト
+Headphone Test	Headphone Test	ヘッドホンテスト
+Plug in single-ended headphones	Plug in single-ended headphones	シングルエンドのヘッドホンを接続してください
+Play (left male, right female)	Play (left male, right female)	再生(左が男性、右が女性)
+Bluetooth Receiver Test	Bluetooth Receiver Test	Bluetoothレシーバーテスト
+Battery Test	Battery Test	バッテリーテスト
+Battery:	Battery:	バッテリー:
+Charging:	Charging:	充電:
+microSD Test	microSD Test	microSDテスト
+Touch Test	Touch Test	タッチテスト
+Wi-Fi Test	Wi-Fi Test	Wi-Fiテスト
+Artist	Artist	アーティスト
+Export Playlists	Export Playlists	プレイリストをエクスポート
+Playlist	Playlist	プレイリスト
+0 songs	0 songs	0曲
+System	System	システム
+Rockbox	Rockbox	Rockbox
+Baker Island	Baker Island	ベーカー島
+Midway	Midway	ミッドウェー
+Honolulu	Honolulu	ホノルル
+Anchorage	Anchorage	アンカレッジ
+Los Angeles	Los Angeles	ロサンゼルス
+Denver	Denver	デンバー
+Mexico City	Mexico City	メキシコシティ
+New York	New York	ニューヨーク
+Halifax	Halifax	ハリファックス
+St. John's	St. John's	セントジョンズ
+Buenos Aires	Buenos Aires	ブエノスアイレス
+Azores	Azores	アゾレス
+London	London	ロンドン
+Amsterdam	Amsterdam	アムステルダム
+Bucharest	Bucharest	ブカレスト
+Kuwait	Kuwait	クウェート
+Tehran	Tehran	テヘラン
+Muscat	Muscat	マスカット
+Kabul	Kabul	カブール
+Karachi	Karachi	カラチ
+Dhaka	Dhaka	ダッカ
+Bangkok	Bangkok	バンコク
+Shanghai	Shanghai	上海
+Tokyo	Tokyo	東京
+Adelaide	Adelaide	アデレード
+Sydney	Sydney	シドニー
+Fiji	Fiji	フィジー
+Marquesas	Marquesas	マルケサス
+South Georgia	South Georgia	サウスジョージア
+Colombo	Colombo	コロンボ
+Kathmandu	Kathmandu	カトマンズ
+Yangon	Yangon	ヤンゴン
+Eucla	Eucla	ユークラ
+L. Howe	L. Howe	ロード・ハウ
+Noumea	Noumea	ヌーメア
+Chatham	Chatham	チャタム
+Tongatapu	Tongatapu	トンガタプ
+Kiritimati	Kiritimati	キリティマティ
+Chicago	Chicago	シカゴ
+Phoenix	Phoenix	フェニックス
+Kolkata	Kolkata	コルカタ
+Brisbane	Brisbane	ブリスベン
+Auckland	Auckland	オークランド
+Status Bar	Status Bar	ステータスバー
+Minimal	Minimal	ミニマル
+Modern	Modern	モダン
+Classic	Classic	クラシック
+Show Wordmark	Show Wordmark	ロゴを表示
+Library on Home	Library on Home	ホームにライブラリ
+Row Preview	Row Preview	行のプレビュー
+Row Art	Row Art	行のアート
+Classic Blue	Classic Blue	クラシックブルー

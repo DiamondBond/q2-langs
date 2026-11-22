@@ -1,0 +1,1167 @@
+# 한국어
+History_record	History record	기록
+about_cardcap	Card Capacity	카드 용량
+about_cardremain	Remaining	남은 용량
+about_ipaddr	IP Address	IP 주소
+about_model	Model	모델
+about_more	*Our sincere thanks go to the DiamondBond team and all its enthusiasts for their ingenuity, outstanding solutions, and generous contributions.	*DiamondBond 팀과 모든 애호가분들의 독창성, 뛰어난 해결책, 아낌없는 기여에 깊이 감사드립니다.
+about_sn	Serial Number	일련번호
+about_version	Version	버전
+about_wifimac	Wi-Fi MAC	Wi-Fi MAC
+album	Album	앨범
+album	Album	앨범
+albumsinger	Album artist	앨범 아티스트
+allmusic	All Songs	모든 노래
+audio_settings	Audio settings	오디오 설정
+baidu_login	Log In	로그인
+baidu_login_tips1	Please use Baidu Netdisk or Baidu App to scan the code to login	바이두 넷디스크 또는 바이두 앱으로 코드를 스캔하여 로그인하세요
+baidu_login_tips2	Baidu encryption technology protects your privacy and security	바이두 암호화 기술이 개인 정보와 보안을 보호합니다
+baidu_loginout	Log Out	로그아웃
+baidunet_floderinfo_failed	Failed to get file list	파일 목록을 가져오지 못했습니다
+batch_addplaylist	Add to Playlist	재생목록에 추가
+bt_adjvol	Bluetooth Headset Volume Control	블루투스 헤드셋 볼륨 조절
+bt_compatiabledev	Compatible Device	호환 기기
+bt_name	Bluetooth Name	블루투스 이름
+bt_paireddev	Paired Device	페어링된 기기
+bt_quality	Quality	음질
+bt_search	Scan now	지금 검색
+btcode_aac	AAC	AAC
+btcode_aptx	aptX	aptX
+btcode_aptxhd	aptX HD	aptX HD
+btcode_ldacauto	LDAC Connection (auto)	LDAC 연결(자동)
+btcode_ldachq	LDAC HQ	LDAC HQ
+btcode_ldacst	LDAC Standard	LDAC 표준
+btcode_sbc	SBC	SBC
+btcode_sbchq	SBC HQ	SBC HQ
+custom_eq	Custom	사용자 설정
+display_backlight	Brightness	밝기
+display_lighttime	Screen Off Time	화면 꺼짐 시간
+display_screenlock	Lock Screen	잠금 화면
+dsdmode_d2p	D2P	D2P
+dsdmode_dop	DOP	DOP
+dsdmode_native	Native	네이티브
+eq_blues	Blues	블루스
+eq_classical	Classical	클래식
+eq_club	Club	클럽
+eq_custom1	Custom1	사용자 1
+eq_custom2	Custom2	사용자 2
+eq_custom3	Custom3	사용자 3
+eq_dance	Dance	댄스
+eq_doublebass	Sub-bass	서브 베이스
+eq_jazz	Jazz	재즈
+eq_metal	Metal	메탈
+eq_only48kmsg	EQ only for files below 48kHz.	EQ는 48kHz 이하 파일에만 적용됩니다.
+eq_pop	Pop	팝
+eq_reset	Reset	초기화
+eq_rock	Rock	록
+eq_vocal	Vocal	보컬
+fav	My Fav	즐겨찾기
+filter_delayfast	Low Delay Fast Roll-off	저지연 빠른 롤오프
+filter_delayslow	Low Delay Slow Roll-off	저지연 느린 롤오프
+filter_fast	Fast Roll-off	빠른 롤오프
+filter_slow	Slow Roll-off	느린 롤오프
+frequentplay	Frequent	자주 재생
+gain_high	High	높음
+gain_low	Low	낮음
+genre	Genre	장르
+genre_statistics	Total %d songs	총 %d곡
+hr	Hi-Res	하이레스
+keyboard_keyword	Please enter keyword	키워드를 입력하세요
+keyboard_netname	Please enter network name	네트워크 이름을 입력하세요
+keyboard_password	Please enter password	비밀번호를 입력하세요
+keylock_all	Lock Volume & Buttons	볼륨 및 버튼 잠금
+keylock_info	Only effective when the screen is off	화면이 꺼져 있을 때만 적용됩니다
+keylock_info2	Effective on Lockscreen and when Screen Off	잠금 화면과 화면 꺼짐 시 적용됩니다
+keylock_key	Lock Buttons Only	버튼만 잠금
+keylock_volume	Lock Volume Only	볼륨만 잠금
+lan_english	English	English
+lan_french	Français	Français
+lan_german	Deutsch	Deutsch
+lan_italian	Italiano	Italiano
+lan_japanese	日本語	日本語
+lan_korean	한국어	한국어
+lan_polish	Polski	Polski
+lan_russian	Русский	Русский
+lan_simplified	简体中文	简体中文
+lan_spanish	español	español
+lan_thai	ภาษาไทย	ภาษาไทย
+lan_traditional	繁體中文	繁體中文
+lan_ukrainian	Українська	Українська
+lighttime_15s	15s	15초
+lighttime_1min	1min	1분
+lighttime_2min	2min	2분
+lighttime_30min	30min	30분
+lighttime_30s	30s	30초
+lighttime_5min	5min	5분
+lighttime_lyricmode	Lyrics mode	가사 모드
+lighttime_off	Off	끔
+list_baidu	Baidu Netdisk	Baidu Netdisk
+list_tidal	TIDAL	TIDAL
+local_album	Albums	앨범
+local_allmusic	Local Songs	로컬 음악
+local_allsongs	Songs	노래
+local_fav	My Fav	즐겨찾기
+local_frequentplay	Frequent	자주 재생
+local_genre	Genres	장르
+local_hr	Hi-Res	하이레스
+local_playlist	Playlists	재생목록
+local_recentadd	Recently Added	최근 추가
+local_recentplay	Recent	최근 재생
+local_songer	Artists	아티스트
+local_upmusic	Update Library	라이브러리 업데이트
+login_out	Logout	로그아웃
+memplay_location	Location	위치
+memplay_off	Off	끔
+memplay_track	Track	트랙
+msg_actionnotsupport	Non-local songs,not currently supported	로컬이 아닌 노래는 지원되지 않습니다
+msg_actionscan	Scan music?	음악을 스캔할까요?
+msg_add_task	Please enter the URL of the file you want to download	다운로드할 파일의 URL을 입력하세요
+msg_addfailed	Adding Failed	추가하지 못했습니다
+msg_addfavsuccess	Added To Fav	즐겨찾기에 추가됨
+msg_addplaylistsuccess	Added To Playlist	재생목록에 추가됨
+msg_autoshutdown	Shutdown	종료
+msg_btabnormal	Bluetooth abnormal	블루투스 이상
+msg_btinit_run	Bluetooth Starting	블루투스 시작 중
+msg_btreconnect	Reconnect Bluetooth?	블루투스를 다시 연결할까요?
+msg_cardeject	Audio Disconnected	오디오 연결 끊김
+msg_cardinsert	Audio Connected	오디오 연결됨
+msg_checkfw	Checking FW	펌웨어 확인 중
+msg_checkfwerr	FW. Check Error	펌웨어 확인 오류
+msg_closesynclink	Please close SyncLink	SyncLink를 닫아 주세요
+msg_confirmupdate	Confirm Update?	업데이트할까요?
+msg_connected	Connected	연결됨
+msg_connecting	Connecting	연결 중
+msg_delalbum	Delete Album?	앨범을 삭제할까요?
+msg_delalbumfailed	Failed To Delete Album	앨범을 삭제하지 못했습니다
+msg_delalbumsuccess	Album Deleted	앨범이 삭제됨
+msg_delartist	Delete Artist?	아티스트를 삭제할까요?
+msg_delartistsuccess	Artist Deleted	아티스트가 삭제됨
+msg_delete_task	Are you sure you want to delete the download task?	다운로드 작업을 삭제할까요?
+msg_deletesource	Also delete source file	원본 파일도 삭제
+msg_delfile	Are you sure you want to delete this file?	이 파일을 삭제할까요?
+msg_delfile	Delete File?	파일을 삭제할까요?
+msg_delfilefailed	Failed To Delete File	파일을 삭제하지 못했습니다
+msg_delfilesuccess	File Deleted	파일이 삭제됨
+msg_delgenre	Delete Genre?	장르를 삭제할까요?
+msg_delgenresuccess	Genre Deleted	장르가 삭제됨
+msg_delplaylist	Delete Playlist?	재생목록을 삭제할까요?
+msg_delplaylistfailed	Failed To Delete Playlist	재생목록을 삭제하지 못했습니다
+msg_delplaylistsuccess	Playlist Deleted	재생목록이 삭제됨
+msg_delsong	Delete Song?	노래를 삭제할까요?
+msg_delsongfailed	Failed To Delete Song	노래를 삭제하지 못했습니다
+msg_delsongsuccess	Song Deleted	노래가 삭제됨
+msg_disconnected	Disconnected	연결 끊김
+msg_disonnectbt	Please disconnect the bluetooth device	블루투스 기기의 연결을 끊어 주세요
+msg_downloadpath	Download path is	다운로드 경로
+msg_exist_task	The download task already exists	이미 있는 다운로드 작업입니다
+msg_exitairplay	Quit AirPlay?	AirPlay를 종료할까요?
+msg_exportplaylist	Export Playlist?	재생목록을 내보낼까요?
+msg_exportsuccess	Export successful	내보내기 완료
+msg_factorysuccess	Restore to factory settings succeeded	공장 초기화가 완료되었습니다
+msg_favsuccess	Added To Fav	즐겨찾기에 추가됨
+msg_file_exist	The file already exists	이미 있는 파일입니다
+msg_importplaylist	Import Playlists?	재생목록을 가져올까요?
+msg_importsuccess	Successfully imported	가져오기 완료
+msg_initsetsuccess	All settings initialized successfully	모든 설정이 초기화되었습니다
+msg_latestfw	Latest Fw. Installed	최신 펌웨어입니다
+msg_linkerror	WiFi Connection Error	Wi-Fi 연결 오류
+msg_lowarn	Line Out sets max volume,continue?	라인 출력은 최대 볼륨으로 설정됩니다. 계속할까요?
+msg_lowpower	Low Battery	배터리 부족
+msg_namenull	The name can't be empty	이름을 비워 둘 수 없습니다
+msg_netnameerr	Network Must Be Named	네트워크 이름이 필요합니다
+msg_no	Cancel	취소
+msg_no_storage	Storage is full.Some songs couldn't be added.	저장 공간이 가득 찼습니다. 일부 노래를 추가하지 못했습니다.
+msg_noheadset	Playback is disabled without headphones.Please insert headphones.	헤드폰이 없으면 재생할 수 없습니다. 헤드폰을 연결하세요.
+msg_nosongs	No songs in this folder	이 폴더에 노래가 없습니다
+msg_notalbuminfo	This file has no Album data	이 파일에 앨범 정보가 없습니다
+msg_notfile	File Not Found	파일을 찾을 수 없음
+msg_notfolder	Folder not found	폴더를 찾을 수 없음
+msg_notfoundfw	Fw. Not Found	펌웨어를 찾을 수 없음
+msg_notmemory	Memory is not enough	메모리 부족
+msg_notmemory	Out of memory	메모리 부족
+msg_notnetwork	Network Disconnected	네트워크 연결 끊김
+msg_nototg	No OTG Found	OTG를 찾을 수 없음
+msg_notplaylist	Playlist Not Found	재생목록을 찾을 수 없음
+msg_notsongerinfo	This file has no Artist data	이 파일에 아티스트 정보가 없습니다
+msg_notsonglist	No Song List	노래 목록 없음
+msg_notspecdir	Folder not specified	폴더가 지정되지 않음
+msg_notsupport	Not Supported	지원되지 않음
+msg_notsupportdel	Can't be removed	삭제할 수 없음
+msg_nottf	No TF Card Found	TF 카드를 찾을 수 없음
+msg_otgeject	OTG Disconnected	OTG 연결 끊김
+msg_otginfoerr	Failed To Get Version Info	버전 정보를 가져오지 못했습니다
+msg_otginsert	OTG Connected	OTG 연결됨
+msg_paircode	Bluetooth Code	블루투스 코드
+msg_paired	Paired	페어링됨
+msg_playlistexist	Playlist Already Exists	이미 있는 재생목록입니다
+msg_playlistfull	Could not create playlist	재생목록을 만들 수 없습니다
+msg_poweroff	Shut Down?	종료할까요?
+msg_resetdbsuccess	Reset completed	초기화 완료
+msg_restarting	Restarting	다시 시작 중
+msg_shortpasswd	8 Digits PIN At Least	PIN은 8자리 이상
+msg_start_download_task	start the download task	다운로드를 시작할까요?
+msg_stop_download_task	stop the download task	다운로드를 중단할까요?
+msg_testmode	Enter test mode?	테스트 모드로 들어갈까요?
+msg_tfeject	TF Card Removed	TF 카드가 제거됨
+msg_tfinsert	TF Card Inserted	TF 카드가 삽입됨
+msg_unpaired	Unpaired	페어링 해제됨
+msg_unpairing	unpair?	페어링을 해제할까요?
+msg_unsupportformat	Unsupported format	지원되지 않는 형식
+msg_update	Confirmed	업데이트됨
+msg_wificancelsave	Delete Record?	기록을 삭제할까요?
+msg_wifidisconnect	Disconnect Now?	지금 연결을 끊을까요?
+msg_yes	OK	확인
+navigation_all	All	전체
+netservice_airplay	AirPlay	AirPlay
+netservice_dlna	DLNA	DLNA
+netservice_wifitrans	Wi-Fi File Transfer	Wi-Fi 파일 전송
+no_search	No search results	검색 결과 없음
+not_allmusic	Currently no songs	노래 없음
+otgdownload_percent	FW Downloaded	펌웨어 다운로드
+outputway	Output Options	출력 옵션
+play_all	Play All	모두 재생
+player_abrepeat	AB Repeat	A-B 반복
+player_albuminfo	Look up Album	앨범 찾기
+player_bitdepth	Bit Depth	비트 심도
+player_bitrate	Bitrate	비트레이트
+player_delete	Delete Song	노래 삭제
+player_encoding	Encoding	인코딩
+player_era	Year	연도
+player_filesize	File Size	파일 크기
+player_location	Location	위치
+player_msgmul	*Affecting only files below 48khz	*48kHz 이하 파일에만 적용
+player_multiple	Multiple Speed	재생 속도
+player_nolyric	No Lyrics	가사 없음
+player_onlinesearch	Download Cover & Lyrics	커버 및 가사 다운로드
+player_playlist	Queue	대기열
+player_samplerate	Sample Rate	샘플 레이트
+player_songerinfo	Look up Artist	아티스트 찾기
+player_unknown	Unknown	알 수 없음
+player_unknown	Unknown Artist	알 수 없는 아티스트
+playlist	Playlist	재생목록
+playlist_create	New playlist	새 재생목록
+playlist_export	Export playlist	재생목록 내보내기
+playlist_import	Import playlist	재생목록 가져오기
+playmode_listplay	List Play	목록 재생
+playmode_repeatall	Repeat All	전체 반복
+playmode_repeattrack	Repeat Track	한 곡 반복
+playmode_shuffle	Shuffle	셔플
+playset_balance	Channel Balance	채널 밸런스
+playset_bootvol	Default Volume	기본 볼륨
+playset_covermode	Enlarged Album Art	앨범 아트 확대
+playset_dsdoutput	DSD Output Mode	DSD 출력 모드
+playset_eq	EQ	EQ
+playset_filter	Digital Filters	디지털 필터
+playset_foldercover	Folder Album Cover	폴더 앨범 커버
+playset_folderjump	Folder Skip	폴더 건너뛰기
+playset_gain	Gain	게인
+playset_gapless	Gapless	갭리스
+playset_maxvol	Max Volume	최대 볼륨
+playset_memplay	Memory Playback	재생 기억
+playset_noplay	Require Output (Beta)	출력 장치 필요(베타)
+playset_playmode	Play Mode	재생 모드
+playset_replaygain	ReplayGain	ReplayGain
+playset_usbaudiovol	USB Audio Output	USB 오디오 출력
+playset_volcover	Volume and Album Display	볼륨 및 앨범 표시
+powerm_deep_off	Standby	대기 모드
+powerm_sleep	Sleep Timer	슬립 타이머
+recentadd	Recently Added	최근 추가
+recentplay	Recent	최근 재생
+rename	Rename	이름 바꾸기
+renamesuccess	Successfully renamed	이름을 바꿨습니다
+replaygain_track	Song	노래
+reset_factory	Full Factory Reset	전체 공장 초기화
+reset_initdatabase	Reset Database	데이터베이스 초기화
+reset_initset	Reset Settings Only	설정만 초기화
+scan_automatic	Automatic Update	자동 업데이트
+scan_now	Scan music now	지금 음악 스캔
+scan_now	Scan music now	지금 음악 스캔
+scan_spec	Scan specified folders	지정 폴더 스캔
+scan_spec	Scan specified folders	지정 폴더 스캔
+scan_startscan	Scan	스캔
+scan_updatefinish	Library Updated,%d Updated	라이브러리 업데이트됨,%d개 업데이트됨
+scan_updating	Updating No.%d	업데이트 중: %d
+scover_cover	Cover	커버
+scover_lyric	Lyrics	가사
+screenlock_about	Custom Lock Screen	사용자 잠금 화면
+screenlock_info1	1. Put the pictures in a folder named "lockscreenimage" at the top of the card.	1. 카드 최상위에 "lockscreenimage" 폴더를 만들고 사진을 넣으세요.
+screenlock_info2	2. PNG or JPG, exactly 375 x 320 pixels, under 1 MB each.	2. PNG 또는 JPG, 정확히 375 x 320 픽셀, 각 1MB 미만.
+screenlock_info3	3. Up to 5 pictures.	3. 최대 5장.
+screenlock_timeshow	Show Time	시간 표시
+search_tips1	Search for music,artists,albums,genres	음악, 아티스트, 앨범, 장르 검색
+search_track	Track	트랙
+singerbyalbum	Sort by album artist	앨범 아티스트순 정렬
+singerbysong	Sort by song artist	노래 아티스트순 정렬
+small_album	Albums	앨범
+small_coverflow	Album Wall	앨범 월
+small_folder	Folder	폴더
+small_local	Local Songs	로컬 음악
+small_playing	Now Playing	지금 재생 중
+small_playset	Playback	재생
+small_stream	Streaming	스트리밍
+small_sysset	System	시스템
+songer	Artist	아티스트
+sort_addtime	Time added	추가 시간
+sort_alphabet	Alphabetical	가나다순
+sort_filename	File name	파일 이름
+sort_format	File format	파일 형식
+sort_time_asc	Time added (ascending)	추가 시간(오름차순)
+sort_time_desc	Time added (descending)	추가 시간(내림차순)
+standbyoff_10min	10min	10분
+standbyoff_1min	1min	1분
+standbyoff_3min	3min	3분
+standbyoff_5min	5min	5분
+standbyoff_deep	Auto-standby	자동 대기
+standbyoff_deepinfo	After 5 minute of idle,device will go into standby mode.	5분간 사용하지 않으면 기기가 대기 모드로 전환됩니다.
+standbyoff_saver	Auto-shutdown	자동 종료
+synclink_off	Off	끔
+system_about	About	정보
+system_carmode	In-Vehicle Mode	차량 모드
+system_display	Display	디스플레이
+system_general	General	일반
+system_keylock	Buttons Lock	버튼 잠금
+system_keytone	Key Tone	버튼음
+system_language	Language	언어
+system_navshow	Show Navigation Bar	내비게이션 바 표시
+system_netservice	Network	네트워크
+system_powermanager	Power	전원
+system_prove	Certification	인증
+system_reset	Reset Settings	설정 초기화
+system_sys	System	시스템
+system_time	Date & Time	날짜 및 시간
+system_update	System Update	시스템 업데이트
+system_wheelmode	Wheel Function	휠 기능
+system_wifiset	Wireless	무선
+timedate_24h	24-Hour	24시간제
+timedate_auto	Automatic Time Set	자동 시간 설정
+timedate_manual	Set Time Manually	수동 시간 설정
+timezone_gmt+1	(GMT+01:00)Europe/Amsterdam	(GMT+01:00)암스테르담
+timezone_gmt+10	(GMT+10:00)Australia/Sydney	(GMT+10:00)시드니
+timezone_gmt+12	(GMT+12:00)Pacific/Fiji	(GMT+12:00)피지
+timezone_gmt+2	(GMT+02:00)Europe/Bucharest	(GMT+02:00)부쿠레슈티
+timezone_gmt+3	(GMT+03:00)Asia/Kuwait	(GMT+03:00)쿠웨이트
+timezone_gmt+3_30	(GMT+03:30)Asia/Tehran	(GMT+03:30)테헤란
+timezone_gmt+4	(GMT+04:00)Asia/Muscat	(GMT+04:00)무스카트
+timezone_gmt+4_30	(GMT+04:30)Asia/Kabul	(GMT+04:30)카불
+timezone_gmt+5	(GMT+05:00)Asia/Karachi	(GMT+05:00)카라치
+timezone_gmt+6	(GMT+06:00)Asia/Almaty	(GMT+06:00)알마티
+timezone_gmt+7	(GMT+07:00)Asia/Bangkok	(GMT+07:00)방콕
+timezone_gmt+8	(GMT+08:00)Asia/Shanghai	(GMT+08:00)상하이
+timezone_gmt+9	(GMT+09:00)Asia/Tokyo	(GMT+09:00)도쿄
+timezone_gmt+9_30	(GMT+09:30)Australia/Adelaide	(GMT+09:30)애들레이드
+timezone_gmt-0	(GMT 00:00)Europe/London	(GMT 00:00)런던
+timezone_gmt-1	(GMT-01:00)Atlantic/Azores	(GMT-01:00)아조레스
+timezone_gmt-10	(GMT-10:00)Pacific/Honolulu	(GMT-10:00)호놀룰루
+timezone_gmt-11	(GMT-11:00)Pacific/Midway	(GMT-11:00)미드웨이
+timezone_gmt-12	(GMT-12:00)Pacific/Kwajalein	(GMT-12:00)콰잘레인
+timezone_gmt-3	(GMT-03:00)America/Argentina/Buenos_Aires	(GMT-03:00)부에노스아이레스
+timezone_gmt-3_30	(GMT-03:30)America/St_Johns	(GMT-03:30)세인트존스
+timezone_gmt-4	(GMT-04:00)Canada/Atlantic	(GMT-04:00)캐나다 대서양
+timezone_gmt-5	(GMT-05:00)America/New_York	(GMT-05:00)뉴욕
+timezone_gmt-6	(GMT-06:00)America/Mexico_City	(GMT-06:00)멕시코시티
+timezone_gmt-7	(GMT-07:00)America/Denver	(GMT-07:00)덴버
+timezone_gmt-8	(GMT-08:00)America/Tijuana	(GMT-08:00)티후아나
+timezone_gmt-9	(GMT-09:00)America/Anchorage	(GMT-09:00)앵커리지
+timezone_select	Time Zone Selection	시간대 선택
+title_downloaded	Downloaded	다운로드 완료
+title_downloading	Downloading	다운로드 중
+title_more	More	더보기
+title_sort	List sort order	목록 정렬 순서
+update_online	Network update	네트워크 업데이트
+update_tf	TF card update	TF 카드 업데이트
+usb_chargeswitch	USB DAC Charging	USB DAC 충전
+usbmode_audio	USB AUDIO	USB 오디오
+usbmode_connect	USB Connected	USB 연결됨
+usbmode_dac	USB DAC	USB DAC
+usbmode_disconnect	USB Disconnected	USB 연결 끊김
+usbmode_storge	USB Storage	USB 저장소
+usbvol_adjust	Volume Variable	가변 볼륨
+usbvol_fixed	Volume Fixed	고정 볼륨
+wheelmode_menu	Menu Mode	메뉴 모드
+wheelmode_volume	Volume Mode	볼륨 모드
+wifi_addnetwork	Add Network	네트워크 추가
+wifi_choice	Select Network	네트워크 선택
+wifi_scan	Scanning	검색 중
+wifiset_bt	Bluetooth	블루투스
+wifiset_synclink	SyncLink	SyncLink
+wifiset_wifi	Wi-Fi	Wi-Fi
+wifits_info1	Enter the following URL into your internet browser:	인터넷 브라우저에 다음 URL을 입력하세요:
+Search	Search	검색
+Streaming	Streaming	스트리밍
+Library's Games	Library's Games	라이브러리의 게임
+Library's Apps	Library's Apps	라이브러리의 앱
+Network settings	Network settings	네트워크 설정
+Wait until the App Store finishes	Wait until the App Store finishes	앱 스토어가 끝날 때까지 기다리세요
+It isn't on the card	It isn't on the card	카드에 없습니다
+It couldn't start	It couldn't start	시작하지 못했습니다
+Stop %s	Stop %s	%s 중지
+Loading…	Loading…	불러오는 중…
+More…	More…	더보기…
+Working…	Working…	작업 중…
+Starting %s…	Starting %s…	%s 시작 중…
+Retry	Retry	다시 시도
+Install it again in Library → App Store	Install it again in Library → App Store	라이브러리 → 앱 스토어에서 다시 설치하세요
+Cancel	Cancel	취소
+%s isn't running	%s isn't running	%s: 실행 중이 아님
+%s didn't answer	%s didn't answer	%s: 응답 없음
+Too long	Too long	너무 김
+%s stopped	%s stopped	%s: 중지됨
+%s isn't on the card	%s isn't on the card	%s: 카드에 없음
+Apps	Apps	앱
+No apps	No apps	앱 없음
+Not running	Not running	실행 중이 아님
+No code yet	No code yet	아직 코드 없음
+Connect the Q2 to Wi-Fi	Connect the Q2 to Wi-Fi	Q2를 Wi-Fi에 연결하세요
+Open it again	Open it again	다시 여세요
+Wait a moment	Wait a moment	잠시 기다리세요
+Then come back here	Then come back here	그런 다음 여기로 돌아오세요
+Scan with your phone's	Scan with your phone's	휴대폰 카메라로
+Scan with your	Scan with your	휴대폰
+camera	camera	스캔하세요
+phone's camera	phone's camera	카메라로 스캔
+or open	or open	또는 이 주소 열기
+PIN	PIN	PIN
+Couldn't import %s	Couldn't import %s	가져오지 못함: %s
+Playlists updated	Playlists updated	재생목록이 업데이트됨
+No memory card	No memory card	메모리 카드 없음
+Games	Games	게임
+%d update	%d update	업데이트 %d개
+%d updates	%d updates	업데이트 %d개
+INSTALL	INSTALL	설치
+UPDATE	UPDATE	업데이트
+INSTALLED	INSTALLED	설치됨
+AM	AM	오전
+PM	PM	오후
+Jan	Jan	1월
+Feb	Feb	2월
+Mar	Mar	3월
+Apr	Apr	4월
+May	May	5월
+Jun	Jun	6월
+Jul	Jul	7월
+Aug	Aug	8월
+Sep	Sep	9월
+Oct	Oct	10월
+Nov	Nov	11월
+Dec	Dec	12월
+The card is in use over USB	The card is in use over USB	USB로 카드를 사용 중입니다
+Storage unavailable	Storage unavailable	저장소를 사용할 수 없음
+The card is full	The card is full	카드가 가득 참
+Couldn't save	Couldn't save	저장하지 못했습니다
+Saved to battery-log.txt	Saved to battery-log.txt	battery-log.txt에 저장됨
+Battery History	Battery History	배터리 기록
+Unplug to start	Unplug to start	충전기를 빼면 시작
+Export Log	Export Log	기록 내보내기
+Done	Done	완료
+space	space	띄어쓰기
+New Playlist	New Playlist	새 재생목록
+Playlist Name	Playlist Name	재생목록 이름
+Rename	Rename	이름 바꾸기
+Songs	Songs	노래
+Artists	Artists	아티스트
+Albums	Albums	앨범
+Genres	Genres	장르
+Off	Off	끔
+On	On	켬
+%d of %d songs	%d of %d songs	%d / %d곡
+Updating Library	Updating Library	라이브러리 업데이트 중
+Connected	Connected	연결됨
+Eject before disconnecting	Eject before disconnecting	연결 해제 전에 꺼내세요
+%d:%02d AM	%d:%02d AM	오전 %d:%02d
+%d:%02d PM	%d:%02d PM	오후 %d:%02d
+Save	Save	저장
+Sort: Album	Sort: Album	정렬: 앨범
+Sort: Artist	Sort: Artist	정렬: 아티스트
+Sort: Recently Added	Sort: Recently Added	정렬: 최근 추가
+Sort: Most Played	Sort: Most Played	정렬: 가장 많이 재생
+Sort: Random	Sort: Random	정렬: 무작위
+Sort: Rating	Sort: Rating	정렬: 평점
+Sort: Year	Sort: Year	정렬: 연도
+%u song	%u song	%u곡
+%u songs	%u songs	%u곡
+All albums	All albums	모든 앨범
+Preparing artwork… %d/%d	Preparing artwork… %d/%d	아트워크 준비 중… %d/%d
+Update Library first	Update Library first	먼저 라이브러리를 업데이트하세요
+%u Song	%u Song	%u곡
+%u Songs	%u Songs	%u곡
+%u Album	%u Album	앨범 %u개
+%u Albums	%u Albums	앨범 %u개
+%u Game	%u Game	게임 %u개
+%u Games	%u Games	게임 %u개
+%u Service	%u Service	서비스 %u개
+%u Services	%u Services	서비스 %u개
+%u.%u GB Free	%u.%u GB Free	%u.%u GB 여유
+Library	Library	라이브러리
+Settings	Settings	설정
+Crossfade: %d s	Crossfade: %d s	크로스페이드: %d초
+Crossfade: Off	Crossfade: Off	크로스페이드: 끔
+Wheel Sensitivity: %d%%	Wheel Sensitivity: %d%%	휠 감도: %d%%
+Resume Songs: %d min	Resume Songs: %d min	이어 재생: %d분
+Resume Songs: Off	Resume Songs: Off	이어 재생: 끔
+Night Shift: %dK	Night Shift: %dK	야간 모드: %dK
+Night Shift: Auto	Night Shift: Auto	야간 모드: 자동
+Night Shift: Off	Night Shift: Off	야간 모드: 끔
+Mono Audio	Mono Audio	모노 오디오
+Swap L/R	Swap L/R	좌우 바꾸기
+Crossfade needs Gapless	Crossfade needs Gapless	크로스페이드에는 갭리스가 필요합니다
+Auto	Auto	자동
+Night Shift	Night Shift	야간 모드
+Resume Songs	Resume Songs	이어 재생
+Wheel Sensitivity	Wheel Sensitivity	휠 감도
+Crossfade	Crossfade	크로스페이드
+Measuring song lengths…	Measuring song lengths…	노래 길이 측정 중…
+Sudoku	Sudoku	스도쿠
+Solitaire	Solitaire	솔리테어
+Snake	Snake	스네이크
+Paused	Paused	일시정지
+Continue	Continue	계속
+Quit	Quit	종료
+New best!	New best!	신기록!
+Game over	Game over	게임 오버
+Centre: play again	Centre: play again	가운데: 다시 하기
+Play/Pause: resume	Play/Pause: resume	재생/일시정지: 계속
+New game?	New game?	새 게임?
+Centre: yes   Return: no	Centre: yes   Return: no	가운데: 예   뒤로: 아니오
+Solved!	Solved!	완료!
+Play/Pause: new game	Play/Pause: new game	재생/일시정지: 새 게임
+Score	Score	점수
+Best	Best	최고
+Level	Level	레벨
+Centre	Centre	가운데
+You win!	You win!	승리!
+Shuffle	Shuffle	셔플
+Era	Era	연대
+Ratings	Ratings	평점
+Most Played	Most Played	가장 많이 재생
+Long Songs	Long Songs	긴 노래
+App Store	App Store	앱 스토어
+Upload Scrobbles	Upload Scrobbles	스크로블 업로드
+Tidal Downloads	Tidal Downloads	Tidal 다운로드
+Internet Radio	Internet Radio	인터넷 라디오
+Configuration	Configuration	구성
+Restart to apply?	Restart to apply?	다시 시작해서 적용할까요?
+Couldn't copy the language	Couldn't copy the language	언어를 복사하지 못했습니다
+Too many songs to shuffle	Too many songs to shuffle	셔플하기엔 노래가 너무 많습니다
+Shuffle Songs	Shuffle Songs	노래 셔플
+Shuffle Albums	Shuffle Albums	앨범 셔플
+Shuffle Folders	Shuffle Folders	폴더 셔플
+Albums and folders take a moment to shuffle	Albums and folders take a moment to shuffle	앨범과 폴더는 셔플하는 데 시간이 걸립니다
+No plays yet	No plays yet	재생 기록 없음
+%u play	%u play	%u회
+%u plays	%u plays	%u회
+No downloads yet	No downloads yet	다운로드 없음
+Clear All Downloads…	Clear All Downloads…	모든 다운로드 삭제…
+%u track	%u track	트랙 %u개
+%u tracks	%u tracks	트랙 %u개
+Remove Downloads?	Remove Downloads?	다운로드를 제거할까요?
+Keeps settings	Keeps settings	설정은 유지됩니다
+Remove	Remove	제거
+It isn't on the card any more	It isn't on the card any more	더 이상 카드에 없습니다
+Era unavailable	Era unavailable	연대를 사용할 수 없음
+Album not found	Album not found	앨범을 찾을 수 없음
+%u album	%u album	앨범 %u개
+%u albums	%u albums	앨범 %u개
+Play All	Play All	모두 재생
+Every song, shuffled	Every song, shuffled	모든 노래 셔플
+No dated albums yet	No dated albums yet	연도 정보가 있는 앨범 없음
+No songs over 10 minutes	No songs over 10 minutes	10분이 넘는 노래 없음
+Measuring songs… %d/%d	Measuring songs… %d/%d	노래 측정 중… %d/%d
+Measuring songs…	Measuring songs…	노래 측정 중…
+Release to search	Release to search	놓으면 검색
+Pull to search	Pull to search	당겨서 검색
+Sleep Timer	Sleep Timer	슬립 타이머
+Lock Screen	Lock Screen	잠금 화면
+Accent	Accent	강조색
+Everything	Everything	모두
+Buttons only	Buttons only	버튼만
+Volume only	Volume only	볼륨만
+Wake: Single Press	Wake: Single Press	깨우기: 한 번 누름
+Wake: Double Press	Wake: Double Press	깨우기: 두 번 누름
+Artist View: Grid	Artist View: Grid	아티스트 보기: 그리드
+Artist View: Cover Flow	Artist View: Cover Flow	아티스트 보기: Cover Flow
+Artist View: List	Artist View: List	아티스트 보기: 목록
+Year Order: Newest First	Year Order: Newest First	연도순: 최신 먼저
+Year Order: Oldest First	Year Order: Oldest First	연도순: 오래된 순
+Artists: Artist	Artists: Artist	아티스트: 아티스트
+Artists: Album Artist	Artists: Album Artist	아티스트: 앨범 아티스트
+Resume on Connect: Off	Resume on Connect: Off	연결 시 이어 재생: 끔
+Resume on Connect: On	Resume on Connect: On	연결 시 이어 재생: 켬
+Clock: Standard	Clock: Standard	시계: 표준
+Clock: Large	Clock: Large	시계: 크게
+Artist Album Order: Year	Artist Album Order: Year	아티스트 앨범 순서: 연도
+Artist Album Order: A–Z	Artist Album Order: A–Z	아티스트 앨범 순서: 가나다순
+Volume Guard: Off	Volume Guard: Off	볼륨 보호: 끔
+Volume Guard: On	Volume Guard: On	볼륨 보호: 켬
+Hold Return: Recent	Hold Return: Recent	뒤로 길게: 최근
+Hold Return: Home	Hold Return: Home	뒤로 길게: 홈
+Standby Limit: Off	Standby Limit: Off	대기 제한: 끔
+Standby Limit: %u h	Standby Limit: %u h	대기 제한: %u시간
+Refresh Cover Flow	Refresh Cover Flow	Cover Flow 새로고침
+Playlist View: List	Playlist View: List	재생목록 보기: 목록
+Playlist View: Cover Flow	Playlist View: Cover Flow	재생목록 보기: Cover Flow
+Update Notifications: Off	Update Notifications: Off	업데이트 알림: 끔
+Update Notifications: On	Update Notifications: On	업데이트 알림: 켬
+Album View: List	Album View: List	앨범 보기: 목록
+Album View: Grid	Album View: Grid	앨범 보기: 그리드
+Charge Limit (%u%%)	Charge Limit (%u%%)	충전 한도(%u%%)
+Resume on Connect	Resume on Connect	연결 시 이어 재생
+Volume Guard	Volume Guard	볼륨 보호
+Control Device Volume	Control Device Volume	기기 볼륨 제어
+Key Tone	Key Tone	버튼음
+In-Vehicle Mode	In-Vehicle Mode	차량 모드
+Smart Wi-Fi	Smart Wi-Fi	스마트 Wi-Fi
+Enlarged Album Art	Enlarged Album Art	앨범 아트 확대
+Folder Album Cover	Folder Album Cover	폴더 앨범 커버
+Fast Navigation	Fast Navigation	빠른 탐색
+Scan Song Durations	Scan Song Durations	노래 길이 스캔
+Position Bar	Position Bar	위치 바
+Hide Streaming	Hide Streaming	스트리밍 숨기기
+Hide Folder	Hide Folder	폴더 숨기기
+Hide Apps	Hide Apps	앱 숨기기
+Hide Games	Hide Games	게임 숨기기
+Hide App Store	Hide App Store	앱 스토어 숨기기
+Receive Audio	Receive Audio	오디오 수신
+Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	다음에 Cover Flow가 아트워크를 다시 만듭니다
+Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	블루투스를 껐다 켜면 적용됩니다
+Folder Root: %s	Folder Root: %s	폴더 루트: %s
+Folder Root: Card	Folder Root: Card	폴더 루트: 카드
+Library & Folders	Library & Folders	라이브러리 및 폴더
+Press Centre to Change Mode	Press Centre to Change Mode	가운데를 눌러 모드 변경
+Press Centre to Turn On or Off	Press Centre to Turn On or Off	가운데를 눌러 켜기/끄기
+Press Centre When Finished	Press Centre When Finished	완료하면 가운데를 누르세요
+OK to Disconnect	OK to Disconnect	연결을 해제해도 됩니다
+Now Playing	Now Playing	지금 재생 중
+Cover Flow	Cover Flow	Cover Flow
+EQ	EQ	EQ
+Update Library	Update Library	라이브러리 업데이트
+Balance	Balance	밸런스
+Home: Split	Home: Split	홈: 분할
+Home: Full	Home: Full	홈: 전체
+Home: Carousel	Home: Carousel	홈: 캐러셀
+Battery: Icon	Battery: Icon	배터리: 아이콘
+Battery: Percent	Battery: Percent	배터리: 퍼센트
+Battery: Icon + Percent	Battery: Icon + Percent	배터리: 아이콘 + 퍼센트
+Battery: Percent Inside	Battery: Percent Inside	배터리: 퍼센트 안쪽
+Light Mode: Off	Light Mode: Off	라이트 모드: 끔
+Light Mode: On	Light Mode: On	라이트 모드: 켬
+Light Mode: Auto	Light Mode: Auto	라이트 모드: 자동
+Accent: %s	Accent: %s	강조색: %s
+Theme: %s	Theme: %s	테마: %s
+Shortcut: None	Shortcut: None	바로가기: 없음
+Shortcut: %s	Shortcut: %s	바로가기: %s
+Rounded Corners	Rounded Corners	둥근 모서리
+Smart Awake	Smart Awake	스마트 화면 유지
+Centred Now Playing	Centred Now Playing	중앙 정렬 재생 화면
+Click With Headphones	Click With Headphones	헤드폰 연결 시 클릭음
+Single Press Scrub	Single Press Scrub	한 번 눌러 탐색
+Time in Title	Time in Title	제목에 시간 표시
+Location	Location	위치
+Unknown	Unknown	알 수 없음
+Appearance	Appearance	모양
+Controls	Controls	컨트롤
+Theme	Theme	테마
+Boot to: Rockbox	Boot to: Rockbox	부팅: Rockbox
+Boot to: Q2 Pod	Boot to: Q2 Pod	부팅: Q2 Pod
+Rockbox is not on the card	Rockbox is not on the card	카드에 Rockbox가 없습니다
+Could not save boot choice	Could not save boot choice	부팅 선택을 저장하지 못했습니다
+No albums	No albums	앨범 없음
+No artists	No artists	아티스트 없음
+No composers	No composers	작곡가 없음
+No genres	No genres	장르 없음
+Chapter %d	Chapter %d	챕터 %d
+Chapters	Chapters	챕터
+Could not read chapters	Could not read chapters	챕터를 읽지 못했습니다
+No embedded chapters	No embedded chapters	내장 챕터 없음
+Too long to read chapters on the Q2	Too long to read chapters on the Q2	Q2에서 챕터를 읽기에는 너무 깁니다
+Loading chapters…	Loading chapters…	챕터 불러오는 중…
+Spotify Cache: %s	Spotify Cache: %s	Spotify 캐시: %s
+Tidal Cache: %s	Tidal Cache: %s	Tidal 캐시: %s
+Erasing…	Erasing…	삭제 중…
+Press again to erase login and cache	Press again to erase login and cache	다시 누르면 로그인과 캐시를 삭제합니다
+Erase Spotify Data	Erase Spotify Data	Spotify 데이터 삭제
+Could not save setting	Could not save setting	설정을 저장하지 못했습니다
+Streaming stopped	Streaming stopped	스트리밍 중지됨
+Wait for the one in progress	Wait for the one in progress	진행 중인 작업이 끝날 때까지 기다리세요
+Stop Streaming Services	Stop Streaming Services	스트리밍 서비스 중지
+No %s folder on the card	No %s folder on the card	카드에 %s 폴더가 없습니다
+CFW. Version	CFW. Version	CFW 버전
+Update to %s	Update to %s	업데이트: %s
+Latest firmware installed	Latest firmware installed	최신 펌웨어입니다
+Can't reach GitHub	Can't reach GitHub	GitHub에 연결할 수 없음
+No update for this build	No update for this build	이 빌드의 업데이트 없음
+Can't write to the card	Can't write to the card	카드에 쓸 수 없음
+Download cancelled	Download cancelled	다운로드 취소됨
+GitHub is busy, try later	GitHub is busy, try later	GitHub이 바쁩니다. 나중에 다시 시도하세요
+The download was damaged, try again	The download was damaged, try again	다운로드가 손상되었습니다. 다시 시도하세요
+Downloading %d%%	Downloading %d%%	다운로드 중 %d%%
+Cancelling…	Cancelling…	취소 중…
+Reconnecting…	Reconnecting…	다시 연결 중…
+Verifying…	Verifying…	검증 중…
+Checking…	Checking…	확인 중…
+Needs %u MB more space	Needs %u MB more space	%u MB 더 필요합니다
+Update downloaded: use TF card update	Update downloaded: use TF card update	업데이트를 받았습니다. TF 카드 업데이트를 사용하세요
+Charge the battery first	Charge the battery first	먼저 배터리를 충전하세요
+Can't start the download	Can't start the download	다운로드를 시작할 수 없습니다
+Downloading…	Downloading…	다운로드 중…
+Q2 Pod %s is out: System Update → Network update	Q2 Pod %s is out: System Update → Network update	Q2 Pod %s 출시: 시스템 업데이트 → 네트워크 업데이트
+Downloading	Downloading	다운로드 중
+Unpacking…	Unpacking…	압축 푸는 중…
+Installing…	Installing…	설치 중…
+Removing…	Removing…	제거 중…
+Connect to Wi-Fi to load the list	Connect to Wi-Fi to load the list	목록을 불러오려면 Wi-Fi에 연결하세요
+Checked just now	Checked just now	방금 확인함
+Checked %u min ago	Checked %u min ago	%u분 전 확인
+Checked %u h ago	Checked %u h ago	%u시간 전 확인
+Press again to remove	Press again to remove	다시 누르면 제거
+Starts at power-on. Press again to install	Starts at power-on. Press again to install	전원을 켤 때 시작됩니다. 다시 누르면 설치
+%d app can be updated	%d app can be updated	앱 %d개 업데이트 가능
+%d apps can be updated	%d apps can be updated	앱 %d개 업데이트 가능
+All apps are up to date	All apps are up to date	모든 앱이 최신입니다
+The download is not a usable app	The download is not a usable app	받은 파일은 사용할 수 있는 앱이 아닙니다
+Rockbox is ready. Find it on Home	Rockbox is ready. Find it on Home	Rockbox 준비됨. 홈에서 찾으세요
+Rockbox Themes are ready in Rockbox's Theme Settings	Rockbox Themes are ready in Rockbox's Theme Settings	Rockbox 테마가 Rockbox의 테마 설정에 준비되었습니다
+%s is ready in %s	%s is ready in %s	%s 준비됨: %s
+%s removed	%s removed	%s 제거됨
+Spotify's login and cache erased	Spotify's login and cache erased	Spotify 로그인과 캐시가 삭제됨
+Stopped checking for updates	Stopped checking for updates	업데이트 확인 중지됨
+Install Rockbox first	Install Rockbox first	먼저 Rockbox를 설치하세요
+Check for Updates	Check for Updates	업데이트 확인
+%d of %d	%d of %d	%d / %d
+Album lyrics	Album lyrics	앨범 가사
+LRCLIB stopped answering	LRCLIB stopped answering	LRCLIB 응답 중단
+Cancelled	Cancelled	취소됨
+%d saved	%d saved	%d개 저장됨
+%d not found	%d not found	%d개 찾지 못함
+%d already had lyrics	%d already had lyrics	%d개는 이미 가사 있음
+%d failed	%d failed	%d개 실패
+Album lyrics: no songs on the card	Album lyrics: no songs on the card	앨범 가사: 카드에 노래 없음
+Can't reach LRCLIB	Can't reach LRCLIB	LRCLIB에 연결할 수 없음
+Download Album Lyrics	Download Album Lyrics	앨범 가사 다운로드
+Downloading %d of %d	Downloading %d of %d	다운로드 중 %d/%d
+No album songs on the card	No album songs on the card	카드에 앨범 노래 없음
+file exceeds 16384 bytes	file exceeds 16384 bytes	파일이 16384바이트를 초과함
+line exceeds 512 bytes	line exceeds 512 bytes	줄이 512바이트를 초과함
+embedded NUL	embedded NUL	NUL 문자 포함
+unsupported filter form	unsupported filter form	지원되지 않는 필터 형식
+expected Preamp: <gain> dB	expected Preamp: <gain> dB	Preamp: <gain> dB 필요
+preamp outside -60..24 dB or invalid number	preamp outside -60..24 dB or invalid number	프리앰프가 -60..24 dB 범위를 벗어나거나 숫자가 잘못됨
+expected Channel: L, R or all	expected Channel: L, R or all	Channel: L, R 또는 all 필요
+only channels L, R and all are supported	only channels L, R and all are supported	채널은 L, R, all만 지원됨
+unsupported command	unsupported command	지원되지 않는 명령
+invalid filter label	invalid filter label	잘못된 필터 이름표
+expected Filter [number]:	expected Filter [number]:	Filter [number]: 필요
+expected ON or OFF	expected ON or OFF	ON 또는 OFF 필요
+unsupported filter type	unsupported filter type	지원되지 않는 필터 종류
+expected Fc <Hz> Hz Gain <dB> dB	expected Fc <Hz> Hz Gain <dB> dB	Fc <Hz> Hz Gain <dB> dB 필요
+invalid frequency or gain number	invalid frequency or gain number	주파수 또는 게인 숫자가 잘못됨
+expected Q <number>	expected Q <number>	Q <number> 필요
+peaking filter requires Q	peaking filter requires Q	피킹 필터에는 Q가 필요함
+range: 20..20000 Hz, -24..24 dB, Q 0.1..10	range: 20..20000 Hz, -24..24 dB, Q 0.1..10	범위: 20..20000 Hz, -24..24 dB, Q 0.1..10
+more than 30 bands	more than 30 bands	밴드가 30개를 초과함
+summed preamp outside -60..24 dB	summed preamp outside -60..24 dB	프리앰프 합계가 -60..24 dB 범위를 벗어남
+L/R preamp differ by more than 12 dB	L/R preamp differ by more than 12 dB	L/R 프리앰프 차이가 12 dB를 초과함
+out of memory	out of memory	메모리 부족
+cannot open file	cannot open file	파일을 열 수 없음
+file read failed	file read failed	파일 읽기 실패
+EQ for 3.5 mm	EQ for 3.5 mm	3.5 mm용 EQ
+EQ for 4.4 mm	EQ for 4.4 mm	4.4 mm용 EQ
+EQ for USB	EQ for USB	USB용 EQ
+EQ for this Bluetooth device	EQ for this Bluetooth device	이 블루투스 기기용 EQ
+Auto (44.1: %.1f / 48: %.1f)	Auto (44.1: %.1f / 48: %.1f)	자동(44.1: %.1f / 48: %.1f)
+Folder missing or unavailable	Folder missing or unavailable	폴더가 없거나 사용할 수 없음
+Out of memory; cannot list presets	Out of memory; cannot list presets	메모리 부족: 프리셋 목록을 만들 수 없음
+No presets found	No presets found	프리셋 없음
+Name not allowed; preset kept	Name not allowed; preset kept	허용되지 않는 이름: 프리셋 유지됨
+Name taken; preset kept	Name taken; preset kept	이미 있는 이름: 프리셋 유지됨
+Rename failed; preset kept	Rename failed; preset kept	이름 변경 실패: 프리셋 유지됨
+Renamed to %.100s	Renamed to %.100s	이름 변경됨: %.100s
+Pop	Pop	팝
+Rock	Rock	록
+Dance	Dance	댄스
+Blues	Blues	블루스
+Metal	Metal	메탈
+Vocal	Vocal	보컬
+Classical	Classical	클래식
+Jazz	Jazz	재즈
+Preset loaded; choose Apply to activate	Preset loaded; choose Apply to activate	프리셋을 불러옴. 적용하려면 적용을 선택하세요
+Preset saved; active EQ unchanged	Preset saved; active EQ unchanged	프리셋 저장됨: 현재 EQ는 그대로
+Save failed; settings unchanged	Save failed; settings unchanged	저장 실패: 설정은 그대로
+Switch failed; EQ unchanged	Switch failed; EQ unchanged	전환 실패: EQ는 그대로
+Applied	Applied	적용됨
+Apply failed; active EQ unchanged	Apply failed; active EQ unchanged	적용 실패: 현재 EQ는 그대로
+Reset; choose Apply to activate	Reset; choose Apply to activate	초기화됨. 적용하려면 적용을 선택하세요
+Delete failed; preset kept	Delete failed; preset kept	삭제 실패: 프리셋 유지됨
+Deleted %.100s; active EQ unchanged	Deleted %.100s; active EQ unchanged	삭제됨: %.100s. 현재 EQ는 그대로
+Line %u: %s	Line %u: %s	%u번째 줄: %s
+Cannot read preset; settings unchanged	Cannot read preset; settings unchanged	프리셋을 읽을 수 없음: 설정은 그대로
+Peaking	Peaking	피킹
+Low shelf	Low shelf	로우 셸프
+High shelf	High shelf	하이 셸프
+Apply changes	Apply changes	변경 적용
+Nothing to apply	Nothing to apply	적용할 내용 없음
+Reset to defaults	Reset to defaults	기본값으로 초기화
+Enabled	Enabled	사용
+EQ per Output	EQ per Output	출력별 EQ
+Preamp	Preamp	프리앰프
+Presets	Presets	프리셋
+Band	Band	밴드
+Channels	Channels	채널
+Both	Both	양쪽
+Left	Left	왼쪽
+Right	Right	오른쪽
+Type	Type	종류
+Frequency	Frequency	주파수
+Gain	Gain	게인
+Band %d Q	Band %d Q	밴드 %d Q
+Band %d Frequency (Hz)	Band %d Frequency (Hz)	밴드 %d 주파수(Hz)
+Raise	Raise	올리기
+Lower	Lower	내리기
+Step	Step	단계
+Delete %.100s? Confirm	Delete %.100s? Confirm	%.100s 삭제? 확인
+Replace existing preset? Confirm	Replace existing preset? Confirm	기존 프리셋을 바꿀까요? 확인
+Cancel replacement	Cancel replacement	교체 취소
+Save as Manual %02d	Save as Manual %02d	수동 %02d에 저장
+Stock presets	Stock presets	기본 프리셋
+Import from SD /EQ	Import from SD /EQ	SD /EQ에서 가져오기
+Save editor preset	Save editor preset	편집기 프리셋 저장
+Rename a preset	Rename a preset	프리셋 이름 바꾸기
+Delete a preset	Delete a preset	프리셋 삭제
+Previous page	Previous page	이전 페이지
+Next page	Next page	다음 페이지
+Band %d	Band %d	밴드 %d
+Band %d Gain	Band %d Gain	밴드 %d 게인
+Presets %d/%d	Presets %d/%d	프리셋 %d/%d
+Save failed; EQ unchanged	Save failed; EQ unchanged	저장 실패: EQ는 그대로
+Advanced	Advanced	고급
+Enabled: On	Enabled: On	사용: 켬
+Enabled: Off	Enabled: Off	사용: 끔
+Low	Low	저음
+Mid	Mid	중음
+High	High	고음
+Simple	Simple	간단
+No photos	No photos	사진 없음
+All Photos	All Photos	모든 사진
+Photos	Photos	사진
+Can't open this photo	Can't open this photo	이 사진을 열 수 없음
+%d of %d  %s	%d of %d  %s	%d / %d  %s
+Could not save folder speed	Could not save folder speed	폴더 속도를 저장하지 못했습니다
+Too long to play on the Q2: split it into parts	Too long to play on the Q2: split it into parts	Q2에서 재생하기엔 너무 깁니다. 여러 부분으로 나누세요
+Press again to restart	Press again to restart	다시 누르면 다시 시작
+Could not save playlist	Could not save playlist	재생목록을 저장하지 못했습니다
+Already in playlist	Already in playlist	이미 재생목록에 있음
+Added to Playlist	Added to Playlist	재생목록에 추가됨
+Search songs	Search songs	노래 검색
+Editing: %s	Editing: %s	편집 중: %s
+Add Songs: %s	Add Songs: %s	노래 추가: %s
+Song Actions: %s	Song Actions: %s	노래 작업: %s
+Remove song?: %s	Remove song?: %s	노래를 제거할까요?: %s
+Add Songs	Add Songs	노래 추가
+Move Up	Move Up	위로 이동
+Move Down	Move Down	아래로 이동
+Remove from Playlist	Remove from Playlist	재생목록에서 제거
+Search: %s	Search: %s	검색: %s
+No songs match	No songs match	일치하는 노래 없음
+Search for more songs	Search for more songs	노래 더 검색
+Delete Playlist?	Delete Playlist?	재생목록을 삭제할까요?
+Delete	Delete	삭제
+Playlist deleted	Playlist deleted	재생목록이 삭제됨
+Could not delete playlist	Could not delete playlist	재생목록을 삭제하지 못했습니다
+Delete Playlist	Delete Playlist	재생목록 삭제
+Edit Playlist	Edit Playlist	재생목록 편집
+Queue unchanged	Queue unchanged	대기열 변경 없음
+Deselect All	Deselect All	모두 선택 해제
+Select All	Select All	모두 선택
+Export %d Playlist	Export %d Playlist	재생목록 %d개 내보내기
+Export %d Playlists	Export %d Playlists	재생목록 %d개 내보내기
+Delete %d Playlist…	Delete %d Playlist…	재생목록 %d개 삭제…
+Delete %d Playlists…	Delete %d Playlists…	재생목록 %d개 삭제…
+%d Selected	%d Selected	%d개 선택됨
+Select Playlists	Select Playlists	재생목록 선택
+Playlists	Playlists	재생목록
+No Playlists	No Playlists	재생목록 없음
+New Playlist…	New Playlist…	새 재생목록…
+Select Playlists…	Select Playlists…	재생목록 선택…
+Import Playlists	Import Playlists	재생목록 가져오기
+Export	Export	내보내기
+No other group	No other group	다른 그룹 없음
+Folder not found	Folder not found	폴더를 찾을 수 없음
+All Songs	All Songs	모든 노래
+Songs in Album	Songs in Album	앨범의 노래
+Albums and Songs	Albums and Songs	앨범과 노래
+Songs in Folder	Songs in Folder	폴더의 노래
+Folders	Folders	폴더
+Folders and Songs	Folders and Songs	폴더와 노래
+Play One Song	Play One Song	한 곡 재생
+Play One Album	Play One Album	한 앨범 재생
+Repeat Song	Repeat Song	노래 반복
+Repeat Album	Repeat Album	앨범 반복
+Repeat All	Repeat All	전체 반복
+Play One Folder	Play One Folder	한 폴더 재생
+Repeat Folder	Repeat Folder	폴더 반복
+Album	Album	앨범
+Folder	Folder	폴더
+Repeat	Repeat	반복
+Group by	Group by	그룹 기준
+Play Next	Play Next	다음에 재생
+Add to Queue	Add to Queue	대기열에 추가
+Add to Favourites	Add to Favourites	즐겨찾기에 추가
+Remove from Favourites	Remove from Favourites	즐겨찾기에서 제거
+Add to Playlist	Add to Playlist	재생목록에 추가
+Go to Album	Go to Album	앨범으로 이동
+Go to Artist	Go to Artist	아티스트로 이동
+Next Album	Next Album	다음 앨범
+Previous Album	Previous Album	이전 앨범
+Rate	Rate	평가
+Resume	Resume	재개
+View Queue	View Queue	대기열 보기
+Go to Folder	Go to Folder	폴더로 이동
+Rate Album	Rate Album	앨범 평가
+Group by: Folder	Group by: Folder	그룹 기준: 폴더
+Group by: Album	Group by: Album	그룹 기준: 앨범
+Next Folder	Next Folder	다음 폴더
+Previous Folder	Previous Folder	이전 폴더
+Wheel: Volume	Wheel: Volume	휠: 볼륨
+Wheel: Brightness	Wheel: Brightness	휠: 밝기
+Could not save Favourites	Could not save Favourites	즐겨찾기를 저장하지 못했습니다
+Added to Favourites	Added to Favourites	즐겨찾기에 추가됨
+Removed from Favourites	Removed from Favourites	즐겨찾기에서 제거됨
+Stopped	Stopped	중지됨
+Can't play: %s	Can't play: %s	재생 불가: %s
+Can't play this station	Can't play this station	이 방송국은 재생할 수 없습니다
+Connecting…	Connecting…	연결 중…
+Search is too long	Search is too long	검색어가 너무 깁니다
+Search stations	Search stations	방송국 검색
+Favourites	Favourites	즐겨찾기
+Featured	Featured	추천
+Top Stations	Top Stations	인기 방송국
+By Country	By Country	국가별
+By Genre	By Genre	장르별
+Countries	Countries	국가
+Connecting to Wi-Fi…	Connecting to Wi-Fi…	Wi-Fi에 연결 중…
+Directory unavailable	Directory unavailable	디렉터리를 사용할 수 없음
+No Wi-Fi	No Wi-Fi	Wi-Fi 없음
+No stations	No stations	방송국 없음
+No favourites	No favourites	즐겨찾기 없음
+Rating not saved	Rating not saved	평점을 저장하지 못했습니다
+Ratings are full	Ratings are full	평점이 가득 참
+Favourite not sent to the app	Favourite not sent to the app	앱에 즐겨찾기를 보내지 못했습니다
+Unrated	Unrated	평점 없음
+1 Heart	1 Heart	하트 1개
+%d Hearts	%d Hearts	하트 %d개
+%d of 5	%d of 5	%d / 5
+Album changed	Album changed	앨범이 바뀜
+Favourite not saved	Favourite not saved	즐겨찾기를 저장하지 못했습니다
+This app has no favourites	This app has no favourites	이 앱에는 즐겨찾기가 없습니다
+Top Rated	Top Rated	높은 평점
+Loved	Loved	아주 좋아함
+All Rated	All Rated	모든 평점
+Disliked	Disliked	싫어함
+No songs yet	No songs yet	아직 노래 없음
+Hold the heart on Now Playing to rate	Hold the heart on Now Playing to rate	재생 화면에서 하트를 길게 눌러 평가하세요
+No rated albums yet	No rated albums yet	평가한 앨범 없음
+Upload failed, %d sent	Upload failed, %d sent	업로드 실패, %d개 전송됨
+Scrobbles sent: %d	Scrobbles sent: %d	스크로블 전송: %d개
+Nothing to upload	Nothing to upload	업로드할 항목 없음
+Uploading scrobbles	Uploading scrobbles	스크로블 업로드 중
+Already uploading	Already uploading	이미 업로드 중
+Upload failed	Upload failed	업로드 실패
+Connect to Wi-Fi first	Connect to Wi-Fi first	먼저 Wi-Fi에 연결하세요
+Waiting for Spotify	Waiting for Spotify	Spotify 대기 중
+Spotify isn't on the card	Spotify isn't on the card	카드에 Spotify가 없습니다
+See the Q2 Pod guide to add it	See the Q2 Pod guide to add it	추가 방법은 Q2 Pod 가이드를 보세요
+Open Spotify on your phone	Open Spotify on your phone	휴대폰에서 Spotify를 열고
+and choose Q2	and choose Q2	Q2를 선택하세요
+Spotify refused this account	Spotify refused this account	Spotify가 이 계정을 거부했습니다
+Its tracks can't play on the Q2	Its tracks can't play on the Q2	이 계정의 트랙은 Q2에서 재생할 수 없습니다
+Playback didn't start	Playback didn't start	재생이 시작되지 않았습니다
+Go back and try again	Go back and try again	뒤로 가서 다시 시도하세요
+Starting playback	Starting playback	재생 시작 중
+Update Spotify on the card	Update Spotify on the card	카드의 Spotify를 업데이트하세요
+See the Q2 Pod guide	See the Q2 Pod guide	Q2 Pod 가이드를 보세요
+Nothing playing	Nothing playing	재생 중인 곡 없음
+Choose music in Spotify	Choose music in Spotify	Spotify에서 음악을 선택하세요
+Liked Songs	Liked Songs	좋아요 표시한 곡
+Queue	Queue	대기열
+Playback Settings	Playback Settings	재생 설정
+Account	Account	계정
+Downloaded Tracks	Downloaded Tracks	다운로드한 트랙
+Downloads	Downloads	다운로드
+Tracks	Tracks	트랙
+Open Spotify on your phone and choose Q2	Open Spotify on your phone and choose Q2	휴대폰에서 Spotify를 열고 Q2를 선택하세요
+Both on the same Wi-Fi	Both on the same Wi-Fi	둘 다 같은 Wi-Fi에 연결
+to browse on the Q2	to browse on the Q2	Q2에서 둘러보려면
+Downloaded Playlists	Downloaded Playlists	다운로드한 재생목록
+Download Progress	Download Progress	다운로드 진행률
+Storage Management	Storage Management	저장 공간 관리
+Download Status	Download Status	다운로드 상태
+The latest download's progress	The latest download's progress	최근 다운로드의 진행 상황
+for saved playlists and download controls	for saved playlists and download controls	저장된 재생목록과 다운로드 제어
+Remove Playlists…	Remove Playlists…	재생목록 제거…
+Remove Tracks…	Remove Tracks…	트랙 제거…
+Keeps login and settings	Keeps login and settings	로그인과 설정은 유지됩니다
+Track removal can make playlists incomplete	Track removal can make playlists incomplete	트랙을 제거하면 재생목록이 불완전해질 수 있습니다
+Pause	Pause	일시정지
+Cancel Download	Cancel Download	다운로드 취소
+Retry Failed	Retry Failed	실패한 항목 재시도
+Update Download	Update Download	다운로드 업데이트
+Sign Out of Spotify?	Sign Out of Spotify?	Spotify에서 로그아웃할까요?
+Sign Out	Sign Out	로그아웃
+Nothing here	Nothing here	여기엔 아무것도 없음
+Selected	Selected	선택됨
+Press to select	Press to select	눌러서 선택
+All	All	전체
+One	One	하나
+Download Liked Songs	Download Liked Songs	좋아요 표시한 곡 다운로드
+Download Playlist	Download Playlist	재생목록 다운로드
+For offline listening	For offline listening	오프라인 감상용
+Download Controls	Download Controls	다운로드 제어
+Update, retry, pause, resume or cancel	Update, retry, pause, resume or cancel	업데이트, 재시도, 일시정지, 재개 또는 취소
+Remove Selected…	Remove Selected…	선택 항목 제거…
+Confirm the affected count	Confirm the affected count	해당 개수를 확인하세요
+Spotify isn't running	Spotify isn't running	Spotify가 실행 중이 아닙니다
+Spotify didn't answer	Spotify didn't answer	Spotify가 응답하지 않았습니다
+Search Spotify	Search Spotify	Spotify 검색
+Select Tracks	Select Tracks	트랙 선택
+Select at least one item	Select at least one item	항목을 하나 이상 선택하세요
+Selection full. Remove these first	Selection full. Remove these first	선택이 가득 찼습니다. 먼저 이것들을 제거하세요
+Boot logo must be a 320x375 JPEG	Boot logo must be a 320x375 JPEG	부팅 로고는 320x375 JPEG여야 합니다
+Could not save boot logo	Could not save boot logo	부팅 로고를 저장하지 못했습니다
+Accent: Graphite	Accent: Graphite	강조색: 그래파이트
+Accent: Crimson	Accent: Crimson	강조색: 크림슨
+Accent: Tidal	Accent: Tidal	강조색: 타이달
+Accent: Champagne	Accent: Champagne	강조색: 샴페인
+Accent: Cobalt	Accent: Cobalt	강조색: 코발트
+Accent: Tangerine	Accent: Tangerine	강조색: 탠저린
+Accent: Plum	Accent: Plum	강조색: 플럼
+Accent: Ivory	Accent: Ivory	강조색: 아이보리
+Accent: Green	Accent: Green	강조색: 그린
+Favorites	Favorites	즐겨찾기
+Rated Albums	Rated Albums	평가한 앨범
+Podcasts	Podcasts	팟캐스트
+Audiobooks	Audiobooks	오디오북
+Groovebox can't start from the card	Groovebox can't start from the card	카드에서 Groovebox를 시작할 수 없습니다
+Groovebox is not on the card	Groovebox is not on the card	카드에 Groovebox가 없습니다
+Play a Tidal album or playlist first	Play a Tidal album or playlist first	먼저 Tidal 앨범이나 재생목록을 재생하세요
+Downloading %u of %u. Press to stop	Downloading %u of %u. Press to stop	%u/%u 다운로드 중. 눌러서 중지
+Download Playing Songs	Download Playing Songs	재생 중인 노래 다운로드
+Tidal Cache full: %u of %u song saved	Tidal Cache full: %u of %u song saved	Tidal 캐시가 가득 참: %u/%u곡 저장됨
+Tidal Cache full: %u of %u songs saved	Tidal Cache full: %u of %u songs saved	Tidal 캐시가 가득 참: %u/%u곡 저장됨
+Downloaded %u of %u song	Downloaded %u of %u song	%u/%u곡 다운로드됨
+Downloaded %u of %u songs	Downloaded %u of %u songs	%u/%u곡 다운로드됨
+Nothing to play next	Nothing to play next	다음에 재생할 항목 없음
+Queue changed	Queue changed	대기열이 바뀜
+Never	Never	절대 안 함
+USB DAC Charging: %s	USB DAC Charging: %s	USB DAC 충전: %s
+Spectrum	Spectrum	스펙트럼
+Oscilloscope	Oscilloscope	오실로스코프
+VU Meters	VU Meters	VU 미터
+Halo	Halo	헤일로
+Pulsar	Pulsar	펄서
+Contour	Contour	컨투어
+More	More	더보기
+A-B Repeat	A-B Repeat	A-B 반복
+Speed	Speed	속도
+*Only for 48 kHz and below	*Only for 48 kHz and below	*48kHz 이하에만 적용
+No lyrics	No lyrics	가사 없음
+Genre	Genre	장르
+Size	Size	크기
+Year	Year	연도
+Format	Format	형식
+Bit Depth	Bit Depth	비트 심도
+Bit Rate	Bit Rate	비트레이트
+Sample Rate	Sample Rate	샘플 레이트
+Auto Scan	Auto Scan	자동 스캔
+Update Library Now	Update Library Now	지금 라이브러리 업데이트
+Scan Folders	Scan Folders	폴더 스캔
+OK	OK	확인
+Bluetooth	Bluetooth	블루투스
+Key Lock	Key Lock	버튼 잠금
+Low Gain	Low Gain	낮은 게인
+USB Storage	USB Storage	USB 저장소
+Playback	Playback	재생
+Custom	Custom	사용자 설정
+Reset	Reset	초기화
+Open this address in a browser:	Open this address in a browser:	브라우저에서 이 주소를 여세요:
+Downloaded	Downloaded	다운로드 완료
+Baidu Netdisk	Baidu Netdisk	Baidu Netdisk
+Sign In	Sign In	로그인
+Scan with the Baidu app to sign in	Scan with the Baidu app to sign in	Baidu 앱으로 스캔하여 로그인
+Baidu encryption protects your privacy	Baidu encryption protects your privacy	Baidu 암호화가 개인 정보를 보호합니다
+Bluetooth RF test: connect from a computer	Bluetooth RF test: connect from a computer	블루투스 RF 테스트: 컴퓨터에서 연결하세요
+Press Next to exit	Press Next to exit	다음을 눌러 종료
+Brightness Test	Brightness Test	밝기 테스트
+Next	Next	다음
+Bluetooth Test	Bluetooth Test	블루투스 테스트
+Down	Down	아래
+Up	Up	위
+Swipe Left	Swipe Left	왼쪽으로 스와이프
+Swipe Right	Swipe Right	오른쪽으로 스와이프
+Key Test	Key Test	버튼 테스트
+Headphone Test	Headphone Test	헤드폰 테스트
+Plug in single-ended headphones	Plug in single-ended headphones	싱글 엔디드 헤드폰을 연결하세요
+Play (left male, right female)	Play (left male, right female)	재생(왼쪽 남성, 오른쪽 여성)
+Bluetooth Receiver Test	Bluetooth Receiver Test	블루투스 수신 테스트
+Battery Test	Battery Test	배터리 테스트
+Battery:	Battery:	배터리:
+Charging:	Charging:	충전:
+microSD Test	microSD Test	microSD 테스트
+Touch Test	Touch Test	터치 테스트
+Wi-Fi Test	Wi-Fi Test	Wi-Fi 테스트
+Artist	Artist	아티스트
+Export Playlists	Export Playlists	재생목록 내보내기
+Playlist	Playlist	재생목록
+0 songs	0 songs	0곡
+System	System	시스템
+Rockbox	Rockbox	Rockbox
+Baker Island	Baker Island	베이커 섬
+Midway	Midway	미드웨이
+Honolulu	Honolulu	호놀룰루
+Anchorage	Anchorage	앵커리지
+Los Angeles	Los Angeles	로스앤젤레스
+Denver	Denver	덴버
+Mexico City	Mexico City	멕시코시티
+New York	New York	뉴욕
+Halifax	Halifax	핼리팩스
+St. John's	St. John's	세인트존스
+Buenos Aires	Buenos Aires	부에노스아이레스
+Azores	Azores	아조레스
+London	London	런던
+Amsterdam	Amsterdam	암스테르담
+Bucharest	Bucharest	부쿠레슈티
+Kuwait	Kuwait	쿠웨이트
+Tehran	Tehran	테헤란
+Muscat	Muscat	무스카트
+Kabul	Kabul	카불
+Karachi	Karachi	카라치
+Dhaka	Dhaka	다카
+Bangkok	Bangkok	방콕
+Shanghai	Shanghai	상하이
+Tokyo	Tokyo	도쿄
+Adelaide	Adelaide	애들레이드
+Sydney	Sydney	시드니
+Fiji	Fiji	피지
+Marquesas	Marquesas	마르키즈
+South Georgia	South Georgia	사우스조지아
+Colombo	Colombo	콜롬보
+Kathmandu	Kathmandu	카트만두
+Yangon	Yangon	양곤
+Eucla	Eucla	유클라
+L. Howe	L. Howe	로드하우
+Noumea	Noumea	누메아
+Chatham	Chatham	채텀
+Tongatapu	Tongatapu	통가타푸
+Kiritimati	Kiritimati	키리티마티
+Chicago	Chicago	시카고
+Phoenix	Phoenix	피닉스
+Kolkata	Kolkata	콜카타
+Brisbane	Brisbane	브리즈번
+Auckland	Auckland	오클랜드
+Status Bar	Status Bar	상태 표시줄
+Minimal	Minimal	미니멀
+Modern	Modern	모던
+Classic	Classic	클래식
+Show Wordmark	Show Wordmark	워드마크 표시
+Library on Home	Library on Home	홈에 라이브러리
+Row Preview	Row Preview	행 미리보기
+Row Art	Row Art	행 아트
+Classic Blue	Classic Blue	클래식 블루
