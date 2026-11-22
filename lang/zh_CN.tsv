@@ -10,7 +10,7 @@ about_version	Version	固件版本
 about_wifimac	Wi-Fi MAC	Wi-Fi MAC
 album	Album	专辑
 album	Album	专辑
-albumsinger	Album artist	专辑艺人
+albumsinger	Album artist	专辑歌手
 allmusic	All Songs	全部歌曲
 audio_settings	Audio settings	音频设置
 baidu_login	Log In	登录
@@ -178,7 +178,7 @@ msg_notfile	File Not Found	没找到文件
 msg_notfolder	Folder not found	没找到文件夹
 msg_notfoundfw	Fw. Not Found	没找到新固件
 msg_notmemory	Memory is not enough	内存不足
-msg_notmemory	Out of memory	空间不足
+msg_notmemory	Out of memory	存储卡空间不足
 msg_notnetwork	Network Disconnected	网络未连接
 msg_nototg	No OTG Found	没检测到 OTG
 msg_notplaylist	Playlist Not Found	没找到歌单
@@ -207,7 +207,7 @@ msg_tfinsert	TF Card Inserted	存储卡已插入
 msg_unpaired	Unpaired	已取消配对
 msg_unpairing	unpair?	要取消配对吗？
 msg_unsupportformat	Unsupported format	不支持这个格式
-msg_update	Confirmed	已确认
+msg_update	Confirmed	确认更新
 msg_wificancelsave	Delete Record?	要删掉这条记录吗？
 msg_wifidisconnect	Disconnect Now?	现在断开吗？
 msg_yes	OK	确定
@@ -290,8 +290,8 @@ screenlock_info3	3. Up to 5 pictures.	最多 5 张。
 screenlock_timeshow	Show Time	显示时间
 search_tips1	Search for music,artists,albums,genres	搜索歌曲、歌手、专辑或流派
 search_track	Track	单曲
-singerbyalbum	Sort by album artist	按专辑艺人排序
-singerbysong	Sort by song artist	按歌曲艺人排序
+singerbyalbum	Sort by album artist	按专辑歌手排序
+singerbysong	Sort by song artist	按歌曲歌手排序
 small_album	Albums	专辑
 small_coverflow	Album Wall	专辑墙
 small_folder	Folder	文件夹
@@ -386,3 +386,782 @@ wifiset_bt	Bluetooth	蓝牙
 wifiset_synclink	SyncLink	SyncLink
 wifiset_wifi	Wi-Fi	Wi-Fi
 wifits_info1	Enter the following URL into your internet browser:	在浏览器里打开这个网址：
+Search	Search	搜索
+Streaming	Streaming	流媒体
+Library's Games	Library's Games	曲库的游戏
+Library's Apps	Library's Apps	曲库的应用
+Network settings	Network settings	网络设置
+Wait until the App Store finishes	Wait until the App Store finishes	请等应用商店完成
+It isn't on the card	It isn't on the card	存储卡里没有
+It couldn't start	It couldn't start	无法启动
+Stop %s	Stop %s	停止 %s
+Loading…	Loading…	加载中…
+More…	More…	更多…
+Working…	Working…	处理中…
+Starting %s…	Starting %s…	正在启动 %s…
+Retry	Retry	重试
+Install it again in Library → App Store	Install it again in Library → App Store	请在 曲库 → 应用商店 里重新安装
+Cancel	Cancel	取消
+%s isn't running	%s isn't running	%s 未运行
+%s didn't answer	%s didn't answer	%s 没有响应
+Too long	Too long	太长
+%s stopped	%s stopped	%s 已停止
+%s isn't on the card	%s isn't on the card	存储卡里没有 %s
+Apps	Apps	应用
+No apps	No apps	没有应用
+Not running	Not running	未运行
+No code yet	No code yet	暂无代码
+Connect the Q2 to Wi-Fi	Connect the Q2 to Wi-Fi	请将 Q2 连接到 Wi-Fi
+Open it again	Open it again	请重新打开
+Wait a moment	Wait a moment	请稍候
+Then come back here	Then come back here	然后回到这里
+Scan with your phone's	Scan with your phone's	用手机的
+Scan with your	Scan with your	用你的
+camera	camera	相机扫描
+phone's camera	phone's camera	手机相机扫描
+or open	or open	或打开
+PIN	PIN	PIN
+Couldn't import %s	Couldn't import %s	无法导入 %s
+Playlists updated	Playlists updated	歌单已更新
+No memory card	No memory card	没有存储卡
+Games	Games	游戏
+%d update	%d update	%d 个更新
+%d updates	%d updates	%d 个更新
+INSTALL	INSTALL	安装
+UPDATE	UPDATE	更新
+INSTALLED	INSTALLED	已安装
+AM	AM	上午
+PM	PM	下午
+Jan	Jan	1月
+Feb	Feb	2月
+Mar	Mar	3月
+Apr	Apr	4月
+May	May	5月
+Jun	Jun	6月
+Jul	Jul	7月
+Aug	Aug	8月
+Sep	Sep	9月
+Oct	Oct	10月
+Nov	Nov	11月
+Dec	Dec	12月
+The card is in use over USB	The card is in use over USB	USB 正在使用存储卡
+Storage unavailable	Storage unavailable	存储不可用
+The card is full	The card is full	存储卡已满
+Couldn't save	Couldn't save	无法保存
+Saved to battery-log.txt	Saved to battery-log.txt	已保存到 battery-log.txt
+Battery History	Battery History	电池记录
+Unplug to start	Unplug to start	拔掉电源后开始
+Export Log	Export Log	导出记录
+Done	Done	完成
+space	space	空格
+New Playlist	New Playlist	新建歌单
+Playlist Name	Playlist Name	歌单名称
+Rename	Rename	重命名
+Songs	Songs	歌曲
+Artists	Artists	歌手
+Albums	Albums	专辑
+Genres	Genres	流派
+Off	Off	关
+On	On	开
+%d of %d songs	%d of %d songs	%d / %d 首
+Updating Library	Updating Library	正在更新曲库
+Connected	Connected	已连接
+Eject before disconnecting	Eject before disconnecting	请先弹出再断开
+%d:%02d AM	%d:%02d AM	上午 %d:%02d
+%d:%02d PM	%d:%02d PM	下午 %d:%02d
+Save	Save	保存
+Sort: Album	Sort: Album	排序: 专辑
+Sort: Artist	Sort: Artist	排序: 歌手
+Sort: Recently Added	Sort: Recently Added	排序: 最近添加
+Sort: Most Played	Sort: Most Played	排序: 最常播放
+Sort: Random	Sort: Random	排序: 随机
+Sort: Rating	Sort: Rating	排序: 评分
+Sort: Year	Sort: Year	排序: 年份
+%u song	%u song	%u 首歌曲
+%u songs	%u songs	%u 首歌曲
+All albums	All albums	全部专辑
+Preparing artwork… %d/%d	Preparing artwork… %d/%d	正在准备封面… %d/%d
+Update Library first	Update Library first	请先更新曲库
+%u Song	%u Song	%u 首歌曲
+%u Songs	%u Songs	%u 首歌曲
+%u Album	%u Album	%u 张专辑
+%u Albums	%u Albums	%u 张专辑
+%u Game	%u Game	%u 个游戏
+%u Games	%u Games	%u 个游戏
+%u Service	%u Service	%u 项服务
+%u Services	%u Services	%u 项服务
+%u.%u GB Free	%u.%u GB Free	剩余 %u.%u GB
+Library	Library	曲库
+Settings	Settings	设置
+Crossfade: %d s	Crossfade: %d s	淡入淡出: %d 秒
+Crossfade: Off	Crossfade: Off	淡入淡出: 关
+Wheel Sensitivity: %d%%	Wheel Sensitivity: %d%%	转盘灵敏度: %d%%
+Resume Songs: %d min	Resume Songs: %d min	续播歌曲: %d 分钟
+Resume Songs: Off	Resume Songs: Off	续播歌曲: 关
+Night Shift: %dK	Night Shift: %dK	夜览: %dK
+Night Shift: Auto	Night Shift: Auto	夜览: 自动
+Night Shift: Off	Night Shift: Off	夜览: 关
+Mono Audio	Mono Audio	单声道音频
+Swap L/R	Swap L/R	左右声道互换
+Crossfade needs Gapless	Crossfade needs Gapless	淡入淡出需要无缝播放
+Auto	Auto	自动
+Night Shift	Night Shift	夜览
+Resume Songs	Resume Songs	续播歌曲
+Wheel Sensitivity	Wheel Sensitivity	转盘灵敏度
+Crossfade	Crossfade	淡入淡出
+Measuring song lengths…	Measuring song lengths…	正在测量歌曲时长…
+Sudoku	Sudoku	数独
+Solitaire	Solitaire	纸牌
+Snake	Snake	贪吃蛇
+Paused	Paused	已暂停
+Continue	Continue	继续
+Quit	Quit	退出
+New best!	New best!	新纪录！
+Game over	Game over	游戏结束
+Centre: play again	Centre: play again	中键: 再玩一次
+Play/Pause: resume	Play/Pause: resume	播放/暂停: 继续
+New game?	New game?	开始新游戏？
+Centre: yes   Return: no	Centre: yes   Return: no	中键: 是   返回: 否
+Solved!	Solved!	完成！
+Play/Pause: new game	Play/Pause: new game	播放/暂停: 新游戏
+Score	Score	得分
+Best	Best	最高分
+Level	Level	等级
+Centre	Centre	中键
+You win!	You win!	你赢了！
+Shuffle	Shuffle	随机播放
+Era	Era	年代
+Ratings	Ratings	评分
+Most Played	Most Played	最常播放
+Long Songs	Long Songs	长歌曲
+App Store	App Store	应用商店
+Upload Scrobbles	Upload Scrobbles	上传听歌记录
+Tidal Downloads	Tidal Downloads	Tidal 下载
+Internet Radio	Internet Radio	网络电台
+Configuration	Configuration	配置
+Restart to apply?	Restart to apply?	重启后生效？
+Couldn't copy the language	Couldn't copy the language	无法复制语言
+Too many songs to shuffle	Too many songs to shuffle	歌曲太多，无法随机播放
+Shuffle Songs	Shuffle Songs	随机歌曲
+Shuffle Albums	Shuffle Albums	随机专辑
+Shuffle Folders	Shuffle Folders	随机文件夹
+Albums and folders take a moment to shuffle	Albums and folders take a moment to shuffle	专辑和文件夹随机需要一点时间
+No plays yet	No plays yet	还没有播放记录
+%u play	%u play	%u 次播放
+%u plays	%u plays	%u 次播放
+No downloads yet	No downloads yet	还没有下载
+Clear All Downloads…	Clear All Downloads…	清除所有下载…
+%u track	%u track	%u 首
+%u tracks	%u tracks	%u 首
+Remove Downloads?	Remove Downloads?	删除下载？
+Keeps settings	Keeps settings	保留设置
+Remove	Remove	移除
+It isn't on the card any more	It isn't on the card any more	存储卡里已没有它
+Era unavailable	Era unavailable	年代不可用
+Album not found	Album not found	没有找到专辑
+%u album	%u album	%u 张专辑
+%u albums	%u albums	%u 张专辑
+Play All	Play All	全部播放
+Every song, shuffled	Every song, shuffled	全部歌曲，随机播放
+No dated albums yet	No dated albums yet	还没有带年份的专辑
+No songs over 10 minutes	No songs over 10 minutes	没有超过 10 分钟的歌曲
+Measuring songs… %d/%d	Measuring songs… %d/%d	正在测量歌曲… %d/%d
+Measuring songs…	Measuring songs…	正在测量歌曲…
+Release to search	Release to search	松开开始搜索
+Pull to search	Pull to search	下拉搜索
+Sleep Timer	Sleep Timer	定时关机
+Lock Screen	Lock Screen	锁屏
+Accent	Accent	强调色
+Everything	Everything	全部
+Buttons only	Buttons only	仅按键
+Volume only	Volume only	仅音量
+Wake: Single Press	Wake: Single Press	唤醒: 单击
+Wake: Double Press	Wake: Double Press	唤醒: 双击
+Artist View: Grid	Artist View: Grid	歌手视图: 网格
+Artist View: Cover Flow	Artist View: Cover Flow	歌手视图: Cover Flow
+Artist View: List	Artist View: List	歌手视图: 列表
+Year Order: Newest First	Year Order: Newest First	年份顺序: 新的在前
+Year Order: Oldest First	Year Order: Oldest First	年份顺序: 旧的在前
+Artists: Artist	Artists: Artist	歌手: 歌手
+Artists: Album Artist	Artists: Album Artist	歌手: 专辑歌手
+Resume on Connect: Off	Resume on Connect: Off	连接后续播: 关
+Resume on Connect: On	Resume on Connect: On	连接后续播: 开
+Clock: Standard	Clock: Standard	时钟: 标准
+Clock: Large	Clock: Large	时钟: 大号
+Artist Album Order: Year	Artist Album Order: Year	歌手专辑顺序: 年份
+Artist Album Order: A–Z	Artist Album Order: A–Z	歌手专辑顺序: A–Z
+Volume Guard: Off	Volume Guard: Off	音量保护: 关
+Volume Guard: On	Volume Guard: On	音量保护: 开
+Hold Return: Recent	Hold Return: Recent	长按返回: 最近
+Hold Return: Home	Hold Return: Home	长按返回: 主页
+Standby Limit: Off	Standby Limit: Off	待机上限: 关
+Standby Limit: %u h	Standby Limit: %u h	待机上限: %u 小时
+Refresh Cover Flow	Refresh Cover Flow	刷新 Cover Flow
+Playlist View: List	Playlist View: List	歌单视图: 列表
+Playlist View: Cover Flow	Playlist View: Cover Flow	歌单视图: Cover Flow
+Update Notifications: Off	Update Notifications: Off	更新通知: 关
+Update Notifications: On	Update Notifications: On	更新通知: 开
+Album View: List	Album View: List	专辑视图: 列表
+Album View: Grid	Album View: Grid	专辑视图: 网格
+Charge Limit (%u%%)	Charge Limit (%u%%)	充电上限 (%u%%)
+Resume on Connect	Resume on Connect	连接后续播
+Volume Guard	Volume Guard	音量保护
+Control Device Volume	Control Device Volume	控制设备音量
+Key Tone	Key Tone	按键音
+In-Vehicle Mode	In-Vehicle Mode	车载模式
+Smart Wi-Fi	Smart Wi-Fi	智能 Wi-Fi
+Enlarged Album Art	Enlarged Album Art	放大封面
+Folder Album Cover	Folder Album Cover	文件夹封面
+Fast Navigation	Fast Navigation	快速导航
+Scan Song Durations	Scan Song Durations	扫描歌曲时长
+Position Bar	Position Bar	进度条
+Hide Streaming	Hide Streaming	隐藏流媒体
+Hide Folder	Hide Folder	隐藏文件夹
+Hide Apps	Hide Apps	隐藏应用
+Hide Games	Hide Games	隐藏游戏
+Hide App Store	Hide App Store	隐藏应用商店
+Receive Audio	Receive Audio	接收音频
+Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	Cover Flow 将在下次重建封面
+Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	请关闭再打开蓝牙以生效
+Folder Root: %s	Folder Root: %s	文件夹根目录: %s
+Folder Root: Card	Folder Root: Card	文件夹根目录: 存储卡
+Library & Folders	Library & Folders	曲库与文件夹
+Press Centre to Change Mode	Press Centre to Change Mode	按中键切换模式
+Press Centre to Turn On or Off	Press Centre to Turn On or Off	按中键开启或关闭
+Press Centre When Finished	Press Centre When Finished	完成后按中键
+OK to Disconnect	OK to Disconnect	确定断开
+Now Playing	Now Playing	正在播放
+Cover Flow	Cover Flow	Cover Flow
+EQ	EQ	EQ
+Update Library	Update Library	更新曲库
+Balance	Balance	声道平衡
+Home: Split	Home: Split	主页: 分栏
+Home: Full	Home: Full	主页: 全屏
+Home: Carousel	Home: Carousel	主页: 轮播
+Battery: Icon	Battery: Icon	电池: 图标
+Battery: Percent	Battery: Percent	电池: 百分比
+Battery: Icon + Percent	Battery: Icon + Percent	电池: 图标 + 百分比
+Battery: Percent Inside	Battery: Percent Inside	电池: 百分比在内
+Light Mode: Off	Light Mode: Off	亮色模式: 关
+Light Mode: On	Light Mode: On	亮色模式: 开
+Light Mode: Auto	Light Mode: Auto	亮色模式: 自动
+Accent: %s	Accent: %s	强调色: %s
+Theme: %s	Theme: %s	主题: %s
+Shortcut: None	Shortcut: None	快捷键: 无
+Shortcut: %s	Shortcut: %s	快捷键: %s
+Rounded Corners	Rounded Corners	圆角
+Smart Awake	Smart Awake	智能常亮
+Centred Now Playing	Centred Now Playing	居中播放页
+Click With Headphones	Click With Headphones	耳机按键音
+Single Press Scrub	Single Press Scrub	单击调节进度
+Time in Title	Time in Title	标题显示时间
+Location	Location	位置
+Unknown	Unknown	未知
+Appearance	Appearance	外观
+Controls	Controls	控制
+Theme	Theme	主题
+Boot to: Rockbox	Boot to: Rockbox	启动到: Rockbox
+Boot to: Q2 Pod	Boot to: Q2 Pod	启动到: Q2 Pod
+Rockbox is not on the card	Rockbox is not on the card	存储卡里没有 Rockbox
+Could not save boot choice	Could not save boot choice	无法保存启动选项
+No albums	No albums	没有专辑
+No artists	No artists	没有歌手
+No composers	No composers	没有作曲家
+No genres	No genres	没有流派
+Chapter %d	Chapter %d	第 %d 章
+Chapters	Chapters	章节
+Could not read chapters	Could not read chapters	无法读取章节
+No embedded chapters	No embedded chapters	没有内嵌章节
+Too long to read chapters on the Q2	Too long to read chapters on the Q2	太长，Q2 无法读取章节
+Loading chapters…	Loading chapters…	正在加载章节…
+Spotify Cache: %s	Spotify Cache: %s	Spotify 缓存: %s
+Tidal Cache: %s	Tidal Cache: %s	Tidal 缓存: %s
+Erasing…	Erasing…	正在清除…
+Press again to erase login and cache	Press again to erase login and cache	再按一次清除登录和缓存
+Erase Spotify Data	Erase Spotify Data	清除 Spotify 数据
+Could not save setting	Could not save setting	无法保存设置
+Streaming stopped	Streaming stopped	流媒体已停止
+Wait for the one in progress	Wait for the one in progress	请等待正在进行的操作
+Stop Streaming Services	Stop Streaming Services	停止流媒体服务
+No %s folder on the card	No %s folder on the card	存储卡里没有 %s 文件夹
+CFW. Version	CFW. Version	CFW 版本
+Update to %s	Update to %s	更新到 %s
+Latest firmware installed	Latest firmware installed	已是最新固件
+Can't reach GitHub	Can't reach GitHub	无法连接 GitHub
+No update for this build	No update for this build	这个版本没有更新
+Can't write to the card	Can't write to the card	无法写入存储卡
+Download cancelled	Download cancelled	下载已取消
+GitHub is busy, try later	GitHub is busy, try later	GitHub 繁忙，请稍后再试
+The download was damaged, try again	The download was damaged, try again	下载的文件已损坏，请重试
+Downloading %d%%	Downloading %d%%	正在下载 %d%%
+Cancelling…	Cancelling…	正在取消…
+Reconnecting…	Reconnecting…	正在重新连接…
+Verifying…	Verifying…	正在校验…
+Checking…	Checking…	正在检查…
+Needs %u MB more space	Needs %u MB more space	还需要 %u MB 空间
+Update downloaded: use TF card update	Update downloaded: use TF card update	更新已下载：请用存储卡更新
+Charge the battery first	Charge the battery first	请先给电池充电
+Can't start the download	Can't start the download	无法开始下载
+Downloading…	Downloading…	正在下载…
+Q2 Pod %s is out: System Update → Network update	Q2 Pod %s is out: System Update → Network update	Q2 Pod %s 已发布：系统更新 → 在线更新
+Downloading	Downloading	正在下载
+Unpacking…	Unpacking…	正在解压…
+Installing…	Installing…	正在安装…
+Removing…	Removing…	正在移除…
+Connect to Wi-Fi to load the list	Connect to Wi-Fi to load the list	连接 Wi-Fi 后加载列表
+Checked just now	Checked just now	刚刚检查过
+Checked %u min ago	Checked %u min ago	%u 分钟前检查
+Checked %u h ago	Checked %u h ago	%u 小时前检查
+Press again to remove	Press again to remove	再按一次移除
+Starts at power-on. Press again to install	Starts at power-on. Press again to install	开机时开始。再按一次安装
+%d app can be updated	%d app can be updated	%d 个应用可更新
+%d apps can be updated	%d apps can be updated	%d 个应用可更新
+All apps are up to date	All apps are up to date	所有应用都是最新的
+The download is not a usable app	The download is not a usable app	下载的内容不是可用的应用
+Rockbox is ready. Find it on Home	Rockbox is ready. Find it on Home	Rockbox 已就绪，请在主页中打开
+Rockbox Themes are ready in Rockbox's Theme Settings	Rockbox Themes are ready in Rockbox's Theme Settings	Rockbox 主题已就绪，请在 Rockbox 的主题设置中选择
+%s is ready in %s	%s is ready in %s	%s 已在 %s 中就绪
+%s removed	%s removed	已移除 %s
+Spotify's login and cache erased	Spotify's login and cache erased	已清除 Spotify 的登录和缓存
+Stopped checking for updates	Stopped checking for updates	已停止检查更新
+Install Rockbox first	Install Rockbox first	请先安装 Rockbox
+Check for Updates	Check for Updates	检查更新
+%d of %d	%d of %d	%d / %d
+Album lyrics	Album lyrics	专辑歌词
+LRCLIB stopped answering	LRCLIB stopped answering	LRCLIB 停止响应
+Cancelled	Cancelled	已取消
+%d saved	%d saved	已保存 %d 个
+%d not found	%d not found	%d 个未找到
+%d already had lyrics	%d already had lyrics	%d 个已有歌词
+%d failed	%d failed	%d 个失败
+Album lyrics: no songs on the card	Album lyrics: no songs on the card	专辑歌词：存储卡里没有歌曲
+Can't reach LRCLIB	Can't reach LRCLIB	无法连接 LRCLIB
+Download Album Lyrics	Download Album Lyrics	下载专辑歌词
+Downloading %d of %d	Downloading %d of %d	正在下载 %d / %d
+No album songs on the card	No album songs on the card	存储卡里没有这张专辑的歌曲
+file exceeds 16384 bytes	file exceeds 16384 bytes	文件超过 16384 字节
+line exceeds 512 bytes	line exceeds 512 bytes	行超过 512 字节
+embedded NUL	embedded NUL	含有空字符
+unsupported filter form	unsupported filter form	不支持的滤波器格式
+expected Preamp: <gain> dB	expected Preamp: <gain> dB	应为 Preamp: <gain> dB
+preamp outside -60..24 dB or invalid number	preamp outside -60..24 dB or invalid number	前级增益超出 -60..24 dB 或数字无效
+expected Channel: L, R or all	expected Channel: L, R or all	应为 Channel: L、R 或 all
+only channels L, R and all are supported	only channels L, R and all are supported	只支持 L、R 和 all 声道
+unsupported command	unsupported command	不支持的命令
+invalid filter label	invalid filter label	滤波器标签无效
+expected Filter [number]:	expected Filter [number]:	应为 Filter [编号]:
+expected ON or OFF	expected ON or OFF	应为 ON 或 OFF
+unsupported filter type	unsupported filter type	不支持的滤波器类型
+expected Fc <Hz> Hz Gain <dB> dB	expected Fc <Hz> Hz Gain <dB> dB	应为 Fc <Hz> Hz Gain <dB> dB
+invalid frequency or gain number	invalid frequency or gain number	频率或增益数字无效
+expected Q <number>	expected Q <number>	应为 Q <数字>
+peaking filter requires Q	peaking filter requires Q	峰值滤波器需要 Q
+range: 20..20000 Hz, -24..24 dB, Q 0.1..10	range: 20..20000 Hz, -24..24 dB, Q 0.1..10	范围：20..20000 Hz，-24..24 dB，Q 0.1..10
+more than 30 bands	more than 30 bands	超过 30 个频段
+summed preamp outside -60..24 dB	summed preamp outside -60..24 dB	前级增益总和超出 -60..24 dB
+L/R preamp differ by more than 12 dB	L/R preamp differ by more than 12 dB	左右声道前级增益相差超过 12 dB
+out of memory	out of memory	内存不足
+cannot open file	cannot open file	无法打开文件
+file read failed	file read failed	读取文件失败
+EQ for 3.5 mm	EQ for 3.5 mm	3.5 mm 的 EQ
+EQ for 4.4 mm	EQ for 4.4 mm	4.4 mm 的 EQ
+EQ for USB	EQ for USB	USB 的 EQ
+EQ for this Bluetooth device	EQ for this Bluetooth device	此蓝牙设备的 EQ
+Auto (44.1: %.1f / 48: %.1f)	Auto (44.1: %.1f / 48: %.1f)	自动 (44.1: %.1f / 48: %.1f)
+Folder missing or unavailable	Folder missing or unavailable	文件夹不存在或不可用
+Out of memory; cannot list presets	Out of memory; cannot list presets	内存不足，无法列出预设
+No presets found	No presets found	没有找到预设
+Name not allowed; preset kept	Name not allowed; preset kept	名称不可用，预设已保留
+Name taken; preset kept	Name taken; preset kept	名称已被占用，预设已保留
+Rename failed; preset kept	Rename failed; preset kept	重命名失败，预设已保留
+Renamed to %.100s	Renamed to %.100s	已重命名为 %.100s
+Pop	Pop	流行
+Rock	Rock	摇滚
+Dance	Dance	舞曲
+Blues	Blues	蓝调
+Metal	Metal	金属
+Vocal	Vocal	人声
+Classical	Classical	古典
+Jazz	Jazz	爵士
+Preset loaded; choose Apply to activate	Preset loaded; choose Apply to activate	预设已载入，选择“应用”后生效
+Preset saved; active EQ unchanged	Preset saved; active EQ unchanged	预设已保存，当前 EQ 未改变
+Save failed; settings unchanged	Save failed; settings unchanged	保存失败，设置未改变
+Switch failed; EQ unchanged	Switch failed; EQ unchanged	切换失败，EQ 未改变
+Applied	Applied	已应用
+Apply failed; active EQ unchanged	Apply failed; active EQ unchanged	应用失败，当前 EQ 未改变
+Reset; choose Apply to activate	Reset; choose Apply to activate	已重置，选择“应用”后生效
+Delete failed; preset kept	Delete failed; preset kept	删除失败，预设已保留
+Deleted %.100s; active EQ unchanged	Deleted %.100s; active EQ unchanged	已删除 %.100s，当前 EQ 未改变
+Line %u: %s	Line %u: %s	第 %u 行: %s
+Cannot read preset; settings unchanged	Cannot read preset; settings unchanged	无法读取预设，设置未改变
+Peaking	Peaking	峰值
+Low shelf	Low shelf	低架
+High shelf	High shelf	高架
+Apply changes	Apply changes	应用更改
+Nothing to apply	Nothing to apply	没有可应用的更改
+Reset to defaults	Reset to defaults	恢复默认
+Enabled	Enabled	启用
+EQ per Output	EQ per Output	各输出独立 EQ
+Preamp	Preamp	前级增益
+Presets	Presets	预设
+Band	Band	频段
+Channels	Channels	声道
+Both	Both	两者
+Left	Left	左
+Right	Right	右
+Type	Type	类型
+Frequency	Frequency	频率
+Gain	Gain	增益
+Band %d Q	Band %d Q	频段 %d 的 Q
+Band %d Frequency (Hz)	Band %d Frequency (Hz)	频段 %d 频率 (Hz)
+Raise	Raise	提高
+Lower	Lower	降低
+Step	Step	步进
+Delete %.100s? Confirm	Delete %.100s? Confirm	删除 %.100s？确认
+Replace existing preset? Confirm	Replace existing preset? Confirm	替换现有预设？确认
+Cancel replacement	Cancel replacement	取消替换
+Save as Manual %02d	Save as Manual %02d	另存为手动 %02d
+Stock presets	Stock presets	原厂预设
+Import from SD /EQ	Import from SD /EQ	从存储卡 /EQ 导入
+Save editor preset	Save editor preset	保存编辑器预设
+Rename a preset	Rename a preset	重命名预设
+Delete a preset	Delete a preset	删除预设
+Previous page	Previous page	上一页
+Next page	Next page	下一页
+Band %d	Band %d	频段 %d
+Band %d Gain	Band %d Gain	频段 %d 增益
+Presets %d/%d	Presets %d/%d	预设 %d/%d
+Save failed; EQ unchanged	Save failed; EQ unchanged	保存失败，EQ 未改变
+Advanced	Advanced	高级
+Enabled: On	Enabled: On	启用: 开
+Enabled: Off	Enabled: Off	启用: 关
+Low	Low	低
+Mid	Mid	中
+High	High	高
+Simple	Simple	简单
+No photos	No photos	没有照片
+All Photos	All Photos	全部照片
+Photos	Photos	照片
+Can't open this photo	Can't open this photo	无法打开这张照片
+%d of %d  %s	%d of %d  %s	第 %d 张，共 %d 张  %s
+Could not save folder speed	Could not save folder speed	无法保存文件夹速度
+Too long to play on the Q2: split it into parts	Too long to play on the Q2: split it into parts	太长，Q2 无法播放：请拆分成几部分
+Press again to restart	Press again to restart	再按一次重启
+Could not save playlist	Could not save playlist	无法保存歌单
+Already in playlist	Already in playlist	已在歌单中
+Added to Playlist	Added to Playlist	已加入歌单
+Search songs	Search songs	搜索歌曲
+Editing: %s	Editing: %s	正在编辑: %s
+Add Songs: %s	Add Songs: %s	添加歌曲: %s
+Song Actions: %s	Song Actions: %s	歌曲操作: %s
+Remove song?: %s	Remove song?: %s	移除歌曲？: %s
+Add Songs	Add Songs	添加歌曲
+Move Up	Move Up	上移
+Move Down	Move Down	下移
+Remove from Playlist	Remove from Playlist	从歌单移除
+Search: %s	Search: %s	搜索: %s
+No songs match	No songs match	没有匹配的歌曲
+Search for more songs	Search for more songs	搜索更多歌曲
+Delete Playlist?	Delete Playlist?	删除歌单？
+Delete	Delete	删除
+Playlist deleted	Playlist deleted	歌单已删除
+Could not delete playlist	Could not delete playlist	无法删除歌单
+Delete Playlist	Delete Playlist	删除歌单
+Edit Playlist	Edit Playlist	编辑歌单
+Queue unchanged	Queue unchanged	队列未改变
+Deselect All	Deselect All	取消全选
+Select All	Select All	全选
+Export %d Playlist	Export %d Playlist	导出 %d 个歌单
+Export %d Playlists	Export %d Playlists	导出 %d 个歌单
+Delete %d Playlist…	Delete %d Playlist…	删除 %d 个歌单…
+Delete %d Playlists…	Delete %d Playlists…	删除 %d 个歌单…
+%d Selected	%d Selected	已选 %d 个
+Select Playlists	Select Playlists	选择歌单
+Playlists	Playlists	歌单
+No Playlists	No Playlists	没有歌单
+New Playlist…	New Playlist…	新建歌单…
+Select Playlists…	Select Playlists…	选择歌单…
+Import Playlists	Import Playlists	导入歌单
+Export	Export	导出
+No other group	No other group	没有其他分组
+Folder not found	Folder not found	没找到文件夹
+All Songs	All Songs	全部歌曲
+Songs in Album	Songs in Album	专辑内歌曲
+Albums and Songs	Albums and Songs	专辑和歌曲
+Songs in Folder	Songs in Folder	文件夹内歌曲
+Folders	Folders	文件夹
+Folders and Songs	Folders and Songs	文件夹和歌曲
+Play One Song	Play One Song	播放单曲
+Play One Album	Play One Album	播放单张专辑
+Repeat Song	Repeat Song	单曲循环
+Repeat Album	Repeat Album	专辑循环
+Repeat All	Repeat All	全部循环
+Play One Folder	Play One Folder	播放单个文件夹
+Repeat Folder	Repeat Folder	文件夹循环
+Album	Album	专辑
+Folder	Folder	文件夹
+Repeat	Repeat	循环播放
+Group by	Group by	分组方式
+Play Next	Play Next	下一首播放
+Add to Queue	Add to Queue	加入队列
+Add to Favourites	Add to Favourites	加入我的最爱
+Remove from Favourites	Remove from Favourites	从我的最爱移除
+Add to Playlist	Add to Playlist	加入歌单
+Go to Album	Go to Album	转到专辑
+Go to Artist	Go to Artist	转到歌手
+Next Album	Next Album	下一张专辑
+Previous Album	Previous Album	上一张专辑
+Rate	Rate	评分
+Resume	Resume	继续播放
+View Queue	View Queue	查看队列
+Go to Folder	Go to Folder	转到文件夹
+Rate Album	Rate Album	专辑评分
+Group by: Folder	Group by: Folder	分组方式: 文件夹
+Group by: Album	Group by: Album	分组方式: 专辑
+Next Folder	Next Folder	下一个文件夹
+Previous Folder	Previous Folder	上一个文件夹
+Wheel: Volume	Wheel: Volume	转盘: 音量
+Wheel: Brightness	Wheel: Brightness	转盘: 亮度
+Could not save Favourites	Could not save Favourites	无法保存收藏
+Added to Favourites	Added to Favourites	已加入收藏
+Removed from Favourites	Removed from Favourites	已移出收藏
+Stopped	Stopped	已停止
+Can't play: %s	Can't play: %s	无法播放: %s
+Can't play this station	Can't play this station	无法播放这个电台
+Connecting…	Connecting…	正在连接…
+Search is too long	Search is too long	搜索词太长
+Search stations	Search stations	搜索电台
+Favourites	Favourites	收藏
+Featured	Featured	精选
+Top Stations	Top Stations	热门电台
+By Country	By Country	按国家
+By Genre	By Genre	按流派
+Countries	Countries	国家
+Connecting to Wi-Fi…	Connecting to Wi-Fi…	正在连接 Wi-Fi…
+Directory unavailable	Directory unavailable	目录不可用
+No Wi-Fi	No Wi-Fi	没有 Wi-Fi
+No stations	No stations	没有电台
+No favourites	No favourites	没有收藏
+Rating not saved	Rating not saved	评分未保存
+Ratings are full	Ratings are full	评分已满
+Favourite not sent to the app	Favourite not sent to the app	收藏未发送到应用
+Unrated	Unrated	未评分
+1 Heart	1 Heart	1 颗心
+%d Hearts	%d Hearts	%d 颗心
+%d of 5	%d of 5	%d / 5
+Album changed	Album changed	专辑已更改
+Favourite not saved	Favourite not saved	无法保存收藏
+This app has no favourites	This app has no favourites	这个应用没有收藏
+Top Rated	Top Rated	最高评分
+Loved	Loved	喜欢
+All Rated	All Rated	全部已评分
+Disliked	Disliked	不喜欢
+No songs yet	No songs yet	还没有歌曲
+Hold the heart on Now Playing to rate	Hold the heart on Now Playing to rate	在正在播放页长按心形图标评分
+No rated albums yet	No rated albums yet	还没有评分的专辑
+Upload failed, %d sent	Upload failed, %d sent	上传失败，已发送 %d 条
+Scrobbles sent: %d	Scrobbles sent: %d	已发送听歌记录: %d 条
+Nothing to upload	Nothing to upload	没有可上传的内容
+Uploading scrobbles	Uploading scrobbles	正在上传听歌记录
+Already uploading	Already uploading	正在上传
+Upload failed	Upload failed	上传失败
+Connect to Wi-Fi first	Connect to Wi-Fi first	请先连接 Wi-Fi
+Waiting for Spotify	Waiting for Spotify	正在等待 Spotify
+Spotify isn't on the card	Spotify isn't on the card	存储卡里没有 Spotify
+See the Q2 Pod guide to add it	See the Q2 Pod guide to add it	请参阅 Q2 Pod 指南来添加
+Open Spotify on your phone	Open Spotify on your phone	请在手机上打开 Spotify
+and choose Q2	and choose Q2	然后选择 Q2
+Spotify refused this account	Spotify refused this account	Spotify 拒绝了这个账号
+Its tracks can't play on the Q2	Its tracks can't play on the Q2	它的歌曲无法在 Q2 上播放
+Playback didn't start	Playback didn't start	播放没有开始
+Go back and try again	Go back and try again	请返回后重试
+Starting playback	Starting playback	正在开始播放
+Update Spotify on the card	Update Spotify on the card	请更新存储卡上的 Spotify
+See the Q2 Pod guide	See the Q2 Pod guide	请参阅 Q2 Pod 指南
+Nothing playing	Nothing playing	没有正在播放的内容
+Choose music in Spotify	Choose music in Spotify	请在 Spotify 中选择音乐
+Liked Songs	Liked Songs	喜欢的歌曲
+Queue	Queue	队列
+Playback Settings	Playback Settings	播放设置
+Account	Account	账号
+Downloaded Tracks	Downloaded Tracks	已下载的歌曲
+Downloads	Downloads	下载
+Tracks	Tracks	歌曲
+Open Spotify on your phone and choose Q2	Open Spotify on your phone and choose Q2	请在手机上打开 Spotify 并选择 Q2
+Both on the same Wi-Fi	Both on the same Wi-Fi	两者需在同一 Wi-Fi 下
+to browse on the Q2	to browse on the Q2	即可在 Q2 上浏览
+Downloaded Playlists	Downloaded Playlists	已下载的歌单
+Download Progress	Download Progress	下载进度
+Storage Management	Storage Management	存储管理
+Download Status	Download Status	下载状态
+The latest download's progress	The latest download's progress	最近一次下载的进度
+for saved playlists and download controls	for saved playlists and download controls	用于已保存的歌单和下载控制
+Remove Playlists…	Remove Playlists…	移除歌单…
+Remove Tracks…	Remove Tracks…	移除歌曲…
+Keeps login and settings	Keeps login and settings	保留登录和设置
+Track removal can make playlists incomplete	Track removal can make playlists incomplete	移除歌曲可能使歌单不完整
+Pause	Pause	暂停
+Cancel Download	Cancel Download	取消下载
+Retry Failed	Retry Failed	重试失败项
+Update Download	Update Download	更新下载
+Sign Out of Spotify?	Sign Out of Spotify?	退出 Spotify 登录？
+Sign Out	Sign Out	退出登录
+Nothing here	Nothing here	这里什么都没有
+Selected	Selected	已选
+Press to select	Press to select	按下选择
+All	All	全部
+One	One	一个
+Download Liked Songs	Download Liked Songs	下载喜欢的歌曲
+Download Playlist	Download Playlist	下载歌单
+For offline listening	For offline listening	用于离线收听
+Download Controls	Download Controls	下载控制
+Update, retry, pause, resume or cancel	Update, retry, pause, resume or cancel	更新、重试、暂停、继续或取消
+Remove Selected…	Remove Selected…	移除所选…
+Confirm the affected count	Confirm the affected count	请确认受影响的数量
+Spotify isn't running	Spotify isn't running	Spotify 未运行
+Spotify didn't answer	Spotify didn't answer	Spotify 没有响应
+Search Spotify	Search Spotify	搜索 Spotify
+Select Tracks	Select Tracks	选择歌曲
+Select at least one item	Select at least one item	请至少选择一项
+Selection full. Remove these first	Selection full. Remove these first	已选满，请先移除这些
+Boot logo must be a 320x375 JPEG	Boot logo must be a 320x375 JPEG	开机画面必须是 320x375 的 JPEG
+Could not save boot logo	Could not save boot logo	无法保存开机画面
+Accent: Graphite	Accent: Graphite	强调色: 石墨
+Accent: Crimson	Accent: Crimson	强调色: 绯红
+Accent: Tidal	Accent: Tidal	强调色: Tidal
+Accent: Champagne	Accent: Champagne	强调色: 香槟
+Accent: Cobalt	Accent: Cobalt	强调色: 钴蓝
+Accent: Tangerine	Accent: Tangerine	强调色: 橘橙
+Accent: Plum	Accent: Plum	强调色: 梅紫
+Accent: Ivory	Accent: Ivory	强调色: 象牙白
+Accent: Green	Accent: Green	强调色: 绿色
+Favorites	Favorites	我的最爱
+Rated Albums	Rated Albums	已评分专辑
+Podcasts	Podcasts	播客
+Audiobooks	Audiobooks	有声书
+Groovebox can't start from the card	Groovebox can't start from the card	Groovebox 无法从存储卡启动
+Groovebox is not on the card	Groovebox is not on the card	存储卡里没有 Groovebox
+Play a Tidal album or playlist first	Play a Tidal album or playlist first	请先播放 Tidal 专辑或歌单
+Downloading %u of %u. Press to stop	Downloading %u of %u. Press to stop	正在下载 %u / %u。按下可停止
+Download Playing Songs	Download Playing Songs	下载正在播放的歌曲
+Tidal Cache full: %u of %u song saved	Tidal Cache full: %u of %u song saved	Tidal 缓存已满：已保存 %u / %u 首
+Tidal Cache full: %u of %u songs saved	Tidal Cache full: %u of %u songs saved	Tidal 缓存已满：已保存 %u / %u 首
+Downloaded %u of %u song	Downloaded %u of %u song	已下载 %u / %u 首
+Downloaded %u of %u songs	Downloaded %u of %u songs	已下载 %u / %u 首
+Nothing to play next	Nothing to play next	没有下一首可播放
+Queue changed	Queue changed	队列已更改
+Never	Never	从不
+USB DAC Charging: %s	USB DAC Charging: %s	USB DAC 充电: %s
+Spectrum	Spectrum	频谱
+Oscilloscope	Oscilloscope	示波器
+VU Meters	VU Meters	VU 表
+Halo	Halo	Halo
+Pulsar	Pulsar	Pulsar
+Contour	Contour	Contour
+More	More	更多
+A-B Repeat	A-B Repeat	AB 复读
+Speed	Speed	倍速
+*Only for 48 kHz and below	*Only for 48 kHz and below	*只对 48kHz 以下的文件有效
+No lyrics	No lyrics	暂无歌词
+Genre	Genre	流派
+Size	Size	大小
+Year	Year	年份
+Format	Format	格式
+Bit Depth	Bit Depth	位深
+Bit Rate	Bit Rate	码率
+Sample Rate	Sample Rate	采样率
+Auto Scan	Auto Scan	自动扫描
+Update Library Now	Update Library Now	立即更新曲库
+Scan Folders	Scan Folders	扫描文件夹
+OK	OK	确定
+Bluetooth	Bluetooth	蓝牙
+Key Lock	Key Lock	按键锁
+Low Gain	Low Gain	低增益
+USB Storage	USB Storage	USB 存储
+Playback	Playback	播放
+Custom	Custom	自定义
+Reset	Reset	重置
+Open this address in a browser:	Open this address in a browser:	在浏览器中打开这个地址：
+Downloaded	Downloaded	已下载
+Baidu Netdisk	Baidu Netdisk	百度网盘
+Sign In	Sign In	登录
+Scan with the Baidu app to sign in	Scan with the Baidu app to sign in	用百度 App 扫码登录
+Baidu encryption protects your privacy	Baidu encryption protects your privacy	百度加密技术保护你的隐私
+Bluetooth RF test: connect from a computer	Bluetooth RF test: connect from a computer	蓝牙射频测试：请从电脑连接
+Press Next to exit	Press Next to exit	按“下一个”退出
+Brightness Test	Brightness Test	亮度测试
+Next	Next	下一个
+Bluetooth Test	Bluetooth Test	蓝牙测试
+Down	Down	下
+Up	Up	上
+Swipe Left	Swipe Left	左滑
+Swipe Right	Swipe Right	右滑
+Key Test	Key Test	按键测试
+Headphone Test	Headphone Test	耳机测试
+Plug in single-ended headphones	Plug in single-ended headphones	请插入单端耳机
+Play (left male, right female)	Play (left male, right female)	播放（左公头，右母头）
+Bluetooth Receiver Test	Bluetooth Receiver Test	蓝牙接收测试
+Battery Test	Battery Test	电池测试
+Battery:	Battery:	电池:
+Charging:	Charging:	充电:
+microSD Test	microSD Test	microSD 测试
+Touch Test	Touch Test	触摸测试
+Wi-Fi Test	Wi-Fi Test	Wi-Fi 测试
+Artist	Artist	歌手
+Export Playlists	Export Playlists	导出歌单
+Playlist	Playlist	歌单
+0 songs	0 songs	0 首歌曲
+System	System	系统
+Rockbox	Rockbox	Rockbox
+Baker Island	Baker Island	贝克岛
+Midway	Midway	中途岛
+Honolulu	Honolulu	檀香山
+Anchorage	Anchorage	安克雷奇
+Los Angeles	Los Angeles	洛杉矶
+Denver	Denver	丹佛
+Mexico City	Mexico City	墨西哥城
+New York	New York	纽约
+Halifax	Halifax	哈利法克斯
+St. John's	St. John's	圣约翰斯
+Buenos Aires	Buenos Aires	布宜诺斯艾利斯
+Azores	Azores	亚速尔群岛
+London	London	伦敦
+Amsterdam	Amsterdam	阿姆斯特丹
+Bucharest	Bucharest	布加勒斯特
+Kuwait	Kuwait	科威特
+Tehran	Tehran	德黑兰
+Muscat	Muscat	马斯喀特
+Kabul	Kabul	喀布尔
+Karachi	Karachi	卡拉奇
+Dhaka	Dhaka	达卡
+Bangkok	Bangkok	曼谷
+Shanghai	Shanghai	上海
+Tokyo	Tokyo	东京
+Adelaide	Adelaide	阿德莱德
+Sydney	Sydney	悉尼
+Fiji	Fiji	斐济
+Marquesas	Marquesas	马克萨斯群岛
+South Georgia	South Georgia	南乔治亚
+Colombo	Colombo	科伦坡
+Kathmandu	Kathmandu	加德满都
+Yangon	Yangon	仰光
+Eucla	Eucla	尤克拉
+L. Howe	L. Howe	豪勋爵岛
+Noumea	Noumea	努美阿
+Chatham	Chatham	查塔姆群岛
+Tongatapu	Tongatapu	汤加塔布
+Kiritimati	Kiritimati	圣诞岛
+Chicago	Chicago	芝加哥
+Phoenix	Phoenix	凤凰城
+Kolkata	Kolkata	加尔各答
+Brisbane	Brisbane	布里斯班
+Auckland	Auckland	奥克兰
+Status Bar	Status Bar	状态栏
+Minimal	Minimal	极简
+Modern	Modern	现代
+Classic	Classic	经典
+Show Wordmark	Show Wordmark	显示字标
+Library on Home	Library on Home	主页显示曲库
+Row Preview	Row Preview	行预览
+Row Art	Row Art	行封面
+Classic Blue	Classic Blue	经典蓝
