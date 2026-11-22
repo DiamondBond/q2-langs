@@ -1,0 +1,1167 @@
+# ภาษาไทย
+History_record	History record	ประวัติ
+about_cardcap	Card Capacity	ความจุการ์ด
+about_cardremain	Remaining	คงเหลือ
+about_ipaddr	IP Address	ที่อยู่ IP
+about_model	Model	รุ่น
+about_more	*Our sincere thanks go to the DiamondBond team and all its enthusiasts for their ingenuity, outstanding solutions, and generous contributions.	*ขอขอบคุณทีม DiamondBond และผู้ที่รักในผลงานทุกท่านสำหรับความคิดสร้างสรรค์ แนวทางแก้ปัญหาที่ยอดเยี่ยม และการสนับสนุนอย่างเต็มใจ
+about_sn	Serial Number	หมายเลขซีเรียล
+about_version	Version	เวอร์ชัน
+about_wifimac	Wi-Fi MAC	MAC ของ Wi-Fi
+album	Album	อัลบั้ม
+album	Album	อัลบั้ม
+albumsinger	Album artist	ศิลปินอัลบั้ม
+allmusic	All Songs	เพลงทั้งหมด
+audio_settings	Audio settings	การตั้งค่าเสียง
+baidu_login	Log In	เข้าสู่ระบบ
+baidu_login_tips1	Please use Baidu Netdisk or Baidu App to scan the code to login	ใช้ Baidu Netdisk หรือแอป Baidu สแกนโค้ดเพื่อเข้าสู่ระบบ
+baidu_login_tips2	Baidu encryption technology protects your privacy and security	Baidu ใช้การเข้ารหัสเพื่อปกป้องความเป็นส่วนตัวและความปลอดภัยของคุณ
+baidu_loginout	Log Out	ออกจากระบบ
+baidunet_floderinfo_failed	Failed to get file list	ไม่สามารถรับรายการไฟล์ได้
+batch_addplaylist	Add to Playlist	เพิ่มในเพลย์ลิสต์
+bt_adjvol	Bluetooth Headset Volume Control	ควบคุมระดับเสียงหูฟัง Bluetooth
+bt_compatiabledev	Compatible Device	อุปกรณ์ที่รองรับ
+bt_name	Bluetooth Name	ชื่อ Bluetooth
+bt_paireddev	Paired Device	อุปกรณ์ที่จับคู่
+bt_quality	Quality	คุณภาพ
+bt_search	Scan now	สแกนเลย
+btcode_aac	AAC	AAC
+btcode_aptx	aptX	aptX
+btcode_aptxhd	aptX HD	aptX HD
+btcode_ldacauto	LDAC Connection (auto)	LDAC (อัตโนมัติ)
+btcode_ldachq	LDAC HQ	LDAC HQ
+btcode_ldacst	LDAC Standard	LDAC มาตรฐาน
+btcode_sbc	SBC	SBC
+btcode_sbchq	SBC HQ	SBC HQ
+custom_eq	Custom	กำหนดเอง
+display_backlight	Brightness	ความสว่าง
+display_lighttime	Screen Off Time	เวลาปิดหน้าจอ
+display_screenlock	Lock Screen	ล็อกหน้าจอ
+dsdmode_d2p	D2P	D2P
+dsdmode_dop	DOP	DOP
+dsdmode_native	Native	Native
+eq_blues	Blues	บลูส์
+eq_classical	Classical	คลาสสิก
+eq_club	Club	คลับ
+eq_custom1	Custom1	กำหนดเอง 1
+eq_custom2	Custom2	กำหนดเอง 2
+eq_custom3	Custom3	กำหนดเอง 3
+eq_dance	Dance	แดนซ์
+eq_doublebass	Sub-bass	ซับเบส
+eq_jazz	Jazz	แจ๊ส
+eq_metal	Metal	เมทัล
+eq_only48kmsg	EQ only for files below 48kHz.	EQ ใช้ได้กับไฟล์ที่ต่ำกว่า 48kHz เท่านั้น
+eq_pop	Pop	ป๊อป
+eq_reset	Reset	รีเซ็ต
+eq_rock	Rock	ร็อก
+eq_vocal	Vocal	เสียงร้อง
+fav	My Fav	รายการโปรด
+filter_delayfast	Low Delay Fast Roll-off	Low Delay Fast Roll-off
+filter_delayslow	Low Delay Slow Roll-off	Low Delay Slow Roll-off
+filter_fast	Fast Roll-off	Fast Roll-off
+filter_slow	Slow Roll-off	Slow Roll-off
+frequentplay	Frequent	เล่นบ่อย
+gain_high	High	สูง
+gain_low	Low	ต่ำ
+genre	Genre	แนวเพลง
+genre_statistics	Total %d songs	ทั้งหมด %d เพลง
+hr	Hi-Res	Hi-Res
+keyboard_keyword	Please enter keyword	กรุณาป้อนคำค้นหา
+keyboard_netname	Please enter network name	กรุณาป้อนชื่อเครือข่าย
+keyboard_password	Please enter password	กรุณาป้อนรหัสผ่าน
+keylock_all	Lock Volume & Buttons	ล็อกระดับเสียงและปุ่ม
+keylock_info	Only effective when the screen is off	มีผลเมื่อปิดหน้าจอเท่านั้น
+keylock_info2	Effective on Lockscreen and when Screen Off	มีผลบนหน้าจอล็อกและเมื่อปิดหน้าจอ
+keylock_key	Lock Buttons Only	ล็อกเฉพาะปุ่ม
+keylock_volume	Lock Volume Only	ล็อกเฉพาะระดับเสียง
+lan_english	English	English
+lan_french	Français	Français
+lan_german	Deutsch	Deutsch
+lan_italian	Italiano	Italiano
+lan_japanese	日本語	日本語
+lan_korean	한국어	한국어
+lan_polish	Polski	Polski
+lan_russian	Русский	Русский
+lan_simplified	简体中文	简体中文
+lan_spanish	español	español
+lan_thai	ภาษาไทย	ภาษาไทย
+lan_traditional	繁體中文	繁體中文
+lan_ukrainian	Українська	Українська
+lighttime_15s	15s	15 วินาที
+lighttime_1min	1min	1 นาที
+lighttime_2min	2min	2 นาที
+lighttime_30min	30min	30 นาที
+lighttime_30s	30s	30 วินาที
+lighttime_5min	5min	5 นาที
+lighttime_lyricmode	Lyrics mode	โหมดเนื้อเพลง
+lighttime_off	Off	ปิด
+list_baidu	Baidu Netdisk	Baidu Netdisk
+list_tidal	TIDAL	TIDAL
+local_album	Albums	อัลบั้ม
+local_allmusic	Local Songs	เพลงในเครื่อง
+local_allsongs	Songs	เพลง
+local_fav	My Fav	รายการโปรด
+local_frequentplay	Frequent	เล่นบ่อย
+local_genre	Genres	แนวเพลง
+local_hr	Hi-Res	Hi-Res
+local_playlist	Playlists	เพลย์ลิสต์
+local_recentadd	Recently Added	เพิ่มล่าสุด
+local_recentplay	Recent	เล่นล่าสุด
+local_songer	Artists	ศิลปิน
+local_upmusic	Update Library	อัปเดตคลังเพลง
+login_out	Logout	ออกจากระบบ
+memplay_location	Location	ตำแหน่ง
+memplay_off	Off	ปิด
+memplay_track	Track	เพลง
+msg_actionnotsupport	Non-local songs,not currently supported	ไม่ใช่เพลงในเครื่อง ยังไม่รองรับ
+msg_actionscan	Scan music?	สแกนเพลงหรือไม่
+msg_add_task	Please enter the URL of the file you want to download	กรุณาป้อน URL ของไฟล์ที่ต้องการดาวน์โหลด
+msg_addfailed	Adding Failed	เพิ่มไม่สำเร็จ
+msg_addfavsuccess	Added To Fav	เพิ่มในรายการโปรดแล้ว
+msg_addplaylistsuccess	Added To Playlist	เพิ่มในเพลย์ลิสต์แล้ว
+msg_autoshutdown	Shutdown	ปิดเครื่อง
+msg_btabnormal	Bluetooth abnormal	Bluetooth ทำงานผิดปกติ
+msg_btinit_run	Bluetooth Starting	กำลังเริ่ม Bluetooth
+msg_btreconnect	Reconnect Bluetooth?	เชื่อมต่อ Bluetooth ใหม่หรือไม่
+msg_cardeject	Audio Disconnected	ถอดอุปกรณ์เสียงแล้ว
+msg_cardinsert	Audio Connected	เชื่อมต่ออุปกรณ์เสียงแล้ว
+msg_checkfw	Checking FW	กำลังตรวจสอบเฟิร์มแวร์
+msg_checkfwerr	FW. Check Error	ตรวจสอบเฟิร์มแวร์ไม่สำเร็จ
+msg_closesynclink	Please close SyncLink	กรุณาปิด SyncLink
+msg_confirmupdate	Confirm Update?	ยืนยันการอัปเดตหรือไม่
+msg_connected	Connected	เชื่อมต่อแล้ว
+msg_connecting	Connecting	กำลังเชื่อมต่อ
+msg_delalbum	Delete Album?	ลบอัลบั้มหรือไม่
+msg_delalbumfailed	Failed To Delete Album	ลบอัลบั้มไม่สำเร็จ
+msg_delalbumsuccess	Album Deleted	ลบอัลบั้มแล้ว
+msg_delartist	Delete Artist?	ลบศิลปินหรือไม่
+msg_delartistsuccess	Artist Deleted	ลบศิลปินแล้ว
+msg_delete_task	Are you sure you want to delete the download task?	ต้องการลบงานดาวน์โหลดหรือไม่
+msg_deletesource	Also delete source file	ลบไฟล์ต้นฉบับด้วย
+msg_delfile	Are you sure you want to delete this file?	ต้องการลบไฟล์นี้หรือไม่
+msg_delfile	Delete File?	ลบไฟล์หรือไม่
+msg_delfilefailed	Failed To Delete File	ลบไฟล์ไม่สำเร็จ
+msg_delfilesuccess	File Deleted	ลบไฟล์แล้ว
+msg_delgenre	Delete Genre?	ลบแนวเพลงหรือไม่
+msg_delgenresuccess	Genre Deleted	ลบแนวเพลงแล้ว
+msg_delplaylist	Delete Playlist?	ลบเพลย์ลิสต์หรือไม่
+msg_delplaylistfailed	Failed To Delete Playlist	ลบเพลย์ลิสต์ไม่สำเร็จ
+msg_delplaylistsuccess	Playlist Deleted	ลบเพลย์ลิสต์แล้ว
+msg_delsong	Delete Song?	ลบเพลงหรือไม่
+msg_delsongfailed	Failed To Delete Song	ลบเพลงไม่สำเร็จ
+msg_delsongsuccess	Song Deleted	ลบเพลงแล้ว
+msg_disconnected	Disconnected	ตัดการเชื่อมต่อแล้ว
+msg_disonnectbt	Please disconnect the bluetooth device	กรุณาตัดการเชื่อมต่ออุปกรณ์ Bluetooth
+msg_downloadpath	Download path is	ที่เก็บไฟล์ดาวน์โหลดคือ
+msg_exist_task	The download task already exists	มีงานดาวน์โหลดนี้อยู่แล้ว
+msg_exitairplay	Quit AirPlay?	ออกจาก AirPlay หรือไม่
+msg_exportplaylist	Export Playlist?	ส่งออกเพลย์ลิสต์หรือไม่
+msg_exportsuccess	Export successful	ส่งออกสำเร็จ
+msg_factorysuccess	Restore to factory settings succeeded	คืนค่าโรงงานสำเร็จ
+msg_favsuccess	Added To Fav	เพิ่มในรายการโปรดแล้ว
+msg_file_exist	The file already exists	มีไฟล์นี้อยู่แล้ว
+msg_importplaylist	Import Playlists?	นำเข้าเพลย์ลิสต์หรือไม่
+msg_importsuccess	Successfully imported	นำเข้าสำเร็จ
+msg_initsetsuccess	All settings initialized successfully	รีเซ็ตการตั้งค่าทั้งหมดสำเร็จ
+msg_latestfw	Latest Fw. Installed	ติดตั้งเฟิร์มแวร์ล่าสุดแล้ว
+msg_linkerror	WiFi Connection Error	เชื่อมต่อ Wi-Fi ไม่สำเร็จ
+msg_lowarn	Line Out sets max volume,continue?	Line Out จะตั้งระดับเสียงสูงสุด ดำเนินการต่อหรือไม่
+msg_lowpower	Low Battery	แบตเตอรี่ต่ำ
+msg_namenull	The name can't be empty	ชื่อต้องไม่ว่างเปล่า
+msg_netnameerr	Network Must Be Named	ต้องตั้งชื่อเครือข่าย
+msg_no	Cancel	ยกเลิก
+msg_no_storage	Storage is full.Some songs couldn't be added.	พื้นที่เก็บข้อมูลเต็ม เพิ่มเพลงไม่ครบทั้งหมด
+msg_noheadset	Playback is disabled without headphones.Please insert headphones.	ไม่สามารถเล่นได้หากไม่มีหูฟัง กรุณาเสียบหูฟัง
+msg_nosongs	No songs in this folder	ไม่มีเพลงในโฟลเดอร์นี้
+msg_notalbuminfo	This file has no Album data	ไฟล์นี้ไม่มีข้อมูลอัลบั้ม
+msg_notfile	File Not Found	ไม่พบไฟล์
+msg_notfolder	Folder not found	ไม่พบโฟลเดอร์
+msg_notfoundfw	Fw. Not Found	ไม่พบเฟิร์มแวร์
+msg_notmemory	Memory is not enough	หน่วยความจำไม่พอ
+msg_notmemory	Out of memory	หน่วยความจำไม่พอ
+msg_notnetwork	Network Disconnected	ตัดการเชื่อมต่อเครือข่ายแล้ว
+msg_nototg	No OTG Found	ไม่พบ OTG
+msg_notplaylist	Playlist Not Found	ไม่พบเพลย์ลิสต์
+msg_notsongerinfo	This file has no Artist data	ไฟล์นี้ไม่มีข้อมูลศิลปิน
+msg_notsonglist	No Song List	ไม่มีรายการเพลง
+msg_notspecdir	Folder not specified	ไม่ได้ระบุโฟลเดอร์
+msg_notsupport	Not Supported	ไม่รองรับ
+msg_notsupportdel	Can't be removed	ไม่สามารถลบได้
+msg_nottf	No TF Card Found	ไม่พบการ์ด microSD
+msg_otgeject	OTG Disconnected	ตัดการเชื่อมต่อ OTG แล้ว
+msg_otginfoerr	Failed To Get Version Info	อ่านข้อมูลเวอร์ชันไม่สำเร็จ
+msg_otginsert	OTG Connected	เชื่อมต่อ OTG แล้ว
+msg_paircode	Bluetooth Code	รหัส Bluetooth
+msg_paired	Paired	จับคู่แล้ว
+msg_playlistexist	Playlist Already Exists	มีเพลย์ลิสต์นี้อยู่แล้ว
+msg_playlistfull	Could not create playlist	สร้างเพลย์ลิสต์ไม่ได้
+msg_poweroff	Shut Down?	ปิดเครื่องหรือไม่
+msg_resetdbsuccess	Reset completed	รีเซ็ตเสร็จแล้ว
+msg_restarting	Restarting	กำลังรีสตาร์ต
+msg_shortpasswd	8 Digits PIN At Least	PIN ต้องมีอย่างน้อย 8 หลัก
+msg_start_download_task	start the download task	เริ่มงานดาวน์โหลด
+msg_stop_download_task	stop the download task	หยุดงานดาวน์โหลด
+msg_testmode	Enter test mode?	เข้าสู่โหมดทดสอบหรือไม่
+msg_tfeject	TF Card Removed	ถอดการ์ด microSD แล้ว
+msg_tfinsert	TF Card Inserted	ใส่การ์ด microSD แล้ว
+msg_unpaired	Unpaired	ยกเลิกการจับคู่แล้ว
+msg_unpairing	unpair?	ยกเลิกการจับคู่หรือไม่
+msg_unsupportformat	Unsupported format	ไม่รองรับรูปแบบนี้
+msg_update	Confirmed	ยืนยัน
+msg_wificancelsave	Delete Record?	ลบข้อมูลที่บันทึกไว้หรือไม่
+msg_wifidisconnect	Disconnect Now?	ตัดการเชื่อมต่อตอนนี้หรือไม่
+msg_yes	OK	ตกลง
+navigation_all	All	ทั้งหมด
+netservice_airplay	AirPlay	AirPlay
+netservice_dlna	DLNA	DLNA
+netservice_wifitrans	Wi-Fi File Transfer	ถ่ายโอนไฟล์ผ่าน Wi-Fi
+no_search	No search results	ไม่พบผลการค้นหา
+not_allmusic	Currently no songs	ยังไม่มีเพลง
+otgdownload_percent	FW Downloaded	ดาวน์โหลดเฟิร์มแวร์แล้ว
+outputway	Output Options	ตัวเลือกเอาต์พุต
+play_all	Play All	เล่นทั้งหมด
+player_abrepeat	AB Repeat	เล่นซ้ำ A-B
+player_albuminfo	Look up Album	ค้นหาอัลบั้ม
+player_bitdepth	Bit Depth	บิตเดปธ์
+player_bitrate	Bitrate	บิตเรต
+player_delete	Delete Song	ลบเพลง
+player_encoding	Encoding	การเข้ารหัส
+player_era	Year	ปี
+player_filesize	File Size	ขนาดไฟล์
+player_location	Location	ตำแหน่ง
+player_msgmul	*Affecting only files below 48khz	*มีผลกับไฟล์ที่ต่ำกว่า 48kHz เท่านั้น
+player_multiple	Multiple Speed	ความเร็วในการเล่น
+player_nolyric	No Lyrics	ไม่มีเนื้อเพลง
+player_onlinesearch	Download Cover & Lyrics	ดาวน์โหลดปกและเนื้อเพลง
+player_playlist	Queue	คิว
+player_samplerate	Sample Rate	แซมเปิลเรต
+player_songerinfo	Look up Artist	ค้นหาศิลปิน
+player_unknown	Unknown	ไม่ทราบ
+player_unknown	Unknown Artist	ศิลปินที่ไม่รู้จัก
+playlist	Playlist	เพลย์ลิสต์
+playlist_create	New playlist	เพลย์ลิสต์ใหม่
+playlist_export	Export playlist	ส่งออกเพลย์ลิสต์
+playlist_import	Import playlist	นำเข้าเพลย์ลิสต์
+playmode_listplay	List Play	เล่นตามรายการ
+playmode_repeatall	Repeat All	เล่นซ้ำทั้งหมด
+playmode_repeattrack	Repeat Track	เล่นเพลงซ้ำ
+playmode_shuffle	Shuffle	สุ่มเพลง
+playset_balance	Channel Balance	บาลานซ์ช่องเสียง
+playset_bootvol	Default Volume	ระดับเสียงเริ่มต้น
+playset_covermode	Enlarged Album Art	ขยายปกอัลบั้ม
+playset_dsdoutput	DSD Output Mode	โหมดเอาต์พุต DSD
+playset_eq	EQ	EQ
+playset_filter	Digital Filters	ดิจิทัลฟิลเตอร์
+playset_foldercover	Folder Album Cover	ปกอัลบั้มโฟลเดอร์
+playset_folderjump	Folder Skip	ข้ามโฟลเดอร์
+playset_gain	Gain	เกน
+playset_gapless	Gapless	เล่นไร้รอยต่อ
+playset_maxvol	Max Volume	ระดับเสียงสูงสุด
+playset_memplay	Memory Playback	จำตำแหน่งเล่น
+playset_noplay	Require Output (Beta)	ต้องมีเอาต์พุต (เบต้า)
+playset_playmode	Play Mode	โหมดการเล่น
+playset_replaygain	ReplayGain	ReplayGain
+playset_usbaudiovol	USB Audio Output	เอาต์พุต USB Audio
+playset_volcover	Volume and Album Display	ระดับเสียงและการแสดงอัลบั้ม
+powerm_deep_off	Standby	สแตนด์บาย
+powerm_sleep	Sleep Timer	ตั้งเวลาปิด
+recentadd	Recently Added	เพิ่มล่าสุด
+recentplay	Recent	เล่นล่าสุด
+rename	Rename	เปลี่ยนชื่อ
+renamesuccess	Successfully renamed	เปลี่ยนชื่อสำเร็จ
+replaygain_track	Song	เพลง
+reset_factory	Full Factory Reset	คืนค่าโรงงานทั้งหมด
+reset_initdatabase	Reset Database	รีเซ็ตฐานข้อมูล
+reset_initset	Reset Settings Only	รีเซ็ตเฉพาะการตั้งค่า
+scan_automatic	Automatic Update	อัปเดตอัตโนมัติ
+scan_now	Scan music now	สแกนเพลงทันที
+scan_now	Scan music now	สแกนเพลงทันที
+scan_spec	Scan specified folders	สแกนโฟลเดอร์ที่เลือก
+scan_spec	Scan specified folders	สแกนโฟลเดอร์ที่เลือก
+scan_startscan	Scan	สแกน
+scan_updatefinish	Library Updated,%d Updated	อัปเดตคลังเพลงแล้ว อัปเดต %d รายการ
+scan_updating	Updating No.%d	กำลังอัปเดต ลำดับที่ %d
+scover_cover	Cover	ปก
+scover_lyric	Lyrics	เนื้อเพลง
+screenlock_about	Custom Lock Screen	หน้าจอล็อกแบบกำหนดเอง
+screenlock_info1	1. Put the pictures in a folder named "lockscreenimage" at the top of the card.	1. ใส่รูปภาพในโฟลเดอร์ชื่อ "lockscreenimage" ที่ระดับบนสุดของการ์ด
+screenlock_info2	2. PNG or JPG, exactly 375 x 320 pixels, under 1 MB each.	2. PNG หรือ JPG ขนาด 375 x 320 พิกเซลพอดี ไฟล์ละไม่เกิน 1 MB
+screenlock_info3	3. Up to 5 pictures.	3. ไม่เกิน 5 รูป
+screenlock_timeshow	Show Time	แสดงเวลา
+search_tips1	Search for music,artists,albums,genres	ค้นหาเพลง ศิลปิน อัลบั้ม แนวเพลง
+search_track	Track	เพลง
+singerbyalbum	Sort by album artist	เรียงตามศิลปินอัลบั้ม
+singerbysong	Sort by song artist	เรียงตามศิลปินเพลง
+small_album	Albums	อัลบั้ม
+small_coverflow	Album Wall	ผนังอัลบั้ม
+small_folder	Folder	โฟลเดอร์
+small_local	Local Songs	เพลงในเครื่อง
+small_playing	Now Playing	กำลังเล่น
+small_playset	Playback	การเล่น
+small_stream	Streaming	สตรีมมิง
+small_sysset	System	ระบบ
+songer	Artist	ศิลปิน
+sort_addtime	Time added	เวลาที่เพิ่ม
+sort_alphabet	Alphabetical	ตามตัวอักษร
+sort_filename	File name	ชื่อไฟล์
+sort_format	File format	รูปแบบไฟล์
+sort_time_asc	Time added (ascending)	เวลาที่เพิ่ม (เก่าไปใหม่)
+sort_time_desc	Time added (descending)	เวลาที่เพิ่ม (ใหม่ไปเก่า)
+standbyoff_10min	10min	10 นาที
+standbyoff_1min	1min	1 นาที
+standbyoff_3min	3min	3 นาที
+standbyoff_5min	5min	5 นาที
+standbyoff_deep	Auto-standby	สแตนด์บายอัตโนมัติ
+standbyoff_deepinfo	After 5 minute of idle,device will go into standby mode.	เมื่อไม่ได้ใช้งาน 5 นาที เครื่องจะเข้าสู่โหมดสแตนด์บาย
+standbyoff_saver	Auto-shutdown	ปิดเครื่องอัตโนมัติ
+synclink_off	Off	ปิด
+system_about	About	เกี่ยวกับ
+system_carmode	In-Vehicle Mode	โหมดในรถยนต์
+system_display	Display	หน้าจอ
+system_general	General	ทั่วไป
+system_keylock	Buttons Lock	ล็อกปุ่ม
+system_keytone	Key Tone	เสียงปุ่ม
+system_language	Language	ภาษา
+system_navshow	Show Navigation Bar	แสดงแถบนำทาง
+system_netservice	Network	เครือข่าย
+system_powermanager	Power	พลังงาน
+system_prove	Certification	การรับรอง
+system_reset	Reset Settings	รีเซ็ตการตั้งค่า
+system_sys	System	ระบบ
+system_time	Date & Time	วันที่และเวลา
+system_update	System Update	อัปเดตระบบ
+system_wheelmode	Wheel Function	หน้าที่วงล้อ
+system_wifiset	Wireless	ไร้สาย
+timedate_24h	24-Hour	24 ชั่วโมง
+timedate_auto	Automatic Time Set	ตั้งเวลาอัตโนมัติ
+timedate_manual	Set Time Manually	ตั้งเวลาเอง
+timezone_gmt+1	(GMT+01:00)Europe/Amsterdam	(GMT+01:00)อัมสเตอร์ดัม
+timezone_gmt+10	(GMT+10:00)Australia/Sydney	(GMT+10:00)ซิดนีย์
+timezone_gmt+12	(GMT+12:00)Pacific/Fiji	(GMT+12:00)ฟิจิ
+timezone_gmt+2	(GMT+02:00)Europe/Bucharest	(GMT+02:00)บูคาเรสต์
+timezone_gmt+3	(GMT+03:00)Asia/Kuwait	(GMT+03:00)คูเวต
+timezone_gmt+3_30	(GMT+03:30)Asia/Tehran	(GMT+03:30)เตหะราน
+timezone_gmt+4	(GMT+04:00)Asia/Muscat	(GMT+04:00)มัสกัต
+timezone_gmt+4_30	(GMT+04:30)Asia/Kabul	(GMT+04:30)คาบูล
+timezone_gmt+5	(GMT+05:00)Asia/Karachi	(GMT+05:00)การาจี
+timezone_gmt+6	(GMT+06:00)Asia/Almaty	(GMT+06:00)อัลมาตี
+timezone_gmt+7	(GMT+07:00)Asia/Bangkok	(GMT+07:00)กรุงเทพ
+timezone_gmt+8	(GMT+08:00)Asia/Shanghai	(GMT+08:00)เซี่ยงไฮ้
+timezone_gmt+9	(GMT+09:00)Asia/Tokyo	(GMT+09:00)โตเกียว
+timezone_gmt+9_30	(GMT+09:30)Australia/Adelaide	(GMT+09:30)แอดิเลด
+timezone_gmt-0	(GMT 00:00)Europe/London	(GMT 00:00)ลอนดอน
+timezone_gmt-1	(GMT-01:00)Atlantic/Azores	(GMT-01:00)อะโซเรส
+timezone_gmt-10	(GMT-10:00)Pacific/Honolulu	(GMT-10:00)โฮโนลูลู
+timezone_gmt-11	(GMT-11:00)Pacific/Midway	(GMT-11:00)มิดเวย์
+timezone_gmt-12	(GMT-12:00)Pacific/Kwajalein	(GMT-12:00)ควาจาเลน
+timezone_gmt-3	(GMT-03:00)America/Argentina/Buenos_Aires	(GMT-03:00)บัวโนสไอเรส
+timezone_gmt-3_30	(GMT-03:30)America/St_Johns	(GMT-03:30)เซนต์จอนส์
+timezone_gmt-4	(GMT-04:00)Canada/Atlantic	(GMT-04:00)แอตแลนติก (แคนาดา)
+timezone_gmt-5	(GMT-05:00)America/New_York	(GMT-05:00)นิวยอร์ก
+timezone_gmt-6	(GMT-06:00)America/Mexico_City	(GMT-06:00)เม็กซิโกซิตี
+timezone_gmt-7	(GMT-07:00)America/Denver	(GMT-07:00)เดนเวอร์
+timezone_gmt-8	(GMT-08:00)America/Tijuana	(GMT-08:00)ตีฮัวนา
+timezone_gmt-9	(GMT-09:00)America/Anchorage	(GMT-09:00)แองเคอเรจ
+timezone_select	Time Zone Selection	เลือกเขตเวลา
+title_downloaded	Downloaded	ดาวน์โหลดแล้ว
+title_downloading	Downloading	กำลังดาวน์โหลด
+title_more	More	เพิ่มเติม
+title_sort	List sort order	ลำดับการเรียงรายการ
+update_online	Network update	อัปเดตผ่านเครือข่าย
+update_tf	TF card update	อัปเดตจากการ์ด TF
+usb_chargeswitch	USB DAC Charging	ชาร์จผ่าน USB DAC
+usbmode_audio	USB AUDIO	USB AUDIO
+usbmode_connect	USB Connected	เชื่อมต่อ USB แล้ว
+usbmode_dac	USB DAC	USB DAC
+usbmode_disconnect	USB Disconnected	ตัดการเชื่อมต่อ USB แล้ว
+usbmode_storge	USB Storage	ที่เก็บข้อมูล USB
+usbvol_adjust	Volume Variable	ปรับระดับเสียงได้
+usbvol_fixed	Volume Fixed	ระดับเสียงคงที่
+wheelmode_menu	Menu Mode	โหมดเมนู
+wheelmode_volume	Volume Mode	โหมดระดับเสียง
+wifi_addnetwork	Add Network	เพิ่มเครือข่าย
+wifi_choice	Select Network	เลือกเครือข่าย
+wifi_scan	Scanning	กำลังสแกน
+wifiset_bt	Bluetooth	Bluetooth
+wifiset_synclink	SyncLink	SyncLink
+wifiset_wifi	Wi-Fi	Wi-Fi
+wifits_info1	Enter the following URL into your internet browser:	ป้อน URL นี้ในเว็บเบราว์เซอร์ของคุณ
+Search	Search	ค้นหา
+Streaming	Streaming	สตรีมมิง
+Library's Games	Library's Games	เกมในคลังเพลง
+Library's Apps	Library's Apps	แอปในคลังเพลง
+Network settings	Network settings	การตั้งค่าเครือข่าย
+Wait until the App Store finishes	Wait until the App Store finishes	รอให้ App Store ทำงานเสร็จ
+It isn't on the card	It isn't on the card	ไม่มีในการ์ด
+It couldn't start	It couldn't start	เริ่มไม่ได้
+Stop %s	Stop %s	หยุด %s
+Loading…	Loading…	กำลังโหลด…
+More…	More…	เพิ่มเติม…
+Working…	Working…	กำลังทำงาน…
+Starting %s…	Starting %s…	กำลังเริ่ม %s…
+Retry	Retry	ลองใหม่
+Install it again in Library → App Store	Install it again in Library → App Store	ติดตั้งอีกครั้งที่คลังเพลง → App Store
+Cancel	Cancel	ยกเลิก
+%s isn't running	%s isn't running	%s ไม่ได้ทำงานอยู่
+%s didn't answer	%s didn't answer	%s ไม่ตอบสนอง
+Too long	Too long	ยาวเกินไป
+%s stopped	%s stopped	%s หยุดทำงานแล้ว
+%s isn't on the card	%s isn't on the card	ไม่มี %s ในการ์ด
+Apps	Apps	แอป
+No apps	No apps	ไม่มีแอป
+Not running	Not running	ไม่ได้ทำงาน
+No code yet	No code yet	ยังไม่มีโค้ด
+Connect the Q2 to Wi-Fi	Connect the Q2 to Wi-Fi	เชื่อมต่อ Q2 กับ Wi-Fi
+Open it again	Open it again	เปิดอีกครั้ง
+Wait a moment	Wait a moment	รอสักครู่
+Then come back here	Then come back here	แล้วกลับมาที่นี่
+Scan with your phone's	Scan with your phone's	สแกนด้วยกล้อง
+Scan with your	Scan with your	สแกนด้วย
+camera	camera	ของโทรศัพท์คุณ
+phone's camera	phone's camera	กล้องโทรศัพท์ของคุณ
+or open	or open	หรือเปิด
+PIN	PIN	PIN
+Couldn't import %s	Couldn't import %s	นำเข้า %s ไม่ได้
+Playlists updated	Playlists updated	อัปเดตเพลย์ลิสต์แล้ว
+No memory card	No memory card	ไม่มีการ์ดหน่วยความจำ
+Games	Games	เกม
+%d update	%d update	อัปเดต %d รายการ
+%d updates	%d updates	อัปเดต %d รายการ
+INSTALL	INSTALL	ติดตั้ง
+UPDATE	UPDATE	อัปเดต
+INSTALLED	INSTALLED	ติดตั้งแล้ว
+AM	AM	AM
+PM	PM	PM
+Jan	Jan	ม.ค.
+Feb	Feb	ก.พ.
+Mar	Mar	มี.ค.
+Apr	Apr	เม.ย.
+May	May	พ.ค.
+Jun	Jun	มิ.ย.
+Jul	Jul	ก.ค.
+Aug	Aug	ส.ค.
+Sep	Sep	ก.ย.
+Oct	Oct	ต.ค.
+Nov	Nov	พ.ย.
+Dec	Dec	ธ.ค.
+The card is in use over USB	The card is in use over USB	การ์ดกำลังใช้งานผ่าน USB
+Storage unavailable	Storage unavailable	ใช้พื้นที่เก็บข้อมูลไม่ได้
+The card is full	The card is full	การ์ดเต็ม
+Couldn't save	Couldn't save	บันทึกไม่ได้
+Saved to battery-log.txt	Saved to battery-log.txt	บันทึกลง battery-log.txt แล้ว
+Battery History	Battery History	ประวัติแบตเตอรี่
+Unplug to start	Unplug to start	ถอดสายเพื่อเริ่ม
+Export Log	Export Log	ส่งออกบันทึก
+Done	Done	เสร็จ
+space	space	เว้นวรรค
+New Playlist	New Playlist	เพลย์ลิสต์ใหม่
+Playlist Name	Playlist Name	ชื่อเพลย์ลิสต์
+Rename	Rename	เปลี่ยนชื่อ
+Songs	Songs	เพลง
+Artists	Artists	ศิลปิน
+Albums	Albums	อัลบั้ม
+Genres	Genres	แนวเพลง
+Off	Off	ปิด
+On	On	เปิด
+%d of %d songs	%d of %d songs	%d จาก %d เพลง
+Updating Library	Updating Library	กำลังอัปเดตคลังเพลง
+Connected	Connected	เชื่อมต่อแล้ว
+Eject before disconnecting	Eject before disconnecting	นำออกก่อนถอดสาย
+%d:%02d AM	%d:%02d AM	%d:%02d AM
+%d:%02d PM	%d:%02d PM	%d:%02d PM
+Save	Save	บันทึก
+Sort: Album	Sort: Album	เรียง: อัลบั้ม
+Sort: Artist	Sort: Artist	เรียง: ศิลปิน
+Sort: Recently Added	Sort: Recently Added	เรียง: เพิ่มล่าสุด
+Sort: Most Played	Sort: Most Played	เรียง: เล่นบ่อยสุด
+Sort: Random	Sort: Random	เรียง: สุ่ม
+Sort: Rating	Sort: Rating	เรียง: คะแนน
+Sort: Year	Sort: Year	เรียง: ปี
+%u song	%u song	%u เพลง
+%u songs	%u songs	%u เพลง
+All albums	All albums	อัลบั้มทั้งหมด
+Preparing artwork… %d/%d	Preparing artwork… %d/%d	กำลังเตรียมภาพปก… %d/%d
+Update Library first	Update Library first	อัปเดตคลังเพลงก่อน
+%u Song	%u Song	%u เพลง
+%u Songs	%u Songs	%u เพลง
+%u Album	%u Album	%u อัลบั้ม
+%u Albums	%u Albums	%u อัลบั้ม
+%u Game	%u Game	%u เกม
+%u Games	%u Games	%u เกม
+%u Service	%u Service	%u บริการ
+%u Services	%u Services	%u บริการ
+%u.%u GB Free	%u.%u GB Free	ว่าง %u.%u GB
+Library	Library	คลังเพลง
+Settings	Settings	ตั้งค่า
+Crossfade: %d s	Crossfade: %d s	ครอสเฟด: %d วิ
+Crossfade: Off	Crossfade: Off	ครอสเฟด: ปิด
+Wheel Sensitivity: %d%%	Wheel Sensitivity: %d%%	ความไววงล้อ: %d%%
+Resume Songs: %d min	Resume Songs: %d min	เล่นเพลงต่อ: %d นาที
+Resume Songs: Off	Resume Songs: Off	เล่นเพลงต่อ: ปิด
+Night Shift: %dK	Night Shift: %dK	ไนต์ชิฟต์: %dK
+Night Shift: Auto	Night Shift: Auto	ไนต์ชิฟต์: อัตโนมัติ
+Night Shift: Off	Night Shift: Off	ไนต์ชิฟต์: ปิด
+Mono Audio	Mono Audio	เสียงโมโน
+Swap L/R	Swap L/R	สลับ ซ้าย/ขวา
+Crossfade needs Gapless	Crossfade needs Gapless	ครอสเฟดต้องเปิดเล่นไร้รอยต่อ
+Auto	Auto	อัตโนมัติ
+Night Shift	Night Shift	ไนต์ชิฟต์
+Resume Songs	Resume Songs	เล่นเพลงต่อ
+Wheel Sensitivity	Wheel Sensitivity	ความไววงล้อ
+Crossfade	Crossfade	ครอสเฟด
+Measuring song lengths…	Measuring song lengths…	กำลังวัดความยาวเพลง…
+Sudoku	Sudoku	ซูโดกุ
+Solitaire	Solitaire	ไพ่คนเดียว
+Snake	Snake	งู
+Paused	Paused	หยุดชั่วคราว
+Continue	Continue	เล่นต่อ
+Quit	Quit	ออก
+New best!	New best!	สถิติใหม่!
+Game over	Game over	จบเกม
+Centre: play again	Centre: play again	ปุ่มกลาง: เล่นอีกครั้ง
+Play/Pause: resume	Play/Pause: resume	เล่น/หยุด: เล่นต่อ
+New game?	New game?	เริ่มเกมใหม่หรือไม่
+Centre: yes   Return: no	Centre: yes   Return: no	ปุ่มกลาง: ใช่   กลับ: ไม่
+Solved!	Solved!	ไขได้แล้ว!
+Play/Pause: new game	Play/Pause: new game	เล่น/หยุด: เกมใหม่
+Score	Score	คะแนน
+Best	Best	ดีที่สุด
+Level	Level	ระดับ
+Centre	Centre	ปุ่มกลาง
+You win!	You win!	คุณชนะ!
+Shuffle	Shuffle	สุ่มเพลง
+Era	Era	ยุค
+Ratings	Ratings	การให้คะแนน
+Most Played	Most Played	เล่นบ่อยสุด
+Long Songs	Long Songs	เพลงยาว
+App Store	App Store	App Store
+Upload Scrobbles	Upload Scrobbles	อัปโหลด Scrobble
+Tidal Downloads	Tidal Downloads	ดาวน์โหลด Tidal
+Internet Radio	Internet Radio	วิทยุอินเทอร์เน็ต
+Configuration	Configuration	การกำหนดค่า
+Restart to apply?	Restart to apply?	รีสตาร์ตเพื่อใช้งานหรือไม่
+Couldn't copy the language	Couldn't copy the language	คัดลอกภาษาไม่ได้
+Too many songs to shuffle	Too many songs to shuffle	เพลงมากเกินกว่าจะสุ่มได้
+Shuffle Songs	Shuffle Songs	สุ่มเพลง
+Shuffle Albums	Shuffle Albums	สุ่มอัลบั้ม
+Shuffle Folders	Shuffle Folders	สุ่มโฟลเดอร์
+Albums and folders take a moment to shuffle	Albums and folders take a moment to shuffle	การสุ่มอัลบั้มและโฟลเดอร์ใช้เวลาสักครู่
+No plays yet	No plays yet	ยังไม่เคยเล่น
+%u play	%u play	เล่น %u ครั้ง
+%u plays	%u plays	เล่น %u ครั้ง
+No downloads yet	No downloads yet	ยังไม่มีการดาวน์โหลด
+Clear All Downloads…	Clear All Downloads…	ล้างการดาวน์โหลดทั้งหมด…
+%u track	%u track	%u แทร็ก
+%u tracks	%u tracks	%u แทร็ก
+Remove Downloads?	Remove Downloads?	ลบการดาวน์โหลดหรือไม่
+Keeps settings	Keeps settings	เก็บการตั้งค่าไว้
+Remove	Remove	ลบ
+It isn't on the card any more	It isn't on the card any more	ไม่มีในการ์ดอีกแล้ว
+Era unavailable	Era unavailable	ใช้ยุคไม่ได้
+Album not found	Album not found	ไม่พบอัลบั้ม
+%u album	%u album	%u อัลบั้ม
+%u albums	%u albums	%u อัลบั้ม
+Play All	Play All	เล่นทั้งหมด
+Every song, shuffled	Every song, shuffled	ทุกเพลง สุ่มลำดับ
+No dated albums yet	No dated albums yet	ยังไม่มีอัลบั้มที่ระบุปี
+No songs over 10 minutes	No songs over 10 minutes	ไม่มีเพลงที่ยาวเกิน 10 นาที
+Measuring songs… %d/%d	Measuring songs… %d/%d	กำลังวัดเพลง… %d/%d
+Measuring songs…	Measuring songs…	กำลังวัดเพลง…
+Release to search	Release to search	ปล่อยเพื่อค้นหา
+Pull to search	Pull to search	ดึงเพื่อค้นหา
+Sleep Timer	Sleep Timer	ตั้งเวลาปิด
+Lock Screen	Lock Screen	ล็อกหน้าจอ
+Accent	Accent	สีเน้น
+Everything	Everything	ทั้งหมด
+Buttons only	Buttons only	เฉพาะปุ่ม
+Volume only	Volume only	เฉพาะระดับเสียง
+Wake: Single Press	Wake: Single Press	ปลุก: กดครั้งเดียว
+Wake: Double Press	Wake: Double Press	ปลุก: กดสองครั้ง
+Artist View: Grid	Artist View: Grid	มุมมองศิลปิน: ตาราง
+Artist View: Cover Flow	Artist View: Cover Flow	มุมมองศิลปิน: Cover Flow
+Artist View: List	Artist View: List	มุมมองศิลปิน: รายการ
+Year Order: Newest First	Year Order: Newest First	เรียงปี: ใหม่สุดก่อน
+Year Order: Oldest First	Year Order: Oldest First	เรียงปี: เก่าสุดก่อน
+Artists: Artist	Artists: Artist	ศิลปิน: ศิลปินเพลง
+Artists: Album Artist	Artists: Album Artist	ศิลปิน: ศิลปินอัลบั้ม
+Resume on Connect: Off	Resume on Connect: Off	เล่นต่อเมื่อเชื่อมต่อ: ปิด
+Resume on Connect: On	Resume on Connect: On	เล่นต่อเมื่อเชื่อมต่อ: เปิด
+Clock: Standard	Clock: Standard	นาฬิกา: มาตรฐาน
+Clock: Large	Clock: Large	นาฬิกา: ใหญ่
+Artist Album Order: Year	Artist Album Order: Year	เรียงอัลบั้มของศิลปิน: ปี
+Artist Album Order: A–Z	Artist Album Order: A–Z	เรียงอัลบั้มของศิลปิน: A–Z
+Volume Guard: Off	Volume Guard: Off	ป้องกันเสียงดัง: ปิด
+Volume Guard: On	Volume Guard: On	ป้องกันเสียงดัง: เปิด
+Hold Return: Recent	Hold Return: Recent	กดค้างกลับ: ล่าสุด
+Hold Return: Home	Hold Return: Home	กดค้างกลับ: หน้าหลัก
+Standby Limit: Off	Standby Limit: Off	จำกัดสแตนด์บาย: ปิด
+Standby Limit: %u h	Standby Limit: %u h	จำกัดสแตนด์บาย: %u ชม.
+Refresh Cover Flow	Refresh Cover Flow	รีเฟรช Cover Flow
+Playlist View: List	Playlist View: List	มุมมองเพลย์ลิสต์: รายการ
+Playlist View: Cover Flow	Playlist View: Cover Flow	มุมมองเพลย์ลิสต์: Cover Flow
+Update Notifications: Off	Update Notifications: Off	แจ้งเตือนอัปเดต: ปิด
+Update Notifications: On	Update Notifications: On	แจ้งเตือนอัปเดต: เปิด
+Album View: List	Album View: List	มุมมองอัลบั้ม: รายการ
+Album View: Grid	Album View: Grid	มุมมองอัลบั้ม: ตาราง
+Charge Limit (%u%%)	Charge Limit (%u%%)	จำกัดการชาร์จ (%u%%)
+Resume on Connect	Resume on Connect	เล่นต่อเมื่อเชื่อมต่อ
+Volume Guard	Volume Guard	ป้องกันเสียงดัง
+Control Device Volume	Control Device Volume	ควบคุมระดับเสียงอุปกรณ์
+Key Tone	Key Tone	เสียงปุ่ม
+In-Vehicle Mode	In-Vehicle Mode	โหมดในรถยนต์
+Smart Wi-Fi	Smart Wi-Fi	Wi-Fi อัจฉริยะ
+Enlarged Album Art	Enlarged Album Art	ขยายปกอัลบั้ม
+Folder Album Cover	Folder Album Cover	ปกอัลบั้มโฟลเดอร์
+Fast Navigation	Fast Navigation	นำทางเร็ว
+Scan Song Durations	Scan Song Durations	สแกนความยาวเพลง
+Position Bar	Position Bar	แถบตำแหน่ง
+Hide Streaming	Hide Streaming	ซ่อนสตรีมมิง
+Hide Folder	Hide Folder	ซ่อนโฟลเดอร์
+Hide Apps	Hide Apps	ซ่อนแอป
+Hide Games	Hide Games	ซ่อนเกม
+Hide App Store	Hide App Store	ซ่อน App Store
+Receive Audio	Receive Audio	รับเสียง
+Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	Cover Flow จะสร้างภาพปกใหม่ครั้งถัดไป
+Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	ปิดแล้วเปิด Bluetooth ใหม่เพื่อใช้งาน
+Folder Root: %s	Folder Root: %s	โฟลเดอร์ราก: %s
+Folder Root: Card	Folder Root: Card	โฟลเดอร์ราก: การ์ด
+Library & Folders	Library & Folders	คลังเพลงและโฟลเดอร์
+Press Centre to Change Mode	Press Centre to Change Mode	กดปุ่มกลางเพื่อเปลี่ยนโหมด
+Press Centre to Turn On or Off	Press Centre to Turn On or Off	กดปุ่มกลางเพื่อเปิดหรือปิด
+Press Centre When Finished	Press Centre When Finished	กดปุ่มกลางเมื่อเสร็จ
+OK to Disconnect	OK to Disconnect	ถอดสายได้
+Now Playing	Now Playing	กำลังเล่น
+Cover Flow	Cover Flow	Cover Flow
+EQ	EQ	EQ
+Update Library	Update Library	อัปเดตคลังเพลง
+Balance	Balance	บาลานซ์
+Home: Split	Home: Split	หน้าหลัก: แยกจอ
+Home: Full	Home: Full	หน้าหลัก: เต็มจอ
+Home: Carousel	Home: Carousel	หน้าหลัก: หมุนวน
+Battery: Icon	Battery: Icon	แบตเตอรี่: ไอคอน
+Battery: Percent	Battery: Percent	แบตเตอรี่: เปอร์เซ็นต์
+Battery: Icon + Percent	Battery: Icon + Percent	แบตเตอรี่: ไอคอน + เปอร์เซ็นต์
+Battery: Percent Inside	Battery: Percent Inside	แบตเตอรี่: เปอร์เซ็นต์ในไอคอน
+Light Mode: Off	Light Mode: Off	โหมดสว่าง: ปิด
+Light Mode: On	Light Mode: On	โหมดสว่าง: เปิด
+Light Mode: Auto	Light Mode: Auto	โหมดสว่าง: อัตโนมัติ
+Accent: %s	Accent: %s	สีเน้น: %s
+Theme: %s	Theme: %s	ธีม: %s
+Shortcut: None	Shortcut: None	ทางลัด: ไม่มี
+Shortcut: %s	Shortcut: %s	ทางลัด: %s
+Rounded Corners	Rounded Corners	มุมโค้งมน
+Smart Awake	Smart Awake	ตื่นอัจฉริยะ
+Centred Now Playing	Centred Now Playing	กำลังเล่นแบบกึ่งกลาง
+Click With Headphones	Click With Headphones	เสียงปุ่มแม้ใช้หูฟัง
+Single Press Scrub	Single Press Scrub	กรอด้วยการกดครั้งเดียว
+Time in Title	Time in Title	เวลาในชื่อเรื่อง
+Location	Location	ตำแหน่ง
+Unknown	Unknown	ไม่ทราบ
+Appearance	Appearance	รูปลักษณ์
+Controls	Controls	การควบคุม
+Theme	Theme	ธีม
+Boot to: Rockbox	Boot to: Rockbox	เปิดเครื่องไปที่: Rockbox
+Boot to: Q2 Pod	Boot to: Q2 Pod	เปิดเครื่องไปที่: Q2 Pod
+Rockbox is not on the card	Rockbox is not on the card	ไม่มี Rockbox ในการ์ด
+Could not save boot choice	Could not save boot choice	บันทึกตัวเลือกการเปิดเครื่องไม่ได้
+No albums	No albums	ไม่มีอัลบั้ม
+No artists	No artists	ไม่มีศิลปิน
+No composers	No composers	ไม่มีนักแต่งเพลง
+No genres	No genres	ไม่มีแนวเพลง
+Chapter %d	Chapter %d	บทที่ %d
+Chapters	Chapters	บท
+Could not read chapters	Could not read chapters	อ่านบทไม่ได้
+No embedded chapters	No embedded chapters	ไม่มีบทในไฟล์
+Too long to read chapters on the Q2	Too long to read chapters on the Q2	ยาวเกินกว่า Q2 จะอ่านบทได้
+Loading chapters…	Loading chapters…	กำลังโหลดบท…
+Spotify Cache: %s	Spotify Cache: %s	แคช Spotify: %s
+Tidal Cache: %s	Tidal Cache: %s	แคช Tidal: %s
+Erasing…	Erasing…	กำลังลบ…
+Press again to erase login and cache	Press again to erase login and cache	กดอีกครั้งเพื่อลบการเข้าสู่ระบบและแคช
+Erase Spotify Data	Erase Spotify Data	ลบข้อมูล Spotify
+Could not save setting	Could not save setting	บันทึกการตั้งค่าไม่ได้
+Streaming stopped	Streaming stopped	หยุดสตรีมมิงแล้ว
+Wait for the one in progress	Wait for the one in progress	รอรายการที่กำลังทำอยู่
+Stop Streaming Services	Stop Streaming Services	หยุดบริการสตรีมมิง
+No %s folder on the card	No %s folder on the card	ไม่มีโฟลเดอร์ %s ในการ์ด
+CFW. Version	CFW. Version	เวอร์ชัน CFW
+Update to %s	Update to %s	อัปเดตเป็น %s
+Latest firmware installed	Latest firmware installed	ติดตั้งเฟิร์มแวร์ล่าสุดแล้ว
+Can't reach GitHub	Can't reach GitHub	เชื่อมต่อ GitHub ไม่ได้
+No update for this build	No update for this build	ไม่มีอัปเดตสำหรับเวอร์ชันนี้
+Can't write to the card	Can't write to the card	เขียนลงการ์ดไม่ได้
+Download cancelled	Download cancelled	ยกเลิกการดาวน์โหลดแล้ว
+GitHub is busy, try later	GitHub is busy, try later	GitHub ไม่ว่าง ลองใหม่ภายหลัง
+The download was damaged, try again	The download was damaged, try again	ไฟล์ที่ดาวน์โหลดเสียหาย ลองอีกครั้ง
+Downloading %d%%	Downloading %d%%	กำลังดาวน์โหลด %d%%
+Cancelling…	Cancelling…	กำลังยกเลิก…
+Reconnecting…	Reconnecting…	กำลังเชื่อมต่อใหม่…
+Verifying…	Verifying…	กำลังตรวจสอบ…
+Checking…	Checking…	กำลังตรวจสอบ…
+Needs %u MB more space	Needs %u MB more space	ต้องการพื้นที่เพิ่ม %u MB
+Update downloaded: use TF card update	Update downloaded: use TF card update	ดาวน์โหลดอัปเดตแล้ว: ใช้อัปเดตจากการ์ด TF
+Charge the battery first	Charge the battery first	ชาร์จแบตเตอรี่ก่อน
+Can't start the download	Can't start the download	เริ่มดาวน์โหลดไม่ได้
+Downloading…	Downloading…	กำลังดาวน์โหลด…
+Q2 Pod %s is out: System Update → Network update	Q2 Pod %s is out: System Update → Network update	Q2 Pod %s ออกแล้ว: อัปเดตระบบ → อัปเดตผ่านเครือข่าย
+Downloading	Downloading	กำลังดาวน์โหลด
+Unpacking…	Unpacking…	กำลังแตกไฟล์…
+Installing…	Installing…	กำลังติดตั้ง…
+Removing…	Removing…	กำลังลบ…
+Connect to Wi-Fi to load the list	Connect to Wi-Fi to load the list	เชื่อมต่อ Wi-Fi เพื่อโหลดรายการ
+Checked just now	Checked just now	ตรวจสอบเมื่อสักครู่
+Checked %u min ago	Checked %u min ago	ตรวจสอบเมื่อ %u นาทีที่แล้ว
+Checked %u h ago	Checked %u h ago	ตรวจสอบเมื่อ %u ชม. ที่แล้ว
+Press again to remove	Press again to remove	กดอีกครั้งเพื่อลบ
+Starts at power-on. Press again to install	Starts at power-on. Press again to install	เริ่มเมื่อเปิดเครื่อง กดอีกครั้งเพื่อติดตั้ง
+%d app can be updated	%d app can be updated	อัปเดตแอปได้ %d รายการ
+%d apps can be updated	%d apps can be updated	อัปเดตแอปได้ %d รายการ
+All apps are up to date	All apps are up to date	แอปทั้งหมดเป็นเวอร์ชันล่าสุด
+The download is not a usable app	The download is not a usable app	ไฟล์ที่ดาวน์โหลดไม่ใช่แอปที่ใช้งานได้
+Rockbox is ready. Find it on Home	Rockbox is ready. Find it on Home	Rockbox พร้อมใช้งาน อยู่ที่หน้าหลัก
+Rockbox Themes are ready in Rockbox's Theme Settings	Rockbox Themes are ready in Rockbox's Theme Settings	ธีม Rockbox พร้อมใช้งานในการตั้งค่าธีมของ Rockbox
+%s is ready in %s	%s is ready in %s	%s พร้อมใช้งานใน %s
+%s removed	%s removed	ลบ %s แล้ว
+Spotify's login and cache erased	Spotify's login and cache erased	ลบการเข้าสู่ระบบและแคชของ Spotify แล้ว
+Stopped checking for updates	Stopped checking for updates	หยุดตรวจสอบอัปเดตแล้ว
+Install Rockbox first	Install Rockbox first	ติดตั้ง Rockbox ก่อน
+Check for Updates	Check for Updates	ตรวจสอบอัปเดต
+%d of %d	%d of %d	%d จาก %d
+Album lyrics	Album lyrics	เนื้อเพลงอัลบั้ม
+LRCLIB stopped answering	LRCLIB stopped answering	LRCLIB ไม่ตอบสนอง
+Cancelled	Cancelled	ยกเลิกแล้ว
+%d saved	%d saved	บันทึก %d
+%d not found	%d not found	ไม่พบ %d
+%d already had lyrics	%d already had lyrics	มีเนื้อเพลงอยู่แล้ว %d
+%d failed	%d failed	ล้มเหลว %d
+Album lyrics: no songs on the card	Album lyrics: no songs on the card	เนื้อเพลงอัลบั้ม: ไม่มีเพลงในการ์ด
+Can't reach LRCLIB	Can't reach LRCLIB	เชื่อมต่อ LRCLIB ไม่ได้
+Download Album Lyrics	Download Album Lyrics	ดาวน์โหลดเนื้อเพลงอัลบั้ม
+Downloading %d of %d	Downloading %d of %d	กำลังดาวน์โหลด %d จาก %d
+No album songs on the card	No album songs on the card	ไม่มีเพลงของอัลบั้มในการ์ด
+file exceeds 16384 bytes	file exceeds 16384 bytes	ไฟล์เกิน 16384 ไบต์
+line exceeds 512 bytes	line exceeds 512 bytes	บรรทัดเกิน 512 ไบต์
+embedded NUL	embedded NUL	มี NUL ฝังอยู่
+unsupported filter form	unsupported filter form	ไม่รองรับรูปแบบฟิลเตอร์
+expected Preamp: <gain> dB	expected Preamp: <gain> dB	ต้องเป็น Preamp: <gain> dB
+preamp outside -60..24 dB or invalid number	preamp outside -60..24 dB or invalid number	พรีแอมป์อยู่นอก -60..24 dB หรือตัวเลขไม่ถูกต้อง
+expected Channel: L, R or all	expected Channel: L, R or all	ต้องเป็น Channel: L, R หรือ all
+only channels L, R and all are supported	only channels L, R and all are supported	รองรับเฉพาะช่อง L, R และ all
+unsupported command	unsupported command	ไม่รองรับคำสั่งนี้
+invalid filter label	invalid filter label	ป้ายกำกับฟิลเตอร์ไม่ถูกต้อง
+expected Filter [number]:	expected Filter [number]:	ต้องเป็น Filter [number]:
+expected ON or OFF	expected ON or OFF	ต้องเป็น ON หรือ OFF
+unsupported filter type	unsupported filter type	ไม่รองรับชนิดฟิลเตอร์
+expected Fc <Hz> Hz Gain <dB> dB	expected Fc <Hz> Hz Gain <dB> dB	ต้องเป็น Fc <Hz> Hz Gain <dB> dB
+invalid frequency or gain number	invalid frequency or gain number	ความถี่หรือค่าเกนไม่ถูกต้อง
+expected Q <number>	expected Q <number>	ต้องเป็น Q <number>
+peaking filter requires Q	peaking filter requires Q	ฟิลเตอร์แบบ peaking ต้องมี Q
+range: 20..20000 Hz, -24..24 dB, Q 0.1..10	range: 20..20000 Hz, -24..24 dB, Q 0.1..10	ช่วง: 20..20000 Hz, -24..24 dB, Q 0.1..10
+more than 30 bands	more than 30 bands	เกิน 30 แบนด์
+summed preamp outside -60..24 dB	summed preamp outside -60..24 dB	พรีแอมป์รวมอยู่นอก -60..24 dB
+L/R preamp differ by more than 12 dB	L/R preamp differ by more than 12 dB	พรีแอมป์ L/R ต่างกันเกิน 12 dB
+out of memory	out of memory	หน่วยความจำไม่พอ
+cannot open file	cannot open file	เปิดไฟล์ไม่ได้
+file read failed	file read failed	อ่านไฟล์ไม่สำเร็จ
+EQ for 3.5 mm	EQ for 3.5 mm	EQ สำหรับ 3.5 mm
+EQ for 4.4 mm	EQ for 4.4 mm	EQ สำหรับ 4.4 mm
+EQ for USB	EQ for USB	EQ สำหรับ USB
+EQ for this Bluetooth device	EQ for this Bluetooth device	EQ สำหรับอุปกรณ์ Bluetooth นี้
+Auto (44.1: %.1f / 48: %.1f)	Auto (44.1: %.1f / 48: %.1f)	อัตโนมัติ (44.1: %.1f / 48: %.1f)
+Folder missing or unavailable	Folder missing or unavailable	ไม่พบโฟลเดอร์หรือใช้งานไม่ได้
+Out of memory; cannot list presets	Out of memory; cannot list presets	หน่วยความจำไม่พอ แสดงรายการพรีเซ็ตไม่ได้
+No presets found	No presets found	ไม่พบพรีเซ็ต
+Name not allowed; preset kept	Name not allowed; preset kept	ใช้ชื่อนี้ไม่ได้ คงพรีเซ็ตไว้
+Name taken; preset kept	Name taken; preset kept	มีชื่อนี้แล้ว คงพรีเซ็ตไว้
+Rename failed; preset kept	Rename failed; preset kept	เปลี่ยนชื่อไม่สำเร็จ คงพรีเซ็ตไว้
+Renamed to %.100s	Renamed to %.100s	เปลี่ยนชื่อเป็น %.100s แล้ว
+Pop	Pop	ป๊อป
+Rock	Rock	ร็อก
+Dance	Dance	แดนซ์
+Blues	Blues	บลูส์
+Metal	Metal	เมทัล
+Vocal	Vocal	เสียงร้อง
+Classical	Classical	คลาสสิก
+Jazz	Jazz	แจ๊ส
+Preset loaded; choose Apply to activate	Preset loaded; choose Apply to activate	โหลดพรีเซ็ตแล้ว เลือกใช้เพื่อเปิดใช้งาน
+Preset saved; active EQ unchanged	Preset saved; active EQ unchanged	บันทึกพรีเซ็ตแล้ว EQ ที่ใช้อยู่ไม่เปลี่ยน
+Save failed; settings unchanged	Save failed; settings unchanged	บันทึกไม่สำเร็จ การตั้งค่าไม่เปลี่ยน
+Switch failed; EQ unchanged	Switch failed; EQ unchanged	สลับไม่สำเร็จ EQ ไม่เปลี่ยน
+Applied	Applied	ใช้แล้ว
+Apply failed; active EQ unchanged	Apply failed; active EQ unchanged	ใช้ไม่สำเร็จ EQ ที่ใช้อยู่ไม่เปลี่ยน
+Reset; choose Apply to activate	Reset; choose Apply to activate	รีเซ็ตแล้ว เลือกใช้เพื่อเปิดใช้งาน
+Delete failed; preset kept	Delete failed; preset kept	ลบไม่สำเร็จ คงพรีเซ็ตไว้
+Deleted %.100s; active EQ unchanged	Deleted %.100s; active EQ unchanged	ลบ %.100s แล้ว EQ ที่ใช้อยู่ไม่เปลี่ยน
+Line %u: %s	Line %u: %s	บรรทัด %u: %s
+Cannot read preset; settings unchanged	Cannot read preset; settings unchanged	อ่านพรีเซ็ตไม่ได้ การตั้งค่าไม่เปลี่ยน
+Peaking	Peaking	พีกกิ้ง
+Low shelf	Low shelf	โลว์เชลฟ์
+High shelf	High shelf	ไฮเชลฟ์
+Apply changes	Apply changes	ใช้การเปลี่ยนแปลง
+Nothing to apply	Nothing to apply	ไม่มีสิ่งที่ต้องใช้
+Reset to defaults	Reset to defaults	คืนค่าเริ่มต้น
+Enabled	Enabled	เปิดใช้งาน
+EQ per Output	EQ per Output	EQ ตามเอาต์พุต
+Preamp	Preamp	พรีแอมป์
+Presets	Presets	พรีเซ็ต
+Band	Band	แบนด์
+Channels	Channels	ช่องเสียง
+Both	Both	ทั้งสองข้าง
+Left	Left	ซ้าย
+Right	Right	ขวา
+Type	Type	ชนิด
+Frequency	Frequency	ความถี่
+Gain	Gain	เกน
+Band %d Q	Band %d Q	Q ของแบนด์ %d
+Band %d Frequency (Hz)	Band %d Frequency (Hz)	ความถี่แบนด์ %d (Hz)
+Raise	Raise	เพิ่ม
+Lower	Lower	ลด
+Step	Step	ขั้น
+Delete %.100s? Confirm	Delete %.100s? Confirm	ลบ %.100s? ยืนยัน
+Replace existing preset? Confirm	Replace existing preset? Confirm	แทนที่พรีเซ็ตเดิมหรือไม่ ยืนยัน
+Cancel replacement	Cancel replacement	ยกเลิกการแทนที่
+Save as Manual %02d	Save as Manual %02d	บันทึกเป็นแมนวล %02d
+Stock presets	Stock presets	พรีเซ็ตมาตรฐาน
+Import from SD /EQ	Import from SD /EQ	นำเข้าจาก SD /EQ
+Save editor preset	Save editor preset	บันทึกพรีเซ็ตจากตัวแก้ไข
+Rename a preset	Rename a preset	เปลี่ยนชื่อพรีเซ็ต
+Delete a preset	Delete a preset	ลบพรีเซ็ต
+Previous page	Previous page	หน้าก่อนหน้า
+Next page	Next page	หน้าถัดไป
+Band %d	Band %d	แบนด์ %d
+Band %d Gain	Band %d Gain	เกนแบนด์ %d
+Presets %d/%d	Presets %d/%d	พรีเซ็ต %d/%d
+Save failed; EQ unchanged	Save failed; EQ unchanged	บันทึกไม่สำเร็จ EQ ไม่เปลี่ยน
+Advanced	Advanced	ขั้นสูง
+Enabled: On	Enabled: On	เปิดใช้งาน: เปิด
+Enabled: Off	Enabled: Off	เปิดใช้งาน: ปิด
+Low	Low	ต่ำ
+Mid	Mid	กลาง
+High	High	สูง
+Simple	Simple	ง่าย
+No photos	No photos	ไม่มีรูปภาพ
+All Photos	All Photos	รูปภาพทั้งหมด
+Photos	Photos	รูปภาพ
+Can't open this photo	Can't open this photo	เปิดรูปนี้ไม่ได้
+%d of %d  %s	%d of %d  %s	%d จาก %d  %s
+Could not save folder speed	Could not save folder speed	บันทึกความเร็วโฟลเดอร์ไม่ได้
+Too long to play on the Q2: split it into parts	Too long to play on the Q2: split it into parts	ยาวเกินกว่า Q2 จะเล่นได้: แบ่งเป็นหลายส่วน
+Press again to restart	Press again to restart	กดอีกครั้งเพื่อรีสตาร์ต
+Could not save playlist	Could not save playlist	บันทึกเพลย์ลิสต์ไม่ได้
+Already in playlist	Already in playlist	อยู่ในเพลย์ลิสต์แล้ว
+Added to Playlist	Added to Playlist	เพิ่มในเพลย์ลิสต์แล้ว
+Search songs	Search songs	ค้นหาเพลง
+Editing: %s	Editing: %s	กำลังแก้ไข: %s
+Add Songs: %s	Add Songs: %s	เพิ่มเพลง: %s
+Song Actions: %s	Song Actions: %s	การทำงานกับเพลง: %s
+Remove song?: %s	Remove song?: %s	ลบเพลง?: %s
+Add Songs	Add Songs	เพิ่มเพลง
+Move Up	Move Up	เลื่อนขึ้น
+Move Down	Move Down	เลื่อนลง
+Remove from Playlist	Remove from Playlist	ลบออกจากเพลย์ลิสต์
+Search: %s	Search: %s	ค้นหา: %s
+No songs match	No songs match	ไม่มีเพลงที่ตรงกัน
+Search for more songs	Search for more songs	ค้นหาเพลงเพิ่ม
+Delete Playlist?	Delete Playlist?	ลบเพลย์ลิสต์หรือไม่
+Delete	Delete	ลบ
+Playlist deleted	Playlist deleted	ลบเพลย์ลิสต์แล้ว
+Could not delete playlist	Could not delete playlist	ลบเพลย์ลิสต์ไม่ได้
+Delete Playlist	Delete Playlist	ลบเพลย์ลิสต์
+Edit Playlist	Edit Playlist	แก้ไขเพลย์ลิสต์
+Queue unchanged	Queue unchanged	คิวไม่เปลี่ยน
+Deselect All	Deselect All	ยกเลิกเลือกทั้งหมด
+Select All	Select All	เลือกทั้งหมด
+Export %d Playlist	Export %d Playlist	ส่งออก %d เพลย์ลิสต์
+Export %d Playlists	Export %d Playlists	ส่งออก %d เพลย์ลิสต์
+Delete %d Playlist…	Delete %d Playlist…	ลบ %d เพลย์ลิสต์…
+Delete %d Playlists…	Delete %d Playlists…	ลบ %d เพลย์ลิสต์…
+%d Selected	%d Selected	เลือกแล้ว %d
+Select Playlists	Select Playlists	เลือกเพลย์ลิสต์
+Playlists	Playlists	เพลย์ลิสต์
+No Playlists	No Playlists	ไม่มีเพลย์ลิสต์
+New Playlist…	New Playlist…	เพลย์ลิสต์ใหม่…
+Select Playlists…	Select Playlists…	เลือกเพลย์ลิสต์…
+Import Playlists	Import Playlists	นำเข้าเพลย์ลิสต์
+Export	Export	ส่งออก
+No other group	No other group	ไม่มีกลุ่มอื่น
+Folder not found	Folder not found	ไม่พบโฟลเดอร์
+All Songs	All Songs	เพลงทั้งหมด
+Songs in Album	Songs in Album	เพลงในอัลบั้ม
+Albums and Songs	Albums and Songs	อัลบั้มและเพลง
+Songs in Folder	Songs in Folder	เพลงในโฟลเดอร์
+Folders	Folders	โฟลเดอร์
+Folders and Songs	Folders and Songs	โฟลเดอร์และเพลง
+Play One Song	Play One Song	เล่นหนึ่งเพลง
+Play One Album	Play One Album	เล่นหนึ่งอัลบั้ม
+Repeat Song	Repeat Song	เล่นเพลงซ้ำ
+Repeat Album	Repeat Album	เล่นอัลบั้มซ้ำ
+Repeat All	Repeat All	เล่นซ้ำทั้งหมด
+Play One Folder	Play One Folder	เล่นหนึ่งโฟลเดอร์
+Repeat Folder	Repeat Folder	เล่นโฟลเดอร์ซ้ำ
+Album	Album	อัลบั้ม
+Folder	Folder	โฟลเดอร์
+Repeat	Repeat	เล่นซ้ำ
+Group by	Group by	จัดกลุ่มตาม
+Play Next	Play Next	เล่นถัดไป
+Add to Queue	Add to Queue	เพิ่มในคิว
+Add to Favourites	Add to Favourites	เพิ่มในรายการโปรด
+Remove from Favourites	Remove from Favourites	ลบออกจากรายการโปรด
+Add to Playlist	Add to Playlist	เพิ่มในเพลย์ลิสต์
+Go to Album	Go to Album	ไปที่อัลบั้ม
+Go to Artist	Go to Artist	ไปที่ศิลปิน
+Next Album	Next Album	อัลบั้มถัดไป
+Previous Album	Previous Album	อัลบั้มก่อนหน้า
+Rate	Rate	ให้คะแนน
+Resume	Resume	เล่นต่อ
+View Queue	View Queue	ดูคิว
+Go to Folder	Go to Folder	ไปที่โฟลเดอร์
+Rate Album	Rate Album	ให้คะแนนอัลบั้ม
+Group by: Folder	Group by: Folder	จัดกลุ่มตาม: โฟลเดอร์
+Group by: Album	Group by: Album	จัดกลุ่มตาม: อัลบั้ม
+Next Folder	Next Folder	โฟลเดอร์ถัดไป
+Previous Folder	Previous Folder	โฟลเดอร์ก่อนหน้า
+Wheel: Volume	Wheel: Volume	วงล้อ: ระดับเสียง
+Wheel: Brightness	Wheel: Brightness	วงล้อ: ความสว่าง
+Could not save Favourites	Could not save Favourites	บันทึกรายการโปรดไม่ได้
+Added to Favourites	Added to Favourites	เพิ่มในรายการโปรดแล้ว
+Removed from Favourites	Removed from Favourites	ลบออกจากรายการโปรดแล้ว
+Stopped	Stopped	หยุดแล้ว
+Can't play: %s	Can't play: %s	เล่นไม่ได้: %s
+Can't play this station	Can't play this station	เล่นสถานีนี้ไม่ได้
+Connecting…	Connecting…	กำลังเชื่อมต่อ…
+Search is too long	Search is too long	คำค้นหายาวเกินไป
+Search stations	Search stations	ค้นหาสถานี
+Favourites	Favourites	รายการโปรด
+Featured	Featured	แนะนำ
+Top Stations	Top Stations	สถานียอดนิยม
+By Country	By Country	ตามประเทศ
+By Genre	By Genre	ตามแนวเพลง
+Countries	Countries	ประเทศ
+Connecting to Wi-Fi…	Connecting to Wi-Fi…	กำลังเชื่อมต่อ Wi-Fi…
+Directory unavailable	Directory unavailable	ไม่มีไดเรกทอรี
+No Wi-Fi	No Wi-Fi	ไม่มี Wi-Fi
+No stations	No stations	ไม่มีสถานี
+No favourites	No favourites	ไม่มีรายการโปรด
+Rating not saved	Rating not saved	บันทึกคะแนนไม่ได้
+Ratings are full	Ratings are full	คะแนนเต็ม
+Favourite not sent to the app	Favourite not sent to the app	ส่งรายการโปรดไปยังแอปไม่ได้
+Unrated	Unrated	ยังไม่ให้คะแนน
+1 Heart	1 Heart	1 หัวใจ
+%d Hearts	%d Hearts	%d หัวใจ
+%d of 5	%d of 5	%d จาก 5
+Album changed	Album changed	อัลบั้มเปลี่ยนแล้ว
+Favourite not saved	Favourite not saved	บันทึกรายการโปรดไม่ได้
+This app has no favourites	This app has no favourites	แอปนี้ไม่มีรายการโปรด
+Top Rated	Top Rated	คะแนนสูงสุด
+Loved	Loved	ถูกใจ
+All Rated	All Rated	ให้คะแนนแล้วทั้งหมด
+Disliked	Disliked	ไม่ถูกใจ
+No songs yet	No songs yet	ยังไม่มีเพลง
+Hold the heart on Now Playing to rate	Hold the heart on Now Playing to rate	กดหัวใจค้างในหน้ากำลังเล่นเพื่อให้คะแนน
+No rated albums yet	No rated albums yet	ยังไม่มีอัลบั้มที่ให้คะแนน
+Upload failed, %d sent	Upload failed, %d sent	อัปโหลดไม่สำเร็จ ส่งแล้ว %d
+Scrobbles sent: %d	Scrobbles sent: %d	ส่ง Scrobble แล้ว: %d
+Nothing to upload	Nothing to upload	ไม่มีรายการที่ต้องอัปโหลด
+Uploading scrobbles	Uploading scrobbles	กำลังอัปโหลด Scrobble
+Already uploading	Already uploading	กำลังอัปโหลดอยู่แล้ว
+Upload failed	Upload failed	อัปโหลดไม่สำเร็จ
+Connect to Wi-Fi first	Connect to Wi-Fi first	เชื่อมต่อ Wi-Fi ก่อน
+Waiting for Spotify	Waiting for Spotify	กำลังรอ Spotify
+Spotify isn't on the card	Spotify isn't on the card	ไม่มี Spotify ในการ์ด
+See the Q2 Pod guide to add it	See the Q2 Pod guide to add it	ดูวิธีเพิ่มในคู่มือ Q2 Pod
+Open Spotify on your phone	Open Spotify on your phone	เปิด Spotify บนโทรศัพท์
+and choose Q2	and choose Q2	แล้วเลือก Q2
+Spotify refused this account	Spotify refused this account	Spotify ปฏิเสธบัญชีนี้
+Its tracks can't play on the Q2	Its tracks can't play on the Q2	เล่นแทร็กของบัญชีนี้บน Q2 ไม่ได้
+Playback didn't start	Playback didn't start	เริ่มเล่นไม่ได้
+Go back and try again	Go back and try again	ย้อนกลับแล้วลองอีกครั้ง
+Starting playback	Starting playback	กำลังเริ่มเล่น
+Update Spotify on the card	Update Spotify on the card	อัปเดต Spotify ในการ์ด
+See the Q2 Pod guide	See the Q2 Pod guide	ดูคู่มือ Q2 Pod
+Nothing playing	Nothing playing	ไม่มีเพลงที่กำลังเล่น
+Choose music in Spotify	Choose music in Spotify	เลือกเพลงใน Spotify
+Liked Songs	Liked Songs	เพลงที่ถูกใจ
+Queue	Queue	คิว
+Playback Settings	Playback Settings	การตั้งค่าการเล่น
+Account	Account	บัญชี
+Downloaded Tracks	Downloaded Tracks	แทร็กที่ดาวน์โหลด
+Downloads	Downloads	ดาวน์โหลด
+Tracks	Tracks	แทร็ก
+Open Spotify on your phone and choose Q2	Open Spotify on your phone and choose Q2	เปิด Spotify บนโทรศัพท์แล้วเลือก Q2
+Both on the same Wi-Fi	Both on the same Wi-Fi	ทั้งสองเครื่องต้องอยู่ใน Wi-Fi เดียวกัน
+to browse on the Q2	to browse on the Q2	เพื่อเรียกดูบน Q2
+Downloaded Playlists	Downloaded Playlists	เพลย์ลิสต์ที่ดาวน์โหลด
+Download Progress	Download Progress	ความคืบหน้าการดาวน์โหลด
+Storage Management	Storage Management	การจัดการพื้นที่เก็บข้อมูล
+Download Status	Download Status	สถานะการดาวน์โหลด
+The latest download's progress	The latest download's progress	ความคืบหน้าของการดาวน์โหลดล่าสุด
+for saved playlists and download controls	for saved playlists and download controls	สำหรับเพลย์ลิสต์ที่บันทึกและตัวควบคุมการดาวน์โหลด
+Remove Playlists…	Remove Playlists…	ลบเพลย์ลิสต์…
+Remove Tracks…	Remove Tracks…	ลบแทร็ก…
+Keeps login and settings	Keeps login and settings	เก็บการเข้าสู่ระบบและการตั้งค่าไว้
+Track removal can make playlists incomplete	Track removal can make playlists incomplete	การลบแทร็กอาจทำให้เพลย์ลิสต์ไม่ครบ
+Pause	Pause	หยุดชั่วคราว
+Cancel Download	Cancel Download	ยกเลิกการดาวน์โหลด
+Retry Failed	Retry Failed	ลองใหม่เฉพาะที่ล้มเหลว
+Update Download	Update Download	อัปเดตการดาวน์โหลด
+Sign Out of Spotify?	Sign Out of Spotify?	ออกจากระบบ Spotify หรือไม่
+Sign Out	Sign Out	ออกจากระบบ
+Nothing here	Nothing here	ไม่มีอะไรที่นี่
+Selected	Selected	เลือกแล้ว
+Press to select	Press to select	กดเพื่อเลือก
+All	All	ทั้งหมด
+One	One	หนึ่ง
+Download Liked Songs	Download Liked Songs	ดาวน์โหลดเพลงที่ถูกใจ
+Download Playlist	Download Playlist	ดาวน์โหลดเพลย์ลิสต์
+For offline listening	For offline listening	สำหรับฟังแบบออฟไลน์
+Download Controls	Download Controls	ตัวควบคุมการดาวน์โหลด
+Update, retry, pause, resume or cancel	Update, retry, pause, resume or cancel	อัปเดต ลองใหม่ หยุดชั่วคราว เล่นต่อ หรือยกเลิก
+Remove Selected…	Remove Selected…	ลบที่เลือก…
+Confirm the affected count	Confirm the affected count	ยืนยันจำนวนที่จะได้รับผลกระทบ
+Spotify isn't running	Spotify isn't running	Spotify ไม่ได้ทำงานอยู่
+Spotify didn't answer	Spotify didn't answer	Spotify ไม่ตอบสนอง
+Search Spotify	Search Spotify	ค้นหา Spotify
+Select Tracks	Select Tracks	เลือกแทร็ก
+Select at least one item	Select at least one item	เลือกอย่างน้อยหนึ่งรายการ
+Selection full. Remove these first	Selection full. Remove these first	เลือกเต็มแล้ว ลบรายการเหล่านี้ก่อน
+Boot logo must be a 320x375 JPEG	Boot logo must be a 320x375 JPEG	โลโก้ตอนเปิดเครื่องต้องเป็น JPEG ขนาด 320x375
+Could not save boot logo	Could not save boot logo	บันทึกโลโก้ตอนเปิดเครื่องไม่ได้
+Accent: Graphite	Accent: Graphite	สีเน้น: กราไฟต์
+Accent: Crimson	Accent: Crimson	สีเน้น: แดงเข้ม
+Accent: Tidal	Accent: Tidal	สีเน้น: ไทดัล
+Accent: Champagne	Accent: Champagne	สีเน้น: แชมเปญ
+Accent: Cobalt	Accent: Cobalt	สีเน้น: โคบอลต์
+Accent: Tangerine	Accent: Tangerine	สีเน้น: ส้มแมนดาริน
+Accent: Plum	Accent: Plum	สีเน้น: ม่วงพลัม
+Accent: Ivory	Accent: Ivory	สีเน้น: งาช้าง
+Accent: Green	Accent: Green	สีเน้น: เขียว
+Favorites	Favorites	รายการโปรด
+Rated Albums	Rated Albums	อัลบั้มที่ให้คะแนน
+Podcasts	Podcasts	พอดแคสต์
+Audiobooks	Audiobooks	หนังสือเสียง
+Groovebox can't start from the card	Groovebox can't start from the card	เริ่ม Groovebox จากการ์ดไม่ได้
+Groovebox is not on the card	Groovebox is not on the card	ไม่มี Groovebox ในการ์ด
+Play a Tidal album or playlist first	Play a Tidal album or playlist first	เล่นอัลบั้มหรือเพลย์ลิสต์ Tidal ก่อน
+Downloading %u of %u. Press to stop	Downloading %u of %u. Press to stop	กำลังดาวน์โหลด %u จาก %u กดเพื่อหยุด
+Download Playing Songs	Download Playing Songs	ดาวน์โหลดเพลงที่กำลังเล่น
+Tidal Cache full: %u of %u song saved	Tidal Cache full: %u of %u song saved	แคช Tidal เต็ม: บันทึกแล้ว %u จาก %u เพลง
+Tidal Cache full: %u of %u songs saved	Tidal Cache full: %u of %u songs saved	แคช Tidal เต็ม: บันทึกแล้ว %u จาก %u เพลง
+Downloaded %u of %u song	Downloaded %u of %u song	ดาวน์โหลดแล้ว %u จาก %u เพลง
+Downloaded %u of %u songs	Downloaded %u of %u songs	ดาวน์โหลดแล้ว %u จาก %u เพลง
+Nothing to play next	Nothing to play next	ไม่มีเพลงถัดไป
+Queue changed	Queue changed	คิวเปลี่ยนแล้ว
+Never	Never	ไม่เลย
+USB DAC Charging: %s	USB DAC Charging: %s	ชาร์จผ่าน USB DAC: %s
+Spectrum	Spectrum	สเปกตรัม
+Oscilloscope	Oscilloscope	ออสซิลโลสโคป
+VU Meters	VU Meters	มิเตอร์ VU
+Halo	Halo	เฮโล
+Pulsar	Pulsar	พัลซาร์
+Contour	Contour	คอนทัวร์
+More	More	เพิ่มเติม
+A-B Repeat	A-B Repeat	เล่นซ้ำ A-B
+Speed	Speed	ความเร็ว
+*Only for 48 kHz and below	*Only for 48 kHz and below	*ใช้ได้กับ 48 kHz ลงไปเท่านั้น
+No lyrics	No lyrics	ไม่มีเนื้อเพลง
+Genre	Genre	แนวเพลง
+Size	Size	ขนาด
+Year	Year	ปี
+Format	Format	รูปแบบ
+Bit Depth	Bit Depth	บิตเดปธ์
+Bit Rate	Bit Rate	บิตเรต
+Sample Rate	Sample Rate	แซมเปิลเรต
+Auto Scan	Auto Scan	สแกนอัตโนมัติ
+Update Library Now	Update Library Now	อัปเดตคลังเพลงทันที
+Scan Folders	Scan Folders	สแกนโฟลเดอร์
+OK	OK	ตกลง
+Bluetooth	Bluetooth	Bluetooth
+Key Lock	Key Lock	ล็อกปุ่ม
+Low Gain	Low Gain	เกนต่ำ
+USB Storage	USB Storage	ที่เก็บข้อมูล USB
+Playback	Playback	การเล่น
+Custom	Custom	กำหนดเอง
+Reset	Reset	รีเซ็ต
+Open this address in a browser:	Open this address in a browser:	เปิดที่อยู่นี้ในเบราว์เซอร์:
+Downloaded	Downloaded	ดาวน์โหลดแล้ว
+Baidu Netdisk	Baidu Netdisk	Baidu Netdisk
+Sign In	Sign In	เข้าสู่ระบบ
+Scan with the Baidu app to sign in	Scan with the Baidu app to sign in	สแกนด้วยแอป Baidu เพื่อเข้าสู่ระบบ
+Baidu encryption protects your privacy	Baidu encryption protects your privacy	Baidu ใช้การเข้ารหัสเพื่อปกป้องความเป็นส่วนตัวของคุณ
+Bluetooth RF test: connect from a computer	Bluetooth RF test: connect from a computer	ทดสอบ Bluetooth RF: เชื่อมต่อจากคอมพิวเตอร์
+Press Next to exit	Press Next to exit	กดถัดไปเพื่อออก
+Brightness Test	Brightness Test	ทดสอบความสว่าง
+Next	Next	ถัดไป
+Bluetooth Test	Bluetooth Test	ทดสอบ Bluetooth
+Down	Down	ลง
+Up	Up	ขึ้น
+Swipe Left	Swipe Left	ปัดซ้าย
+Swipe Right	Swipe Right	ปัดขวา
+Key Test	Key Test	ทดสอบปุ่ม
+Headphone Test	Headphone Test	ทดสอบหูฟัง
+Plug in single-ended headphones	Plug in single-ended headphones	เสียบหูฟังแบบ single-ended
+Play (left male, right female)	Play (left male, right female)	เล่น (ซ้ายเป็นตัวผู้ ขวาเป็นตัวเมีย)
+Bluetooth Receiver Test	Bluetooth Receiver Test	ทดสอบ Bluetooth ตัวรับ
+Battery Test	Battery Test	ทดสอบแบตเตอรี่
+Battery:	Battery:	แบตเตอรี่:
+Charging:	Charging:	กำลังชาร์จ:
+microSD Test	microSD Test	ทดสอบ microSD
+Touch Test	Touch Test	ทดสอบการสัมผัส
+Wi-Fi Test	Wi-Fi Test	ทดสอบ Wi-Fi
+Artist	Artist	ศิลปิน
+Export Playlists	Export Playlists	ส่งออกเพลย์ลิสต์
+Playlist	Playlist	เพลย์ลิสต์
+0 songs	0 songs	0 เพลง
+System	System	ระบบ
+Rockbox	Rockbox	Rockbox
+Baker Island	Baker Island	เกาะเบเกอร์
+Midway	Midway	มิดเวย์
+Honolulu	Honolulu	โฮโนลูลู
+Anchorage	Anchorage	แองเคอเรจ
+Los Angeles	Los Angeles	ลอสแอนเจลิส
+Denver	Denver	เดนเวอร์
+Mexico City	Mexico City	เม็กซิโกซิตี
+New York	New York	นิวยอร์ก
+Halifax	Halifax	แฮลิแฟกซ์
+St. John's	St. John's	เซนต์จอนส์
+Buenos Aires	Buenos Aires	บัวโนสไอเรส
+Azores	Azores	อะโซเรส
+London	London	ลอนดอน
+Amsterdam	Amsterdam	อัมสเตอร์ดัม
+Bucharest	Bucharest	บูคาเรสต์
+Kuwait	Kuwait	คูเวต
+Tehran	Tehran	เตหะราน
+Muscat	Muscat	มัสกัต
+Kabul	Kabul	คาบูล
+Karachi	Karachi	การาจี
+Dhaka	Dhaka	ธากา
+Bangkok	Bangkok	กรุงเทพ
+Shanghai	Shanghai	เซี่ยงไฮ้
+Tokyo	Tokyo	โตเกียว
+Adelaide	Adelaide	แอดิเลด
+Sydney	Sydney	ซิดนีย์
+Fiji	Fiji	ฟิจิ
+Marquesas	Marquesas	มาร์เคซัส
+South Georgia	South Georgia	เซาท์จอร์เจีย
+Colombo	Colombo	โคลัมโบ
+Kathmandu	Kathmandu	กาฐมาณฑุ
+Yangon	Yangon	ย่างกุ้ง
+Eucla	Eucla	ยูคลา
+L. Howe	L. Howe	ลอร์ดโฮว์
+Noumea	Noumea	นูเมอา
+Chatham	Chatham	แชแทม
+Tongatapu	Tongatapu	ตองกาตาปู
+Kiritimati	Kiritimati	คิริติมาตี
+Chicago	Chicago	ชิคาโก
+Phoenix	Phoenix	ฟีนิกซ์
+Kolkata	Kolkata	โกลกาตา
+Brisbane	Brisbane	บริสเบน
+Auckland	Auckland	โอคแลนด์
+Status Bar	Status Bar	แถบสถานะ
+Minimal	Minimal	มินิมอล
+Modern	Modern	โมเดิร์น
+Classic	Classic	คลาสสิก
+Show Wordmark	Show Wordmark	แสดงโลโก้ข้อความ
+Library on Home	Library on Home	คลังเพลงบนหน้าหลัก
+Row Preview	Row Preview	ตัวอย่างแถว
+Row Art	Row Art	ภาพปกในแถว
+Classic Blue	Classic Blue	คลาสสิกบลู
