@@ -556,6 +556,8 @@ Remove Downloads?	Remove Downloads?	library_lists.c
 Keeps settings	Keeps settings	library_lists.c
 Remove	Remove	library_lists.c
 It isn't on the card any more	It isn't on the card any more	library_lists.c
+%02ds	%02ds	library_lists.c
+%ds	%ds	library_lists.c
 Era unavailable	Era unavailable	library_lists.c
 Album not found	Album not found	library_lists.c
 %u album	%u album	library_lists.c
