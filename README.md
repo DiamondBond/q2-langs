@@ -4,7 +4,7 @@ Other languages for [Q2 Pod](https://github.com/DiamondBond/q2-pod), the music p
 
 Q2 Pod is in English. With this card app installed, System settings shows **Language** again: pick one and the Q2 restarts in it. The language picked is copied to the Q2 itself, so it stays when the card is out or swapped. Removing the app in the App Store sets the Q2 back to English from its next start. A text the language has no line for is shown in English.
 
-Install it from Q2 Pod's App Store (Library → App Store), or unzip `langs.zip` at the card's root (it holds one folder, `.langs`). It has no row of its own: it only adds the Language row.
+It needs Q2 Pod 1.9.1 or later. Install it from Q2 Pod's App Store (Library → App Store), or unzip `langs.zip` at the card's root (it holds one folder, `.langs`). It has no row of its own: it only adds the Language row.
 
 It also carries an Arabic font, so Arabic, Persian and Urdu titles, artists, albums and lyrics show in any language, English too, right to left with their letters joined. Without it they are blank: no font on the Q2 has those letters.
 
