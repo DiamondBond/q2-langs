@@ -1,0 +1,1181 @@
+# Bahasa Indonesia
+History_record	History record	Riwayat
+about_cardcap	Card Capacity	Kapasitas kartu
+about_cardremain	Remaining	Tersisa
+about_ipaddr	IP Address	Alamat IP
+about_model	Model	Model
+about_more	*Our sincere thanks go to the DiamondBond team and all its enthusiasts for their ingenuity, outstanding solutions, and generous contributions.	*Terima kasih yang tulus kepada tim DiamondBond dan semua penggemarnya atas kecerdikan, solusi luar biasa, dan kontribusi yang murah hati.
+about_sn	Serial Number	Nomor seri
+about_version	Version	Versi
+about_wifimac	Wi-Fi MAC	MAC Wi-Fi
+album	Album	Album
+album	Album	Album
+albumsinger	Album artist	Artis album
+allmusic	All Songs	Semua lagu
+audio_settings	Audio settings	Pengaturan audio
+baidu_login	Log In	Masuk
+baidu_login_tips1	Please use Baidu Netdisk or Baidu App to scan the code to login	Gunakan Baidu Netdisk atau aplikasi Baidu untuk memindai kode dan masuk
+baidu_login_tips2	Baidu encryption technology protects your privacy and security	Enkripsi Baidu melindungi privasi dan keamanan Anda
+baidu_loginout	Log Out	Keluar
+baidunet_floderinfo_failed	Failed to get file list	Gagal mengambil daftar file
+batch_addplaylist	Add to Playlist	Tambah ke playlist
+bt_adjvol	Bluetooth Headset Volume Control	Kontrol volume headset Bluetooth
+bt_compatiabledev	Compatible Device	Perangkat kompatibel
+bt_name	Bluetooth Name	Nama Bluetooth
+bt_paireddev	Paired Device	Perangkat dipasangkan
+bt_quality	Quality	Kualitas
+bt_search	Scan now	Pindai sekarang
+btcode_aac	AAC	AAC
+btcode_aptx	aptX	aptX
+btcode_aptxhd	aptX HD	aptX HD
+btcode_ldacauto	LDAC Connection (auto)	Koneksi LDAC (otomatis)
+btcode_ldachq	LDAC HQ	LDAC HQ
+btcode_ldacst	LDAC Standard	LDAC Standar
+btcode_sbc	SBC	SBC
+btcode_sbchq	SBC HQ	SBC HQ
+custom_eq	Custom	Kustom
+display_backlight	Brightness	Kecerahan
+display_lighttime	Screen Off Time	Layar mati otomatis
+display_screenlock	Lock Screen	Kunci layar
+dsdmode_d2p	D2P	D2P
+dsdmode_dop	DOP	DOP
+dsdmode_native	Native	Native
+eq_blues	Blues	Blues
+eq_classical	Classical	Klasik
+eq_club	Club	Club
+eq_custom1	Custom1	Kustom 1
+eq_custom2	Custom2	Kustom 2
+eq_custom3	Custom3	Kustom 3
+eq_dance	Dance	Dance
+eq_doublebass	Sub-bass	Sub-bass
+eq_jazz	Jazz	Jazz
+eq_metal	Metal	Metal
+eq_only48kmsg	EQ only for files below 48kHz.	EQ hanya untuk file di bawah 48 kHz.
+eq_pop	Pop	Pop
+eq_reset	Reset	Reset
+eq_rock	Rock	Rock
+eq_vocal	Vocal	Vokal
+fav	My Fav	Favorit saya
+filter_delayfast	Low Delay Fast Roll-off	Latensi rendah, roll-off cepat
+filter_delayslow	Low Delay Slow Roll-off	Latensi rendah, roll-off lambat
+filter_fast	Fast Roll-off	Roll-off cepat
+filter_slow	Slow Roll-off	Roll-off lambat
+frequentplay	Frequent	Sering
+gain_high	High	Tinggi
+gain_low	Low	Rendah
+genre	Genre	Genre
+genre_statistics	Total %d songs	Total %d lagu
+hr	Hi-Res	Hi-Res
+keyboard_keyword	Please enter keyword	Masukkan kata kunci
+keyboard_netname	Please enter network name	Masukkan nama jaringan
+keyboard_password	Please enter password	Masukkan kata sandi
+keylock_all	Lock Volume & Buttons	Kunci volume & tombol
+keylock_info	Only effective when the screen is off	Hanya berlaku saat layar mati
+keylock_info2	Effective on Lockscreen and when Screen Off	Berlaku di layar kunci dan saat layar mati
+keylock_key	Lock Buttons Only	Kunci tombol saja
+keylock_volume	Lock Volume Only	Kunci volume saja
+lan_english	English	English
+lan_french	Français	Français
+lan_german	Deutsch	Deutsch
+lan_italian	Italiano	Italiano
+lan_japanese	日本語	日本語
+lan_korean	한국어	한국어
+lan_polish	Polski	Polski
+lan_russian	Русский	Русский
+lan_simplified	简体中文	简体中文
+lan_spanish	español	español
+lan_thai	ภาษาไทย	ภาษาไทย
+lan_traditional	繁體中文	繁體中文
+lan_ukrainian	Українська	Українська
+lighttime_15s	15s	15 dtk
+lighttime_1min	1min	1 mnt
+lighttime_2min	2min	2 mnt
+lighttime_30min	30min	30 mnt
+lighttime_30s	30s	30 dtk
+lighttime_5min	5min	5 mnt
+lighttime_lyricmode	Lyrics mode	Mode lirik
+lighttime_off	Off	Mati
+list_baidu	Baidu Netdisk	Baidu Netdisk
+list_tidal	TIDAL	TIDAL
+local_album	Albums	Album
+local_allmusic	Local Songs	Lagu lokal
+local_allsongs	Songs	Lagu
+local_fav	My Fav	Favorit saya
+local_frequentplay	Frequent	Sering
+local_genre	Genres	Genre
+local_hr	Hi-Res	Hi-Res
+local_playlist	Playlists	Playlist
+local_recentadd	Recently Added	Baru ditambahkan
+local_recentplay	Recent	Terbaru
+local_songer	Artists	Artis
+local_upmusic	Update Library	Perbarui pustaka
+login_out	Logout	Keluar
+memplay_location	Location	Lokasi
+memplay_off	Off	Mati
+memplay_track	Track	Lagu
+msg_actionnotsupport	Non-local songs,not currently supported	Lagu non-lokal belum didukung
+msg_actionscan	Scan music?	Pindai musik?
+msg_add_task	Please enter the URL of the file you want to download	Masukkan URL file yang akan diunduh
+msg_addfailed	Adding Failed	Gagal menambahkan
+msg_addfavsuccess	Added To Fav	Ditambahkan ke favorit
+msg_addplaylistsuccess	Added To Playlist	Ditambahkan ke playlist
+msg_autoshutdown	Shutdown	Matikan daya
+msg_btabnormal	Bluetooth abnormal	Bluetooth bermasalah
+msg_btinit_run	Bluetooth Starting	Memulai Bluetooth
+msg_btreconnect	Reconnect Bluetooth?	Sambungkan ulang Bluetooth?
+msg_cardeject	Audio Disconnected	Audio terputus
+msg_cardinsert	Audio Connected	Audio tersambung
+msg_checkfw	Checking FW	Memeriksa firmware
+msg_checkfwerr	FW. Check Error	Pemeriksaan firmware gagal
+msg_closesynclink	Please close SyncLink	Tutup SyncLink
+msg_confirmupdate	Confirm Update?	Konfirmasi pembaruan?
+msg_connected	Connected	Tersambung
+msg_connecting	Connecting	Menyambung
+msg_delalbum	Delete Album?	Hapus album?
+msg_delalbumfailed	Failed To Delete Album	Gagal menghapus album
+msg_delalbumsuccess	Album Deleted	Album dihapus
+msg_delartist	Delete Artist?	Hapus artis?
+msg_delartistsuccess	Artist Deleted	Artis dihapus
+msg_delete_task	Are you sure you want to delete the download task?	Yakin ingin menghapus tugas unduhan?
+msg_deletesource	Also delete source file	Hapus juga file sumber
+msg_delfile	Are you sure you want to delete this file?	Yakin ingin menghapus file ini?
+msg_delfile	Delete File?	Hapus file?
+msg_delfilefailed	Failed To Delete File	Gagal menghapus file
+msg_delfilesuccess	File Deleted	File dihapus
+msg_delgenre	Delete Genre?	Hapus genre?
+msg_delgenresuccess	Genre Deleted	Genre dihapus
+msg_delplaylist	Delete Playlist?	Hapus playlist?
+msg_delplaylistfailed	Failed To Delete Playlist	Gagal menghapus playlist
+msg_delplaylistsuccess	Playlist Deleted	Playlist dihapus
+msg_delsong	Delete Song?	Hapus lagu?
+msg_delsongfailed	Failed To Delete Song	Gagal menghapus lagu
+msg_delsongsuccess	Song Deleted	Lagu dihapus
+msg_disconnected	Disconnected	Terputus
+msg_disonnectbt	Please disconnect the bluetooth device	Putuskan perangkat Bluetooth
+msg_downloadpath	Download path is	Folder unduhan adalah
+msg_exist_task	The download task already exists	Tugas unduhan sudah ada
+msg_exitairplay	Quit AirPlay?	Keluar dari AirPlay?
+msg_exportplaylist	Export Playlist?	Ekspor playlist?
+msg_exportsuccess	Export successful	Ekspor berhasil
+msg_factorysuccess	Restore to factory settings succeeded	Pengaturan pabrik dipulihkan
+msg_favsuccess	Added To Fav	Ditambahkan ke favorit
+msg_file_exist	The file already exists	File sudah ada
+msg_importplaylist	Import Playlists?	Impor playlist?
+msg_importsuccess	Successfully imported	Berhasil diimpor
+msg_initsetsuccess	All settings initialized successfully	Semua pengaturan direset
+msg_latestfw	Latest Fw. Installed	Firmware terbaru terpasang
+msg_linkerror	WiFi Connection Error	Kesalahan koneksi Wi-Fi
+msg_lowarn	Line Out sets max volume,continue?	Line Out mengatur volume maksimum. Lanjutkan?
+msg_lowpower	Low Battery	Baterai lemah
+msg_namenull	The name can't be empty	Nama tidak boleh kosong
+msg_netnameerr	Network Must Be Named	Jaringan harus diberi nama
+msg_no	Cancel	Batal
+msg_no_storage	Storage is full.Some songs couldn't be added.	Penyimpanan penuh. Beberapa lagu tidak dapat ditambahkan.
+msg_noheadset	Playback is disabled without headphones.Please insert headphones.	Pemutaran dinonaktifkan tanpa headphone. Pasang headphone.
+msg_nosongs	No songs in this folder	Tidak ada lagu di folder ini
+msg_notalbuminfo	This file has no Album data	File ini tidak memiliki data album
+msg_notfile	File Not Found	File tidak ditemukan
+msg_notfolder	Folder not found	Folder tidak ditemukan
+msg_notfoundfw	Fw. Not Found	Firmware tidak ditemukan
+msg_notmemory	Memory is not enough	Memori tidak cukup
+msg_notmemory	Out of memory	Memori habis
+msg_notnetwork	Network Disconnected	Jaringan terputus
+msg_nototg	No OTG Found	OTG tidak ditemukan
+msg_notplaylist	Playlist Not Found	Playlist tidak ditemukan
+msg_notsongerinfo	This file has no Artist data	File ini tidak memiliki data artis
+msg_notsonglist	No Song List	Tidak ada daftar lagu
+msg_notspecdir	Folder not specified	Folder belum ditentukan
+msg_notsupport	Not Supported	Tidak didukung
+msg_notsupportdel	Can't be removed	Tidak dapat dihapus
+msg_nottf	No TF Card Found	Kartu TF tidak ditemukan
+msg_otgeject	OTG Disconnected	OTG terputus
+msg_otginfoerr	Failed To Get Version Info	Gagal mengambil info versi
+msg_otginsert	OTG Connected	OTG tersambung
+msg_paircode	Bluetooth Code	Kode Bluetooth
+msg_paired	Paired	Dipasangkan
+msg_playlistexist	Playlist Already Exists	Playlist sudah ada
+msg_playlistfull	Could not create playlist	Tidak dapat membuat playlist
+msg_poweroff	Shut Down?	Matikan?
+msg_resetdbsuccess	Reset completed	Reset selesai
+msg_restarting	Restarting	Memulai ulang
+msg_shortpasswd	8 Digits PIN At Least	PIN minimal 8 digit
+msg_start_download_task	start the download task	Mulai unduhan
+msg_stop_download_task	stop the download task	Hentikan unduhan
+msg_testmode	Enter test mode?	Masuk ke mode uji?
+msg_tfeject	TF Card Removed	Kartu TF dilepas
+msg_tfinsert	TF Card Inserted	Kartu TF dipasang
+msg_unpaired	Unpaired	Pasangan dilepas
+msg_unpairing	unpair?	Lepas pasangan?
+msg_unsupportformat	Unsupported format	Format tidak didukung
+msg_update	Confirmed	Dikonfirmasi
+msg_wificancelsave	Delete Record?	Hapus catatan?
+msg_wifidisconnect	Disconnect Now?	Putuskan sekarang?
+msg_yes	OK	OK
+navigation_all	All	Semua
+netservice_airplay	AirPlay	AirPlay
+netservice_dlna	DLNA	DLNA
+netservice_wifitrans	Wi-Fi File Transfer	Transfer file Wi-Fi
+no_search	No search results	Tidak ada hasil pencarian
+not_allmusic	Currently no songs	Belum ada lagu
+otgdownload_percent	FW Downloaded	Firmware terunduh
+outputway	Output Options	Opsi output
+play_all	Play All	Putar semua
+player_abrepeat	AB Repeat	Ulangi A-B
+player_albuminfo	Look up Album	Cari album
+player_bitdepth	Bit Depth	Kedalaman bit
+player_bitrate	Bitrate	Bitrate
+player_delete	Delete Song	Hapus lagu
+player_encoding	Encoding	Encoding
+player_era	Year	Tahun
+player_filesize	File Size	Ukuran file
+player_location	Location	Lokasi
+player_msgmul	*Affecting only files below 48khz	*Hanya untuk file di bawah 48 kHz
+player_multiple	Multiple Speed	Kecepatan putar
+player_nolyric	No Lyrics	Tidak ada lirik
+player_onlinesearch	Download Cover & Lyrics	Unduh sampul & lirik
+player_playlist	Queue	Antrean
+player_samplerate	Sample Rate	Sample rate
+player_songerinfo	Look up Artist	Cari artis
+player_unknown	Unknown	Tidak diketahui
+player_unknown	Unknown Artist	Artis tidak diketahui
+playlist	Playlist	Playlist
+playlist_create	New playlist	Playlist baru
+playlist_export	Export playlist	Ekspor playlist
+playlist_import	Import playlist	Impor playlist
+playmode_listplay	List Play	Putar daftar
+playmode_repeatall	Repeat All	Ulangi semua
+playmode_repeattrack	Repeat Track	Ulangi lagu
+playmode_shuffle	Shuffle	Acak
+playset_balance	Channel Balance	Balans kanal
+playset_bootvol	Default Volume	Volume awal
+playset_covermode	Enlarged Album Art	Sampul album besar
+playset_dsdoutput	DSD Output Mode	Mode output DSD
+playset_eq	EQ	EQ
+playset_filter	Digital Filters	Filter digital
+playset_foldercover	Folder Album Cover	Sampul album folder
+playset_folderjump	Folder Skip	Lompat folder
+playset_gain	Gain	Gain
+playset_gapless	Gapless	Tanpa jeda
+playset_maxvol	Max Volume	Volume maks.
+playset_memplay	Memory Playback	Ingat pemutaran
+playset_noplay	Require Output (Beta)	Wajib ada output (Beta)
+playset_playmode	Play Mode	Mode putar
+playset_replaygain	ReplayGain	ReplayGain
+playset_usbaudiovol	USB Audio Output	Output audio USB
+playset_volcover	Volume and Album Display	Tampilan volume dan album
+powerm_deep_off	Standby	Siaga
+powerm_sleep	Sleep Timer	Timer tidur
+recentadd	Recently Added	Baru ditambahkan
+recentplay	Recent	Terbaru
+rename	Rename	Ganti nama
+renamesuccess	Successfully renamed	Nama berhasil diganti
+replaygain_track	Song	Lagu
+reset_factory	Full Factory Reset	Reset pabrik penuh
+reset_initdatabase	Reset Database	Reset database
+reset_initset	Reset Settings Only	Reset pengaturan saja
+scan_automatic	Automatic Update	Pembaruan otomatis
+scan_now	Scan music now	Pindai musik sekarang
+scan_now	Scan music now	Pindai musik sekarang
+scan_spec	Scan specified folders	Pindai folder tertentu
+scan_spec	Scan specified folders	Pindai folder tertentu
+scan_startscan	Scan	Pindai
+scan_updatefinish	Library Updated,%d Updated	Pustaka diperbarui, %d diperbarui
+scan_updating	Updating No.%d	Memperbarui no. %d
+scover_cover	Cover	Sampul
+scover_lyric	Lyrics	Lirik
+screenlock_about	Custom Lock Screen	Layar kunci kustom
+screenlock_info1	1. Put the pictures in a folder named "lockscreenimage" at the top of the card.	1. Taruh gambar di folder bernama "lockscreenimage" di direktori utama kartu.
+screenlock_info2	2. PNG or JPG, exactly 375 x 320 pixels, under 1 MB each.	2. PNG atau JPG, tepat 375 x 320 piksel, masing-masing di bawah 1 MB.
+screenlock_info3	3. Up to 5 pictures.	3. Hingga 5 gambar.
+screenlock_timeshow	Show Time	Tampilkan jam
+search_tips1	Search for music,artists,albums,genres	Cari musik, artis, album, genre
+search_track	Track	Trek
+singerbyalbum	Sort by album artist	Urutkan menurut artis album
+singerbysong	Sort by song artist	Urutkan menurut artis lagu
+small_album	Albums	Album
+small_coverflow	Album Wall	Dinding album
+small_folder	Folder	Folder
+small_local	Local Songs	Lagu lokal
+small_playing	Now Playing	Sedang diputar
+small_playset	Playback	Pemutaran
+small_stream	Streaming	Streaming
+small_sysset	System	Sistem
+songer	Artist	Artis
+sort_addtime	Time added	Waktu ditambahkan
+sort_alphabet	Alphabetical	Alfabet
+sort_filename	File name	Nama file
+sort_format	File format	Format file
+sort_time_asc	Time added (ascending)	Waktu ditambahkan (naik)
+sort_time_desc	Time added (descending)	Waktu ditambahkan (turun)
+standbyoff_10min	10min	10 mnt
+standbyoff_1min	1min	1 mnt
+standbyoff_3min	3min	3 mnt
+standbyoff_5min	5min	5 mnt
+standbyoff_deep	Auto-standby	Siaga otomatis
+standbyoff_deepinfo	After 5 minute of idle,device will go into standby mode.	Setelah 5 menit tidak aktif, perangkat masuk ke mode siaga.
+standbyoff_saver	Auto-shutdown	Mati otomatis
+synclink_off	Off	Mati
+system_about	About	Tentang
+system_carmode	In-Vehicle Mode	Mode kendaraan
+system_display	Display	Tampilan
+system_general	General	Umum
+system_keylock	Buttons Lock	Kunci tombol
+system_keytone	Key Tone	Nada tombol
+system_language	Language	Bahasa
+system_navshow	Show Navigation Bar	Tampilkan bilah navigasi
+system_netservice	Network	Jaringan
+system_powermanager	Power	Daya
+system_prove	Certification	Sertifikasi
+system_reset	Reset Settings	Reset pengaturan
+system_sys	System	Sistem
+system_time	Date & Time	Tanggal & waktu
+system_update	System Update	Pembaruan sistem
+system_wheelmode	Wheel Function	Fungsi roda
+system_wifiset	Wireless	Nirkabel
+timedate_24h	24-Hour	24 jam
+timedate_auto	Automatic Time Set	Atur waktu otomatis
+timedate_manual	Set Time Manually	Atur waktu manual
+timezone_gmt+1	(GMT+01:00)Europe/Amsterdam	(GMT+01:00)Europe/Amsterdam
+timezone_gmt+10	(GMT+10:00)Australia/Sydney	(GMT+10:00)Australia/Sydney
+timezone_gmt+12	(GMT+12:00)Pacific/Fiji	(GMT+12:00)Pacific/Fiji
+timezone_gmt+2	(GMT+02:00)Europe/Bucharest	(GMT+02:00)Europe/Bucharest
+timezone_gmt+3	(GMT+03:00)Asia/Kuwait	(GMT+03:00)Asia/Kuwait
+timezone_gmt+3_30	(GMT+03:30)Asia/Tehran	(GMT+03:30)Asia/Tehran
+timezone_gmt+4	(GMT+04:00)Asia/Muscat	(GMT+04:00)Asia/Muscat
+timezone_gmt+4_30	(GMT+04:30)Asia/Kabul	(GMT+04:30)Asia/Kabul
+timezone_gmt+5	(GMT+05:00)Asia/Karachi	(GMT+05:00)Asia/Karachi
+timezone_gmt+6	(GMT+06:00)Asia/Almaty	(GMT+06:00)Asia/Almaty
+timezone_gmt+7	(GMT+07:00)Asia/Bangkok	(GMT+07:00)Asia/Bangkok
+timezone_gmt+8	(GMT+08:00)Asia/Shanghai	(GMT+08:00)Asia/Shanghai
+timezone_gmt+9	(GMT+09:00)Asia/Tokyo	(GMT+09:00)Asia/Tokyo
+timezone_gmt+9_30	(GMT+09:30)Australia/Adelaide	(GMT+09:30)Australia/Adelaide
+timezone_gmt-0	(GMT 00:00)Europe/London	(GMT 00:00)Europe/London
+timezone_gmt-1	(GMT-01:00)Atlantic/Azores	(GMT-01:00)Atlantic/Azores
+timezone_gmt-10	(GMT-10:00)Pacific/Honolulu	(GMT-10:00)Pacific/Honolulu
+timezone_gmt-11	(GMT-11:00)Pacific/Midway	(GMT-11:00)Pacific/Midway
+timezone_gmt-12	(GMT-12:00)Pacific/Kwajalein	(GMT-12:00)Pacific/Kwajalein
+timezone_gmt-3	(GMT-03:00)America/Argentina/Buenos_Aires	(GMT-03:00)America/Argentina/Buenos_Aires
+timezone_gmt-3_30	(GMT-03:30)America/St_Johns	(GMT-03:30)America/St_Johns
+timezone_gmt-4	(GMT-04:00)Canada/Atlantic	(GMT-04:00)Canada/Atlantic
+timezone_gmt-5	(GMT-05:00)America/New_York	(GMT-05:00)America/New_York
+timezone_gmt-6	(GMT-06:00)America/Mexico_City	(GMT-06:00)America/Mexico_City
+timezone_gmt-7	(GMT-07:00)America/Denver	(GMT-07:00)America/Denver
+timezone_gmt-8	(GMT-08:00)America/Tijuana	(GMT-08:00)America/Tijuana
+timezone_gmt-9	(GMT-09:00)America/Anchorage	(GMT-09:00)America/Anchorage
+timezone_select	Time Zone Selection	Pilih zona waktu
+title_downloaded	Downloaded	Terunduh
+title_downloading	Downloading	Mengunduh
+title_more	More	Lainnya
+title_sort	List sort order	Urutan daftar
+update_online	Network update	Pembaruan jaringan
+update_tf	TF card update	Pembaruan kartu TF
+usb_chargeswitch	USB DAC Charging	Pengisian daya USB DAC
+usbmode_audio	USB AUDIO	USB AUDIO
+usbmode_connect	USB Connected	USB tersambung
+usbmode_dac	USB DAC	USB DAC
+usbmode_disconnect	USB Disconnected	USB terputus
+usbmode_storge	USB Storage	Penyimpanan USB
+usbvol_adjust	Volume Variable	Volume variabel
+usbvol_fixed	Volume Fixed	Volume tetap
+wheelmode_menu	Menu Mode	Mode menu
+wheelmode_volume	Volume Mode	Mode volume
+wifi_addnetwork	Add Network	Tambah jaringan
+wifi_choice	Select Network	Pilih jaringan
+wifi_scan	Scanning	Memindai
+wifiset_bt	Bluetooth	Bluetooth
+wifiset_synclink	SyncLink	SyncLink
+wifiset_wifi	Wi-Fi	Wi-Fi
+wifits_info1	Enter the following URL into your internet browser:	Masukkan URL berikut ke browser internet Anda:
+Search	Search	Cari
+Streaming	Streaming	Streaming
+Library's Games	Library's Games	Pustaka → Game
+Library's Apps	Library's Apps	Pustaka → Aplikasi
+Network settings	Network settings	Pengaturan jaringan
+Wait until the App Store finishes	Wait until the App Store finishes	Tunggu hingga App Store selesai
+It isn't on the card	It isn't on the card	Tidak ada di kartu
+It couldn't start	It couldn't start	Tidak dapat dimulai
+Stop %s	Stop %s	Hentikan %s
+Loading…	Loading…	Memuat…
+More…	More…	Lainnya…
+Working…	Working…	Memproses…
+Starting %s…	Starting %s…	Memulai %s…
+Retry	Retry	Coba lagi
+Install it again in Library → App Store	Install it again in Library → App Store	Pasang ulang di Pustaka → App Store
+Cancel	Cancel	Batal
+%s isn't running	%s isn't running	%s tidak berjalan
+%s didn't answer	%s didn't answer	%s tidak menjawab
+Too long	Too long	Terlalu panjang
+%s stopped	%s stopped	%s dihentikan
+%s isn't on the card	%s isn't on the card	%s tidak ada di kartu
+Apps	Apps	Aplikasi
+No apps	No apps	Tidak ada aplikasi
+Not running	Not running	Tidak berjalan
+No code yet	No code yet	Belum ada kode
+Connect the Q2 to Wi-Fi	Connect the Q2 to Wi-Fi	Sambungkan Q2 ke Wi-Fi
+Open it again	Open it again	Buka lagi
+Wait a moment	Wait a moment	Tunggu sebentar
+Then come back here	Then come back here	Lalu kembali ke sini
+Scan with your phone's	Scan with your phone's	Pindai dengan kamera
+Scan with your	Scan with your	Pindai dengan
+camera	camera	ponsel Anda
+phone's camera	phone's camera	kamera ponsel
+or open	or open	atau buka
+PIN	PIN	PIN
+Couldn't import %s	Couldn't import %s	Tidak dapat mengimpor %s
+Playlists updated	Playlists updated	Playlist diperbarui
+No memory card	No memory card	Tidak ada kartu memori
+Games	Games	Game
+%d update	%d update	%d pembaruan
+%d updates	%d updates	%d pembaruan
+INSTALL	INSTALL	PASANG
+UPDATE	UPDATE	PERBARUI
+INSTALLED	INSTALLED	TERPASANG
+AM	AM	AM
+PM	PM	PM
+Jan	Jan	Jan
+Feb	Feb	Feb
+Mar	Mar	Mar
+Apr	Apr	Apr
+May	May	Mei
+Jun	Jun	Jun
+Jul	Jul	Jul
+Aug	Aug	Agu
+Sep	Sep	Sep
+Oct	Oct	Okt
+Nov	Nov	Nov
+Dec	Dec	Des
+The card is in use over USB	The card is in use over USB	Kartu sedang dipakai lewat USB
+Storage unavailable	Storage unavailable	Penyimpanan tidak tersedia
+The card is full	The card is full	Kartu penuh
+Couldn't save	Couldn't save	Tidak dapat menyimpan
+Saved to battery-log.txt	Saved to battery-log.txt	Disimpan ke battery-log.txt
+Battery History	Battery History	Riwayat baterai
+Unplug to start	Unplug to start	Cabut untuk memulai
+Export Log	Export Log	Ekspor log
+Card theme turned off after a failed start	Card theme turned off after a failed start	Tema kartu dimatikan setelah gagal dimulai
+Card theme removed. Restart to finish	Card theme removed. Restart to finish	Tema kartu dihapus. Mulai ulang untuk menyelesaikan
+Card theme file can't be used	Card theme file can't be used	File tema kartu tidak dapat dipakai
+Card theme saved. Restart to apply	Card theme saved. Restart to apply	Tema kartu disimpan. Mulai ulang untuk menerapkan
+Could not save card theme	Could not save card theme	Tidak dapat menyimpan tema kartu
+Done	Done	Selesai
+space	space	spasi
+New Playlist	New Playlist	Playlist baru
+Playlist Name	Playlist Name	Nama playlist
+Rename	Rename	Ganti nama
+Songs	Songs	Lagu
+Artists	Artists	Artis
+Albums	Albums	Album
+Genres	Genres	Genre
+Off	Off	Mati
+On	On	Nyala
+%d of %d songs	%d of %d songs	%d dari %d lagu
+Updating Library	Updating Library	Memperbarui pustaka
+Connected	Connected	Tersambung
+Eject before disconnecting	Eject before disconnecting	Keluarkan sebelum dicabut
+%d:%02d AM	%d:%02d AM	%d:%02d AM
+%d:%02d PM	%d:%02d PM	%d:%02d PM
+Save	Save	Simpan
+Sort: Album	Sort: Album	Urut: Album
+Sort: Artist	Sort: Artist	Urut: Artis
+Sort: Recently Added	Sort: Recently Added	Urut: Baru ditambahkan
+Sort: Most Played	Sort: Most Played	Urut: Terbanyak diputar
+Sort: Random	Sort: Random	Urut: Acak
+Sort: Rating	Sort: Rating	Urut: Peringkat
+Sort: Year	Sort: Year	Urut: Tahun
+%u song	%u song	%u lagu
+%u songs	%u songs	%u lagu
+All albums	All albums	Semua album
+Preparing artwork… %d/%d	Preparing artwork… %d/%d	Menyiapkan sampul… %d/%d
+Update Library first	Update Library first	Perbarui pustaka dulu
+%u Song	%u Song	%u Lagu
+%u Songs	%u Songs	%u Lagu
+%u Album	%u Album	%u Album
+%u Albums	%u Albums	%u Album
+%u Game	%u Game	%u Game
+%u Games	%u Games	%u Game
+%u Service	%u Service	%u Layanan
+%u Services	%u Services	%u Layanan
+%u.%u GB Free	%u.%u GB Free	%u.%u GB kosong
+Library	Library	Pustaka
+Settings	Settings	Pengaturan
+Crossfade: %d s	Crossfade: %d s	Crossfade: %d dtk
+Crossfade: Off	Crossfade: Off	Crossfade: Mati
+Wheel Sensitivity: %d%%	Wheel Sensitivity: %d%%	Sensitivitas roda: %d%%
+Resume Songs: %d min	Resume Songs: %d min	Lanjutkan lagu: %d mnt
+Resume Songs: Off	Resume Songs: Off	Lanjutkan lagu: Mati
+Night Shift: %dK	Night Shift: %dK	Night Shift: %dK
+Night Shift: Auto	Night Shift: Auto	Night Shift: Otomatis
+Night Shift: Off	Night Shift: Off	Night Shift: Mati
+Mono Audio	Mono Audio	Audio mono
+Swap L/R	Swap L/R	Tukar K/R
+Crossfade needs Gapless	Crossfade needs Gapless	Crossfade butuh Tanpa jeda
+Auto	Auto	Otomatis
+Night Shift	Night Shift	Night Shift
+Resume Songs	Resume Songs	Lanjutkan lagu
+Wheel Sensitivity	Wheel Sensitivity	Sensitivitas roda
+Crossfade	Crossfade	Crossfade
+Measuring song lengths…	Measuring song lengths…	Mengukur durasi lagu…
+Sudoku	Sudoku	Sudoku
+Solitaire	Solitaire	Solitaire
+Snake	Snake	Snake
+Paused	Paused	Dijeda
+Continue	Continue	Lanjutkan
+Quit	Quit	Keluar
+New best!	New best!	Rekor baru!
+Game over	Game over	Permainan selesai
+Centre: play again	Centre: play again	Tengah: main lagi
+Play/Pause: resume	Play/Pause: resume	Putar/Jeda: lanjutkan
+New game?	New game?	Permainan baru?
+Centre: yes   Return: no	Centre: yes   Return: no	Tengah: ya   Kembali: tidak
+Solved!	Solved!	Selesai!
+Play/Pause: new game	Play/Pause: new game	Putar/Jeda: permainan baru
+Score	Score	Skor
+Best	Best	Terbaik
+Level	Level	Level
+Centre	Centre	Tengah
+You win!	You win!	Anda menang!
+Shuffle	Shuffle	Acak
+Era	Era	Dekade
+Ratings	Ratings	Peringkat
+Most Played	Most Played	Terbanyak diputar
+Long Songs	Long Songs	Lagu panjang
+App Store	App Store	App Store
+Upload Scrobbles	Upload Scrobbles	Unggah scrobble
+Tidal Downloads	Tidal Downloads	Unduhan Tidal
+Internet Radio	Internet Radio	Radio internet
+Configuration	Configuration	Konfigurasi
+Restart to apply?	Restart to apply?	Mulai ulang untuk menerapkan?
+Couldn't copy the language	Couldn't copy the language	Tidak dapat menyalin bahasa
+Too many songs to shuffle	Too many songs to shuffle	Terlalu banyak lagu untuk diacak
+Shuffle Songs	Shuffle Songs	Acak lagu
+Shuffle Albums	Shuffle Albums	Acak album
+Shuffle Folders	Shuffle Folders	Acak folder
+Albums and folders take a moment to shuffle	Albums and folders take a moment to shuffle	Mengacak album dan folder butuh waktu sebentar
+No plays yet	No plays yet	Belum pernah diputar
+%u play	%u play	%u kali diputar
+%u plays	%u plays	%u kali diputar
+No downloads yet	No downloads yet	Belum ada unduhan
+Clear All Downloads…	Clear All Downloads…	Hapus semua unduhan…
+%u track	%u track	%u trek
+%u tracks	%u tracks	%u trek
+Remove Downloads?	Remove Downloads?	Hapus unduhan?
+Keeps settings	Keeps settings	Pengaturan tetap
+Remove	Remove	Hapus
+It isn't on the card any more	It isn't on the card any more	Sudah tidak ada di kartu
+%02ds	%02ds	%02d dtk
+%ds	%ds	%d dtk
+Era unavailable	Era unavailable	Dekade tidak tersedia
+Album not found	Album not found	Album tidak ditemukan
+%u album	%u album	%u album
+%u albums	%u albums	%u album
+Play All	Play All	Putar semua
+Every song, shuffled	Every song, shuffled	Semua lagu, diacak
+No dated albums yet	No dated albums yet	Belum ada album bertanggal
+No songs over 10 minutes	No songs over 10 minutes	Tidak ada lagu di atas 10 menit
+Measuring songs… %d/%d	Measuring songs… %d/%d	Mengukur lagu… %d/%d
+Measuring songs…	Measuring songs…	Mengukur lagu…
+Release to search	Release to search	Lepas untuk mencari
+Pull to search	Pull to search	Tarik untuk mencari
+Sleep Timer	Sleep Timer	Timer tidur
+Lock Screen	Lock Screen	Kunci layar
+Accent	Accent	Aksen
+Everything	Everything	Semua
+Buttons only	Buttons only	Tombol saja
+Volume only	Volume only	Volume saja
+Wake: Single Press	Wake: Single Press	Bangun: Tekan sekali
+Wake: Double Press	Wake: Double Press	Bangun: Tekan dua kali
+Artist View: Grid	Artist View: Grid	Tampilan artis: Kisi
+Artist View: Cover Flow	Artist View: Cover Flow	Tampilan artis: Cover Flow
+Artist View: List	Artist View: List	Tampilan artis: Daftar
+Year Order: Newest First	Year Order: Newest First	Urutan tahun: Terbaru dulu
+Year Order: Oldest First	Year Order: Oldest First	Urutan tahun: Terlama dulu
+Artists: Artist	Artists: Artist	Artis: Artis
+Artists: Album Artist	Artists: Album Artist	Artis: Artis album
+Resume on Connect: Off	Resume on Connect: Off	Lanjut saat tersambung: Mati
+Resume on Connect: On	Resume on Connect: On	Lanjut saat tersambung: Nyala
+Clock: Standard	Clock: Standard	Jam: Standar
+Clock: Large	Clock: Large	Jam: Besar
+Artist Album Order: Year	Artist Album Order: Year	Urutan album artis: Tahun
+Artist Album Order: A–Z	Artist Album Order: A–Z	Urutan album artis: A–Z
+Volume Guard: Off	Volume Guard: Off	Pelindung volume: Mati
+Volume Guard: On	Volume Guard: On	Pelindung volume: Nyala
+Hold Return: Recent	Hold Return: Recent	Tahan Kembali: Terbaru
+Hold Return: Home	Hold Return: Home	Tahan Kembali: Beranda
+Standby Limit: Off	Standby Limit: Off	Batas siaga: Mati
+Standby Limit: %u h	Standby Limit: %u h	Batas siaga: %u jam
+Refresh Cover Flow	Refresh Cover Flow	Segarkan Cover Flow
+Playlist View: List	Playlist View: List	Tampilan playlist: Daftar
+Playlist View: Cover Flow	Playlist View: Cover Flow	Tampilan playlist: Cover Flow
+Update Notifications: Off	Update Notifications: Off	Notifikasi pembaruan: Mati
+Update Notifications: On	Update Notifications: On	Notifikasi pembaruan: Nyala
+Album View: List	Album View: List	Tampilan album: Daftar
+Album View: Grid	Album View: Grid	Tampilan album: Kisi
+Charge Limit (%u%%)	Charge Limit (%u%%)	Batas pengisian (%u%%)
+Resume on Connect	Resume on Connect	Lanjut saat tersambung
+Volume Guard	Volume Guard	Pelindung volume
+Control Device Volume	Control Device Volume	Kontrol volume perangkat
+Key Tone	Key Tone	Nada tombol
+In-Vehicle Mode	In-Vehicle Mode	Mode kendaraan
+Smart Wi-Fi	Smart Wi-Fi	Wi-Fi pintar
+Enlarged Album Art	Enlarged Album Art	Sampul album besar
+Folder Album Cover	Folder Album Cover	Sampul album folder
+Fast Navigation	Fast Navigation	Navigasi cepat
+Scan Song Durations	Scan Song Durations	Pindai durasi lagu
+Position Bar	Position Bar	Bilah posisi
+Hide Streaming	Hide Streaming	Sembunyikan Streaming
+Hide Folder	Hide Folder	Sembunyikan Folder
+Hide Apps	Hide Apps	Sembunyikan Aplikasi
+Hide Games	Hide Games	Sembunyikan Game
+Hide App Store	Hide App Store	Sembunyikan App Store
+Receive Audio	Receive Audio	Terima audio
+Log Failed Artwork	Log Failed Artwork	Catat sampul gagal
+Hide Duplicate Albums	Hide Duplicate Albums	Sembunyikan album duplikat
+Hide Duplicate Songs	Hide Duplicate Songs	Sembunyikan lagu duplikat
+Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	Cover Flow akan membuat ulang sampul lain kali
+Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	Matikan lalu nyalakan Bluetooth untuk menerapkan
+Folder Root: %s	Folder Root: %s	Folder utama: %s
+Folder Root: Card	Folder Root: Card	Folder utama: Kartu
+Library & Folders	Library & Folders	Pustaka & folder
+Press Centre to Change Mode	Press Centre to Change Mode	Tekan Tengah untuk mengubah mode
+Press Centre to Turn On or Off	Press Centre to Turn On or Off	Tekan Tengah untuk menyalakan atau mematikan
+Press Centre When Finished	Press Centre When Finished	Tekan Tengah setelah selesai
+OK to Disconnect	OK to Disconnect	Aman untuk dicabut
+Now Playing	Now Playing	Sedang diputar
+Cover Flow	Cover Flow	Cover Flow
+EQ	EQ	EQ
+Update Library	Update Library	Perbarui pustaka
+Balance	Balance	Balans
+Home: Split	Home: Split	Beranda: Terbagi
+Home: Full	Home: Full	Beranda: Penuh
+Home: Carousel	Home: Carousel	Beranda: Karusel
+Battery: Icon	Battery: Icon	Baterai: Ikon
+Battery: Percent	Battery: Percent	Baterai: Persen
+Battery: Icon + Percent	Battery: Icon + Percent	Baterai: Ikon + persen
+Battery: Percent Inside	Battery: Percent Inside	Baterai: Persen di dalam
+Light Mode: Off	Light Mode: Off	Mode terang: Mati
+Light Mode: On	Light Mode: On	Mode terang: Nyala
+Light Mode: Auto	Light Mode: Auto	Mode terang: Otomatis
+Accent: Card Theme	Accent: Card Theme	Aksen: Tema kartu
+Battery: Card Theme	Battery: Card Theme	Baterai: Tema kartu
+Light Mode: Card Theme	Light Mode: Card Theme	Mode terang: Tema kartu
+Accent: %s	Accent: %s	Aksen: %s
+Theme: %s	Theme: %s	Tema: %s
+Shortcut: None	Shortcut: None	Pintasan: Tidak ada
+Shortcut: %s	Shortcut: %s	Pintasan: %s
+Rounded Corners	Rounded Corners	Sudut membulat
+Smart Awake	Smart Awake	Smart Awake
+Centred Now Playing	Centred Now Playing	Sedang diputar di tengah
+Click With Headphones	Click With Headphones	Klik dengan headphone
+Single Press Scrub	Single Press Scrub	Geser dengan sekali tekan
+Time in Title	Time in Title	Jam di judul
+Set by the card theme	Set by the card theme	Diatur oleh tema kartu
+Location	Location	Lokasi
+Unknown	Unknown	Tidak diketahui
+Appearance	Appearance	Tampilan
+Controls	Controls	Kontrol
+Theme	Theme	Tema
+Boot to: Rockbox	Boot to: Rockbox	Boot ke: Rockbox
+Boot to: Q2 Pod	Boot to: Q2 Pod	Boot ke: Q2 Pod
+Rockbox is not on the card	Rockbox is not on the card	Rockbox tidak ada di kartu
+Could not save boot choice	Could not save boot choice	Tidak dapat menyimpan pilihan boot
+No albums	No albums	Tidak ada album
+No artists	No artists	Tidak ada artis
+No composers	No composers	Tidak ada komposer
+No genres	No genres	Tidak ada genre
+Chapter %d	Chapter %d	Bab %d
+Chapters	Chapters	Bab
+Could not read chapters	Could not read chapters	Tidak dapat membaca bab
+No embedded chapters	No embedded chapters	Tidak ada bab tertanam
+Too long to read chapters on the Q2	Too long to read chapters on the Q2	Terlalu panjang untuk membaca bab di Q2
+Loading chapters…	Loading chapters…	Memuat bab…
+Spotify Cache: %s	Spotify Cache: %s	Cache Spotify: %s
+Tidal Cache: %s	Tidal Cache: %s	Cache Tidal: %s
+Erasing…	Erasing…	Menghapus…
+Press again to erase login and cache	Press again to erase login and cache	Tekan lagi untuk menghapus login dan cache
+Erase Spotify Data	Erase Spotify Data	Hapus data Spotify
+Could not save setting	Could not save setting	Tidak dapat menyimpan pengaturan
+Streaming stopped	Streaming stopped	Streaming dihentikan
+Wait for the one in progress	Wait for the one in progress	Tunggu yang sedang berjalan
+Stop Streaming Services	Stop Streaming Services	Hentikan layanan streaming
+No %s folder on the card	No %s folder on the card	Tidak ada folder %s di kartu
+CFW. Version	CFW. Version	Versi CFW
+Update to %s	Update to %s	Perbarui ke %s
+Latest firmware installed	Latest firmware installed	Firmware terbaru terpasang
+Can't reach GitHub	Can't reach GitHub	GitHub tidak dapat dijangkau
+No update for this build	No update for this build	Tidak ada pembaruan untuk build ini
+Can't write to the card	Can't write to the card	Tidak dapat menulis ke kartu
+Download cancelled	Download cancelled	Unduhan dibatalkan
+GitHub is busy, try later	GitHub is busy, try later	GitHub sedang sibuk, coba lagi nanti
+The download was damaged, try again	The download was damaged, try again	Unduhan rusak, coba lagi
+Downloading %d%%	Downloading %d%%	Mengunduh %d%%
+Cancelling…	Cancelling…	Membatalkan…
+Reconnecting…	Reconnecting…	Menyambung ulang…
+Verifying…	Verifying…	Memverifikasi…
+Checking…	Checking…	Memeriksa…
+Needs %u MB more space	Needs %u MB more space	Butuh ruang %u MB lagi
+Update downloaded: use TF card update	Update downloaded: use TF card update	Pembaruan terunduh: gunakan Pembaruan kartu TF
+Charge the battery first	Charge the battery first	Isi daya baterai dulu
+Can't start the download	Can't start the download	Tidak dapat memulai unduhan
+Downloading…	Downloading…	Mengunduh…
+Q2 Pod %s is out: System Update → Network update	Q2 Pod %s is out: System Update → Network update	Q2 Pod %s tersedia: Pembaruan sistem → Pembaruan jaringan
+Downloading	Downloading	Mengunduh
+Unpacking…	Unpacking…	Mengekstrak…
+Installing…	Installing…	Memasang…
+Removing…	Removing…	Menghapus…
+Connect to Wi-Fi to load the list	Connect to Wi-Fi to load the list	Sambungkan ke Wi-Fi untuk memuat daftar
+Checked just now	Checked just now	Baru saja diperiksa
+Checked %u min ago	Checked %u min ago	Diperiksa %u mnt lalu
+Checked %u h ago	Checked %u h ago	Diperiksa %u jam lalu
+Press again to remove	Press again to remove	Tekan lagi untuk menghapus
+Starts at power-on. Press again to install	Starts at power-on. Press again to install	Mulai saat perangkat dinyalakan. Tekan lagi untuk memasang
+%d app can be updated	%d app can be updated	%d aplikasi dapat diperbarui
+%d apps can be updated	%d apps can be updated	%d aplikasi dapat diperbarui
+All apps are up to date	All apps are up to date	Semua aplikasi sudah terbaru
+The download is not a usable app	The download is not a usable app	Unduhan bukan aplikasi yang dapat dipakai
+Rockbox is ready. Find it on Home	Rockbox is ready. Find it on Home	Rockbox siap. Temukan di Beranda
+Rockbox Themes are ready in Rockbox's Theme Settings	Rockbox Themes are ready in Rockbox's Theme Settings	Tema Rockbox siap di Pengaturan tema Rockbox
+%s is ready in %s	%s is ready in %s	%s siap di %s
+%s removed	%s removed	%s dihapus
+Spotify's login and cache erased	Spotify's login and cache erased	Login dan cache Spotify dihapus
+Stopped checking for updates	Stopped checking for updates	Pemeriksaan pembaruan dihentikan
+Install Rockbox first	Install Rockbox first	Pasang Rockbox dulu
+Check for Updates	Check for Updates	Periksa pembaruan
+%d of %d	%d of %d	%d dari %d
+Album lyrics	Album lyrics	Lirik album
+LRCLIB stopped answering	LRCLIB stopped answering	LRCLIB berhenti menjawab
+Cancelled	Cancelled	Dibatalkan
+%d saved	%d saved	%d disimpan
+%d not found	%d not found	%d tidak ditemukan
+%d already had lyrics	%d already had lyrics	%d sudah punya lirik
+%d failed	%d failed	%d gagal
+Album lyrics: no songs on the card	Album lyrics: no songs on the card	Lirik album: tidak ada lagu di kartu
+Can't reach LRCLIB	Can't reach LRCLIB	LRCLIB tidak dapat dijangkau
+Download Album Lyrics	Download Album Lyrics	Unduh lirik album
+Downloading %d of %d	Downloading %d of %d	Mengunduh %d dari %d
+No album songs on the card	No album songs on the card	Tidak ada lagu album di kartu
+file exceeds 16384 bytes	file exceeds 16384 bytes	file melebihi 16384 byte
+line exceeds 512 bytes	line exceeds 512 bytes	baris melebihi 512 byte
+embedded NUL	embedded NUL	NUL tertanam
+unsupported filter form	unsupported filter form	bentuk filter tidak didukung
+expected Preamp: <gain> dB	expected Preamp: <gain> dB	diharapkan Preamp: <gain> dB
+preamp outside -60..24 dB or invalid number	preamp outside -60..24 dB or invalid number	preamp di luar -60..24 dB atau angka tidak valid
+expected Channel: L, R or all	expected Channel: L, R or all	diharapkan Channel: L, R atau all
+only channels L, R and all are supported	only channels L, R and all are supported	hanya kanal L, R dan all yang didukung
+unsupported command	unsupported command	perintah tidak didukung
+invalid filter label	invalid filter label	label filter tidak valid
+expected Filter [number]:	expected Filter [number]:	diharapkan Filter [number]:
+expected ON or OFF	expected ON or OFF	diharapkan ON atau OFF
+unsupported filter type	unsupported filter type	jenis filter tidak didukung
+expected Fc <Hz> Hz Gain <dB> dB	expected Fc <Hz> Hz Gain <dB> dB	diharapkan Fc <Hz> Hz Gain <dB> dB
+invalid frequency or gain number	invalid frequency or gain number	frekuensi atau angka gain tidak valid
+expected Q <number>	expected Q <number>	diharapkan Q <number>
+peaking filter requires Q	peaking filter requires Q	filter peaking memerlukan Q
+range: 20..20000 Hz, -24..24 dB, Q 0.1..10	range: 20..20000 Hz, -24..24 dB, Q 0.1..10	rentang: 20..20000 Hz, -24..24 dB, Q 0.1..10
+more than 30 bands	more than 30 bands	lebih dari 30 band
+summed preamp outside -60..24 dB	summed preamp outside -60..24 dB	jumlah preamp di luar -60..24 dB
+L/R preamp differ by more than 12 dB	L/R preamp differ by more than 12 dB	preamp K/R berbeda lebih dari 12 dB
+out of memory	out of memory	memori habis
+cannot open file	cannot open file	tidak dapat membuka file
+file read failed	file read failed	gagal membaca file
+EQ for 3.5 mm	EQ for 3.5 mm	EQ untuk 3,5 mm
+EQ for 4.4 mm	EQ for 4.4 mm	EQ untuk 4,4 mm
+EQ for USB	EQ for USB	EQ untuk USB
+EQ for this Bluetooth device	EQ for this Bluetooth device	EQ untuk perangkat Bluetooth ini
+Auto (44.1: %.1f / 48: %.1f)	Auto (44.1: %.1f / 48: %.1f)	Otomatis (44.1: %.1f / 48: %.1f)
+Folder missing or unavailable	Folder missing or unavailable	Folder hilang/tidak tersedia
+Out of memory; cannot list presets	Out of memory; cannot list presets	Memori habis; tidak dapat mendaftar preset
+No presets found	No presets found	Preset tidak ditemukan
+Name not allowed; preset kept	Name not allowed; preset kept	Nama ditolak; preset tetap ada
+Name taken; preset kept	Name taken; preset kept	Nama dipakai; preset tetap ada
+Rename failed; preset kept	Rename failed; preset kept	Ganti nama gagal; preset tetap
+Renamed to %.100s	Renamed to %.100s	Diganti nama menjadi %.100s
+Pop	Pop	Pop
+Rock	Rock	Rock
+Dance	Dance	Dance
+Blues	Blues	Blues
+Metal	Metal	Metal
+Vocal	Vocal	Vokal
+Classical	Classical	Klasik
+Jazz	Jazz	Jazz
+Preset loaded; choose Apply to activate	Preset loaded; choose Apply to activate	Preset dimuat; pilih Terapkan untuk mengaktifkan
+Preset saved; active EQ unchanged	Preset saved; active EQ unchanged	Preset disimpan; EQ aktif tidak berubah
+Save failed; settings unchanged	Save failed; settings unchanged	Gagal menyimpan; tak berubah
+Switch failed; EQ unchanged	Switch failed; EQ unchanged	Gagal beralih; EQ tidak berubah
+Applied	Applied	Diterapkan
+Apply failed; active EQ unchanged	Apply failed; active EQ unchanged	Gagal menerapkan; EQ aktif tidak berubah
+Reset; choose Apply to activate	Reset; choose Apply to activate	Direset; pilih Terapkan
+Delete failed; preset kept	Delete failed; preset kept	Gagal menghapus; preset ada
+Deleted %.100s; active EQ unchanged	Deleted %.100s; active EQ unchanged	%.100s dihapus; EQ aktif tidak berubah
+Line %u: %s	Line %u: %s	Baris %u: %s
+Cannot read preset; settings unchanged	Cannot read preset; settings unchanged	Tidak dapat membaca preset; pengaturan tidak berubah
+Peaking	Peaking	Peaking
+Low shelf	Low shelf	Low shelf
+High shelf	High shelf	High shelf
+Apply changes	Apply changes	Terapkan perubahan
+Nothing to apply	Nothing to apply	Tidak ada yang diterapkan
+Reset to defaults	Reset to defaults	Kembalikan ke default
+Enabled	Enabled	Aktif
+EQ per Output	EQ per Output	EQ per output
+Preamp	Preamp	Preamp
+Presets	Presets	Preset
+Band	Band	Band
+Channels	Channels	Kanal
+Both	Both	Keduanya
+Left	Left	Kiri
+Right	Right	Kanan
+Type	Type	Jenis
+Frequency	Frequency	Frekuensi
+Gain	Gain	Gain
+Band %d Q	Band %d Q	Band %d Q
+Band %d Frequency (Hz)	Band %d Frequency (Hz)	Band %d Frekuensi (Hz)
+Raise	Raise	Naikkan
+Lower	Lower	Turunkan
+Step	Step	Langkah
+Delete %.100s? Confirm	Delete %.100s? Confirm	Hapus %.100s? Konfirmasi
+Replace existing preset? Confirm	Replace existing preset? Confirm	Ganti preset ini? Konfirmasi
+Cancel replacement	Cancel replacement	Batalkan penggantian
+Save as Manual %02d	Save as Manual %02d	Simpan sebagai Manual %02d
+Stock presets	Stock presets	Preset bawaan
+Import from SD /EQ	Import from SD /EQ	Impor dari SD /EQ
+Save editor preset	Save editor preset	Simpan preset editor
+Rename a preset	Rename a preset	Ganti nama preset
+Delete a preset	Delete a preset	Hapus preset
+Previous page	Previous page	Halaman sebelumnya
+Next page	Next page	Halaman berikutnya
+Band %d	Band %d	Band %d
+Band %d Gain	Band %d Gain	Band %d Gain
+Presets %d/%d	Presets %d/%d	Preset %d/%d
+Save failed; EQ unchanged	Save failed; EQ unchanged	Gagal menyimpan; EQ tetap
+Advanced	Advanced	Lanjutan
+Enabled: On	Enabled: On	Aktif: Nyala
+Enabled: Off	Enabled: Off	Aktif: Mati
+Low	Low	Bass
+Mid	Mid	Mid
+High	High	Treble
+Simple	Simple	Sederhana
+No photos	No photos	Tidak ada foto
+All Photos	All Photos	Semua foto
+Photos	Photos	Foto
+Can't open this photo	Can't open this photo	Tidak dapat membuka foto ini
+%d of %d  %s	%d of %d  %s	%d dari %d  %s
+Could not save folder speed	Could not save folder speed	Tidak dapat menyimpan kecepatan folder
+Too long to play on the Q2: split it into parts	Too long to play on the Q2: split it into parts	Terlalu panjang untuk diputar di Q2: bagi menjadi beberapa bagian
+Press again to restart	Press again to restart	Tekan lagi untuk memulai ulang
+Could not save playlist	Could not save playlist	Tidak dapat menyimpan playlist
+Already in playlist	Already in playlist	Sudah ada di playlist
+Added to Playlist	Added to Playlist	Ditambahkan ke playlist
+Search songs	Search songs	Cari lagu
+Editing: %s	Editing: %s	Mengedit: %s
+Add Songs: %s	Add Songs: %s	Tambah lagu: %s
+Song Actions: %s	Song Actions: %s	Aksi lagu: %s
+Remove song?: %s	Remove song?: %s	Hapus lagu?: %s
+Add Songs	Add Songs	Tambah lagu
+Move Up	Move Up	Naik
+Move Down	Move Down	Turun
+Remove from Playlist	Remove from Playlist	Hapus dari playlist
+Search: %s	Search: %s	Cari: %s
+No songs match	No songs match	Tidak ada lagu yang cocok
+Search for more songs	Search for more songs	Cari lagu lainnya
+Delete Playlist?	Delete Playlist?	Hapus playlist?
+Delete	Delete	Hapus
+Playlist deleted	Playlist deleted	Playlist dihapus
+Could not delete playlist	Could not delete playlist	Tidak dapat menghapus playlist
+Delete Playlist	Delete Playlist	Hapus playlist
+Edit Playlist	Edit Playlist	Edit playlist
+Queue unchanged	Queue unchanged	Antrean tidak berubah
+Deselect All	Deselect All	Batal pilih semua
+Select All	Select All	Pilih semua
+Export %d Playlist	Export %d Playlist	Ekspor %d playlist
+Export %d Playlists	Export %d Playlists	Ekspor %d playlist
+Delete %d Playlist…	Delete %d Playlist…	Hapus %d playlist…
+Delete %d Playlists…	Delete %d Playlists…	Hapus %d playlist…
+%d Selected	%d Selected	%d dipilih
+Select Playlists	Select Playlists	Pilih playlist
+Playlists	Playlists	Playlist
+No Playlists	No Playlists	Tidak ada playlist
+New Playlist…	New Playlist…	Playlist baru…
+Select Playlists…	Select Playlists…	Pilih playlist…
+Import Playlists	Import Playlists	Impor playlist
+Export	Export	Ekspor
+No other group	No other group	Tidak ada grup lain
+Folder not found	Folder not found	Folder tidak ditemukan
+All Songs	All Songs	Semua lagu
+Songs in Album	Songs in Album	Lagu di album
+Albums and Songs	Albums and Songs	Album dan lagu
+Songs in Folder	Songs in Folder	Lagu di folder
+Folders	Folders	Folder
+Folders and Songs	Folders and Songs	Folder dan lagu
+Play One Song	Play One Song	Putar satu lagu
+Play One Album	Play One Album	Putar satu album
+Repeat Song	Repeat Song	Ulangi lagu
+Repeat Album	Repeat Album	Ulangi album
+Repeat All	Repeat All	Ulangi semua
+Play One Folder	Play One Folder	Putar satu folder
+Repeat Folder	Repeat Folder	Ulangi folder
+Album	Album	Album
+Folder	Folder	Folder
+Repeat	Repeat	Ulangi
+Group by	Group by	Kelompokkan menurut
+Play Next	Play Next	Putar berikutnya
+Add to Queue	Add to Queue	Tambah ke antrean
+Add to Favourites	Add to Favourites	Tambah ke favorit
+Remove from Favourites	Remove from Favourites	Hapus dari favorit
+Add to Playlist	Add to Playlist	Tambah ke playlist
+Go to Album	Go to Album	Ke album
+Go to Artist	Go to Artist	Ke artis
+Next Album	Next Album	Album berikutnya
+Previous Album	Previous Album	Album sebelumnya
+Rate	Rate	Beri peringkat
+Resume	Resume	Lanjutkan
+View Queue	View Queue	Lihat antrean
+Go to Folder	Go to Folder	Ke folder
+Rate Album	Rate Album	Beri peringkat album
+Group by: Folder	Group by: Folder	Kelompokkan menurut: Folder
+Group by: Album	Group by: Album	Kelompokkan menurut: Album
+Next Folder	Next Folder	Folder berikutnya
+Previous Folder	Previous Folder	Folder sebelumnya
+Wheel: Volume	Wheel: Volume	Roda: Volume
+Wheel: Brightness	Wheel: Brightness	Roda: Kecerahan
+Could not save Favourites	Could not save Favourites	Tidak dapat menyimpan favorit
+Added to Favourites	Added to Favourites	Ditambahkan ke favorit
+Removed from Favourites	Removed from Favourites	Dihapus dari favorit
+Stopped	Stopped	Dihentikan
+Can't play: %s	Can't play: %s	Tidak dapat memutar: %s
+Can't play this station	Can't play this station	Tidak dapat memutar stasiun ini
+Connecting…	Connecting…	Menyambung…
+Search is too long	Search is too long	Pencarian terlalu panjang
+Search stations	Search stations	Cari stasiun
+Favourites	Favourites	Favorit
+Featured	Featured	Pilihan
+Top Stations	Top Stations	Stasiun teratas
+By Country	By Country	Menurut negara
+By Genre	By Genre	Menurut genre
+Countries	Countries	Negara
+Connecting to Wi-Fi…	Connecting to Wi-Fi…	Menyambung ke Wi-Fi…
+Directory unavailable	Directory unavailable	Direktori tidak tersedia
+No Wi-Fi	No Wi-Fi	Tidak ada Wi-Fi
+No stations	No stations	Tidak ada stasiun
+No favourites	No favourites	Tidak ada favorit
+Rating not saved	Rating not saved	Peringkat tidak disimpan
+Ratings are full	Ratings are full	Penyimpanan peringkat penuh
+Favourite not sent to the app	Favourite not sent to the app	Favorit tidak dikirim ke aplikasi
+Unrated	Unrated	Belum diberi peringkat
+1 Heart	1 Heart	1 hati
+%d Hearts	%d Hearts	%d hati
+%d of 5	%d of 5	%d dari 5
+Album changed	Album changed	Album berubah
+Favourite not saved	Favourite not saved	Favorit tidak disimpan
+This app has no favourites	This app has no favourites	Aplikasi ini tidak punya favorit
+Top Rated	Top Rated	Peringkat teratas
+Loved	Loved	Disukai
+All Rated	All Rated	Semua peringkat
+Disliked	Disliked	Tidak disukai
+No songs yet	No songs yet	Belum ada lagu
+Hold the heart on Now Playing to rate	Hold the heart on Now Playing to rate	Tahan hati di Sedang diputar untuk memberi peringkat
+No rated albums yet	No rated albums yet	Belum ada album berperingkat
+Upload failed, %d sent	Upload failed, %d sent	Unggahan gagal, %d terkirim
+Scrobbles sent: %d	Scrobbles sent: %d	Scrobble terkirim: %d
+Nothing to upload	Nothing to upload	Tidak ada yang diunggah
+Uploading scrobbles	Uploading scrobbles	Mengunggah scrobble
+Already uploading	Already uploading	Sedang mengunggah
+Upload failed	Upload failed	Unggahan gagal
+Connect to Wi-Fi first	Connect to Wi-Fi first	Sambungkan ke Wi-Fi dulu
+Waiting for Spotify	Waiting for Spotify	Menunggu Spotify
+Spotify isn't on the card	Spotify isn't on the card	Spotify tidak ada di kartu
+See the Q2 Pod guide to add it	See the Q2 Pod guide to add it	Lihat panduan Q2 Pod untuk menambahkannya
+Open Spotify on your phone	Open Spotify on your phone	Buka Spotify di ponsel Anda
+and choose Q2	and choose Q2	dan pilih Q2
+Spotify refused this account	Spotify refused this account	Spotify menolak akun ini
+Its tracks can't play on the Q2	Its tracks can't play on the Q2	Lagunya tidak dapat diputar di Q2
+Playback didn't start	Playback didn't start	Pemutaran tidak dimulai
+Go back and try again	Go back and try again	Kembali dan coba lagi
+Starting playback	Starting playback	Memulai pemutaran
+Update Spotify on the card	Update Spotify on the card	Perbarui Spotify di kartu
+See the Q2 Pod guide	See the Q2 Pod guide	Lihat panduan Q2 Pod
+Nothing playing	Nothing playing	Tidak ada yang diputar
+Choose music in Spotify	Choose music in Spotify	Pilih musik di Spotify
+Liked Songs	Liked Songs	Lagu disukai
+Queue	Queue	Antrean
+Playback Settings	Playback Settings	Pengaturan pemutaran
+Account	Account	Akun
+Downloaded Tracks	Downloaded Tracks	Trek terunduh
+Downloads	Downloads	Unduhan
+Tracks	Tracks	Trek
+Open Spotify on your phone and choose Q2	Open Spotify on your phone and choose Q2	Buka Spotify di ponsel Anda dan pilih Q2
+Both on the same Wi-Fi	Both on the same Wi-Fi	Keduanya di Wi-Fi yang sama
+to browse on the Q2	to browse on the Q2	untuk menjelajah di Q2
+Downloaded Playlists	Downloaded Playlists	Playlist terunduh
+Download Progress	Download Progress	Progres unduhan
+Storage Management	Storage Management	Pengelolaan penyimpanan
+Download Status	Download Status	Status unduhan
+The latest download's progress	The latest download's progress	Progres unduhan terakhir
+for saved playlists and download controls	for saved playlists and download controls	untuk playlist tersimpan dan kontrol unduhan
+Remove Playlists…	Remove Playlists…	Hapus playlist…
+Remove Tracks…	Remove Tracks…	Hapus trek…
+Keeps login and settings	Keeps login and settings	Login dan pengaturan tetap
+Track removal can make playlists incomplete	Track removal can make playlists incomplete	Menghapus trek dapat membuat playlist tidak lengkap
+Pause	Pause	Jeda
+Cancel Download	Cancel Download	Batalkan unduhan
+Retry Failed	Retry Failed	Ulangi yang gagal
+Update Download	Update Download	Perbarui unduhan
+Sign Out of Spotify?	Sign Out of Spotify?	Keluar dari Spotify?
+Sign Out	Sign Out	Keluar
+Nothing here	Nothing here	Tidak ada apa-apa di sini
+Selected	Selected	Dipilih
+Press to select	Press to select	Tekan untuk memilih
+All	All	Semua
+One	One	Satu
+Download Liked Songs	Download Liked Songs	Unduh lagu disukai
+Download Playlist	Download Playlist	Unduh playlist
+For offline listening	For offline listening	Untuk didengarkan offline
+Download Controls	Download Controls	Kontrol unduhan
+Update, retry, pause, resume or cancel	Update, retry, pause, resume or cancel	Perbarui, ulangi, jeda, lanjutkan, atau batalkan
+Remove Selected…	Remove Selected…	Hapus yang dipilih…
+Confirm the affected count	Confirm the affected count	Konfirmasi jumlah yang terpengaruh
+Spotify isn't running	Spotify isn't running	Spotify tidak berjalan
+Spotify didn't answer	Spotify didn't answer	Spotify tidak menjawab
+Search Spotify	Search Spotify	Cari di Spotify
+Select Tracks	Select Tracks	Pilih trek
+Select at least one item	Select at least one item	Pilih setidaknya satu item
+Selection full. Remove these first	Selection full. Remove these first	Pilihan penuh. Hapus ini dulu
+Boot logo must be a 320x375 JPEG	Boot logo must be a 320x375 JPEG	Logo boot harus JPEG 320x375
+Could not save boot logo	Could not save boot logo	Tidak dapat menyimpan logo boot
+Accent: Graphite	Accent: Graphite	Aksen: Grafit
+Accent: Crimson	Accent: Crimson	Aksen: Merah tua
+Accent: Tidal	Accent: Tidal	Aksen: Tidal
+Accent: Champagne	Accent: Champagne	Aksen: Sampanye
+Accent: Cobalt	Accent: Cobalt	Aksen: Kobalt
+Accent: Tangerine	Accent: Tangerine	Aksen: Jingga
+Accent: Plum	Accent: Plum	Aksen: Ungu plum
+Accent: Ivory	Accent: Ivory	Aksen: Gading
+Accent: Green	Accent: Green	Aksen: Hijau
+Favorites	Favorites	Favorit
+Rated Albums	Rated Albums	Album berperingkat
+Podcasts	Podcasts	Podcast
+Audiobooks	Audiobooks	Buku audio
+Groovebox can't start from the card	Groovebox can't start from the card	Groovebox tidak dapat dimulai dari kartu
+Groovebox is not on the card	Groovebox is not on the card	Groovebox tidak ada di kartu
+Play a Tidal album or playlist first	Play a Tidal album or playlist first	Putar album atau playlist Tidal dulu
+Downloading %u of %u. Press to stop	Downloading %u of %u. Press to stop	Mengunduh %u dari %u. Tekan untuk berhenti
+Download Playing Songs	Download Playing Songs	Unduh lagu yang diputar
+Tidal Cache full: %u of %u song saved	Tidal Cache full: %u of %u song saved	Cache Tidal penuh: %u dari %u lagu tersimpan
+Tidal Cache full: %u of %u songs saved	Tidal Cache full: %u of %u songs saved	Cache Tidal penuh: %u dari %u lagu tersimpan
+Downloaded %u of %u song	Downloaded %u of %u song	%u dari %u lagu diunduh
+Downloaded %u of %u songs	Downloaded %u of %u songs	%u dari %u lagu diunduh
+Nothing to play next	Nothing to play next	Tidak ada yang diputar berikutnya
+Queue changed	Queue changed	Antrean berubah
+Never	Never	Tidak pernah
+USB DAC Charging: %s	USB DAC Charging: %s	Pengisian daya USB DAC: %s
+Spectrum	Spectrum	Spektrum
+Oscilloscope	Oscilloscope	Osiloskop
+VU Meters	VU Meters	Meter VU
+Halo	Halo	Halo
+Pulsar	Pulsar	Pulsar
+Contour	Contour	Kontur
+More	More	Lainnya
+A-B Repeat	A-B Repeat	Ulangi A-B
+Speed	Speed	Kecepatan
+*Only for 48 kHz and below	*Only for 48 kHz and below	*Hanya untuk 48 kHz ke bawah
+No lyrics	No lyrics	Tidak ada lirik
+Genre	Genre	Genre
+Size	Size	Ukuran
+Year	Year	Tahun
+Format	Format	Format
+Bit Depth	Bit Depth	Kedalaman bit
+Bit Rate	Bit Rate	Bitrate
+Sample Rate	Sample Rate	Sample rate
+Auto Scan	Auto Scan	Pindai otomatis
+Update Library Now	Update Library Now	Perbarui pustaka sekarang
+Scan Folders	Scan Folders	Pindai folder
+OK	OK	OK
+Bluetooth	Bluetooth	Bluetooth
+Key Lock	Key Lock	Kunci tombol
+Low Gain	Low Gain	Gain rendah
+USB Storage	USB Storage	Penyimpanan USB
+Playback	Playback	Pemutaran
+Custom	Custom	Kustom
+Reset	Reset	Reset
+Open this address in a browser:	Open this address in a browser:	Buka alamat ini di browser:
+Downloaded	Downloaded	Terunduh
+Baidu Netdisk	Baidu Netdisk	Baidu Netdisk
+Sign In	Sign In	Masuk
+Scan with the Baidu app to sign in	Scan with the Baidu app to sign in	Pindai dengan aplikasi Baidu untuk masuk
+Baidu encryption protects your privacy	Baidu encryption protects your privacy	Enkripsi Baidu melindungi privasi Anda
+Bluetooth RF test: connect from a computer	Bluetooth RF test: connect from a computer	Uji RF Bluetooth: sambungkan dari komputer
+Press Next to exit	Press Next to exit	Tekan Berikutnya untuk keluar
+Brightness Test	Brightness Test	Uji kecerahan
+Next	Next	Berikutnya
+Bluetooth Test	Bluetooth Test	Uji Bluetooth
+Down	Down	Bawah
+Up	Up	Atas
+Swipe Left	Swipe Left	Geser ke kiri
+Swipe Right	Swipe Right	Geser ke kanan
+Key Test	Key Test	Uji tombol
+Headphone Test	Headphone Test	Uji headphone
+Plug in single-ended headphones	Plug in single-ended headphones	Colokkan headphone single-ended
+Play (left male, right female)	Play (left male, right female)	Putar (kiri suara pria, kanan suara wanita)
+Bluetooth Receiver Test	Bluetooth Receiver Test	Uji penerima Bluetooth
+Battery Test	Battery Test	Uji baterai
+Battery:	Battery:	Baterai:
+Charging:	Charging:	Mengisi daya:
+microSD Test	microSD Test	Uji microSD
+Touch Test	Touch Test	Uji sentuh
+Wi-Fi Test	Wi-Fi Test	Uji Wi-Fi
+Artist	Artist	Artis
+Export Playlists	Export Playlists	Ekspor playlist
+Playlist	Playlist	Playlist
+0 songs	0 songs	0 lagu
+System	System	Sistem
+Rockbox	Rockbox	Rockbox
+Baker Island	Baker Island	Pulau Baker
+Midway	Midway	Midway
+Honolulu	Honolulu	Honolulu
+Anchorage	Anchorage	Anchorage
+Los Angeles	Los Angeles	Los Angeles
+Denver	Denver	Denver
+Mexico City	Mexico City	Kota Meksiko
+New York	New York	New York
+Halifax	Halifax	Halifax
+St. John's	St. John's	St. John's
+Buenos Aires	Buenos Aires	Buenos Aires
+Azores	Azores	Azores
+London	London	London
+Amsterdam	Amsterdam	Amsterdam
+Bucharest	Bucharest	Bukares
+Kuwait	Kuwait	Kuwait
+Tehran	Tehran	Teheran
+Muscat	Muscat	Muskat
+Kabul	Kabul	Kabul
+Karachi	Karachi	Karachi
+Dhaka	Dhaka	Dhaka
+Bangkok	Bangkok	Bangkok
+Shanghai	Shanghai	Shanghai
+Tokyo	Tokyo	Tokyo
+Adelaide	Adelaide	Adelaide
+Sydney	Sydney	Sydney
+Fiji	Fiji	Fiji
+Marquesas	Marquesas	Marquesas
+South Georgia	South Georgia	Georgia Selatan
+Colombo	Colombo	Colombo
+Kathmandu	Kathmandu	Kathmandu
+Yangon	Yangon	Yangon
+Eucla	Eucla	Eucla
+L. Howe	L. Howe	L. Howe
+Noumea	Noumea	Nouméa
+Chatham	Chatham	Chatham
+Tongatapu	Tongatapu	Tongatapu
+Kiritimati	Kiritimati	Kiritimati
+Chicago	Chicago	Chicago
+Phoenix	Phoenix	Phoenix
+Kolkata	Kolkata	Kolkata
+Brisbane	Brisbane	Brisbane
+Auckland	Auckland	Auckland
+Status Bar	Status Bar	Bilah status
+Minimal	Minimal	Minimal
+Modern	Modern	Modern
+Classic	Classic	Classic
+Show Wordmark	Show Wordmark	Tampilkan logo
+Library on Home	Library on Home	Pustaka di Beranda
+Row Preview	Row Preview	Pratinjau baris
+Row Art	Row Art	Gambar baris
+Classic Blue	Classic Blue	Biru Classic

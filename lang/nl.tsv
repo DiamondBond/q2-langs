@@ -1,0 +1,1181 @@
+# Nederlands
+History_record	History record	Geschiedenis
+about_cardcap	Card Capacity	Kaartcapaciteit
+about_cardremain	Remaining	Beschikbaar
+about_ipaddr	IP Address	IP-adres
+about_model	Model	Model
+about_more	*Our sincere thanks go to the DiamondBond team and all its enthusiasts for their ingenuity, outstanding solutions, and generous contributions.	*Onze oprechte dank gaat uit naar het DiamondBond-team en alle liefhebbers voor hun vindingrijkheid, uitstekende oplossingen en gulle bijdragen.
+about_sn	Serial Number	Serienummer
+about_version	Version	Versie
+about_wifimac	Wi-Fi MAC	Wi-Fi-MAC
+album	Album	Album
+album	Album	Album
+albumsinger	Album artist	Albumartiest
+allmusic	All Songs	Alle nummers
+audio_settings	Audio settings	Audio-instellingen
+baidu_login	Log In	Inloggen
+baidu_login_tips1	Please use Baidu Netdisk or Baidu App to scan the code to login	Scan de code met Baidu Netdisk of de Baidu-app om in te loggen
+baidu_login_tips2	Baidu encryption technology protects your privacy and security	De versleuteling van Baidu beschermt je privacy en veiligheid
+baidu_loginout	Log Out	Uitloggen
+baidunet_floderinfo_failed	Failed to get file list	Bestandslijst ophalen mislukt
+batch_addplaylist	Add to Playlist	Toevoegen aan afspeellijst
+bt_adjvol	Bluetooth Headset Volume Control	Volumeregeling van Bluetooth-headset
+bt_compatiabledev	Compatible Device	Compatibel apparaat
+bt_name	Bluetooth Name	Bluetooth-naam
+bt_paireddev	Paired Device	Gekoppeld apparaat
+bt_quality	Quality	Kwaliteit
+bt_search	Scan now	Nu zoeken
+btcode_aac	AAC	AAC
+btcode_aptx	aptX	aptX
+btcode_aptxhd	aptX HD	aptX HD
+btcode_ldacauto	LDAC Connection (auto)	LDAC-verbinding (auto)
+btcode_ldachq	LDAC HQ	LDAC HQ
+btcode_ldacst	LDAC Standard	LDAC Standaard
+btcode_sbc	SBC	SBC
+btcode_sbchq	SBC HQ	SBC HQ
+custom_eq	Custom	Aangepast
+display_backlight	Brightness	Helderheid
+display_lighttime	Screen Off Time	Scherm uit na
+display_screenlock	Lock Screen	Scherm vergrendelen
+dsdmode_d2p	D2P	D2P
+dsdmode_dop	DOP	DoP
+dsdmode_native	Native	Native
+eq_blues	Blues	Blues
+eq_classical	Classical	Klassiek
+eq_club	Club	Club
+eq_custom1	Custom1	Aangepast 1
+eq_custom2	Custom2	Aangepast 2
+eq_custom3	Custom3	Aangepast 3
+eq_dance	Dance	Dance
+eq_doublebass	Sub-bass	Subbas
+eq_jazz	Jazz	Jazz
+eq_metal	Metal	Metal
+eq_only48kmsg	EQ only for files below 48kHz.	EQ alleen voor bestanden onder 48 kHz.
+eq_pop	Pop	Pop
+eq_reset	Reset	Resetten
+eq_rock	Rock	Rock
+eq_vocal	Vocal	Zang
+fav	My Fav	Mijn favorieten
+filter_delayfast	Low Delay Fast Roll-off	Lage vertraging, snelle roll-off
+filter_delayslow	Low Delay Slow Roll-off	Lage vertraging, langzame roll-off
+filter_fast	Fast Roll-off	Snelle roll-off
+filter_slow	Slow Roll-off	Langzame roll-off
+frequentplay	Frequent	Vaak
+gain_high	High	Hoog
+gain_low	Low	Laag
+genre	Genre	Genre
+genre_statistics	Total %d songs	Totaal %d nummers
+hr	Hi-Res	Hi-Res
+keyboard_keyword	Please enter keyword	Voer een zoekwoord in
+keyboard_netname	Please enter network name	Voer de netwerknaam in
+keyboard_password	Please enter password	Voer het wachtwoord in
+keylock_all	Lock Volume & Buttons	Volume en knoppen vergrendelen
+keylock_info	Only effective when the screen is off	Alleen actief bij uitgeschakeld scherm
+keylock_info2	Effective on Lockscreen and when Screen Off	Actief op het vergrendelscherm en bij uitgeschakeld scherm
+keylock_key	Lock Buttons Only	Alleen knoppen vergrendelen
+keylock_volume	Lock Volume Only	Alleen volume vergrendelen
+lan_english	English	English
+lan_french	Français	Français
+lan_german	Deutsch	Deutsch
+lan_italian	Italiano	Italiano
+lan_japanese	日本語	日本語
+lan_korean	한국어	한국어
+lan_polish	Polski	Polski
+lan_russian	Русский	Русский
+lan_simplified	简体中文	简体中文
+lan_spanish	español	español
+lan_thai	ภาษาไทย	ภาษาไทย
+lan_traditional	繁體中文	繁體中文
+lan_ukrainian	Українська	Українська
+lighttime_15s	15s	15 s
+lighttime_1min	1min	1 min
+lighttime_2min	2min	2 min
+lighttime_30min	30min	30 min
+lighttime_30s	30s	30 s
+lighttime_5min	5min	5 min
+lighttime_lyricmode	Lyrics mode	Songtekstmodus
+lighttime_off	Off	Uit
+list_baidu	Baidu Netdisk	Baidu Netdisk
+list_tidal	TIDAL	TIDAL
+local_album	Albums	Albums
+local_allmusic	Local Songs	Lokale nummers
+local_allsongs	Songs	Nummers
+local_fav	My Fav	Mijn favorieten
+local_frequentplay	Frequent	Vaak
+local_genre	Genres	Genres
+local_hr	Hi-Res	Hi-Res
+local_playlist	Playlists	Afspeellijsten
+local_recentadd	Recently Added	Onlangs toegevoegd
+local_recentplay	Recent	Recent
+local_songer	Artists	Artiesten
+local_upmusic	Update Library	Bibliotheek bijwerken
+login_out	Logout	Uitloggen
+memplay_location	Location	Locatie
+memplay_off	Off	Uit
+memplay_track	Track	Nummer
+msg_actionnotsupport	Non-local songs,not currently supported	Niet-lokale nummers worden niet ondersteund
+msg_actionscan	Scan music?	Muziek scannen?
+msg_add_task	Please enter the URL of the file you want to download	Voer de URL in van het bestand dat je wilt downloaden
+msg_addfailed	Adding Failed	Toevoegen mislukt
+msg_addfavsuccess	Added To Fav	Toegevoegd aan favorieten
+msg_addplaylistsuccess	Added To Playlist	Toegevoegd aan afspeellijst
+msg_autoshutdown	Shutdown	Uitschakelen
+msg_btabnormal	Bluetooth abnormal	Bluetooth-storing
+msg_btinit_run	Bluetooth Starting	Bluetooth wordt gestart
+msg_btreconnect	Reconnect Bluetooth?	Bluetooth opnieuw verbinden?
+msg_cardeject	Audio Disconnected	Audio losgekoppeld
+msg_cardinsert	Audio Connected	Audio verbonden
+msg_checkfw	Checking FW	Firmware controleren
+msg_checkfwerr	FW. Check Error	Firmwarecontrole mislukt
+msg_closesynclink	Please close SyncLink	Sluit SyncLink
+msg_confirmupdate	Confirm Update?	Bijwerken bevestigen?
+msg_connected	Connected	Verbonden
+msg_connecting	Connecting	Verbinden
+msg_delalbum	Delete Album?	Album verwijderen?
+msg_delalbumfailed	Failed To Delete Album	Album verwijderen mislukt
+msg_delalbumsuccess	Album Deleted	Album verwijderd
+msg_delartist	Delete Artist?	Artiest verwijderen?
+msg_delartistsuccess	Artist Deleted	Artiest verwijderd
+msg_delete_task	Are you sure you want to delete the download task?	Weet je zeker dat je de download wilt verwijderen?
+msg_deletesource	Also delete source file	Ook bronbestand verwijderen
+msg_delfile	Are you sure you want to delete this file?	Weet je zeker dat je dit bestand wilt verwijderen?
+msg_delfile	Delete File?	Bestand verwijderen?
+msg_delfilefailed	Failed To Delete File	Bestand verwijderen mislukt
+msg_delfilesuccess	File Deleted	Bestand verwijderd
+msg_delgenre	Delete Genre?	Genre verwijderen?
+msg_delgenresuccess	Genre Deleted	Genre verwijderd
+msg_delplaylist	Delete Playlist?	Afspeellijst verwijderen?
+msg_delplaylistfailed	Failed To Delete Playlist	Afspeellijst verwijderen mislukt
+msg_delplaylistsuccess	Playlist Deleted	Afspeellijst verwijderd
+msg_delsong	Delete Song?	Nummer verwijderen?
+msg_delsongfailed	Failed To Delete Song	Nummer verwijderen mislukt
+msg_delsongsuccess	Song Deleted	Nummer verwijderd
+msg_disconnected	Disconnected	Losgekoppeld
+msg_disonnectbt	Please disconnect the bluetooth device	Koppel het Bluetooth-apparaat los
+msg_downloadpath	Download path is	Downloadmap is
+msg_exist_task	The download task already exists	Deze download bestaat al
+msg_exitairplay	Quit AirPlay?	AirPlay afsluiten?
+msg_exportplaylist	Export Playlist?	Afspeellijst exporteren?
+msg_exportsuccess	Export successful	Exporteren gelukt
+msg_factorysuccess	Restore to factory settings succeeded	Fabrieksinstellingen hersteld
+msg_favsuccess	Added To Fav	Toegevoegd aan favorieten
+msg_file_exist	The file already exists	Het bestand bestaat al
+msg_importplaylist	Import Playlists?	Afspeellijsten importeren?
+msg_importsuccess	Successfully imported	Importeren gelukt
+msg_initsetsuccess	All settings initialized successfully	Alle instellingen zijn teruggezet
+msg_latestfw	Latest Fw. Installed	Nieuwste firmware geïnstalleerd
+msg_linkerror	WiFi Connection Error	Wi-Fi-verbindingsfout
+msg_lowarn	Line Out sets max volume,continue?	Line Out stelt het maximale volume in. Doorgaan?
+msg_lowpower	Low Battery	Batterij bijna leeg
+msg_namenull	The name can't be empty	De naam mag niet leeg zijn
+msg_netnameerr	Network Must Be Named	Netwerk heeft een naam nodig
+msg_no	Cancel	Annuleren
+msg_no_storage	Storage is full.Some songs couldn't be added.	Opslag vol. Sommige nummers konden niet worden toegevoegd.
+msg_noheadset	Playback is disabled without headphones.Please insert headphones.	Afspelen is uitgeschakeld zonder koptelefoon. Sluit een koptelefoon aan.
+msg_nosongs	No songs in this folder	Geen nummers in deze map
+msg_notalbuminfo	This file has no Album data	Dit bestand heeft geen albumgegevens
+msg_notfile	File Not Found	Bestand niet gevonden
+msg_notfolder	Folder not found	Map niet gevonden
+msg_notfoundfw	Fw. Not Found	Firmware niet gevonden
+msg_notmemory	Memory is not enough	Onvoldoende geheugen
+msg_notmemory	Out of memory	Geheugen vol
+msg_notnetwork	Network Disconnected	Netwerk losgekoppeld
+msg_nototg	No OTG Found	Geen OTG gevonden
+msg_notplaylist	Playlist Not Found	Afspeellijst niet gevonden
+msg_notsongerinfo	This file has no Artist data	Dit bestand heeft geen artiestgegevens
+msg_notsonglist	No Song List	Geen nummerlijst
+msg_notspecdir	Folder not specified	Geen map opgegeven
+msg_notsupport	Not Supported	Niet ondersteund
+msg_notsupportdel	Can't be removed	Kan niet worden verwijderd
+msg_nottf	No TF Card Found	Geen geheugenkaart gevonden
+msg_otgeject	OTG Disconnected	OTG losgekoppeld
+msg_otginfoerr	Failed To Get Version Info	Versie-informatie ophalen mislukt
+msg_otginsert	OTG Connected	OTG verbonden
+msg_paircode	Bluetooth Code	Bluetooth-code
+msg_paired	Paired	Gekoppeld
+msg_playlistexist	Playlist Already Exists	Afspeellijst bestaat al
+msg_playlistfull	Could not create playlist	Afspeellijst kon niet worden gemaakt
+msg_poweroff	Shut Down?	Uitschakelen?
+msg_resetdbsuccess	Reset completed	Reset voltooid
+msg_restarting	Restarting	Opnieuw opstarten
+msg_shortpasswd	8 Digits PIN At Least	Pincode van minimaal 8 cijfers
+msg_start_download_task	start the download task	Download starten
+msg_stop_download_task	stop the download task	Download stoppen
+msg_testmode	Enter test mode?	Testmodus openen?
+msg_tfeject	TF Card Removed	Geheugenkaart verwijderd
+msg_tfinsert	TF Card Inserted	Geheugenkaart geplaatst
+msg_unpaired	Unpaired	Ontkoppeld
+msg_unpairing	unpair?	Ontkoppelen?
+msg_unsupportformat	Unsupported format	Niet-ondersteund formaat
+msg_update	Confirmed	Bevestigd
+msg_wificancelsave	Delete Record?	Record verwijderen?
+msg_wifidisconnect	Disconnect Now?	Nu verbinding verbreken?
+msg_yes	OK	OK
+navigation_all	All	Alles
+netservice_airplay	AirPlay	AirPlay
+netservice_dlna	DLNA	DLNA
+netservice_wifitrans	Wi-Fi File Transfer	Wi-Fi-bestandsoverdracht
+no_search	No search results	Geen zoekresultaten
+not_allmusic	Currently no songs	Nog geen nummers
+otgdownload_percent	FW Downloaded	Firmware gedownload
+outputway	Output Options	Uitvoeropties
+play_all	Play All	Alles afspelen
+player_abrepeat	AB Repeat	A-B-herhaling
+player_albuminfo	Look up Album	Album opzoeken
+player_bitdepth	Bit Depth	Bitdiepte
+player_bitrate	Bitrate	Bitrate
+player_delete	Delete Song	Nummer verwijderen
+player_encoding	Encoding	Codering
+player_era	Year	Jaar
+player_filesize	File Size	Bestandsgrootte
+player_location	Location	Locatie
+player_msgmul	*Affecting only files below 48khz	*Alleen voor bestanden onder 48 kHz
+player_multiple	Multiple Speed	Afspeelsnelheid
+player_nolyric	No Lyrics	Geen songtekst
+player_onlinesearch	Download Cover & Lyrics	Hoes en songtekst downloaden
+player_playlist	Queue	Wachtrij
+player_samplerate	Sample Rate	Samplefrequentie
+player_songerinfo	Look up Artist	Artiest opzoeken
+player_unknown	Unknown	Onbekend
+player_unknown	Unknown Artist	Onbekende artiest
+playlist	Playlist	Afspeellijst
+playlist_create	New playlist	Nieuwe afspeellijst
+playlist_export	Export playlist	Afspeellijst exporteren
+playlist_import	Import playlist	Afspeellijst importeren
+playmode_listplay	List Play	Lijst afspelen
+playmode_repeatall	Repeat All	Alles herhalen
+playmode_repeattrack	Repeat Track	Nummer herhalen
+playmode_shuffle	Shuffle	Willekeurig
+playset_balance	Channel Balance	Kanaalbalans
+playset_bootvol	Default Volume	Standaardvolume
+playset_covermode	Enlarged Album Art	Grote albumhoes
+playset_dsdoutput	DSD Output Mode	DSD-uitvoermodus
+playset_eq	EQ	EQ
+playset_filter	Digital Filters	Digitale filters
+playset_foldercover	Folder Album Cover	Maphoes
+playset_folderjump	Folder Skip	Map overslaan
+playset_gain	Gain	Versterking
+playset_gapless	Gapless	Gapless
+playset_maxvol	Max Volume	Max. volume
+playset_memplay	Memory Playback	Afspelen onthouden
+playset_noplay	Require Output (Beta)	Uitvoer vereist (bèta)
+playset_playmode	Play Mode	Afspeelmodus
+playset_replaygain	ReplayGain	ReplayGain
+playset_usbaudiovol	USB Audio Output	USB-audio-uitvoer
+playset_volcover	Volume and Album Display	Volume- en albumweergave
+powerm_deep_off	Standby	Stand-by
+powerm_sleep	Sleep Timer	Slaaptimer
+recentadd	Recently Added	Onlangs toegevoegd
+recentplay	Recent	Recent
+rename	Rename	Hernoemen
+renamesuccess	Successfully renamed	Hernoemen gelukt
+replaygain_track	Song	Nummer
+reset_factory	Full Factory Reset	Volledig fabrieksherstel
+reset_initdatabase	Reset Database	Database resetten
+reset_initset	Reset Settings Only	Alleen instellingen resetten
+scan_automatic	Automatic Update	Automatisch bijwerken
+scan_now	Scan music now	Muziek nu scannen
+scan_now	Scan music now	Muziek nu scannen
+scan_spec	Scan specified folders	Opgegeven mappen scannen
+scan_spec	Scan specified folders	Opgegeven mappen scannen
+scan_startscan	Scan	Scannen
+scan_updatefinish	Library Updated,%d Updated	Bibliotheek bijgewerkt, %d bijgewerkt
+scan_updating	Updating No.%d	Bijwerken nr. %d
+scover_cover	Cover	Hoes
+scover_lyric	Lyrics	Songtekst
+screenlock_about	Custom Lock Screen	Eigen vergrendelscherm
+screenlock_info1	1. Put the pictures in a folder named "lockscreenimage" at the top of the card.	1. Zet de afbeeldingen in een map met de naam "lockscreenimage" in de hoofdmap van de kaart.
+screenlock_info2	2. PNG or JPG, exactly 375 x 320 pixels, under 1 MB each.	2. PNG of JPG, precies 375 x 320 pixels, elk kleiner dan 1 MB.
+screenlock_info3	3. Up to 5 pictures.	3. Maximaal 5 afbeeldingen.
+screenlock_timeshow	Show Time	Tijd tonen
+search_tips1	Search for music,artists,albums,genres	Zoek naar muziek, artiesten, albums, genres
+search_track	Track	Nummer
+singerbyalbum	Sort by album artist	Sorteren op albumartiest
+singerbysong	Sort by song artist	Sorteren op nummerartiest
+small_album	Albums	Albums
+small_coverflow	Album Wall	Albumwand
+small_folder	Folder	Map
+small_local	Local Songs	Lokale nummers
+small_playing	Now Playing	Huidig nummer
+small_playset	Playback	Afspelen
+small_stream	Streaming	Streaming
+small_sysset	System	Systeem
+songer	Artist	Artiest
+sort_addtime	Time added	Toegevoegd op
+sort_alphabet	Alphabetical	Alfabetisch
+sort_filename	File name	Bestandsnaam
+sort_format	File format	Bestandsformaat
+sort_time_asc	Time added (ascending)	Toegevoegd op (oplopend)
+sort_time_desc	Time added (descending)	Toegevoegd op (aflopend)
+standbyoff_10min	10min	10 min
+standbyoff_1min	1min	1 min
+standbyoff_3min	3min	3 min
+standbyoff_5min	5min	5 min
+standbyoff_deep	Auto-standby	Automatische stand-by
+standbyoff_deepinfo	After 5 minute of idle,device will go into standby mode.	Na 5 minuten inactiviteit gaat het apparaat in stand-by.
+standbyoff_saver	Auto-shutdown	Automatisch uitschakelen
+synclink_off	Off	Uit
+system_about	About	Info
+system_carmode	In-Vehicle Mode	Automodus
+system_display	Display	Scherm
+system_general	General	Algemeen
+system_keylock	Buttons Lock	Knoppenvergrendeling
+system_keytone	Key Tone	Toetsgeluid
+system_language	Language	Taal
+system_navshow	Show Navigation Bar	Navigatiebalk tonen
+system_netservice	Network	Netwerk
+system_powermanager	Power	Energie
+system_prove	Certification	Certificering
+system_reset	Reset Settings	Instellingen resetten
+system_sys	System	Systeem
+system_time	Date & Time	Datum en tijd
+system_update	System Update	Systeemupdate
+system_wheelmode	Wheel Function	Wielfunctie
+system_wifiset	Wireless	Draadloos
+timedate_24h	24-Hour	24-uurs
+timedate_auto	Automatic Time Set	Tijd automatisch instellen
+timedate_manual	Set Time Manually	Tijd handmatig instellen
+timezone_gmt+1	(GMT+01:00)Europe/Amsterdam	(GMT+01:00)Europe/Amsterdam
+timezone_gmt+10	(GMT+10:00)Australia/Sydney	(GMT+10:00)Australia/Sydney
+timezone_gmt+12	(GMT+12:00)Pacific/Fiji	(GMT+12:00)Pacific/Fiji
+timezone_gmt+2	(GMT+02:00)Europe/Bucharest	(GMT+02:00)Europe/Bucharest
+timezone_gmt+3	(GMT+03:00)Asia/Kuwait	(GMT+03:00)Asia/Kuwait
+timezone_gmt+3_30	(GMT+03:30)Asia/Tehran	(GMT+03:30)Asia/Tehran
+timezone_gmt+4	(GMT+04:00)Asia/Muscat	(GMT+04:00)Asia/Muscat
+timezone_gmt+4_30	(GMT+04:30)Asia/Kabul	(GMT+04:30)Asia/Kabul
+timezone_gmt+5	(GMT+05:00)Asia/Karachi	(GMT+05:00)Asia/Karachi
+timezone_gmt+6	(GMT+06:00)Asia/Almaty	(GMT+06:00)Asia/Almaty
+timezone_gmt+7	(GMT+07:00)Asia/Bangkok	(GMT+07:00)Asia/Bangkok
+timezone_gmt+8	(GMT+08:00)Asia/Shanghai	(GMT+08:00)Asia/Shanghai
+timezone_gmt+9	(GMT+09:00)Asia/Tokyo	(GMT+09:00)Asia/Tokyo
+timezone_gmt+9_30	(GMT+09:30)Australia/Adelaide	(GMT+09:30)Australia/Adelaide
+timezone_gmt-0	(GMT 00:00)Europe/London	(GMT 00:00)Europe/London
+timezone_gmt-1	(GMT-01:00)Atlantic/Azores	(GMT-01:00)Atlantic/Azores
+timezone_gmt-10	(GMT-10:00)Pacific/Honolulu	(GMT-10:00)Pacific/Honolulu
+timezone_gmt-11	(GMT-11:00)Pacific/Midway	(GMT-11:00)Pacific/Midway
+timezone_gmt-12	(GMT-12:00)Pacific/Kwajalein	(GMT-12:00)Pacific/Kwajalein
+timezone_gmt-3	(GMT-03:00)America/Argentina/Buenos_Aires	(GMT-03:00)America/Argentina/Buenos_Aires
+timezone_gmt-3_30	(GMT-03:30)America/St_Johns	(GMT-03:30)America/St_Johns
+timezone_gmt-4	(GMT-04:00)Canada/Atlantic	(GMT-04:00)Canada/Atlantic
+timezone_gmt-5	(GMT-05:00)America/New_York	(GMT-05:00)America/New_York
+timezone_gmt-6	(GMT-06:00)America/Mexico_City	(GMT-06:00)America/Mexico_City
+timezone_gmt-7	(GMT-07:00)America/Denver	(GMT-07:00)America/Denver
+timezone_gmt-8	(GMT-08:00)America/Tijuana	(GMT-08:00)America/Tijuana
+timezone_gmt-9	(GMT-09:00)America/Anchorage	(GMT-09:00)America/Anchorage
+timezone_select	Time Zone Selection	Tijdzone kiezen
+title_downloaded	Downloaded	Gedownload
+title_downloading	Downloading	Downloaden
+title_more	More	Meer
+title_sort	List sort order	Sorteervolgorde
+update_online	Network update	Netwerkupdate
+update_tf	TF card update	Update via geheugenkaart
+usb_chargeswitch	USB DAC Charging	Opladen via USB-DAC
+usbmode_audio	USB AUDIO	USB-AUDIO
+usbmode_connect	USB Connected	USB verbonden
+usbmode_dac	USB DAC	USB DAC
+usbmode_disconnect	USB Disconnected	USB losgekoppeld
+usbmode_storge	USB Storage	USB-opslag
+usbvol_adjust	Volume Variable	Variabel volume
+usbvol_fixed	Volume Fixed	Vast volume
+wheelmode_menu	Menu Mode	Menumodus
+wheelmode_volume	Volume Mode	Volumemodus
+wifi_addnetwork	Add Network	Netwerk toevoegen
+wifi_choice	Select Network	Netwerk kiezen
+wifi_scan	Scanning	Zoeken
+wifiset_bt	Bluetooth	Bluetooth
+wifiset_synclink	SyncLink	SyncLink
+wifiset_wifi	Wi-Fi	Wi-Fi
+wifits_info1	Enter the following URL into your internet browser:	Voer de volgende URL in je browser in:
+Search	Search	Zoeken
+Streaming	Streaming	Streaming
+Library's Games	Library's Games	Bibliotheek → Games
+Library's Apps	Library's Apps	Bibliotheek → Apps
+Network settings	Network settings	Netwerkinstellingen
+Wait until the App Store finishes	Wait until the App Store finishes	Wacht tot de App Store klaar is
+It isn't on the card	It isn't on the card	Staat niet op de kaart
+It couldn't start	It couldn't start	Kon niet starten
+Stop %s	Stop %s	%s stoppen
+Loading…	Loading…	Laden…
+More…	More…	Meer…
+Working…	Working…	Bezig…
+Starting %s…	Starting %s…	%s starten…
+Retry	Retry	Opnieuw proberen
+Install it again in Library → App Store	Install it again in Library → App Store	Installeer opnieuw via Bibliotheek → App Store
+Cancel	Cancel	Annuleren
+%s isn't running	%s isn't running	%s is niet actief
+%s didn't answer	%s didn't answer	%s reageert niet
+Too long	Too long	Te lang
+%s stopped	%s stopped	%s gestopt
+%s isn't on the card	%s isn't on the card	%s staat niet op de kaart
+Apps	Apps	Apps
+No apps	No apps	Geen apps
+Not running	Not running	Niet actief
+No code yet	No code yet	Nog geen code
+Connect the Q2 to Wi-Fi	Connect the Q2 to Wi-Fi	Verbind de Q2 met Wi-Fi
+Open it again	Open it again	Open opnieuw
+Wait a moment	Wait a moment	Een ogenblik geduld
+Then come back here	Then come back here	Kom daarna hier terug
+Scan with your phone's	Scan with your phone's	Scan met de camera van
+Scan with your	Scan with your	Scan met de
+camera	camera	je telefoon
+phone's camera	phone's camera	telefooncamera
+or open	or open	of open
+PIN	PIN	PIN
+Couldn't import %s	Couldn't import %s	%s importeren mislukt
+Playlists updated	Playlists updated	Afspeellijsten bijgewerkt
+No memory card	No memory card	Geen geheugenkaart
+Games	Games	Games
+%d update	%d update	%d update
+%d updates	%d updates	%d updates
+INSTALL	INSTALL	INSTALLEREN
+UPDATE	UPDATE	BIJWERKEN
+INSTALLED	INSTALLED	GEÏNSTALLEERD
+AM	AM	AM
+PM	PM	PM
+Jan	Jan	Jan
+Feb	Feb	Feb
+Mar	Mar	Mrt
+Apr	Apr	Apr
+May	May	Mei
+Jun	Jun	Jun
+Jul	Jul	Jul
+Aug	Aug	Aug
+Sep	Sep	Sep
+Oct	Oct	Okt
+Nov	Nov	Nov
+Dec	Dec	Dec
+The card is in use over USB	The card is in use over USB	De kaart wordt via USB gebruikt
+Storage unavailable	Storage unavailable	Opslag niet beschikbaar
+The card is full	The card is full	De kaart is vol
+Couldn't save	Couldn't save	Opslaan mislukt
+Saved to battery-log.txt	Saved to battery-log.txt	Opgeslagen in battery-log.txt
+Battery History	Battery History	Batterijgeschiedenis
+Unplug to start	Unplug to start	Koppel los om te starten
+Export Log	Export Log	Logboek exporteren
+Card theme turned off after a failed start	Card theme turned off after a failed start	Kaartthema uitgeschakeld na een mislukte start
+Card theme removed. Restart to finish	Card theme removed. Restart to finish	Kaartthema verwijderd. Start opnieuw op om af te ronden
+Card theme file can't be used	Card theme file can't be used	Kaartthemabestand is onbruikbaar
+Card theme saved. Restart to apply	Card theme saved. Restart to apply	Kaartthema opgeslagen. Start opnieuw op om toe te passen
+Could not save card theme	Could not save card theme	Kaartthema kon niet worden opgeslagen
+Done	Done	Klaar
+space	space	spatie
+New Playlist	New Playlist	Nieuwe afspeellijst
+Playlist Name	Playlist Name	Naam afspeellijst
+Rename	Rename	Hernoemen
+Songs	Songs	Nummers
+Artists	Artists	Artiesten
+Albums	Albums	Albums
+Genres	Genres	Genres
+Off	Off	Uit
+On	On	Aan
+%d of %d songs	%d of %d songs	%d van %d nummers
+Updating Library	Updating Library	Bibliotheek bijwerken
+Connected	Connected	Verbonden
+Eject before disconnecting	Eject before disconnecting	Werp uit voor het loskoppelen
+%d:%02d AM	%d:%02d AM	%d:%02d AM
+%d:%02d PM	%d:%02d PM	%d:%02d PM
+Save	Save	Opslaan
+Sort: Album	Sort: Album	Sortering: Album
+Sort: Artist	Sort: Artist	Sortering: Artiest
+Sort: Recently Added	Sort: Recently Added	Sortering: Onlangs toegevoegd
+Sort: Most Played	Sort: Most Played	Sortering: Meest afgespeeld
+Sort: Random	Sort: Random	Sortering: Willekeurig
+Sort: Rating	Sort: Rating	Sortering: Beoordeling
+Sort: Year	Sort: Year	Sortering: Jaar
+%u song	%u song	%u nummer
+%u songs	%u songs	%u nummers
+All albums	All albums	Alle albums
+Preparing artwork… %d/%d	Preparing artwork… %d/%d	Hoezen voorbereiden… %d/%d
+Update Library first	Update Library first	Werk eerst de bibliotheek bij
+%u Song	%u Song	%u nummer
+%u Songs	%u Songs	%u nummers
+%u Album	%u Album	%u album
+%u Albums	%u Albums	%u albums
+%u Game	%u Game	%u game
+%u Games	%u Games	%u games
+%u Service	%u Service	%u dienst
+%u Services	%u Services	%u diensten
+%u.%u GB Free	%u.%u GB Free	%u,%u GB vrij
+Library	Library	Bibliotheek
+Settings	Settings	Instellingen
+Crossfade: %d s	Crossfade: %d s	Crossfade: %d s
+Crossfade: Off	Crossfade: Off	Crossfade: Uit
+Wheel Sensitivity: %d%%	Wheel Sensitivity: %d%%	Wielgevoeligheid: %d%%
+Resume Songs: %d min	Resume Songs: %d min	Nummers hervatten: %d min
+Resume Songs: Off	Resume Songs: Off	Nummers hervatten: Uit
+Night Shift: %dK	Night Shift: %dK	Night Shift: %dK
+Night Shift: Auto	Night Shift: Auto	Night Shift: Auto
+Night Shift: Off	Night Shift: Off	Night Shift: Uit
+Mono Audio	Mono Audio	Mono-audio
+Swap L/R	Swap L/R	L/R wisselen
+Crossfade needs Gapless	Crossfade needs Gapless	Crossfade vereist Gapless
+Auto	Auto	Auto
+Night Shift	Night Shift	Night Shift
+Resume Songs	Resume Songs	Nummers hervatten
+Wheel Sensitivity	Wheel Sensitivity	Wielgevoeligheid
+Crossfade	Crossfade	Crossfade
+Measuring song lengths…	Measuring song lengths…	Duur van nummers meten…
+Sudoku	Sudoku	Sudoku
+Solitaire	Solitaire	Solitaire
+Snake	Snake	Snake
+Paused	Paused	Gepauzeerd
+Continue	Continue	Doorgaan
+Quit	Quit	Stoppen
+New best!	New best!	Nieuw record!
+Game over	Game over	Game over
+Centre: play again	Centre: play again	Midden: opnieuw spelen
+Play/Pause: resume	Play/Pause: resume	Afspelen/Pauze: hervatten
+New game?	New game?	Nieuw spel?
+Centre: yes   Return: no	Centre: yes   Return: no	Midden: ja   Terug: nee
+Solved!	Solved!	Opgelost!
+Play/Pause: new game	Play/Pause: new game	Afspelen/Pauze: nieuw spel
+Score	Score	Score
+Best	Best	Record
+Level	Level	Level
+Centre	Centre	Midden
+You win!	You win!	Gewonnen!
+Shuffle	Shuffle	Willekeurig
+Era	Era	Decennium
+Ratings	Ratings	Beoordelingen
+Most Played	Most Played	Meest afgespeeld
+Long Songs	Long Songs	Lange nummers
+App Store	App Store	App Store
+Upload Scrobbles	Upload Scrobbles	Scrobbles uploaden
+Tidal Downloads	Tidal Downloads	Tidal-downloads
+Internet Radio	Internet Radio	Internetradio
+Configuration	Configuration	Configuratie
+Restart to apply?	Restart to apply?	Herstarten om toe te passen?
+Couldn't copy the language	Couldn't copy the language	Taal kopiëren mislukt
+Too many songs to shuffle	Too many songs to shuffle	Te veel nummers om willekeurig af te spelen
+Shuffle Songs	Shuffle Songs	Nummers willekeurig
+Shuffle Albums	Shuffle Albums	Albums willekeurig
+Shuffle Folders	Shuffle Folders	Mappen willekeurig
+Albums and folders take a moment to shuffle	Albums and folders take a moment to shuffle	Albums en mappen willekeurig afspelen duurt even
+No plays yet	No plays yet	Nog niets afgespeeld
+%u play	%u play	%u keer afgespeeld
+%u plays	%u plays	%u keer afgespeeld
+No downloads yet	No downloads yet	Nog geen downloads
+Clear All Downloads…	Clear All Downloads…	Alle downloads wissen…
+%u track	%u track	%u nummer
+%u tracks	%u tracks	%u nummers
+Remove Downloads?	Remove Downloads?	Downloads verwijderen?
+Keeps settings	Keeps settings	Instellingen blijven behouden
+Remove	Remove	Verwijderen
+It isn't on the card any more	It isn't on the card any more	Staat niet meer op de kaart
+%02ds	%02ds	jaren %02d
+%ds	%ds	%d's
+Era unavailable	Era unavailable	Decennium niet beschikbaar
+Album not found	Album not found	Album niet gevonden
+%u album	%u album	%u album
+%u albums	%u albums	%u albums
+Play All	Play All	Alles afspelen
+Every song, shuffled	Every song, shuffled	Alle nummers, willekeurig
+No dated albums yet	No dated albums yet	Nog geen albums met jaartal
+No songs over 10 minutes	No songs over 10 minutes	Geen nummers van meer dan 10 minuten
+Measuring songs… %d/%d	Measuring songs… %d/%d	Nummers meten… %d/%d
+Measuring songs…	Measuring songs…	Nummers meten…
+Release to search	Release to search	Laat los om te zoeken
+Pull to search	Pull to search	Trek om te zoeken
+Sleep Timer	Sleep Timer	Slaaptimer
+Lock Screen	Lock Screen	Scherm vergrendelen
+Accent	Accent	Accent
+Everything	Everything	Alles
+Buttons only	Buttons only	Alleen knoppen
+Volume only	Volume only	Alleen volume
+Wake: Single Press	Wake: Single Press	Wekken: Eén keer drukken
+Wake: Double Press	Wake: Double Press	Wekken: Twee keer drukken
+Artist View: Grid	Artist View: Grid	Artiestenweergave: Raster
+Artist View: Cover Flow	Artist View: Cover Flow	Artiestenweergave: Cover Flow
+Artist View: List	Artist View: List	Artiestenweergave: Lijst
+Year Order: Newest First	Year Order: Newest First	Jaarvolgorde: Nieuwste eerst
+Year Order: Oldest First	Year Order: Oldest First	Jaarvolgorde: Oudste eerst
+Artists: Artist	Artists: Artist	Artiesten: Artiest
+Artists: Album Artist	Artists: Album Artist	Artiesten: Albumartiest
+Resume on Connect: Off	Resume on Connect: Off	Hervatten bij verbinden: Uit
+Resume on Connect: On	Resume on Connect: On	Hervatten bij verbinden: Aan
+Clock: Standard	Clock: Standard	Klok: Standaard
+Clock: Large	Clock: Large	Klok: Groot
+Artist Album Order: Year	Artist Album Order: Year	Albumvolgorde artiest: Jaar
+Artist Album Order: A–Z	Artist Album Order: A–Z	Albumvolgorde artiest: A–Z
+Volume Guard: Off	Volume Guard: Off	Volumebeveiliging: Uit
+Volume Guard: On	Volume Guard: On	Volumebeveiliging: Aan
+Hold Return: Recent	Hold Return: Recent	Terug vasthouden: Recent
+Hold Return: Home	Hold Return: Home	Terug vasthouden: Start
+Standby Limit: Off	Standby Limit: Off	Stand-by-limiet: Uit
+Standby Limit: %u h	Standby Limit: %u h	Stand-by-limiet: %u u
+Refresh Cover Flow	Refresh Cover Flow	Cover Flow vernieuwen
+Playlist View: List	Playlist View: List	Afspeellijstweergave: Lijst
+Playlist View: Cover Flow	Playlist View: Cover Flow	Afspeellijstweergave: Cover Flow
+Update Notifications: Off	Update Notifications: Off	Updatemeldingen: Uit
+Update Notifications: On	Update Notifications: On	Updatemeldingen: Aan
+Album View: List	Album View: List	Albumweergave: Lijst
+Album View: Grid	Album View: Grid	Albumweergave: Raster
+Charge Limit (%u%%)	Charge Limit (%u%%)	Laadlimiet (%u%%)
+Resume on Connect	Resume on Connect	Hervatten bij verbinden
+Volume Guard	Volume Guard	Volumebeveiliging
+Control Device Volume	Control Device Volume	Volume van apparaat regelen
+Key Tone	Key Tone	Toetsgeluid
+In-Vehicle Mode	In-Vehicle Mode	Automodus
+Smart Wi-Fi	Smart Wi-Fi	Smart Wi-Fi
+Enlarged Album Art	Enlarged Album Art	Grote albumhoes
+Folder Album Cover	Folder Album Cover	Maphoes
+Fast Navigation	Fast Navigation	Snelle navigatie
+Scan Song Durations	Scan Song Durations	Nummerduur scannen
+Position Bar	Position Bar	Positiebalk
+Hide Streaming	Hide Streaming	Streaming verbergen
+Hide Folder	Hide Folder	Map verbergen
+Hide Apps	Hide Apps	Apps verbergen
+Hide Games	Hide Games	Games verbergen
+Hide App Store	Hide App Store	App Store verbergen
+Receive Audio	Receive Audio	Audio ontvangen
+Log Failed Artwork	Log Failed Artwork	Mislukte hoezen loggen
+Hide Duplicate Albums	Hide Duplicate Albums	Dubbele albums verbergen
+Hide Duplicate Songs	Hide Duplicate Songs	Dubbele nummers verbergen
+Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	Cover Flow bouwt de hoezen de volgende keer opnieuw op
+Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	Zet Bluetooth uit en weer aan om toe te passen
+Folder Root: %s	Folder Root: %s	Hoofdmap: %s
+Folder Root: Card	Folder Root: Card	Hoofdmap: Kaart
+Library & Folders	Library & Folders	Bibliotheek en mappen
+Press Centre to Change Mode	Press Centre to Change Mode	Druk op Midden om de modus te wijzigen
+Press Centre to Turn On or Off	Press Centre to Turn On or Off	Druk op Midden om in of uit te schakelen
+Press Centre When Finished	Press Centre When Finished	Druk op Midden als je klaar bent
+OK to Disconnect	OK to Disconnect	Veilig om los te koppelen
+Now Playing	Now Playing	Huidig nummer
+Cover Flow	Cover Flow	Cover Flow
+EQ	EQ	EQ
+Update Library	Update Library	Bibliotheek bijwerken
+Balance	Balance	Balans
+Home: Split	Home: Split	Start: Gesplitst
+Home: Full	Home: Full	Start: Volledig
+Home: Carousel	Home: Carousel	Start: Carrousel
+Battery: Icon	Battery: Icon	Batterij: Pictogram
+Battery: Percent	Battery: Percent	Batterij: Percentage
+Battery: Icon + Percent	Battery: Icon + Percent	Batterij: Pictogram + percentage
+Battery: Percent Inside	Battery: Percent Inside	Batterij: Percentage in pictogram
+Light Mode: Off	Light Mode: Off	Lichte modus: Uit
+Light Mode: On	Light Mode: On	Lichte modus: Aan
+Light Mode: Auto	Light Mode: Auto	Lichte modus: Auto
+Accent: Card Theme	Accent: Card Theme	Accent: Kaartthema
+Battery: Card Theme	Battery: Card Theme	Batterij: Kaartthema
+Light Mode: Card Theme	Light Mode: Card Theme	Lichte modus: Kaartthema
+Accent: %s	Accent: %s	Accent: %s
+Theme: %s	Theme: %s	Thema: %s
+Shortcut: None	Shortcut: None	Snelkoppeling: Geen
+Shortcut: %s	Shortcut: %s	Snelkoppeling: %s
+Rounded Corners	Rounded Corners	Afgeronde hoeken
+Smart Awake	Smart Awake	Smart Awake
+Centred Now Playing	Centred Now Playing	Huidig nummer gecentreerd
+Click With Headphones	Click With Headphones	Klik met koptelefoon
+Single Press Scrub	Single Press Scrub	Spoelen met één druk
+Time in Title	Time in Title	Tijd in titelbalk
+Set by the card theme	Set by the card theme	Ingesteld door het kaartthema
+Location	Location	Locatie
+Unknown	Unknown	Onbekend
+Appearance	Appearance	Weergave
+Controls	Controls	Bediening
+Theme	Theme	Thema
+Boot to: Rockbox	Boot to: Rockbox	Opstarten naar: Rockbox
+Boot to: Q2 Pod	Boot to: Q2 Pod	Opstarten naar: Q2 Pod
+Rockbox is not on the card	Rockbox is not on the card	Rockbox staat niet op de kaart
+Could not save boot choice	Could not save boot choice	Opstartkeuze kon niet worden opgeslagen
+No albums	No albums	Geen albums
+No artists	No artists	Geen artiesten
+No composers	No composers	Geen componisten
+No genres	No genres	Geen genres
+Chapter %d	Chapter %d	Hoofdstuk %d
+Chapters	Chapters	Hoofdstukken
+Could not read chapters	Could not read chapters	Hoofdstukken konden niet worden gelezen
+No embedded chapters	No embedded chapters	Geen ingebedde hoofdstukken
+Too long to read chapters on the Q2	Too long to read chapters on the Q2	Te lang om hoofdstukken op de Q2 te lezen
+Loading chapters…	Loading chapters…	Hoofdstukken laden…
+Spotify Cache: %s	Spotify Cache: %s	Spotify-cache: %s
+Tidal Cache: %s	Tidal Cache: %s	Tidal-cache: %s
+Erasing…	Erasing…	Wissen…
+Press again to erase login and cache	Press again to erase login and cache	Druk nogmaals om login en cache te wissen
+Erase Spotify Data	Erase Spotify Data	Spotify-gegevens wissen
+Could not save setting	Could not save setting	Instelling kon niet worden opgeslagen
+Streaming stopped	Streaming stopped	Streaming gestopt
+Wait for the one in progress	Wait for the one in progress	Wacht op het lopende proces
+Stop Streaming Services	Stop Streaming Services	Streamingdiensten stoppen
+No %s folder on the card	No %s folder on the card	Geen map %s op de kaart
+CFW. Version	CFW. Version	CFW-versie
+Update to %s	Update to %s	Bijwerken naar %s
+Latest firmware installed	Latest firmware installed	Nieuwste firmware geïnstalleerd
+Can't reach GitHub	Can't reach GitHub	GitHub niet bereikbaar
+No update for this build	No update for this build	Geen update voor deze build
+Can't write to the card	Can't write to the card	Schrijven naar de kaart niet mogelijk
+Download cancelled	Download cancelled	Download geannuleerd
+GitHub is busy, try later	GitHub is busy, try later	GitHub is druk, probeer het later
+The download was damaged, try again	The download was damaged, try again	De download was beschadigd, probeer opnieuw
+Downloading %d%%	Downloading %d%%	Downloaden %d%%
+Cancelling…	Cancelling…	Annuleren…
+Reconnecting…	Reconnecting…	Opnieuw verbinden…
+Verifying…	Verifying…	Controleren…
+Checking…	Checking…	Zoeken…
+Needs %u MB more space	Needs %u MB more space	%u MB extra ruimte nodig
+Update downloaded: use TF card update	Update downloaded: use TF card update	Update gedownload: gebruik Update via geheugenkaart
+Charge the battery first	Charge the battery first	Laad eerst de batterij op
+Can't start the download	Can't start the download	Download kan niet worden gestart
+Downloading…	Downloading…	Downloaden…
+Q2 Pod %s is out: System Update → Network update	Q2 Pod %s is out: System Update → Network update	Q2 Pod %s is uit: Systeemupdate → Netwerkupdate
+Downloading	Downloading	Downloaden
+Unpacking…	Unpacking…	Uitpakken…
+Installing…	Installing…	Installeren…
+Removing…	Removing…	Verwijderen…
+Connect to Wi-Fi to load the list	Connect to Wi-Fi to load the list	Verbind met Wi-Fi om de lijst te laden
+Checked just now	Checked just now	Zojuist gecontroleerd
+Checked %u min ago	Checked %u min ago	%u min geleden gecontroleerd
+Checked %u h ago	Checked %u h ago	%u u geleden gecontroleerd
+Press again to remove	Press again to remove	Druk nogmaals om te verwijderen
+Starts at power-on. Press again to install	Starts at power-on. Press again to install	Start bij het opstarten. Druk nogmaals om te installeren
+%d app can be updated	%d app can be updated	%d app kan worden bijgewerkt
+%d apps can be updated	%d apps can be updated	%d apps kunnen worden bijgewerkt
+All apps are up to date	All apps are up to date	Alle apps zijn up-to-date
+The download is not a usable app	The download is not a usable app	De download is geen bruikbare app
+Rockbox is ready. Find it on Home	Rockbox is ready. Find it on Home	Rockbox is klaar. Je vindt het op Start
+Rockbox Themes are ready in Rockbox's Theme Settings	Rockbox Themes are ready in Rockbox's Theme Settings	Rockbox-thema's staan klaar in de themainstellingen van Rockbox
+%s is ready in %s	%s is ready in %s	%s staat klaar in %s
+%s removed	%s removed	%s verwijderd
+Spotify's login and cache erased	Spotify's login and cache erased	Spotify-login en -cache gewist
+Stopped checking for updates	Stopped checking for updates	Zoeken naar updates gestopt
+Install Rockbox first	Install Rockbox first	Installeer eerst Rockbox
+Check for Updates	Check for Updates	Controleren op updates
+%d of %d	%d of %d	%d van %d
+Album lyrics	Album lyrics	Albumsongteksten
+LRCLIB stopped answering	LRCLIB stopped answering	LRCLIB reageert niet meer
+Cancelled	Cancelled	Geannuleerd
+%d saved	%d saved	%d opgeslagen
+%d not found	%d not found	%d niet gevonden
+%d already had lyrics	%d already had lyrics	%d hadden al een songtekst
+%d failed	%d failed	%d mislukt
+Album lyrics: no songs on the card	Album lyrics: no songs on the card	Albumsongteksten: geen nummers op de kaart
+Can't reach LRCLIB	Can't reach LRCLIB	LRCLIB niet bereikbaar
+Download Album Lyrics	Download Album Lyrics	Albumsongteksten downloaden
+Downloading %d of %d	Downloading %d of %d	Downloaden %d van %d
+No album songs on the card	No album songs on the card	Geen albumnummers op de kaart
+file exceeds 16384 bytes	file exceeds 16384 bytes	bestand groter dan 16384 bytes
+line exceeds 512 bytes	line exceeds 512 bytes	regel langer dan 512 bytes
+embedded NUL	embedded NUL	ingesloten NUL
+unsupported filter form	unsupported filter form	filtervorm niet ondersteund
+expected Preamp: <gain> dB	expected Preamp: <gain> dB	Preamp: <gain> dB verwacht
+preamp outside -60..24 dB or invalid number	preamp outside -60..24 dB or invalid number	preamp buiten -60..24 dB of ongeldig getal
+expected Channel: L, R or all	expected Channel: L, R or all	Channel: L, R of all verwacht
+only channels L, R and all are supported	only channels L, R and all are supported	alleen de kanalen L, R en all worden ondersteund
+unsupported command	unsupported command	opdracht niet ondersteund
+invalid filter label	invalid filter label	ongeldig filterlabel
+expected Filter [number]:	expected Filter [number]:	Filter [number]: verwacht
+expected ON or OFF	expected ON or OFF	ON of OFF verwacht
+unsupported filter type	unsupported filter type	filtertype niet ondersteund
+expected Fc <Hz> Hz Gain <dB> dB	expected Fc <Hz> Hz Gain <dB> dB	Fc <Hz> Hz Gain <dB> dB verwacht
+invalid frequency or gain number	invalid frequency or gain number	ongeldige frequentie of gain
+expected Q <number>	expected Q <number>	Q <number> verwacht
+peaking filter requires Q	peaking filter requires Q	peaking-filter vereist Q
+range: 20..20000 Hz, -24..24 dB, Q 0.1..10	range: 20..20000 Hz, -24..24 dB, Q 0.1..10	bereik: 20..20000 Hz, -24..24 dB, Q 0.1..10
+more than 30 bands	more than 30 bands	meer dan 30 banden
+summed preamp outside -60..24 dB	summed preamp outside -60..24 dB	opgetelde preamp buiten -60..24 dB
+L/R preamp differ by more than 12 dB	L/R preamp differ by more than 12 dB	L/R-preamp verschilt meer dan 12 dB
+out of memory	out of memory	onvoldoende geheugen
+cannot open file	cannot open file	bestand kan niet worden geopend
+file read failed	file read failed	bestand lezen mislukt
+EQ for 3.5 mm	EQ for 3.5 mm	EQ voor 3,5 mm
+EQ for 4.4 mm	EQ for 4.4 mm	EQ voor 4,4 mm
+EQ for USB	EQ for USB	EQ voor USB
+EQ for this Bluetooth device	EQ for this Bluetooth device	EQ voor dit Bluetooth-apparaat
+Auto (44.1: %.1f / 48: %.1f)	Auto (44.1: %.1f / 48: %.1f)	Auto (44.1: %.1f / 48: %.1f)
+Folder missing or unavailable	Folder missing or unavailable	Map ontbreekt of niet bereikbaar
+Out of memory; cannot list presets	Out of memory; cannot list presets	Onvoldoende geheugen; presets niet te tonen
+No presets found	No presets found	Geen presets gevonden
+Name not allowed; preset kept	Name not allowed; preset kept	Naam ongeldig; preset behouden
+Name taken; preset kept	Name taken; preset kept	Naam bezet; preset behouden
+Rename failed; preset kept	Rename failed; preset kept	Hernoemen mislukt; preset blijft
+Renamed to %.100s	Renamed to %.100s	Hernoemd naar %.100s
+Pop	Pop	Pop
+Rock	Rock	Rock
+Dance	Dance	Dance
+Blues	Blues	Blues
+Metal	Metal	Metal
+Vocal	Vocal	Zang
+Classical	Classical	Klassiek
+Jazz	Jazz	Jazz
+Preset loaded; choose Apply to activate	Preset loaded; choose Apply to activate	Preset geladen; kies Toepassen om te activeren
+Preset saved; active EQ unchanged	Preset saved; active EQ unchanged	Preset opgeslagen; actieve EQ ongewijzigd
+Save failed; settings unchanged	Save failed; settings unchanged	Opslaan mislukt; niets gewijzigd
+Switch failed; EQ unchanged	Switch failed; EQ unchanged	Wisselen mislukt; EQ ongewijzigd
+Applied	Applied	Toegepast
+Apply failed; active EQ unchanged	Apply failed; active EQ unchanged	Toepassen mislukt; actieve EQ ongewijzigd
+Reset; choose Apply to activate	Reset; choose Apply to activate	Reset; kies Toepassen
+Delete failed; preset kept	Delete failed; preset kept	Wissen mislukt; preset behouden
+Deleted %.100s; active EQ unchanged	Deleted %.100s; active EQ unchanged	%.100s verwijderd; actieve EQ ongewijzigd
+Line %u: %s	Line %u: %s	Regel %u: %s
+Cannot read preset; settings unchanged	Cannot read preset; settings unchanged	Preset niet te lezen; instellingen ongewijzigd
+Peaking	Peaking	Peaking
+Low shelf	Low shelf	Low shelf
+High shelf	High shelf	High shelf
+Apply changes	Apply changes	Wijzigingen toepassen
+Nothing to apply	Nothing to apply	Niets om toe te passen
+Reset to defaults	Reset to defaults	Standaardwaarden herstellen
+Enabled	Enabled	Ingeschakeld
+EQ per Output	EQ per Output	EQ per uitvoer
+Preamp	Preamp	Preamp
+Presets	Presets	Presets
+Band	Band	Band
+Channels	Channels	Kanalen
+Both	Both	Beide
+Left	Left	Links
+Right	Right	Rechts
+Type	Type	Type
+Frequency	Frequency	Frequentie
+Gain	Gain	Versterking
+Band %d Q	Band %d Q	Band %d Q
+Band %d Frequency (Hz)	Band %d Frequency (Hz)	Band %d Frequentie (Hz)
+Raise	Raise	Verhogen
+Lower	Lower	Verlagen
+Step	Step	Stap
+Delete %.100s? Confirm	Delete %.100s? Confirm	%.100s verwijderen? Bevestigen
+Replace existing preset? Confirm	Replace existing preset? Confirm	Preset vervangen? Bevestigen
+Cancel replacement	Cancel replacement	Vervangen annuleren
+Save as Manual %02d	Save as Manual %02d	Opslaan als Manual %02d
+Stock presets	Stock presets	Standaardpresets
+Import from SD /EQ	Import from SD /EQ	Importeren van SD /EQ
+Save editor preset	Save editor preset	Editorpreset opslaan
+Rename a preset	Rename a preset	Preset hernoemen
+Delete a preset	Delete a preset	Preset verwijderen
+Previous page	Previous page	Vorige pagina
+Next page	Next page	Volgende pagina
+Band %d	Band %d	Band %d
+Band %d Gain	Band %d Gain	Band %d Versterking
+Presets %d/%d	Presets %d/%d	Presets %d/%d
+Save failed; EQ unchanged	Save failed; EQ unchanged	Opslaan mislukt; EQ ongewijzigd
+Advanced	Advanced	Geavanceerd
+Enabled: On	Enabled: On	Ingeschakeld: Aan
+Enabled: Off	Enabled: Off	Ingeschakeld: Uit
+Low	Low	Laag
+Mid	Mid	Midden
+High	High	Hoog
+Simple	Simple	Eenvoudig
+No photos	No photos	Geen foto's
+All Photos	All Photos	Alle foto's
+Photos	Photos	Foto's
+Can't open this photo	Can't open this photo	Deze foto kan niet worden geopend
+%d of %d  %s	%d of %d  %s	%d van %d  %s
+Could not save folder speed	Could not save folder speed	Mapsnelheid kon niet worden opgeslagen
+Too long to play on the Q2: split it into parts	Too long to play on the Q2: split it into parts	Te lang om af te spelen op de Q2: splits het in delen
+Press again to restart	Press again to restart	Druk nogmaals om opnieuw te starten
+Could not save playlist	Could not save playlist	Afspeellijst kon niet worden opgeslagen
+Already in playlist	Already in playlist	Staat al in de afspeellijst
+Added to Playlist	Added to Playlist	Toegevoegd aan afspeellijst
+Search songs	Search songs	Nummers zoeken
+Editing: %s	Editing: %s	Bewerken: %s
+Add Songs: %s	Add Songs: %s	Nummers toevoegen: %s
+Song Actions: %s	Song Actions: %s	Nummeracties: %s
+Remove song?: %s	Remove song?: %s	Nummer verwijderen?: %s
+Add Songs	Add Songs	Nummers toevoegen
+Move Up	Move Up	Omhoog
+Move Down	Move Down	Omlaag
+Remove from Playlist	Remove from Playlist	Verwijderen uit afspeellijst
+Search: %s	Search: %s	Zoeken: %s
+No songs match	No songs match	Geen overeenkomende nummers
+Search for more songs	Search for more songs	Zoek naar meer nummers
+Delete Playlist?	Delete Playlist?	Afspeellijst verwijderen?
+Delete	Delete	Verwijderen
+Playlist deleted	Playlist deleted	Afspeellijst verwijderd
+Could not delete playlist	Could not delete playlist	Afspeellijst kon niet worden verwijderd
+Delete Playlist	Delete Playlist	Afspeellijst verwijderen
+Edit Playlist	Edit Playlist	Afspeellijst bewerken
+Queue unchanged	Queue unchanged	Wachtrij ongewijzigd
+Deselect All	Deselect All	Alles deselecteren
+Select All	Select All	Alles selecteren
+Export %d Playlist	Export %d Playlist	%d afspeellijst exporteren
+Export %d Playlists	Export %d Playlists	%d afspeellijsten exporteren
+Delete %d Playlist…	Delete %d Playlist…	%d afspeellijst verwijderen…
+Delete %d Playlists…	Delete %d Playlists…	%d afspeellijsten verwijderen…
+%d Selected	%d Selected	%d geselecteerd
+Select Playlists	Select Playlists	Afspeellijsten selecteren
+Playlists	Playlists	Afspeellijsten
+No Playlists	No Playlists	Geen afspeellijsten
+New Playlist…	New Playlist…	Nieuwe afspeellijst…
+Select Playlists…	Select Playlists…	Afspeellijsten selecteren…
+Import Playlists	Import Playlists	Afspeellijsten importeren
+Export	Export	Exporteren
+No other group	No other group	Geen andere groep
+Folder not found	Folder not found	Map niet gevonden
+All Songs	All Songs	Alle nummers
+Songs in Album	Songs in Album	Nummers in album
+Albums and Songs	Albums and Songs	Albums en nummers
+Songs in Folder	Songs in Folder	Nummers in map
+Folders	Folders	Mappen
+Folders and Songs	Folders and Songs	Mappen en nummers
+Play One Song	Play One Song	Eén nummer afspelen
+Play One Album	Play One Album	Eén album afspelen
+Repeat Song	Repeat Song	Nummer herhalen
+Repeat Album	Repeat Album	Album herhalen
+Repeat All	Repeat All	Alles herhalen
+Play One Folder	Play One Folder	Eén map afspelen
+Repeat Folder	Repeat Folder	Map herhalen
+Album	Album	Album
+Folder	Folder	Map
+Repeat	Repeat	Herhalen
+Group by	Group by	Groeperen op
+Play Next	Play Next	Hierna afspelen
+Add to Queue	Add to Queue	Toevoegen aan wachtrij
+Add to Favourites	Add to Favourites	Toevoegen aan favorieten
+Remove from Favourites	Remove from Favourites	Verwijderen uit favorieten
+Add to Playlist	Add to Playlist	Toevoegen aan afspeellijst
+Go to Album	Go to Album	Naar album
+Go to Artist	Go to Artist	Naar artiest
+Next Album	Next Album	Volgend album
+Previous Album	Previous Album	Vorig album
+Rate	Rate	Beoordelen
+Resume	Resume	Hervatten
+View Queue	View Queue	Wachtrij bekijken
+Go to Folder	Go to Folder	Naar map
+Rate Album	Rate Album	Album beoordelen
+Group by: Folder	Group by: Folder	Groeperen op: Map
+Group by: Album	Group by: Album	Groeperen op: Album
+Next Folder	Next Folder	Volgende map
+Previous Folder	Previous Folder	Vorige map
+Wheel: Volume	Wheel: Volume	Wiel: Volume
+Wheel: Brightness	Wheel: Brightness	Wiel: Helderheid
+Could not save Favourites	Could not save Favourites	Favorieten konden niet worden opgeslagen
+Added to Favourites	Added to Favourites	Toegevoegd aan favorieten
+Removed from Favourites	Removed from Favourites	Verwijderd uit favorieten
+Stopped	Stopped	Gestopt
+Can't play: %s	Can't play: %s	Kan niet afspelen: %s
+Can't play this station	Can't play this station	Deze zender kan niet worden afgespeeld
+Connecting…	Connecting…	Verbinden…
+Search is too long	Search is too long	Zoekopdracht is te lang
+Search stations	Search stations	Zenders zoeken
+Favourites	Favourites	Favorieten
+Featured	Featured	Uitgelicht
+Top Stations	Top Stations	Topzenders
+By Country	By Country	Per land
+By Genre	By Genre	Per genre
+Countries	Countries	Landen
+Connecting to Wi-Fi…	Connecting to Wi-Fi…	Verbinden met Wi-Fi…
+Directory unavailable	Directory unavailable	Overzicht niet beschikbaar
+No Wi-Fi	No Wi-Fi	Geen Wi-Fi
+No stations	No stations	Geen zenders
+No favourites	No favourites	Geen favorieten
+Rating not saved	Rating not saved	Beoordeling niet opgeslagen
+Ratings are full	Ratings are full	Beoordelingen zijn vol
+Favourite not sent to the app	Favourite not sent to the app	Favoriet niet naar de app gestuurd
+Unrated	Unrated	Niet beoordeeld
+1 Heart	1 Heart	1 hart
+%d Hearts	%d Hearts	%d harten
+%d of 5	%d of 5	%d van 5
+Album changed	Album changed	Album gewijzigd
+Favourite not saved	Favourite not saved	Favoriet niet opgeslagen
+This app has no favourites	This app has no favourites	Deze app heeft geen favorieten
+Top Rated	Top Rated	Hoogst beoordeeld
+Loved	Loved	Geliefd
+All Rated	All Rated	Alles beoordeeld
+Disliked	Disliked	Niet leuk
+No songs yet	No songs yet	Nog geen nummers
+Hold the heart on Now Playing to rate	Hold the heart on Now Playing to rate	Houd het hart op Huidig nummer ingedrukt om te beoordelen
+No rated albums yet	No rated albums yet	Nog geen beoordeelde albums
+Upload failed, %d sent	Upload failed, %d sent	Uploaden mislukt, %d verzonden
+Scrobbles sent: %d	Scrobbles sent: %d	Scrobbles verzonden: %d
+Nothing to upload	Nothing to upload	Niets om te uploaden
+Uploading scrobbles	Uploading scrobbles	Scrobbles uploaden
+Already uploading	Already uploading	Uploaden bezig
+Upload failed	Upload failed	Uploaden mislukt
+Connect to Wi-Fi first	Connect to Wi-Fi first	Verbind eerst met Wi-Fi
+Waiting for Spotify	Waiting for Spotify	Wachten op Spotify
+Spotify isn't on the card	Spotify isn't on the card	Spotify staat niet op de kaart
+See the Q2 Pod guide to add it	See the Q2 Pod guide to add it	Zie de Q2 Pod-handleiding om het toe te voegen
+Open Spotify on your phone	Open Spotify on your phone	Open Spotify op je telefoon
+and choose Q2	and choose Q2	en kies Q2
+Spotify refused this account	Spotify refused this account	Spotify heeft dit account geweigerd
+Its tracks can't play on the Q2	Its tracks can't play on the Q2	De nummers kunnen niet op de Q2 worden afgespeeld
+Playback didn't start	Playback didn't start	Afspelen is niet gestart
+Go back and try again	Go back and try again	Ga terug en probeer opnieuw
+Starting playback	Starting playback	Afspelen starten
+Update Spotify on the card	Update Spotify on the card	Werk Spotify op de kaart bij
+See the Q2 Pod guide	See the Q2 Pod guide	Zie de Q2 Pod-handleiding
+Nothing playing	Nothing playing	Er speelt niets
+Choose music in Spotify	Choose music in Spotify	Kies muziek in Spotify
+Liked Songs	Liked Songs	Leuk gevonden nummers
+Queue	Queue	Wachtrij
+Playback Settings	Playback Settings	Afspeelinstellingen
+Account	Account	Account
+Downloaded Tracks	Downloaded Tracks	Gedownloade nummers
+Downloads	Downloads	Downloads
+Tracks	Tracks	Nummers
+Open Spotify on your phone and choose Q2	Open Spotify on your phone and choose Q2	Open Spotify op je telefoon en kies Q2
+Both on the same Wi-Fi	Both on the same Wi-Fi	Beide op hetzelfde Wi-Fi-netwerk
+to browse on the Q2	to browse on the Q2	om te bladeren op de Q2
+Downloaded Playlists	Downloaded Playlists	Gedownloade afspeellijsten
+Download Progress	Download Progress	Downloadvoortgang
+Storage Management	Storage Management	Opslagbeheer
+Download Status	Download Status	Downloadstatus
+The latest download's progress	The latest download's progress	De voortgang van de laatste download
+for saved playlists and download controls	for saved playlists and download controls	voor opgeslagen afspeellijsten en downloadbediening
+Remove Playlists…	Remove Playlists…	Afspeellijsten verwijderen…
+Remove Tracks…	Remove Tracks…	Nummers verwijderen…
+Keeps login and settings	Keeps login and settings	Login en instellingen blijven behouden
+Track removal can make playlists incomplete	Track removal can make playlists incomplete	Nummers verwijderen kan afspeellijsten onvolledig maken
+Pause	Pause	Pauze
+Cancel Download	Cancel Download	Download annuleren
+Retry Failed	Retry Failed	Mislukte opnieuw proberen
+Update Download	Update Download	Download bijwerken
+Sign Out of Spotify?	Sign Out of Spotify?	Uitloggen bij Spotify?
+Sign Out	Sign Out	Uitloggen
+Nothing here	Nothing here	Hier is niets
+Selected	Selected	Geselecteerd
+Press to select	Press to select	Druk om te selecteren
+All	All	Alles
+One	One	Eén
+Download Liked Songs	Download Liked Songs	Leuk gevonden nummers downloaden
+Download Playlist	Download Playlist	Afspeellijst downloaden
+For offline listening	For offline listening	Om offline te luisteren
+Download Controls	Download Controls	Downloadbediening
+Update, retry, pause, resume or cancel	Update, retry, pause, resume or cancel	Bijwerken, opnieuw proberen, pauzeren, hervatten of annuleren
+Remove Selected…	Remove Selected…	Selectie verwijderen…
+Confirm the affected count	Confirm the affected count	Bevestig het aantal
+Spotify isn't running	Spotify isn't running	Spotify is niet actief
+Spotify didn't answer	Spotify didn't answer	Spotify reageert niet
+Search Spotify	Search Spotify	Spotify doorzoeken
+Select Tracks	Select Tracks	Nummers selecteren
+Select at least one item	Select at least one item	Selecteer minstens één item
+Selection full. Remove these first	Selection full. Remove these first	Selectie vol. Verwijder eerst deze
+Boot logo must be a 320x375 JPEG	Boot logo must be a 320x375 JPEG	Opstartlogo moet een JPEG van 320x375 zijn
+Could not save boot logo	Could not save boot logo	Opstartlogo kon niet worden opgeslagen
+Accent: Graphite	Accent: Graphite	Accent: Grafiet
+Accent: Crimson	Accent: Crimson	Accent: Karmozijn
+Accent: Tidal	Accent: Tidal	Accent: Tidal
+Accent: Champagne	Accent: Champagne	Accent: Champagne
+Accent: Cobalt	Accent: Cobalt	Accent: Kobalt
+Accent: Tangerine	Accent: Tangerine	Accent: Mandarijn
+Accent: Plum	Accent: Plum	Accent: Pruim
+Accent: Ivory	Accent: Ivory	Accent: Ivoor
+Accent: Green	Accent: Green	Accent: Groen
+Favorites	Favorites	Favorieten
+Rated Albums	Rated Albums	Beoordeelde albums
+Podcasts	Podcasts	Podcasts
+Audiobooks	Audiobooks	Luisterboeken
+Groovebox can't start from the card	Groovebox can't start from the card	Groovebox kan niet vanaf de kaart starten
+Groovebox is not on the card	Groovebox is not on the card	Groovebox staat niet op de kaart
+Play a Tidal album or playlist first	Play a Tidal album or playlist first	Speel eerst een Tidal-album of -afspeellijst af
+Downloading %u of %u. Press to stop	Downloading %u of %u. Press to stop	Downloaden %u van %u. Druk om te stoppen
+Download Playing Songs	Download Playing Songs	Huidige nummers downloaden
+Tidal Cache full: %u of %u song saved	Tidal Cache full: %u of %u song saved	Tidal-cache vol: %u van %u nummer opgeslagen
+Tidal Cache full: %u of %u songs saved	Tidal Cache full: %u of %u songs saved	Tidal-cache vol: %u van %u nummers opgeslagen
+Downloaded %u of %u song	Downloaded %u of %u song	%u van %u nummer gedownload
+Downloaded %u of %u songs	Downloaded %u of %u songs	%u van %u nummers gedownload
+Nothing to play next	Nothing to play next	Niets om hierna af te spelen
+Queue changed	Queue changed	Wachtrij gewijzigd
+Never	Never	Nooit
+USB DAC Charging: %s	USB DAC Charging: %s	Opladen via USB-DAC: %s
+Spectrum	Spectrum	Spectrum
+Oscilloscope	Oscilloscope	Oscilloscoop
+VU Meters	VU Meters	VU-meters
+Halo	Halo	Halo
+Pulsar	Pulsar	Pulsar
+Contour	Contour	Contour
+More	More	Meer
+A-B Repeat	A-B Repeat	A-B-herhaling
+Speed	Speed	Snelheid
+*Only for 48 kHz and below	*Only for 48 kHz and below	*Alleen tot 48 kHz
+No lyrics	No lyrics	Geen songtekst
+Genre	Genre	Genre
+Size	Size	Grootte
+Year	Year	Jaar
+Format	Format	Formaat
+Bit Depth	Bit Depth	Bitdiepte
+Bit Rate	Bit Rate	Bitrate
+Sample Rate	Sample Rate	Samplefrequentie
+Auto Scan	Auto Scan	Auto-scan
+Update Library Now	Update Library Now	Bibliotheek nu bijwerken
+Scan Folders	Scan Folders	Mappen scannen
+OK	OK	OK
+Bluetooth	Bluetooth	Bluetooth
+Key Lock	Key Lock	Knoppenvergrendeling
+Low Gain	Low Gain	Lage versterking
+USB Storage	USB Storage	USB-opslag
+Playback	Playback	Afspelen
+Custom	Custom	Aangepast
+Reset	Reset	Resetten
+Open this address in a browser:	Open this address in a browser:	Open dit adres in een browser:
+Downloaded	Downloaded	Gedownload
+Baidu Netdisk	Baidu Netdisk	Baidu Netdisk
+Sign In	Sign In	Inloggen
+Scan with the Baidu app to sign in	Scan with the Baidu app to sign in	Scan met de Baidu-app om in te loggen
+Baidu encryption protects your privacy	Baidu encryption protects your privacy	Baidu-versleuteling beschermt je privacy
+Bluetooth RF test: connect from a computer	Bluetooth RF test: connect from a computer	Bluetooth-RF-test: verbind vanaf een computer
+Press Next to exit	Press Next to exit	Druk op Volgende om te sluiten
+Brightness Test	Brightness Test	Helderheidstest
+Next	Next	Volgende
+Bluetooth Test	Bluetooth Test	Bluetooth-test
+Down	Down	Omlaag
+Up	Up	Omhoog
+Swipe Left	Swipe Left	Veeg naar links
+Swipe Right	Swipe Right	Veeg naar rechts
+Key Test	Key Test	Knoppentest
+Headphone Test	Headphone Test	Koptelefoontest
+Plug in single-ended headphones	Plug in single-ended headphones	Sluit een niet-gebalanceerde koptelefoon aan
+Play (left male, right female)	Play (left male, right female)	Afspelen (links mannenstem, rechts vrouwenstem)
+Bluetooth Receiver Test	Bluetooth Receiver Test	Bluetooth-ontvangertest
+Battery Test	Battery Test	Batterijtest
+Battery:	Battery:	Batterij:
+Charging:	Charging:	Opladen:
+microSD Test	microSD Test	microSD-test
+Touch Test	Touch Test	Aanraaktest
+Wi-Fi Test	Wi-Fi Test	Wi-Fi-test
+Artist	Artist	Artiest
+Export Playlists	Export Playlists	Afspeellijsten exporteren
+Playlist	Playlist	Afspeellijst
+0 songs	0 songs	0 nummers
+System	System	Systeem
+Rockbox	Rockbox	Rockbox
+Baker Island	Baker Island	Bakereiland
+Midway	Midway	Midway
+Honolulu	Honolulu	Honolulu
+Anchorage	Anchorage	Anchorage
+Los Angeles	Los Angeles	Los Angeles
+Denver	Denver	Denver
+Mexico City	Mexico City	Mexico-Stad
+New York	New York	New York
+Halifax	Halifax	Halifax
+St. John's	St. John's	St. John's
+Buenos Aires	Buenos Aires	Buenos Aires
+Azores	Azores	Azoren
+London	London	Londen
+Amsterdam	Amsterdam	Amsterdam
+Bucharest	Bucharest	Boekarest
+Kuwait	Kuwait	Koeweit
+Tehran	Tehran	Teheran
+Muscat	Muscat	Muscat
+Kabul	Kabul	Kaboel
+Karachi	Karachi	Karachi
+Dhaka	Dhaka	Dhaka
+Bangkok	Bangkok	Bangkok
+Shanghai	Shanghai	Sjanghai
+Tokyo	Tokyo	Tokio
+Adelaide	Adelaide	Adelaide
+Sydney	Sydney	Sydney
+Fiji	Fiji	Fiji
+Marquesas	Marquesas	Marquesas
+South Georgia	South Georgia	Zuid-Georgia
+Colombo	Colombo	Colombo
+Kathmandu	Kathmandu	Kathmandu
+Yangon	Yangon	Yangon
+Eucla	Eucla	Eucla
+L. Howe	L. Howe	L. Howe
+Noumea	Noumea	Nouméa
+Chatham	Chatham	Chatham
+Tongatapu	Tongatapu	Tongatapu
+Kiritimati	Kiritimati	Kiritimati
+Chicago	Chicago	Chicago
+Phoenix	Phoenix	Phoenix
+Kolkata	Kolkata	Kolkata
+Brisbane	Brisbane	Brisbane
+Auckland	Auckland	Auckland
+Status Bar	Status Bar	Statusbalk
+Minimal	Minimal	Minimal
+Modern	Modern	Modern
+Classic	Classic	Classic
+Show Wordmark	Show Wordmark	Woordmerk tonen
+Library on Home	Library on Home	Bibliotheek op Start
+Row Preview	Row Preview	Rijvoorbeeld
+Row Art	Row Art	Rijafbeelding
+Classic Blue	Classic Blue	Classic blauw

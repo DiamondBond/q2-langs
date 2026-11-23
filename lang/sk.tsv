@@ -1,0 +1,1181 @@
+# Slovenčina
+History_record	History record	História
+about_cardcap	Card Capacity	Kapacita karty
+about_cardremain	Remaining	Zostáva
+about_ipaddr	IP Address	Adresa IP
+about_model	Model	Model
+about_more	*Our sincere thanks go to the DiamondBond team and all its enthusiasts for their ingenuity, outstanding solutions, and generous contributions.	*Úprimne ďakujeme tímu DiamondBond a všetkým jeho nadšencom za vynaliezavosť, vynikajúce riešenia a štedrý prínos.
+about_sn	Serial Number	Sériové číslo
+about_version	Version	Verzia
+about_wifimac	Wi-Fi MAC	MAC adresa Wi-Fi
+album	Album	Album
+album	Album	Album
+albumsinger	Album artist	Interpret albumu
+allmusic	All Songs	Všetky skladby
+audio_settings	Audio settings	Nastavenia zvuku
+baidu_login	Log In	Prihlásiť sa
+baidu_login_tips1	Please use Baidu Netdisk or Baidu App to scan the code to login	Naskenujte kód v aplikácii Baidu Netdisk alebo Baidu a prihláste sa
+baidu_login_tips2	Baidu encryption technology protects your privacy and security	Šifrovanie Baidu chráni vaše súkromie a bezpečnosť
+baidu_loginout	Log Out	Odhlásiť sa
+baidunet_floderinfo_failed	Failed to get file list	Nepodarilo sa získať zoznam súborov
+batch_addplaylist	Add to Playlist	Pridať do playlistu
+bt_adjvol	Bluetooth Headset Volume Control	Ovládanie hlasitosti slúchadiel Bluetooth
+bt_compatiabledev	Compatible Device	Kompatibilné zariadenie
+bt_name	Bluetooth Name	Názov Bluetooth
+bt_paireddev	Paired Device	Spárované zariadenie
+bt_quality	Quality	Kvalita
+bt_search	Scan now	Hľadať teraz
+btcode_aac	AAC	AAC
+btcode_aptx	aptX	aptX
+btcode_aptxhd	aptX HD	aptX HD
+btcode_ldacauto	LDAC Connection (auto)	Pripojenie LDAC (auto)
+btcode_ldachq	LDAC HQ	LDAC HQ
+btcode_ldacst	LDAC Standard	LDAC štandardný
+btcode_sbc	SBC	SBC
+btcode_sbchq	SBC HQ	SBC HQ
+custom_eq	Custom	Vlastný
+display_backlight	Brightness	Jas
+display_lighttime	Screen Off Time	Vypnutie displeja
+display_screenlock	Lock Screen	Zamknutá obrazovka
+dsdmode_d2p	D2P	D2P
+dsdmode_dop	DOP	DOP
+dsdmode_native	Native	Natívny
+eq_blues	Blues	Blues
+eq_classical	Classical	Klasika
+eq_club	Club	Klub
+eq_custom1	Custom1	Vlastný 1
+eq_custom2	Custom2	Vlastný 2
+eq_custom3	Custom3	Vlastný 3
+eq_dance	Dance	Dance
+eq_doublebass	Sub-bass	Subbas
+eq_jazz	Jazz	Jazz
+eq_metal	Metal	Metal
+eq_only48kmsg	EQ only for files below 48kHz.	EQ len pre súbory pod 48 kHz.
+eq_pop	Pop	Pop
+eq_reset	Reset	Obnoviť
+eq_rock	Rock	Rock
+eq_vocal	Vocal	Vokál
+fav	My Fav	Obľúbené
+filter_delayfast	Low Delay Fast Roll-off	Nízke oneskorenie, rýchly priebeh
+filter_delayslow	Low Delay Slow Roll-off	Nízke oneskorenie, pomalý priebeh
+filter_fast	Fast Roll-off	Rýchly priebeh
+filter_slow	Slow Roll-off	Pomalý priebeh
+frequentplay	Frequent	Často
+gain_high	High	Vysoké
+gain_low	Low	Nízke
+genre	Genre	Žáner
+genre_statistics	Total %d songs	Skladieb: %d
+hr	Hi-Res	Hi-Res
+keyboard_keyword	Please enter keyword	Zadajte kľúčové slovo
+keyboard_netname	Please enter network name	Zadajte názov siete
+keyboard_password	Please enter password	Zadajte heslo
+keylock_all	Lock Volume & Buttons	Zamknúť hlasitosť a tlačidlá
+keylock_info	Only effective when the screen is off	Platí len pri vypnutom displeji
+keylock_info2	Effective on Lockscreen and when Screen Off	Platí na zamknutej obrazovke a pri vypnutom displeji
+keylock_key	Lock Buttons Only	Zamknúť iba tlačidlá
+keylock_volume	Lock Volume Only	Zamknúť iba hlasitosť
+lan_english	English	English
+lan_french	Français	Français
+lan_german	Deutsch	Deutsch
+lan_italian	Italiano	Italiano
+lan_japanese	日本語	日本語
+lan_korean	한국어	한국어
+lan_polish	Polski	Polski
+lan_russian	Русский	Русский
+lan_simplified	简体中文	简体中文
+lan_spanish	español	español
+lan_thai	ภาษาไทย	ภาษาไทย
+lan_traditional	繁體中文	繁體中文
+lan_ukrainian	Українська	Українська
+lighttime_15s	15s	15 s
+lighttime_1min	1min	1 min
+lighttime_2min	2min	2 min
+lighttime_30min	30min	30 min
+lighttime_30s	30s	30 s
+lighttime_5min	5min	5 min
+lighttime_lyricmode	Lyrics mode	Režim textov
+lighttime_off	Off	Vyp.
+list_baidu	Baidu Netdisk	Baidu Netdisk
+list_tidal	TIDAL	TIDAL
+local_album	Albums	Albumy
+local_allmusic	Local Songs	Lokálne skladby
+local_allsongs	Songs	Skladby
+local_fav	My Fav	Obľúbené
+local_frequentplay	Frequent	Často
+local_genre	Genres	Žánre
+local_hr	Hi-Res	Hi-Res
+local_playlist	Playlists	Playlisty
+local_recentadd	Recently Added	Nedávno pridané
+local_recentplay	Recent	Nedávne
+local_songer	Artists	Interpreti
+local_upmusic	Update Library	Aktualizovať knižnicu
+login_out	Logout	Odhlásiť sa
+memplay_location	Location	Umiestnenie
+memplay_off	Off	Vyp.
+memplay_track	Track	Skladba
+msg_actionnotsupport	Non-local songs,not currently supported	Skladby mimo zariadenia momentálne nie sú podporované
+msg_actionscan	Scan music?	Skenovať hudbu?
+msg_add_task	Please enter the URL of the file you want to download	Zadajte adresu URL súboru, ktorý chcete stiahnuť
+msg_addfailed	Adding Failed	Pridanie zlyhalo
+msg_addfavsuccess	Added To Fav	Pridané do obľúbených
+msg_addplaylistsuccess	Added To Playlist	Pridané do playlistu
+msg_autoshutdown	Shutdown	Vypnutie
+msg_btabnormal	Bluetooth abnormal	Chyba Bluetooth
+msg_btinit_run	Bluetooth Starting	Bluetooth sa spúšťa
+msg_btreconnect	Reconnect Bluetooth?	Znova pripojiť Bluetooth?
+msg_cardeject	Audio Disconnected	Zvuk odpojený
+msg_cardinsert	Audio Connected	Zvuk pripojený
+msg_checkfw	Checking FW	Kontrola firmvéru
+msg_checkfwerr	FW. Check Error	Kontrola firmvéru zlyhala
+msg_closesynclink	Please close SyncLink	Zatvorte SyncLink
+msg_confirmupdate	Confirm Update?	Aktualizovať?
+msg_connected	Connected	Pripojené
+msg_connecting	Connecting	Pripája sa
+msg_delalbum	Delete Album?	Odstrániť album?
+msg_delalbumfailed	Failed To Delete Album	Album sa nepodarilo odstrániť
+msg_delalbumsuccess	Album Deleted	Album bol odstránený
+msg_delartist	Delete Artist?	Odstrániť interpreta?
+msg_delartistsuccess	Artist Deleted	Interpret bol odstránený
+msg_delete_task	Are you sure you want to delete the download task?	Naozaj chcete odstrániť úlohu sťahovania?
+msg_deletesource	Also delete source file	Odstrániť aj zdrojový súbor
+msg_delfile	Are you sure you want to delete this file?	Naozaj chcete odstrániť tento súbor?
+msg_delfile	Delete File?	Odstrániť súbor?
+msg_delfilefailed	Failed To Delete File	Súbor sa nepodarilo odstrániť
+msg_delfilesuccess	File Deleted	Súbor bol odstránený
+msg_delgenre	Delete Genre?	Odstrániť žáner?
+msg_delgenresuccess	Genre Deleted	Žáner bol odstránený
+msg_delplaylist	Delete Playlist?	Odstrániť playlist?
+msg_delplaylistfailed	Failed To Delete Playlist	Playlist sa nepodarilo odstrániť
+msg_delplaylistsuccess	Playlist Deleted	Playlist bol odstránený
+msg_delsong	Delete Song?	Odstrániť skladbu?
+msg_delsongfailed	Failed To Delete Song	Skladbu sa nepodarilo odstrániť
+msg_delsongsuccess	Song Deleted	Skladba bola odstránená
+msg_disconnected	Disconnected	Odpojené
+msg_disonnectbt	Please disconnect the bluetooth device	Odpojte zariadenie Bluetooth
+msg_downloadpath	Download path is	Cesta sťahovania:
+msg_exist_task	The download task already exists	Úloha sťahovania už existuje
+msg_exitairplay	Quit AirPlay?	Ukončiť AirPlay?
+msg_exportplaylist	Export Playlist?	Exportovať playlist?
+msg_exportsuccess	Export successful	Export bol úspešný
+msg_factorysuccess	Restore to factory settings succeeded	Továrenské nastavenia boli obnovené
+msg_favsuccess	Added To Fav	Pridané do obľúbených
+msg_file_exist	The file already exists	Súbor už existuje
+msg_importplaylist	Import Playlists?	Importovať playlisty?
+msg_importsuccess	Successfully imported	Import bol úspešný
+msg_initsetsuccess	All settings initialized successfully	Všetky nastavenia boli obnovené
+msg_latestfw	Latest Fw. Installed	Máte najnovší firmvér
+msg_linkerror	WiFi Connection Error	Chyba pripojenia Wi-Fi
+msg_lowarn	Line Out sets max volume,continue?	Line Out nastaví maximálnu hlasitosť. Pokračovať?
+msg_lowpower	Low Battery	Slabá batéria
+msg_namenull	The name can't be empty	Názov nesmie byť prázdny
+msg_netnameerr	Network Must Be Named	Sieť musí mať názov
+msg_no	Cancel	Zrušiť
+msg_no_storage	Storage is full.Some songs couldn't be added.	Úložisko je plné. Niektoré skladby sa nepodarilo pridať.
+msg_noheadset	Playback is disabled without headphones.Please insert headphones.	Bez slúchadiel je prehrávanie vypnuté. Pripojte slúchadlá.
+msg_nosongs	No songs in this folder	V tomto priečinku nie sú žiadne skladby
+msg_notalbuminfo	This file has no Album data	Tento súbor nemá údaje o albume
+msg_notfile	File Not Found	Súbor sa nenašiel
+msg_notfolder	Folder not found	Priečinok sa nenašiel
+msg_notfoundfw	Fw. Not Found	Firmvér sa nenašiel
+msg_notmemory	Memory is not enough	Nedostatok pamäte
+msg_notmemory	Out of memory	Nedostatok pamäte
+msg_notnetwork	Network Disconnected	Sieť odpojená
+msg_nototg	No OTG Found	OTG sa nenašlo
+msg_notplaylist	Playlist Not Found	Playlist sa nenašiel
+msg_notsongerinfo	This file has no Artist data	Tento súbor nemá údaje o interpretovi
+msg_notsonglist	No Song List	Žiadny zoznam skladieb
+msg_notspecdir	Folder not specified	Priečinok nie je zadaný
+msg_notsupport	Not Supported	Nepodporované
+msg_notsupportdel	Can't be removed	Nedá sa odstrániť
+msg_nottf	No TF Card Found	Karta microSD sa nenašla
+msg_otgeject	OTG Disconnected	OTG odpojené
+msg_otginfoerr	Failed To Get Version Info	Informácie o verzii sa nepodarilo získať
+msg_otginsert	OTG Connected	OTG pripojené
+msg_paircode	Bluetooth Code	Kód Bluetooth
+msg_paired	Paired	Spárované
+msg_playlistexist	Playlist Already Exists	Playlist už existuje
+msg_playlistfull	Could not create playlist	Playlist sa nepodarilo vytvoriť
+msg_poweroff	Shut Down?	Vypnúť?
+msg_resetdbsuccess	Reset completed	Resetovanie dokončené
+msg_restarting	Restarting	Reštartuje sa
+msg_shortpasswd	8 Digits PIN At Least	PIN: aspoň 8 číslic
+msg_start_download_task	start the download task	Naozaj spustiť úlohu sťahovania?
+msg_stop_download_task	stop the download task	Naozaj zastaviť úlohu sťahovania?
+msg_testmode	Enter test mode?	Prejsť do testovacieho režimu?
+msg_tfeject	TF Card Removed	Karta microSD bola vybratá
+msg_tfinsert	TF Card Inserted	Karta microSD bola vložená
+msg_unpaired	Unpaired	Spárovanie zrušené
+msg_unpairing	unpair?	Zrušiť spárovanie?
+msg_unsupportformat	Unsupported format	Nepodporovaný formát
+msg_update	Confirmed	Potvrdené
+msg_wificancelsave	Delete Record?	Odstrániť záznam?
+msg_wifidisconnect	Disconnect Now?	Odpojiť teraz?
+msg_yes	OK	OK
+navigation_all	All	Všetko
+netservice_airplay	AirPlay	AirPlay
+netservice_dlna	DLNA	DLNA
+netservice_wifitrans	Wi-Fi File Transfer	Prenos súborov cez Wi-Fi
+no_search	No search results	Žiadne výsledky hľadania
+not_allmusic	Currently no songs	Zatiaľ žiadne skladby
+otgdownload_percent	FW Downloaded	Firmvér stiahnutý
+outputway	Output Options	Možnosti výstupu
+play_all	Play All	Prehrať všetko
+player_abrepeat	AB Repeat	Opakovanie A-B
+player_albuminfo	Look up Album	Vyhľadať album
+player_bitdepth	Bit Depth	Bitová hĺbka
+player_bitrate	Bitrate	Dátový tok
+player_delete	Delete Song	Odstrániť skladbu
+player_encoding	Encoding	Kódovanie
+player_era	Year	Rok
+player_filesize	File Size	Veľkosť súboru
+player_location	Location	Umiestnenie
+player_msgmul	*Affecting only files below 48khz	*Platí len pre súbory pod 48 kHz
+player_multiple	Multiple Speed	Rýchlosť prehrávania
+player_nolyric	No Lyrics	Bez textu
+player_onlinesearch	Download Cover & Lyrics	Stiahnuť obal a text
+player_playlist	Queue	Poradie
+player_samplerate	Sample Rate	Vzorkovacia frekvencia
+player_songerinfo	Look up Artist	Vyhľadať interpreta
+player_unknown	Unknown	Neznáme
+player_unknown	Unknown Artist	Neznámy interpret
+playlist	Playlist	Playlist
+playlist_create	New playlist	Nový playlist
+playlist_export	Export playlist	Exportovať playlist
+playlist_import	Import playlist	Importovať playlist
+playmode_listplay	List Play	Prehrať zoznam
+playmode_repeatall	Repeat All	Opakovať všetko
+playmode_repeattrack	Repeat Track	Opakovať skladbu
+playmode_shuffle	Shuffle	Náhodne
+playset_balance	Channel Balance	Vyváženie kanálov
+playset_bootvol	Default Volume	Predvolená hlasitosť
+playset_covermode	Enlarged Album Art	Veľký obal albumu
+playset_dsdoutput	DSD Output Mode	Výstupný režim DSD
+playset_eq	EQ	EQ
+playset_filter	Digital Filters	Digitálne filtre
+playset_foldercover	Folder Album Cover	Obal albumu z priečinka
+playset_folderjump	Folder Skip	Preskočenie priečinka
+playset_gain	Gain	Zosilnenie
+playset_gapless	Gapless	Bez medzier
+playset_maxvol	Max Volume	Max. hlasitosť
+playset_memplay	Memory Playback	Zapamätať prehrávanie
+playset_noplay	Require Output (Beta)	Vyžadovať výstup (beta)
+playset_playmode	Play Mode	Režim prehrávania
+playset_replaygain	ReplayGain	ReplayGain
+playset_usbaudiovol	USB Audio Output	Zvukový výstup USB
+playset_volcover	Volume and Album Display	Hlasitosť a obal albumu
+powerm_deep_off	Standby	Pohotovosť
+powerm_sleep	Sleep Timer	Časovač vypnutia
+recentadd	Recently Added	Nedávno pridané
+recentplay	Recent	Nedávne
+rename	Rename	Premenovať
+renamesuccess	Successfully renamed	Premenované
+replaygain_track	Song	Skladba
+reset_factory	Full Factory Reset	Úplný továrenský reset
+reset_initdatabase	Reset Database	Resetovať databázu
+reset_initset	Reset Settings Only	Resetovať iba nastavenia
+scan_automatic	Automatic Update	Automatická aktualizácia
+scan_now	Scan music now	Skenovať hudbu teraz
+scan_now	Scan music now	Skenovať hudbu teraz
+scan_spec	Scan specified folders	Skenovať vybrané priečinky
+scan_spec	Scan specified folders	Skenovať vybrané priečinky
+scan_startscan	Scan	Skenovať
+scan_updatefinish	Library Updated,%d Updated	Knižnica aktualizovaná. Zmien: %d
+scan_updating	Updating No.%d	Aktualizácia č. %d
+scover_cover	Cover	Obal
+scover_lyric	Lyrics	Texty
+screenlock_about	Custom Lock Screen	Vlastná zamknutá obrazovka
+screenlock_info1	1. Put the pictures in a folder named "lockscreenimage" at the top of the card.	1. Vložte obrázky do priečinka s názvom "lockscreenimage" v koreňovom adresári karty.
+screenlock_info2	2. PNG or JPG, exactly 375 x 320 pixels, under 1 MB each.	2. PNG alebo JPG, presne 375 x 320 pixelov, každý do 1 MB.
+screenlock_info3	3. Up to 5 pictures.	3. Najviac 5 obrázkov.
+screenlock_timeshow	Show Time	Zobraziť čas
+search_tips1	Search for music,artists,albums,genres	Hľadať hudbu, interpretov, albumy, žánre
+search_track	Track	Skladba
+singerbyalbum	Sort by album artist	Zoradiť podľa interpreta albumu
+singerbysong	Sort by song artist	Zoradiť podľa interpreta skladby
+small_album	Albums	Albumy
+small_coverflow	Album Wall	Stena albumov
+small_folder	Folder	Priečinok
+small_local	Local Songs	Lokálne skladby
+small_playing	Now Playing	Práve hrá
+small_playset	Playback	Prehrávanie
+small_stream	Streaming	Streamovanie
+small_sysset	System	Systém
+songer	Artist	Interpret
+sort_addtime	Time added	Dátum pridania
+sort_alphabet	Alphabetical	Abecedne
+sort_filename	File name	Názov súboru
+sort_format	File format	Formát súboru
+sort_time_asc	Time added (ascending)	Dátum pridania (vzostupne)
+sort_time_desc	Time added (descending)	Dátum pridania (zostupne)
+standbyoff_10min	10min	10 min
+standbyoff_1min	1min	1 min
+standbyoff_3min	3min	3 min
+standbyoff_5min	5min	5 min
+standbyoff_deep	Auto-standby	Auto-pohotovosť
+standbyoff_deepinfo	After 5 minute of idle,device will go into standby mode.	Po 5 minútach nečinnosti prejde zariadenie do pohotovostného režimu.
+standbyoff_saver	Auto-shutdown	Auto-vypnutie
+synclink_off	Off	Vyp.
+system_about	About	Informácie
+system_carmode	In-Vehicle Mode	Režim do auta
+system_display	Display	Displej
+system_general	General	Všeobecné
+system_keylock	Buttons Lock	Zámok tlačidiel
+system_keytone	Key Tone	Zvuk tlačidiel
+system_language	Language	Jazyk
+system_navshow	Show Navigation Bar	Zobraziť navigačný panel
+system_netservice	Network	Sieť
+system_powermanager	Power	Napájanie
+system_prove	Certification	Certifikácia
+system_reset	Reset Settings	Obnoviť nastavenia
+system_sys	System	Systém
+system_time	Date & Time	Dátum a čas
+system_update	System Update	Aktualizácia systému
+system_wheelmode	Wheel Function	Funkcia kolieska
+system_wifiset	Wireless	Bezdrôtové pripojenie
+timedate_24h	24-Hour	24-hodinový
+timedate_auto	Automatic Time Set	Automatické nastavenie času
+timedate_manual	Set Time Manually	Nastaviť čas ručne
+timezone_gmt+1	(GMT+01:00)Europe/Amsterdam	(GMT+01:00)Európa/Amsterdam
+timezone_gmt+10	(GMT+10:00)Australia/Sydney	(GMT+10:00)Austrália/Sydney
+timezone_gmt+12	(GMT+12:00)Pacific/Fiji	(GMT+12:00)Tichomorie/Fidži
+timezone_gmt+2	(GMT+02:00)Europe/Bucharest	(GMT+02:00)Európa/Bukurešť
+timezone_gmt+3	(GMT+03:00)Asia/Kuwait	(GMT+03:00)Ázia/Kuvajt
+timezone_gmt+3_30	(GMT+03:30)Asia/Tehran	(GMT+03:30)Ázia/Teherán
+timezone_gmt+4	(GMT+04:00)Asia/Muscat	(GMT+04:00)Ázia/Maskat
+timezone_gmt+4_30	(GMT+04:30)Asia/Kabul	(GMT+04:30)Ázia/Kábul
+timezone_gmt+5	(GMT+05:00)Asia/Karachi	(GMT+05:00)Ázia/Karáči
+timezone_gmt+6	(GMT+06:00)Asia/Almaty	(GMT+06:00)Ázia/Almaty
+timezone_gmt+7	(GMT+07:00)Asia/Bangkok	(GMT+07:00)Ázia/Bangkok
+timezone_gmt+8	(GMT+08:00)Asia/Shanghai	(GMT+08:00)Ázia/Šanghaj
+timezone_gmt+9	(GMT+09:00)Asia/Tokyo	(GMT+09:00)Ázia/Tokio
+timezone_gmt+9_30	(GMT+09:30)Australia/Adelaide	(GMT+09:30)Austrália/Adelaide
+timezone_gmt-0	(GMT 00:00)Europe/London	(GMT 00:00)Európa/Londýn
+timezone_gmt-1	(GMT-01:00)Atlantic/Azores	(GMT-01:00)Atlantik/Azory
+timezone_gmt-10	(GMT-10:00)Pacific/Honolulu	(GMT-10:00)Tichomorie/Honolulu
+timezone_gmt-11	(GMT-11:00)Pacific/Midway	(GMT-11:00)Tichomorie/Midway
+timezone_gmt-12	(GMT-12:00)Pacific/Kwajalein	(GMT-12:00)Tichomorie/Kwajalein
+timezone_gmt-3	(GMT-03:00)America/Argentina/Buenos_Aires	(GMT-03:00)Amerika/Buenos Aires
+timezone_gmt-3_30	(GMT-03:30)America/St_Johns	(GMT-03:30)Amerika/St. John's
+timezone_gmt-4	(GMT-04:00)Canada/Atlantic	(GMT-04:00)Kanada/Atlantik
+timezone_gmt-5	(GMT-05:00)America/New_York	(GMT-05:00)Amerika/New York
+timezone_gmt-6	(GMT-06:00)America/Mexico_City	(GMT-06:00)Amerika/Mexiko
+timezone_gmt-7	(GMT-07:00)America/Denver	(GMT-07:00)Amerika/Denver
+timezone_gmt-8	(GMT-08:00)America/Tijuana	(GMT-08:00)Amerika/Tijuana
+timezone_gmt-9	(GMT-09:00)America/Anchorage	(GMT-09:00)Amerika/Anchorage
+timezone_select	Time Zone Selection	Výber časového pásma
+title_downloaded	Downloaded	Stiahnuté
+title_downloading	Downloading	Sťahuje sa
+title_more	More	Viac
+title_sort	List sort order	Poradie zoznamu
+update_online	Network update	Aktualizácia cez sieť
+update_tf	TF card update	Aktualizácia z karty
+usb_chargeswitch	USB DAC Charging	Nabíjanie USB DAC
+usbmode_audio	USB AUDIO	USB AUDIO
+usbmode_connect	USB Connected	USB pripojené
+usbmode_dac	USB DAC	USB DAC
+usbmode_disconnect	USB Disconnected	USB odpojené
+usbmode_storge	USB Storage	Úložisko USB
+usbvol_adjust	Volume Variable	Premenlivá hlasitosť
+usbvol_fixed	Volume Fixed	Pevná hlasitosť
+wheelmode_menu	Menu Mode	Režim ponuky
+wheelmode_volume	Volume Mode	Režim hlasitosti
+wifi_addnetwork	Add Network	Pridať sieť
+wifi_choice	Select Network	Vybrať sieť
+wifi_scan	Scanning	Hľadá sa
+wifiset_bt	Bluetooth	Bluetooth
+wifiset_synclink	SyncLink	SyncLink
+wifiset_wifi	Wi-Fi	Wi-Fi
+wifits_info1	Enter the following URL into your internet browser:	Zadajte túto adresu do internetového prehliadača:
+Search	Search	Hľadať
+Streaming	Streaming	Streamovanie
+Library's Games	Library's Games	Hry v knižnici
+Library's Apps	Library's Apps	Aplikácie v knižnici
+Network settings	Network settings	Nastavenia siete
+Wait until the App Store finishes	Wait until the App Store finishes	Počkajte, kým App Store skončí
+It isn't on the card	It isn't on the card	Nie je na karte
+It couldn't start	It couldn't start	Nepodarilo sa spustiť
+Stop %s	Stop %s	Zastaviť: %s
+Loading…	Loading…	Načítava sa…
+More…	More…	Viac…
+Working…	Working…	Spracúva sa…
+Starting %s…	Starting %s…	Spúšťa sa: %s…
+Retry	Retry	Skúsiť znova
+Install it again in Library → App Store	Install it again in Library → App Store	Nainštalujte znova v Knižnica → App Store
+Cancel	Cancel	Zrušiť
+%s isn't running	%s isn't running	%s nebeží
+%s didn't answer	%s didn't answer	%s neodpovedá
+Too long	Too long	Príliš dlhé
+%s stopped	%s stopped	%s zastavené
+%s isn't on the card	%s isn't on the card	%s nie je na karte
+Apps	Apps	Aplikácie
+No apps	No apps	Žiadne aplikácie
+Not running	Not running	Nebeží
+No code yet	No code yet	Zatiaľ žiadny kód
+Connect the Q2 to Wi-Fi	Connect the Q2 to Wi-Fi	Pripojte Q2 k Wi-Fi
+Open it again	Open it again	Otvorte znova
+Wait a moment	Wait a moment	Chvíľu počkajte
+Then come back here	Then come back here	Potom sa vráťte sem
+Scan with your phone's	Scan with your phone's	Naskenujte fotoaparátom
+Scan with your	Scan with your	Naskenujte
+camera	camera	telefónu
+phone's camera	phone's camera	fotoaparátom telefónu
+or open	or open	alebo otvorte
+PIN	PIN	PIN
+Couldn't import %s	Couldn't import %s	Nepodarilo sa importovať: %s
+Playlists updated	Playlists updated	Playlisty boli aktualizované
+No memory card	No memory card	Žiadna pamäťová karta
+Games	Games	Hry
+%d update	%d update	%d aktualizácia
+%d updates	%d updates	Aktualizácie: %d
+INSTALL	INSTALL	NAINŠTALOVAŤ
+UPDATE	UPDATE	AKTUALIZOVAŤ
+INSTALLED	INSTALLED	NAINŠTALOVANÉ
+AM	AM	AM
+PM	PM	PM
+Jan	Jan	jan
+Feb	Feb	feb
+Mar	Mar	mar
+Apr	Apr	apr
+May	May	máj
+Jun	Jun	jún
+Jul	Jul	júl
+Aug	Aug	aug
+Sep	Sep	sep
+Oct	Oct	okt
+Nov	Nov	nov
+Dec	Dec	dec
+The card is in use over USB	The card is in use over USB	Karta sa používa cez USB
+Storage unavailable	Storage unavailable	Úložisko nie je dostupné
+The card is full	The card is full	Karta je plná
+Couldn't save	Couldn't save	Nepodarilo sa uložiť
+Saved to battery-log.txt	Saved to battery-log.txt	Uložené do battery-log.txt
+Battery History	Battery History	História batérie
+Unplug to start	Unplug to start	Odpojte kábel a začnite
+Export Log	Export Log	Exportovať denník
+Card theme turned off after a failed start	Card theme turned off after a failed start	Téma z karty bola vypnutá po neúspešnom spustení
+Card theme removed. Restart to finish	Card theme removed. Restart to finish	Téma z karty bola odstránená. Dokončite reštartom
+Card theme file can't be used	Card theme file can't be used	Súbor témy z karty sa nedá použiť
+Card theme saved. Restart to apply	Card theme saved. Restart to apply	Téma z karty bola uložená. Použite reštartom
+Could not save card theme	Could not save card theme	Tému z karty sa nepodarilo uložiť
+Done	Done	Hotovo
+space	space	medzera
+New Playlist	New Playlist	Nový playlist
+Playlist Name	Playlist Name	Názov playlistu
+Rename	Rename	Premenovať
+Songs	Songs	Skladby
+Artists	Artists	Interpreti
+Albums	Albums	Albumy
+Genres	Genres	Žánre
+Off	Off	Vyp.
+On	On	Zap.
+%d of %d songs	%d of %d songs	%d z %d skladieb
+Updating Library	Updating Library	Aktualizuje sa knižnica
+Connected	Connected	Pripojené
+Eject before disconnecting	Eject before disconnecting	Pred odpojením vysuňte
+%d:%02d AM	%d:%02d AM	%d:%02d AM
+%d:%02d PM	%d:%02d PM	%d:%02d PM
+Save	Save	Uložiť
+Sort: Album	Sort: Album	Zoradiť: Album
+Sort: Artist	Sort: Artist	Zoradiť: Interpret
+Sort: Recently Added	Sort: Recently Added	Zoradiť: Nedávno pridané
+Sort: Most Played	Sort: Most Played	Zoradiť: Najhrávanejšie
+Sort: Random	Sort: Random	Zoradiť: Náhodne
+Sort: Rating	Sort: Rating	Zoradiť: Hodnotenie
+Sort: Year	Sort: Year	Zoradiť: Rok
+%u song	%u song	%u skladba
+%u songs	%u songs	Skladby: %u
+All albums	All albums	Všetky albumy
+Preparing artwork… %d/%d	Preparing artwork… %d/%d	Pripravujú sa obaly… %d/%d
+Update Library first	Update Library first	Najprv aktualizujte knižnicu
+%u Song	%u Song	%u skladba
+%u Songs	%u Songs	Skladby: %u
+%u Album	%u Album	%u album
+%u Albums	%u Albums	Albumy: %u
+%u Game	%u Game	%u hra
+%u Games	%u Games	Hry: %u
+%u Service	%u Service	%u služba
+%u Services	%u Services	Služby: %u
+%u.%u GB Free	%u.%u GB Free	Voľné: %u,%u GB
+Library	Library	Knižnica
+Settings	Settings	Nastavenia
+Crossfade: %d s	Crossfade: %d s	Crossfade: %d s
+Crossfade: Off	Crossfade: Off	Crossfade: Vyp.
+Wheel Sensitivity: %d%%	Wheel Sensitivity: %d%%	Citlivosť kolieska: %d%%
+Resume Songs: %d min	Resume Songs: %d min	Pokračovanie skladieb: %d min
+Resume Songs: Off	Resume Songs: Off	Pokračovanie skladieb: Vyp.
+Night Shift: %dK	Night Shift: %dK	Night Shift: %dK
+Night Shift: Auto	Night Shift: Auto	Night Shift: Auto
+Night Shift: Off	Night Shift: Off	Night Shift: Vyp.
+Mono Audio	Mono Audio	Zvuk mono
+Swap L/R	Swap L/R	Vymeniť L/P
+Crossfade needs Gapless	Crossfade needs Gapless	Crossfade vyžaduje prehrávanie bez medzier
+Auto	Auto	Auto
+Night Shift	Night Shift	Night Shift
+Resume Songs	Resume Songs	Pokračovanie skladieb
+Wheel Sensitivity	Wheel Sensitivity	Citlivosť kolieska
+Crossfade	Crossfade	Crossfade
+Measuring song lengths…	Measuring song lengths…	Meria sa dĺžka skladieb…
+Sudoku	Sudoku	Sudoku
+Solitaire	Solitaire	Solitér
+Snake	Snake	Had
+Paused	Paused	Pozastavené
+Continue	Continue	Pokračovať
+Quit	Quit	Skončiť
+New best!	New best!	Nový rekord!
+Game over	Game over	Koniec hry
+Centre: play again	Centre: play again	Stred: hrať znova
+Play/Pause: resume	Play/Pause: resume	Prehrať/Pauza: pokračovať
+New game?	New game?	Nová hra?
+Centre: yes   Return: no	Centre: yes   Return: no	Stred: áno   Späť: nie
+Solved!	Solved!	Vyriešené!
+Play/Pause: new game	Play/Pause: new game	Prehrať/Pauza: nová hra
+Score	Score	Skóre
+Best	Best	Rekord
+Level	Level	Úroveň
+Centre	Centre	Stred
+You win!	You win!	Vyhrali ste!
+Shuffle	Shuffle	Náhodne
+Era	Era	Dekády
+Ratings	Ratings	Hodnotenia
+Most Played	Most Played	Najhrávanejšie
+Long Songs	Long Songs	Dlhé skladby
+App Store	App Store	App Store
+Upload Scrobbles	Upload Scrobbles	Odoslať scrobbly
+Tidal Downloads	Tidal Downloads	Stiahnuté z Tidal
+Internet Radio	Internet Radio	Internetové rádio
+Configuration	Configuration	Konfigurácia
+Restart to apply?	Restart to apply?	Reštartovať a použiť?
+Couldn't copy the language	Couldn't copy the language	Jazyk sa nepodarilo skopírovať
+Too many songs to shuffle	Too many songs to shuffle	Príliš veľa skladieb na premiešanie
+Shuffle Songs	Shuffle Songs	Premiešať skladby
+Shuffle Albums	Shuffle Albums	Premiešať albumy
+Shuffle Folders	Shuffle Folders	Premiešať priečinky
+Albums and folders take a moment to shuffle	Albums and folders take a moment to shuffle	Premiešanie albumov a priečinkov chvíľu trvá
+No plays yet	No plays yet	Zatiaľ nič neprehrané
+%u play	%u play	%u prehratie
+%u plays	%u plays	Prehratia: %u
+No downloads yet	No downloads yet	Zatiaľ žiadne stiahnuté
+Clear All Downloads…	Clear All Downloads…	Odstrániť všetky stiahnuté…
+%u track	%u track	%u skladba
+%u tracks	%u tracks	Skladby: %u
+Remove Downloads?	Remove Downloads?	Odstrániť stiahnuté?
+Keeps settings	Keeps settings	Nastavenia sa zachovajú
+Remove	Remove	Odstrániť
+It isn't on the card any more	It isn't on the card any more	Už nie je na karte
+%02ds	%02ds	%02d. roky
+%ds	%ds	Roky %d
+Era unavailable	Era unavailable	Dekády nie sú dostupné
+Album not found	Album not found	Album sa nenašiel
+%u album	%u album	%u album
+%u albums	%u albums	Albumy: %u
+Play All	Play All	Prehrať všetko
+Every song, shuffled	Every song, shuffled	Všetky skladby, náhodne
+No dated albums yet	No dated albums yet	Zatiaľ žiadne albumy s dátumom
+No songs over 10 minutes	No songs over 10 minutes	Žiadne skladby dlhšie ako 10 minút
+Measuring songs… %d/%d	Measuring songs… %d/%d	Meria sa… %d/%d
+Measuring songs…	Measuring songs…	Meria sa…
+Release to search	Release to search	Pustite a hľadajte
+Pull to search	Pull to search	Potiahnite a hľadajte
+Sleep Timer	Sleep Timer	Časovač vypnutia
+Lock Screen	Lock Screen	Zamknutá obrazovka
+Accent	Accent	Akcent
+Everything	Everything	Všetko
+Buttons only	Buttons only	Len tlačidlá
+Volume only	Volume only	Len hlasitosť
+Wake: Single Press	Wake: Single Press	Prebudenie: jedno stlačenie
+Wake: Double Press	Wake: Double Press	Prebudenie: dvojité stlačenie
+Artist View: Grid	Artist View: Grid	Zobrazenie interpretov: Mriežka
+Artist View: Cover Flow	Artist View: Cover Flow	Zobrazenie interpretov: Cover Flow
+Artist View: List	Artist View: List	Zobrazenie interpretov: Zoznam
+Year Order: Newest First	Year Order: Newest First	Poradie rokov: Najnovšie prvé
+Year Order: Oldest First	Year Order: Oldest First	Poradie rokov: Najstaršie prvé
+Artists: Artist	Artists: Artist	Interpreti: Interpret
+Artists: Album Artist	Artists: Album Artist	Interpreti: Interpret albumu
+Resume on Connect: Off	Resume on Connect: Off	Pokračovať po pripojení: Vyp.
+Resume on Connect: On	Resume on Connect: On	Pokračovať po pripojení: Zap.
+Clock: Standard	Clock: Standard	Hodiny: Štandardné
+Clock: Large	Clock: Large	Hodiny: Veľké
+Artist Album Order: Year	Artist Album Order: Year	Poradie albumov interpreta: Rok
+Artist Album Order: A–Z	Artist Album Order: A–Z	Poradie albumov interpreta: A–Z
+Volume Guard: Off	Volume Guard: Off	Ochrana hlasitosti: Vyp.
+Volume Guard: On	Volume Guard: On	Ochrana hlasitosti: Zap.
+Hold Return: Recent	Hold Return: Recent	Podržanie Späť: Nedávne
+Hold Return: Home	Hold Return: Home	Podržanie Späť: Domov
+Standby Limit: Off	Standby Limit: Off	Limit pohotovosti: Vyp.
+Standby Limit: %u h	Standby Limit: %u h	Limit pohotovosti: %u h
+Refresh Cover Flow	Refresh Cover Flow	Obnoviť Cover Flow
+Playlist View: List	Playlist View: List	Zobrazenie playlistov: Zoznam
+Playlist View: Cover Flow	Playlist View: Cover Flow	Zobrazenie playlistov: Cover Flow
+Update Notifications: Off	Update Notifications: Off	Oznámenia o aktualizácii: Vyp.
+Update Notifications: On	Update Notifications: On	Oznámenia o aktualizácii: Zap.
+Album View: List	Album View: List	Zobrazenie albumov: Zoznam
+Album View: Grid	Album View: Grid	Zobrazenie albumov: Mriežka
+Charge Limit (%u%%)	Charge Limit (%u%%)	Limit nabíjania (%u%%)
+Resume on Connect	Resume on Connect	Pokračovať po pripojení
+Volume Guard	Volume Guard	Ochrana hlasitosti
+Control Device Volume	Control Device Volume	Ovládanie hlasitosti zariadenia
+Key Tone	Key Tone	Zvuk tlačidiel
+In-Vehicle Mode	In-Vehicle Mode	Režim do auta
+Smart Wi-Fi	Smart Wi-Fi	Smart Wi-Fi
+Enlarged Album Art	Enlarged Album Art	Veľký obal albumu
+Folder Album Cover	Folder Album Cover	Obal albumu z priečinka
+Fast Navigation	Fast Navigation	Rýchla navigácia
+Scan Song Durations	Scan Song Durations	Skenovať dĺžku skladieb
+Position Bar	Position Bar	Lišta pozície
+Hide Streaming	Hide Streaming	Skryť streamovanie
+Hide Folder	Hide Folder	Skryť priečinok
+Hide Apps	Hide Apps	Skryť aplikácie
+Hide Games	Hide Games	Skryť hry
+Hide App Store	Hide App Store	Skryť App Store
+Receive Audio	Receive Audio	Prijímať zvuk
+Log Failed Artwork	Log Failed Artwork	Zaznamenávať chyby obalov
+Hide Duplicate Albums	Hide Duplicate Albums	Skryť duplicitné albumy
+Hide Duplicate Songs	Hide Duplicate Songs	Skryť duplicitné skladby
+Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	Cover Flow nabudúce obnoví obaly
+Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	Použite vypnutím a zapnutím Bluetooth
+Folder Root: %s	Folder Root: %s	Koreňový priečinok: %s
+Folder Root: Card	Folder Root: Card	Koreňový priečinok: Karta
+Library & Folders	Library & Folders	Knižnica a priečinky
+Press Centre to Change Mode	Press Centre to Change Mode	Režim zmeníte stlačením stredu
+Press Centre to Turn On or Off	Press Centre to Turn On or Off	Zapnete alebo vypnete stlačením stredu
+Press Centre When Finished	Press Centre When Finished	Po dokončení stlačte stred
+OK to Disconnect	OK to Disconnect	Môžete odpojiť
+Now Playing	Now Playing	Práve hrá
+Cover Flow	Cover Flow	Cover Flow
+EQ	EQ	EQ
+Update Library	Update Library	Aktualizovať knižnicu
+Balance	Balance	Vyváženie
+Home: Split	Home: Split	Domov: Rozdelený
+Home: Full	Home: Full	Domov: Celý
+Home: Carousel	Home: Carousel	Domov: Kolotoč
+Battery: Icon	Battery: Icon	Batéria: Ikona
+Battery: Percent	Battery: Percent	Batéria: Percentá
+Battery: Icon + Percent	Battery: Icon + Percent	Batéria: Ikona + percentá
+Battery: Percent Inside	Battery: Percent Inside	Batéria: Percentá vnútri
+Light Mode: Off	Light Mode: Off	Svetlý režim: Vyp.
+Light Mode: On	Light Mode: On	Svetlý režim: Zap.
+Light Mode: Auto	Light Mode: Auto	Svetlý režim: Auto
+Accent: Card Theme	Accent: Card Theme	Akcent: Téma z karty
+Battery: Card Theme	Battery: Card Theme	Batéria: Téma z karty
+Light Mode: Card Theme	Light Mode: Card Theme	Svetlý režim: Téma z karty
+Accent: %s	Accent: %s	Akcent: %s
+Theme: %s	Theme: %s	Téma: %s
+Shortcut: None	Shortcut: None	Skratka: Žiadna
+Shortcut: %s	Shortcut: %s	Skratka: %s
+Rounded Corners	Rounded Corners	Zaoblené rohy
+Smart Awake	Smart Awake	Smart Awake
+Centred Now Playing	Centred Now Playing	Vycentrované Práve hrá
+Click With Headphones	Click With Headphones	Klik so slúchadlami
+Single Press Scrub	Single Press Scrub	Pretáčanie jedným stlačením
+Time in Title	Time in Title	Čas v nadpise
+Set by the card theme	Set by the card theme	Nastavené témou z karty
+Location	Location	Umiestnenie
+Unknown	Unknown	Neznáme
+Appearance	Appearance	Vzhľad
+Controls	Controls	Ovládanie
+Theme	Theme	Téma
+Boot to: Rockbox	Boot to: Rockbox	Spustiť: Rockbox
+Boot to: Q2 Pod	Boot to: Q2 Pod	Spustiť: Q2 Pod
+Rockbox is not on the card	Rockbox is not on the card	Rockbox nie je na karte
+Could not save boot choice	Could not save boot choice	Voľbu spustenia sa nepodarilo uložiť
+No albums	No albums	Žiadne albumy
+No artists	No artists	Žiadni interpreti
+No composers	No composers	Žiadni skladatelia
+No genres	No genres	Žiadne žánre
+Chapter %d	Chapter %d	Kapitola %d
+Chapters	Chapters	Kapitoly
+Could not read chapters	Could not read chapters	Kapitoly sa nepodarilo prečítať
+No embedded chapters	No embedded chapters	Žiadne vložené kapitoly
+Too long to read chapters on the Q2	Too long to read chapters on the Q2	Príliš dlhé na čítanie kapitol v Q2
+Loading chapters…	Loading chapters…	Načítavajú sa kapitoly…
+Spotify Cache: %s	Spotify Cache: %s	Vyrovnávacia pamäť Spotify: %s
+Tidal Cache: %s	Tidal Cache: %s	Vyrovnávacia pamäť Tidal: %s
+Erasing…	Erasing…	Odstraňuje sa…
+Press again to erase login and cache	Press again to erase login and cache	Stlačte znova a odstránite prihlásenie a vyrovnávaciu pamäť
+Erase Spotify Data	Erase Spotify Data	Odstrániť údaje Spotify
+Could not save setting	Could not save setting	Nastavenie sa nepodarilo uložiť
+Streaming stopped	Streaming stopped	Streamovanie zastavené
+Wait for the one in progress	Wait for the one in progress	Počkajte na prebiehajúcu operáciu
+Stop Streaming Services	Stop Streaming Services	Zastaviť služby streamovania
+No %s folder on the card	No %s folder on the card	Na karte nie je priečinok %s
+CFW. Version	CFW. Version	Verzia CFW
+Update to %s	Update to %s	Aktualizovať na %s
+Latest firmware installed	Latest firmware installed	Máte najnovší firmvér
+Can't reach GitHub	Can't reach GitHub	GitHub je nedostupný
+No update for this build	No update for this build	Pre túto zostavu nie je aktualizácia
+Can't write to the card	Can't write to the card	Na kartu sa nedá zapisovať
+Download cancelled	Download cancelled	Sťahovanie zrušené
+GitHub is busy, try later	GitHub is busy, try later	GitHub je zaneprázdnený, skúste neskôr
+The download was damaged, try again	The download was damaged, try again	Stiahnutý súbor je poškodený, skúste znova
+Downloading %d%%	Downloading %d%%	Sťahuje sa %d%%
+Cancelling…	Cancelling…	Ruší sa…
+Reconnecting…	Reconnecting…	Znova sa pripája…
+Verifying…	Verifying…	Overuje sa…
+Checking…	Checking…	Kontroluje sa…
+Needs %u MB more space	Needs %u MB more space	Potrebných ešte %u MB miesta
+Update downloaded: use TF card update	Update downloaded: use TF card update	Aktualizácia stiahnutá: použite Aktualizácia z karty
+Charge the battery first	Charge the battery first	Najprv nabite batériu
+Can't start the download	Can't start the download	Sťahovanie sa nedá spustiť
+Downloading…	Downloading…	Sťahuje sa…
+Q2 Pod %s is out: System Update → Network update	Q2 Pod %s is out: System Update → Network update	Q2 Pod %s je k dispozícii: Aktualizácia systému → Aktualizácia cez sieť
+Downloading	Downloading	Sťahuje sa
+Unpacking…	Unpacking…	Rozbaľuje sa…
+Installing…	Installing…	Inštaluje sa…
+Removing…	Removing…	Odstraňuje sa…
+Connect to Wi-Fi to load the list	Connect to Wi-Fi to load the list	Zoznam načítate pripojením k Wi-Fi
+Checked just now	Checked just now	Práve skontrolované
+Checked %u min ago	Checked %u min ago	Skontrolované pred %u min
+Checked %u h ago	Checked %u h ago	Skontrolované pred %u h
+Press again to remove	Press again to remove	Odstránite opätovným stlačením
+Starts at power-on. Press again to install	Starts at power-on. Press again to install	Spúšťa sa so zapnutím. Nainštalujete opätovným stlačením
+%d app can be updated	%d app can be updated	%d aplikácia na aktualizáciu
+%d apps can be updated	%d apps can be updated	Aplikácie na aktualizáciu: %d
+All apps are up to date	All apps are up to date	Všetky aplikácie sú aktuálne
+The download is not a usable app	The download is not a usable app	Stiahnutý súbor nie je použiteľná aplikácia
+Rockbox is ready. Find it on Home	Rockbox is ready. Find it on Home	Rockbox je pripravený. Nájdete ho na domovskej obrazovke
+Rockbox Themes are ready in Rockbox's Theme Settings	Rockbox Themes are ready in Rockbox's Theme Settings	Témy Rockbox sú pripravené v nastaveniach tém Rockbox
+%s is ready in %s	%s is ready in %s	%s je pripravené v %s
+%s removed	%s removed	%s odstránené
+Spotify's login and cache erased	Spotify's login and cache erased	Prihlásenie a vyrovnávacia pamäť Spotify boli odstránené
+Stopped checking for updates	Stopped checking for updates	Kontrola aktualizácií zastavená
+Install Rockbox first	Install Rockbox first	Najprv nainštalujte Rockbox
+Check for Updates	Check for Updates	Skontrolovať aktualizácie
+%d of %d	%d of %d	%d z %d
+Album lyrics	Album lyrics	Texty albumu
+LRCLIB stopped answering	LRCLIB stopped answering	LRCLIB prestal odpovedať
+Cancelled	Cancelled	Zrušené
+%d saved	%d saved	Uložené: %d
+%d not found	%d not found	Nenájdené: %d
+%d already had lyrics	%d already had lyrics	Už s textom: %d
+%d failed	%d failed	Zlyhalo: %d
+Album lyrics: no songs on the card	Album lyrics: no songs on the card	Texty albumu: na karte nie sú žiadne skladby
+Can't reach LRCLIB	Can't reach LRCLIB	LRCLIB je nedostupný
+Download Album Lyrics	Download Album Lyrics	Stiahnuť texty albumu
+Downloading %d of %d	Downloading %d of %d	Sťahuje sa %d z %d
+No album songs on the card	No album songs on the card	Na karte nie sú skladby albumu
+file exceeds 16384 bytes	file exceeds 16384 bytes	súbor presahuje 16384 bajtov
+line exceeds 512 bytes	line exceeds 512 bytes	riadok presahuje 512 bajtov
+embedded NUL	embedded NUL	vložený znak NUL
+unsupported filter form	unsupported filter form	nepodporovaný tvar filtra
+expected Preamp: <gain> dB	expected Preamp: <gain> dB	očakávané Preamp: <gain> dB
+preamp outside -60..24 dB or invalid number	preamp outside -60..24 dB or invalid number	preamp mimo rozsahu -60..24 dB alebo neplatné číslo
+expected Channel: L, R or all	expected Channel: L, R or all	očakávané Channel: L, R alebo all
+only channels L, R and all are supported	only channels L, R and all are supported	podporované sú len kanály L, R a all
+unsupported command	unsupported command	nepodporovaný príkaz
+invalid filter label	invalid filter label	neplatný názov filtra
+expected Filter [number]:	expected Filter [number]:	očakávané Filter [číslo]:
+expected ON or OFF	expected ON or OFF	očakávané ON alebo OFF
+unsupported filter type	unsupported filter type	nepodporovaný typ filtra
+expected Fc <Hz> Hz Gain <dB> dB	expected Fc <Hz> Hz Gain <dB> dB	očakávané Fc <Hz> Hz Gain <dB> dB
+invalid frequency or gain number	invalid frequency or gain number	neplatné číslo frekvencie alebo zosilnenia
+expected Q <number>	expected Q <number>	očakávané Q <číslo>
+peaking filter requires Q	peaking filter requires Q	filter peaking vyžaduje Q
+range: 20..20000 Hz, -24..24 dB, Q 0.1..10	range: 20..20000 Hz, -24..24 dB, Q 0.1..10	rozsah: 20..20000 Hz, -24..24 dB, Q 0.1..10
+more than 30 bands	more than 30 bands	viac ako 30 pásiem
+summed preamp outside -60..24 dB	summed preamp outside -60..24 dB	súčet preampov mimo rozsahu -60..24 dB
+L/R preamp differ by more than 12 dB	L/R preamp differ by more than 12 dB	preamp L/P sa líši o viac ako 12 dB
+out of memory	out of memory	nedostatok pamäte
+cannot open file	cannot open file	súbor sa nedá otvoriť
+file read failed	file read failed	čítanie súboru zlyhalo
+EQ for 3.5 mm	EQ for 3.5 mm	EQ pre 3,5 mm
+EQ for 4.4 mm	EQ for 4.4 mm	EQ pre 4,4 mm
+EQ for USB	EQ for USB	EQ pre USB
+EQ for this Bluetooth device	EQ for this Bluetooth device	EQ pre toto zariadenie Bluetooth
+Auto (44.1: %.1f / 48: %.1f)	Auto (44.1: %.1f / 48: %.1f)	Auto (44.1: %.1f / 48: %.1f)
+Folder missing or unavailable	Folder missing or unavailable	Priečinok chýba/nie je dostupný
+Out of memory; cannot list presets	Out of memory; cannot list presets	Nedostatok pamäte; predvoľby sa nedajú zobraziť
+No presets found	No presets found	Nenašli sa žiadne predvoľby
+Name not allowed; preset kept	Name not allowed; preset kept	Zlý názov; predvoľba ostáva
+Name taken; preset kept	Name taken; preset kept	Názov obsadený; predvoľba ostáva
+Rename failed; preset kept	Rename failed; preset kept	Premenovanie zlyhalo; ostáva
+Renamed to %.100s	Renamed to %.100s	Premenované na %.100s
+Pop	Pop	Pop
+Rock	Rock	Rock
+Dance	Dance	Dance
+Blues	Blues	Blues
+Metal	Metal	Metal
+Vocal	Vocal	Vokál
+Classical	Classical	Klasika
+Jazz	Jazz	Jazz
+Preset loaded; choose Apply to activate	Preset loaded; choose Apply to activate	Predvoľba načítaná; aktivujete ju voľbou Použiť
+Preset saved; active EQ unchanged	Preset saved; active EQ unchanged	Predvoľba uložená; aktívny EQ sa nezmenil
+Save failed; settings unchanged	Save failed; settings unchanged	Ukladanie zlyhalo; bez zmien
+Switch failed; EQ unchanged	Switch failed; EQ unchanged	Prepnutie zlyhalo; EQ bez zmien
+Applied	Applied	Použité
+Apply failed; active EQ unchanged	Apply failed; active EQ unchanged	Použitie zlyhalo; aktívny EQ sa nezmenil
+Reset; choose Apply to activate	Reset; choose Apply to activate	Obnovené; aktivujte cez Použiť
+Delete failed; preset kept	Delete failed; preset kept	Odstránenie zlyhalo; ostáva
+Deleted %.100s; active EQ unchanged	Deleted %.100s; active EQ unchanged	Odstránené %.100s; aktívny EQ sa nezmenil
+Line %u: %s	Line %u: %s	Riadok %u: %s
+Cannot read preset; settings unchanged	Cannot read preset; settings unchanged	Predvoľbu sa nepodarilo prečítať; nastavenia sa nezmenili
+Peaking	Peaking	Peaking
+Low shelf	Low shelf	Low shelf
+High shelf	High shelf	High shelf
+Apply changes	Apply changes	Použiť zmeny
+Nothing to apply	Nothing to apply	Nič na použitie
+Reset to defaults	Reset to defaults	Obnoviť predvolené
+Enabled	Enabled	Zapnuté
+EQ per Output	EQ per Output	EQ pre každý výstup
+Preamp	Preamp	Predzosilnenie
+Presets	Presets	Predvoľby
+Band	Band	Pásmo
+Channels	Channels	Kanály
+Both	Both	Oba
+Left	Left	Ľavý
+Right	Right	Pravý
+Type	Type	Typ
+Frequency	Frequency	Frekvencia
+Gain	Gain	Zosilnenie
+Band %d Q	Band %d Q	Pásmo %d Q
+Band %d Frequency (Hz)	Band %d Frequency (Hz)	Pásmo %d frekvencia (Hz)
+Raise	Raise	Zvýšiť
+Lower	Lower	Znížiť
+Step	Step	Krok
+Delete %.100s? Confirm	Delete %.100s? Confirm	Odstrániť %.100s? Potvrďte
+Replace existing preset? Confirm	Replace existing preset? Confirm	Nahradiť predvoľbu? Potvrďte
+Cancel replacement	Cancel replacement	Zrušiť nahradenie
+Save as Manual %02d	Save as Manual %02d	Uložiť ako Ručné %02d
+Stock presets	Stock presets	Továrenské predvoľby
+Import from SD /EQ	Import from SD /EQ	Importovať z SD /EQ
+Save editor preset	Save editor preset	Uložiť predvoľbu editora
+Rename a preset	Rename a preset	Premenovať predvoľbu
+Delete a preset	Delete a preset	Odstrániť predvoľbu
+Previous page	Previous page	Predchádzajúca strana
+Next page	Next page	Ďalšia strana
+Band %d	Band %d	Pásmo %d
+Band %d Gain	Band %d Gain	Pásmo %d zosilnenie
+Presets %d/%d	Presets %d/%d	Predvoľby %d/%d
+Save failed; EQ unchanged	Save failed; EQ unchanged	Uloženie zlyhalo; EQ sa nezmenil
+Advanced	Advanced	Rozšírené
+Enabled: On	Enabled: On	Zapnuté: Zap.
+Enabled: Off	Enabled: Off	Zapnuté: Vyp.
+Low	Low	Basy
+Mid	Mid	Stredy
+High	High	Výšky
+Simple	Simple	Jednoduché
+No photos	No photos	Žiadne fotky
+All Photos	All Photos	Všetky fotky
+Photos	Photos	Fotky
+Can't open this photo	Can't open this photo	Fotku sa nedá otvoriť
+%d of %d  %s	%d of %d  %s	%d z %d  %s
+Could not save folder speed	Could not save folder speed	Rýchlosť priečinka sa nepodarilo uložiť
+Too long to play on the Q2: split it into parts	Too long to play on the Q2: split it into parts	Príliš dlhé na prehratie v Q2: rozdeľte na časti
+Press again to restart	Press again to restart	Stlačte znova pre reštart
+Could not save playlist	Could not save playlist	Playlist sa nepodarilo uložiť
+Already in playlist	Already in playlist	Už v playliste
+Added to Playlist	Added to Playlist	Pridané do playlistu
+Search songs	Search songs	Hľadať skladby
+Editing: %s	Editing: %s	Úprava: %s
+Add Songs: %s	Add Songs: %s	Pridať skladby: %s
+Song Actions: %s	Song Actions: %s	Akcie skladby: %s
+Remove song?: %s	Remove song?: %s	Odstrániť skladbu?: %s
+Add Songs	Add Songs	Pridať skladby
+Move Up	Move Up	Posunúť hore
+Move Down	Move Down	Posunúť dole
+Remove from Playlist	Remove from Playlist	Odstrániť z playlistu
+Search: %s	Search: %s	Hľadať: %s
+No songs match	No songs match	Žiadne zodpovedajúce skladby
+Search for more songs	Search for more songs	Hľadať ďalšie skladby
+Delete Playlist?	Delete Playlist?	Odstrániť playlist?
+Delete	Delete	Odstrániť
+Playlist deleted	Playlist deleted	Playlist bol odstránený
+Could not delete playlist	Could not delete playlist	Playlist sa nepodarilo odstrániť
+Delete Playlist	Delete Playlist	Odstrániť playlist
+Edit Playlist	Edit Playlist	Upraviť playlist
+Queue unchanged	Queue unchanged	Poradie sa nezmenilo
+Deselect All	Deselect All	Zrušiť výber všetkého
+Select All	Select All	Vybrať všetko
+Export %d Playlist	Export %d Playlist	Exportovať %d playlist
+Export %d Playlists	Export %d Playlists	Exportovať playlisty: %d
+Delete %d Playlist…	Delete %d Playlist…	Odstrániť %d playlist…
+Delete %d Playlists…	Delete %d Playlists…	Odstrániť playlisty: %d…
+%d Selected	%d Selected	Vybrané: %d
+Select Playlists	Select Playlists	Vybrať playlisty
+Playlists	Playlists	Playlisty
+No Playlists	No Playlists	Žiadne playlisty
+New Playlist…	New Playlist…	Nový playlist…
+Select Playlists…	Select Playlists…	Vybrať playlisty…
+Import Playlists	Import Playlists	Importovať playlisty
+Export	Export	Exportovať
+No other group	No other group	Žiadna iná skupina
+Folder not found	Folder not found	Priečinok sa nenašiel
+All Songs	All Songs	Všetky skladby
+Songs in Album	Songs in Album	Skladby v albume
+Albums and Songs	Albums and Songs	Albumy a skladby
+Songs in Folder	Songs in Folder	Skladby v priečinku
+Folders	Folders	Priečinky
+Folders and Songs	Folders and Songs	Priečinky a skladby
+Play One Song	Play One Song	Prehrať jednu skladbu
+Play One Album	Play One Album	Prehrať jeden album
+Repeat Song	Repeat Song	Opakovať skladbu
+Repeat Album	Repeat Album	Opakovať album
+Repeat All	Repeat All	Opakovať všetko
+Play One Folder	Play One Folder	Prehrať jeden priečinok
+Repeat Folder	Repeat Folder	Opakovať priečinok
+Album	Album	Album
+Folder	Folder	Priečinok
+Repeat	Repeat	Opakovanie
+Group by	Group by	Zoskupiť podľa
+Play Next	Play Next	Prehrať ako ďalšie
+Add to Queue	Add to Queue	Pridať do poradia
+Add to Favourites	Add to Favourites	Pridať do obľúbených
+Remove from Favourites	Remove from Favourites	Odstrániť z obľúbených
+Add to Playlist	Add to Playlist	Pridať do playlistu
+Go to Album	Go to Album	Prejsť na album
+Go to Artist	Go to Artist	Prejsť na interpreta
+Next Album	Next Album	Ďalší album
+Previous Album	Previous Album	Predchádzajúci album
+Rate	Rate	Ohodnotiť
+Resume	Resume	Pokračovať
+View Queue	View Queue	Zobraziť poradie
+Go to Folder	Go to Folder	Prejsť na priečinok
+Rate Album	Rate Album	Ohodnotiť album
+Group by: Folder	Group by: Folder	Zoskupiť podľa: Priečinok
+Group by: Album	Group by: Album	Zoskupiť podľa: Album
+Next Folder	Next Folder	Ďalší priečinok
+Previous Folder	Previous Folder	Predchádzajúci priečinok
+Wheel: Volume	Wheel: Volume	Koliesko: Hlasitosť
+Wheel: Brightness	Wheel: Brightness	Koliesko: Jas
+Could not save Favourites	Could not save Favourites	Obľúbené sa nepodarilo uložiť
+Added to Favourites	Added to Favourites	Pridané do obľúbených
+Removed from Favourites	Removed from Favourites	Odstránené z obľúbených
+Stopped	Stopped	Zastavené
+Can't play: %s	Can't play: %s	Nedá sa prehrať: %s
+Can't play this station	Can't play this station	Túto stanicu sa nedá prehrať
+Connecting…	Connecting…	Pripája sa…
+Search is too long	Search is too long	Hľadaný výraz je príliš dlhý
+Search stations	Search stations	Hľadať stanice
+Favourites	Favourites	Obľúbené
+Featured	Featured	Odporúčané
+Top Stations	Top Stations	Top stanice
+By Country	By Country	Podľa krajiny
+By Genre	By Genre	Podľa žánru
+Countries	Countries	Krajiny
+Connecting to Wi-Fi…	Connecting to Wi-Fi…	Pripája sa k Wi-Fi…
+Directory unavailable	Directory unavailable	Adresár nie je dostupný
+No Wi-Fi	No Wi-Fi	Žiadna Wi-Fi
+No stations	No stations	Žiadne stanice
+No favourites	No favourites	Žiadne obľúbené
+Rating not saved	Rating not saved	Hodnotenie sa neuložilo
+Ratings are full	Ratings are full	Zoznam hodnotení je plný
+Favourite not sent to the app	Favourite not sent to the app	Obľúbená položka sa neodoslala do aplikácie
+Unrated	Unrated	Bez hodnotenia
+1 Heart	1 Heart	1 srdce
+%d Hearts	%d Hearts	Srdcia: %d
+%d of 5	%d of 5	%d z 5
+Album changed	Album changed	Album sa zmenil
+Favourite not saved	Favourite not saved	Obľúbená položka sa neuložila
+This app has no favourites	This app has no favourites	Táto aplikácia nemá obľúbené
+Top Rated	Top Rated	Najlepšie hodnotené
+Loved	Loved	Milované
+All Rated	All Rated	Všetky hodnotené
+Disliked	Disliked	Neobľúbené
+No songs yet	No songs yet	Zatiaľ žiadne skladby
+Hold the heart on Now Playing to rate	Hold the heart on Now Playing to rate	Hodnotiť môžete podržaním srdca v Práve hrá
+No rated albums yet	No rated albums yet	Zatiaľ žiadne hodnotené albumy
+Upload failed, %d sent	Upload failed, %d sent	Odoslanie zlyhalo, odoslané: %d
+Scrobbles sent: %d	Scrobbles sent: %d	Odoslané scrobbly: %d
+Nothing to upload	Nothing to upload	Nič na odoslanie
+Uploading scrobbles	Uploading scrobbles	Odosielajú sa scrobbly
+Already uploading	Already uploading	Odosielanie už prebieha
+Upload failed	Upload failed	Odoslanie zlyhalo
+Connect to Wi-Fi first	Connect to Wi-Fi first	Najprv sa pripojte k Wi-Fi
+Waiting for Spotify	Waiting for Spotify	Čaká sa na Spotify
+Spotify isn't on the card	Spotify isn't on the card	Spotify nie je na karte
+See the Q2 Pod guide to add it	See the Q2 Pod guide to add it	Pridáte ho podľa príručky Q2 Pod
+Open Spotify on your phone	Open Spotify on your phone	Otvorte Spotify v telefóne
+and choose Q2	and choose Q2	a vyberte Q2
+Spotify refused this account	Spotify refused this account	Spotify odmietlo tento účet
+Its tracks can't play on the Q2	Its tracks can't play on the Q2	Jeho skladby sa na Q2 nedajú prehrať
+Playback didn't start	Playback didn't start	Prehrávanie sa nespustilo
+Go back and try again	Go back and try again	Vráťte sa a skúste znova
+Starting playback	Starting playback	Spúšťa sa prehrávanie
+Update Spotify on the card	Update Spotify on the card	Aktualizujte Spotify na karte
+See the Q2 Pod guide	See the Q2 Pod guide	Pozrite príručku Q2 Pod
+Nothing playing	Nothing playing	Nič nehrá
+Choose music in Spotify	Choose music in Spotify	Vyberte hudbu v Spotify
+Liked Songs	Liked Songs	Obľúbené skladby
+Queue	Queue	Poradie
+Playback Settings	Playback Settings	Nastavenia prehrávania
+Account	Account	Účet
+Downloaded Tracks	Downloaded Tracks	Stiahnuté skladby
+Downloads	Downloads	Stiahnuté
+Tracks	Tracks	Skladby
+Open Spotify on your phone and choose Q2	Open Spotify on your phone and choose Q2	Otvorte Spotify v telefóne a vyberte Q2
+Both on the same Wi-Fi	Both on the same Wi-Fi	Obe v tej istej sieti Wi-Fi
+to browse on the Q2	to browse on the Q2	na prehliadanie v Q2
+Downloaded Playlists	Downloaded Playlists	Stiahnuté playlisty
+Download Progress	Download Progress	Priebeh sťahovania
+Storage Management	Storage Management	Správa úložiska
+Download Status	Download Status	Stav sťahovania
+The latest download's progress	The latest download's progress	Priebeh posledného sťahovania
+for saved playlists and download controls	for saved playlists and download controls	pre uložené playlisty a ovládanie sťahovania
+Remove Playlists…	Remove Playlists…	Odstrániť playlisty…
+Remove Tracks…	Remove Tracks…	Odstrániť skladby…
+Keeps login and settings	Keeps login and settings	Zachová prihlásenie a nastavenia
+Track removal can make playlists incomplete	Track removal can make playlists incomplete	Odstránenie skladieb môže zanechať neúplné playlisty
+Pause	Pause	Pozastaviť
+Cancel Download	Cancel Download	Zrušiť sťahovanie
+Retry Failed	Retry Failed	Opakovať neúspešné
+Update Download	Update Download	Aktualizovať stiahnuté
+Sign Out of Spotify?	Sign Out of Spotify?	Odhlásiť sa zo Spotify?
+Sign Out	Sign Out	Odhlásiť sa
+Nothing here	Nothing here	Nič tu nie je
+Selected	Selected	Vybrané
+Press to select	Press to select	Vyberiete stlačením
+All	All	Všetky
+One	One	Jedna
+Download Liked Songs	Download Liked Songs	Stiahnuť obľúbené skladby
+Download Playlist	Download Playlist	Stiahnuť playlist
+For offline listening	For offline listening	Na počúvanie offline
+Download Controls	Download Controls	Ovládanie sťahovania
+Update, retry, pause, resume or cancel	Update, retry, pause, resume or cancel	Aktualizovať, opakovať, pozastaviť, pokračovať alebo zrušiť
+Remove Selected…	Remove Selected…	Odstrániť vybrané…
+Confirm the affected count	Confirm the affected count	Potvrďte počet
+Spotify isn't running	Spotify isn't running	Spotify nebeží
+Spotify didn't answer	Spotify didn't answer	Spotify neodpovedá
+Search Spotify	Search Spotify	Hľadať v Spotify
+Select Tracks	Select Tracks	Vybrať skladby
+Select at least one item	Select at least one item	Vyberte aspoň jednu položku
+Selection full. Remove these first	Selection full. Remove these first	Výber je plný. Najprv odstráňte tieto
+Boot logo must be a 320x375 JPEG	Boot logo must be a 320x375 JPEG	Úvodné logo musí byť JPEG 320x375
+Could not save boot logo	Could not save boot logo	Úvodné logo sa nepodarilo uložiť
+Accent: Graphite	Accent: Graphite	Akcent: Grafit
+Accent: Crimson	Accent: Crimson	Akcent: Karmínová
+Accent: Tidal	Accent: Tidal	Akcent: Tidal
+Accent: Champagne	Accent: Champagne	Akcent: Šampanské
+Accent: Cobalt	Accent: Cobalt	Akcent: Kobalt
+Accent: Tangerine	Accent: Tangerine	Akcent: Mandarínka
+Accent: Plum	Accent: Plum	Akcent: Slivka
+Accent: Ivory	Accent: Ivory	Akcent: Slonovina
+Accent: Green	Accent: Green	Akcent: Zelená
+Favorites	Favorites	Obľúbené
+Rated Albums	Rated Albums	Hodnotené albumy
+Podcasts	Podcasts	Podcasty
+Audiobooks	Audiobooks	Audioknihy
+Groovebox can't start from the card	Groovebox can't start from the card	Groovebox sa nedá spustiť z karty
+Groovebox is not on the card	Groovebox is not on the card	Groovebox nie je na karte
+Play a Tidal album or playlist first	Play a Tidal album or playlist first	Najprv prehrajte album alebo playlist z Tidal
+Downloading %u of %u. Press to stop	Downloading %u of %u. Press to stop	Sťahuje sa %u z %u. Zastavíte stlačením
+Download Playing Songs	Download Playing Songs	Stiahnuť prehrávané skladby
+Tidal Cache full: %u of %u song saved	Tidal Cache full: %u of %u song saved	Tidal: pamäť plná, uložených %u z %u skladby
+Tidal Cache full: %u of %u songs saved	Tidal Cache full: %u of %u songs saved	Tidal: pamäť plná, uložených %u z %u skladieb
+Downloaded %u of %u song	Downloaded %u of %u song	Stiahnuté %u z %u skladby
+Downloaded %u of %u songs	Downloaded %u of %u songs	Stiahnuté %u z %u skladieb
+Nothing to play next	Nothing to play next	Nič ďalšie na prehratie
+Queue changed	Queue changed	Poradie sa zmenilo
+Never	Never	Nikdy
+USB DAC Charging: %s	USB DAC Charging: %s	Nabíjanie USB DAC: %s
+Spectrum	Spectrum	Spektrum
+Oscilloscope	Oscilloscope	Osciloskop
+VU Meters	VU Meters	Ukazovatele VU
+Halo	Halo	Halo
+Pulsar	Pulsar	Pulsar
+Contour	Contour	Kontúra
+More	More	Viac
+A-B Repeat	A-B Repeat	Opakovanie A-B
+Speed	Speed	Rýchlosť
+*Only for 48 kHz and below	*Only for 48 kHz and below	*Len do 48 kHz
+No lyrics	No lyrics	Bez textu
+Genre	Genre	Žáner
+Size	Size	Veľkosť
+Year	Year	Rok
+Format	Format	Formát
+Bit Depth	Bit Depth	Bitová hĺbka
+Bit Rate	Bit Rate	Dátový tok
+Sample Rate	Sample Rate	Vzorkovacia frekvencia
+Auto Scan	Auto Scan	Auto-skenovanie
+Update Library Now	Update Library Now	Aktualizovať knižnicu teraz
+Scan Folders	Scan Folders	Skenovať priečinky
+OK	OK	OK
+Bluetooth	Bluetooth	Bluetooth
+Key Lock	Key Lock	Zámok tlačidiel
+Low Gain	Low Gain	Nízke zosilnenie
+USB Storage	USB Storage	Úložisko USB
+Playback	Playback	Prehrávanie
+Custom	Custom	Vlastný
+Reset	Reset	Obnoviť
+Open this address in a browser:	Open this address in a browser:	Otvorte túto adresu v prehliadači:
+Downloaded	Downloaded	Stiahnuté
+Baidu Netdisk	Baidu Netdisk	Baidu Netdisk
+Sign In	Sign In	Prihlásiť sa
+Scan with the Baidu app to sign in	Scan with the Baidu app to sign in	Prihláste sa naskenovaním v aplikácii Baidu
+Baidu encryption protects your privacy	Baidu encryption protects your privacy	Šifrovanie Baidu chráni vaše súkromie
+Bluetooth RF test: connect from a computer	Bluetooth RF test: connect from a computer	Test RF Bluetooth: pripojte sa z počítača
+Press Next to exit	Press Next to exit	Ukončíte stlačením Ďalej
+Brightness Test	Brightness Test	Test jasu
+Next	Next	Ďalej
+Bluetooth Test	Bluetooth Test	Test Bluetooth
+Down	Down	Nadol
+Up	Up	Nahor
+Swipe Left	Swipe Left	Potiahnite doľava
+Swipe Right	Swipe Right	Potiahnite doprava
+Key Test	Key Test	Test tlačidiel
+Headphone Test	Headphone Test	Test slúchadiel
+Plug in single-ended headphones	Plug in single-ended headphones	Pripojte nesymetrické slúchadlá
+Play (left male, right female)	Play (left male, right female)	Prehrať (vľavo mužský hlas, vpravo ženský)
+Bluetooth Receiver Test	Bluetooth Receiver Test	Test prijímača Bluetooth
+Battery Test	Battery Test	Test batérie
+Battery:	Battery:	Batéria:
+Charging:	Charging:	Nabíjanie:
+microSD Test	microSD Test	Test microSD
+Touch Test	Touch Test	Test dotyku
+Wi-Fi Test	Wi-Fi Test	Test Wi-Fi
+Artist	Artist	Interpret
+Export Playlists	Export Playlists	Exportovať playlisty
+Playlist	Playlist	Playlist
+0 songs	0 songs	0 skladieb
+System	System	Systém
+Rockbox	Rockbox	Rockbox
+Baker Island	Baker Island	Bakerov ostrov
+Midway	Midway	Midway
+Honolulu	Honolulu	Honolulu
+Anchorage	Anchorage	Anchorage
+Los Angeles	Los Angeles	Los Angeles
+Denver	Denver	Denver
+Mexico City	Mexico City	Mexiko
+New York	New York	New York
+Halifax	Halifax	Halifax
+St. John's	St. John's	St. John's
+Buenos Aires	Buenos Aires	Buenos Aires
+Azores	Azores	Azory
+London	London	Londýn
+Amsterdam	Amsterdam	Amsterdam
+Bucharest	Bucharest	Bukurešť
+Kuwait	Kuwait	Kuvajt
+Tehran	Tehran	Teherán
+Muscat	Muscat	Maskat
+Kabul	Kabul	Kábul
+Karachi	Karachi	Karáči
+Dhaka	Dhaka	Dháka
+Bangkok	Bangkok	Bangkok
+Shanghai	Shanghai	Šanghaj
+Tokyo	Tokyo	Tokio
+Adelaide	Adelaide	Adelaide
+Sydney	Sydney	Sydney
+Fiji	Fiji	Fidži
+Marquesas	Marquesas	Markézy
+South Georgia	South Georgia	Južná Georgia
+Colombo	Colombo	Kolombo
+Kathmandu	Kathmandu	Káthmandu
+Yangon	Yangon	Rangún
+Eucla	Eucla	Eucla
+L. Howe	L. Howe	L. Howe
+Noumea	Noumea	Numea
+Chatham	Chatham	Chatham
+Tongatapu	Tongatapu	Tongatapu
+Kiritimati	Kiritimati	Kiritimati
+Chicago	Chicago	Chicago
+Phoenix	Phoenix	Phoenix
+Kolkata	Kolkata	Kalkata
+Brisbane	Brisbane	Brisbane
+Auckland	Auckland	Auckland
+Status Bar	Status Bar	Stavový riadok
+Minimal	Minimal	Minimálna
+Modern	Modern	Moderná
+Classic	Classic	Klasická
+Show Wordmark	Show Wordmark	Zobraziť logotyp
+Library on Home	Library on Home	Knižnica na domovskej obrazovke
+Row Preview	Row Preview	Náhľad riadka
+Row Art	Row Art	Obrázky v riadkoch
+Classic Blue	Classic Blue	Klasická modrá

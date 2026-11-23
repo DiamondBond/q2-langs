@@ -1,0 +1,1181 @@
+# Lietuvių
+History_record	History record	Istorija
+about_cardcap	Card Capacity	Kortelės talpa
+about_cardremain	Remaining	Liko
+about_ipaddr	IP Address	IP adresas
+about_model	Model	Modelis
+about_more	*Our sincere thanks go to the DiamondBond team and all its enthusiasts for their ingenuity, outstanding solutions, and generous contributions.	*Nuoširdžiai dėkojame DiamondBond komandai ir visiems entuziastams už išradingumą, puikius sprendimus ir dosnų indėlį.
+about_sn	Serial Number	Serijos numeris
+about_version	Version	Versija
+about_wifimac	Wi-Fi MAC	Wi-Fi MAC adresas
+album	Album	Albumas
+album	Album	Albumas
+albumsinger	Album artist	Albumo atlikėjas
+allmusic	All Songs	Visos dainos
+audio_settings	Audio settings	Garso nustatymai
+baidu_login	Log In	Prisijungti
+baidu_login_tips1	Please use Baidu Netdisk or Baidu App to scan the code to login	Nuskaitykite kodą programa Baidu Netdisk arba Baidu, kad prisijungtumėte
+baidu_login_tips2	Baidu encryption technology protects your privacy and security	Baidu šifravimas saugo jūsų privatumą ir saugumą
+baidu_loginout	Log Out	Atsijungti
+baidunet_floderinfo_failed	Failed to get file list	Nepavyko gauti failų sąrašo
+batch_addplaylist	Add to Playlist	Pridėti prie grojaraščio
+bt_adjvol	Bluetooth Headset Volume Control	Bluetooth ausinių garsumas
+bt_compatiabledev	Compatible Device	Suderinamas įrenginys
+bt_name	Bluetooth Name	Bluetooth pavadinimas
+bt_paireddev	Paired Device	Susietas įrenginys
+bt_quality	Quality	Kokybė
+bt_search	Scan now	Ieškoti dabar
+btcode_aac	AAC	AAC
+btcode_aptx	aptX	aptX
+btcode_aptxhd	aptX HD	aptX HD
+btcode_ldacauto	LDAC Connection (auto)	LDAC: automatinis
+btcode_ldachq	LDAC HQ	LDAC HQ
+btcode_ldacst	LDAC Standard	LDAC: standartinis
+btcode_sbc	SBC	SBC
+btcode_sbchq	SBC HQ	SBC HQ
+custom_eq	Custom	Pasirinktinis
+display_backlight	Brightness	Ryškumas
+display_lighttime	Screen Off Time	Ekrano išjungimas
+display_screenlock	Lock Screen	Užrakinimo ekranas
+dsdmode_d2p	D2P	D2P
+dsdmode_dop	DOP	DOP
+dsdmode_native	Native	Natūralus
+eq_blues	Blues	Bliuzas
+eq_classical	Classical	Klasika
+eq_club	Club	Klubinė
+eq_custom1	Custom1	Pasirinktinis 1
+eq_custom2	Custom2	Pasirinktinis 2
+eq_custom3	Custom3	Pasirinktinis 3
+eq_dance	Dance	Šokių
+eq_doublebass	Sub-bass	Subbosas
+eq_jazz	Jazz	Džiazas
+eq_metal	Metal	Metalas
+eq_only48kmsg	EQ only for files below 48kHz.	Ekvalaizeris veikia tik failams iki 48 kHz.
+eq_pop	Pop	Pop
+eq_reset	Reset	Atstatyti
+eq_rock	Rock	Rokas
+eq_vocal	Vocal	Vokalas
+fav	My Fav	Mėgstamiausi
+filter_delayfast	Low Delay Fast Roll-off	Low Delay Fast Roll-off
+filter_delayslow	Low Delay Slow Roll-off	Low Delay Slow Roll-off
+filter_fast	Fast Roll-off	Fast Roll-off
+filter_slow	Slow Roll-off	Slow Roll-off
+frequentplay	Frequent	Dažnai grojami
+gain_high	High	Didelis
+gain_low	Low	Mažas
+genre	Genre	Žanras
+genre_statistics	Total %d songs	Iš viso dainų: %d
+hr	Hi-Res	Hi-Res
+keyboard_keyword	Please enter keyword	Įveskite raktažodį
+keyboard_netname	Please enter network name	Įveskite tinklo pavadinimą
+keyboard_password	Please enter password	Įveskite slaptažodį
+keylock_all	Lock Volume & Buttons	Užrakinti garsumą ir mygtukus
+keylock_info	Only effective when the screen is off	Veikia tik išjungus ekraną
+keylock_info2	Effective on Lockscreen and when Screen Off	Veikia užrakinimo ekrane ir išjungus ekraną
+keylock_key	Lock Buttons Only	Užrakinti tik mygtukus
+keylock_volume	Lock Volume Only	Užrakinti tik garsumą
+lan_english	English	English
+lan_french	Français	Français
+lan_german	Deutsch	Deutsch
+lan_italian	Italiano	Italiano
+lan_japanese	日本語	日本語
+lan_korean	한국어	한국어
+lan_polish	Polski	Polski
+lan_russian	Русский	Русский
+lan_simplified	简体中文	简体中文
+lan_spanish	español	español
+lan_thai	ภาษาไทย	ภาษาไทย
+lan_traditional	繁體中文	繁體中文
+lan_ukrainian	Українська	Українська
+lighttime_15s	15s	15 s
+lighttime_1min	1min	1 min
+lighttime_2min	2min	2 min
+lighttime_30min	30min	30 min
+lighttime_30s	30s	30 s
+lighttime_5min	5min	5 min
+lighttime_lyricmode	Lyrics mode	Tekstų režimas
+lighttime_off	Off	Išjungta
+list_baidu	Baidu Netdisk	Baidu Netdisk
+list_tidal	TIDAL	TIDAL
+local_album	Albums	Albumai
+local_allmusic	Local Songs	Vietinės dainos
+local_allsongs	Songs	Dainos
+local_fav	My Fav	Mėgstamiausi
+local_frequentplay	Frequent	Dažnai grojami
+local_genre	Genres	Žanrai
+local_hr	Hi-Res	Hi-Res
+local_playlist	Playlists	Grojaraščiai
+local_recentadd	Recently Added	Neseniai pridėta
+local_recentplay	Recent	Neseniai grotos
+local_songer	Artists	Atlikėjai
+local_upmusic	Update Library	Atnaujinti biblioteką
+login_out	Logout	Atsijungti
+memplay_location	Location	Vieta
+memplay_off	Off	Išjungta
+memplay_track	Track	Daina
+msg_actionnotsupport	Non-local songs,not currently supported	Ne vietinės dainos kol kas nepalaikomos
+msg_actionscan	Scan music?	Nuskaityti muziką?
+msg_add_task	Please enter the URL of the file you want to download	Įveskite atsisiunčiamo failo URL
+msg_addfailed	Adding Failed	Nepavyko pridėti
+msg_addfavsuccess	Added To Fav	Pridėta prie mėgstamiausių
+msg_addplaylistsuccess	Added To Playlist	Pridėta prie grojaraščio
+msg_autoshutdown	Shutdown	Išjungimas
+msg_btabnormal	Bluetooth abnormal	Bluetooth klaida
+msg_btinit_run	Bluetooth Starting	Paleidžiamas Bluetooth
+msg_btreconnect	Reconnect Bluetooth?	Iš naujo prisijungti prie Bluetooth?
+msg_cardeject	Audio Disconnected	Garso įrenginys atjungtas
+msg_cardinsert	Audio Connected	Garso įrenginys prijungtas
+msg_checkfw	Checking FW	Tikrinama programinė įranga
+msg_checkfwerr	FW. Check Error	Įrangos tikrinimo klaida
+msg_closesynclink	Please close SyncLink	Uždarykite SyncLink
+msg_confirmupdate	Confirm Update?	Patvirtinti naujinimą?
+msg_connected	Connected	Prisijungta
+msg_connecting	Connecting	Jungiamasi
+msg_delalbum	Delete Album?	Ištrinti albumą?
+msg_delalbumfailed	Failed To Delete Album	Nepavyko ištrinti albumo
+msg_delalbumsuccess	Album Deleted	Albumas ištrintas
+msg_delartist	Delete Artist?	Ištrinti atlikėją?
+msg_delartistsuccess	Artist Deleted	Atlikėjas ištrintas
+msg_delete_task	Are you sure you want to delete the download task?	Ištrinti atsisiuntimo užduotį?
+msg_deletesource	Also delete source file	Ištrinti ir šaltinio failą
+msg_delfile	Are you sure you want to delete this file?	Ištrinti šį failą?
+msg_delfile	Delete File?	Ištrinti failą?
+msg_delfilefailed	Failed To Delete File	Nepavyko ištrinti failo
+msg_delfilesuccess	File Deleted	Failas ištrintas
+msg_delgenre	Delete Genre?	Ištrinti žanrą?
+msg_delgenresuccess	Genre Deleted	Žanras ištrintas
+msg_delplaylist	Delete Playlist?	Ištrinti grojaraštį?
+msg_delplaylistfailed	Failed To Delete Playlist	Nepavyko ištrinti grojaraščio
+msg_delplaylistsuccess	Playlist Deleted	Grojaraštis ištrintas
+msg_delsong	Delete Song?	Ištrinti dainą?
+msg_delsongfailed	Failed To Delete Song	Nepavyko ištrinti dainos
+msg_delsongsuccess	Song Deleted	Daina ištrinta
+msg_disconnected	Disconnected	Atjungta
+msg_disonnectbt	Please disconnect the bluetooth device	Atjunkite Bluetooth įrenginį
+msg_downloadpath	Download path is	Atsisiuntimo kelias
+msg_exist_task	The download task already exists	Atsisiuntimo užduotis jau yra
+msg_exitairplay	Quit AirPlay?	Išeiti iš AirPlay?
+msg_exportplaylist	Export Playlist?	Eksportuoti grojaraštį?
+msg_exportsuccess	Export successful	Eksportuota
+msg_factorysuccess	Restore to factory settings succeeded	Gamykliniai nustatymai atkurti
+msg_favsuccess	Added To Fav	Pridėta prie mėgstamiausių
+msg_file_exist	The file already exists	Failas jau yra
+msg_importplaylist	Import Playlists?	Importuoti grojaraščius?
+msg_importsuccess	Successfully imported	Importuota
+msg_initsetsuccess	All settings initialized successfully	Visi nustatymai atstatyti
+msg_latestfw	Latest Fw. Installed	Įdiegta naujausia programinė įranga
+msg_linkerror	WiFi Connection Error	Wi-Fi ryšio klaida
+msg_lowarn	Line Out sets max volume,continue?	Line Out nustatys didžiausią garsumą. Tęsti?
+msg_lowpower	Low Battery	Senka baterija
+msg_namenull	The name can't be empty	Pavadinimas negali būti tuščias
+msg_netnameerr	Network Must Be Named	Nurodykite tinklo pavadinimą
+msg_no	Cancel	Atšaukti
+msg_no_storage	Storage is full.Some songs couldn't be added.	Atmintis pilna. Kai kurių dainų nepavyko pridėti.
+msg_noheadset	Playback is disabled without headphones.Please insert headphones.	Be ausinių grojimas išjungtas. Prijunkite ausines.
+msg_nosongs	No songs in this folder	Šiame aplanke nėra dainų
+msg_notalbuminfo	This file has no Album data	Šiame faile nėra albumo duomenų
+msg_notfile	File Not Found	Failas nerastas
+msg_notfolder	Folder not found	Aplankas nerastas
+msg_notfoundfw	Fw. Not Found	Programinės įrangos nerasta
+msg_notmemory	Memory is not enough	Nepakanka atminties
+msg_notmemory	Out of memory	Pritrūko atminties
+msg_notnetwork	Network Disconnected	Tinklas atjungtas
+msg_nototg	No OTG Found	OTG nerastas
+msg_notplaylist	Playlist Not Found	Grojaraštis nerastas
+msg_notsongerinfo	This file has no Artist data	Šiame faile nėra atlikėjo duomenų
+msg_notsonglist	No Song List	Nėra dainų sąrašo
+msg_notspecdir	Folder not specified	Aplankas nenurodytas
+msg_notsupport	Not Supported	Nepalaikoma
+msg_notsupportdel	Can't be removed	Negalima pašalinti
+msg_nottf	No TF Card Found	microSD kortelė nerasta
+msg_otgeject	OTG Disconnected	OTG atjungtas
+msg_otginfoerr	Failed To Get Version Info	Nepavyko gauti versijos informacijos
+msg_otginsert	OTG Connected	OTG prijungtas
+msg_paircode	Bluetooth Code	Bluetooth kodas
+msg_paired	Paired	Susieta
+msg_playlistexist	Playlist Already Exists	Grojaraštis jau yra
+msg_playlistfull	Could not create playlist	Nepavyko sukurti grojaraščio
+msg_poweroff	Shut Down?	Išjungti?
+msg_resetdbsuccess	Reset completed	Atstatyta
+msg_restarting	Restarting	Paleidžiama iš naujo
+msg_shortpasswd	8 Digits PIN At Least	PIN kodą turi sudaryti bent 8 skaitmenys
+msg_start_download_task	start the download task	Pradėti atsisiuntimą?
+msg_stop_download_task	stop the download task	Sustabdyti atsisiuntimą?
+msg_testmode	Enter test mode?	Įjungti bandymo režimą?
+msg_tfeject	TF Card Removed	microSD kortelė išimta
+msg_tfinsert	TF Card Inserted	microSD kortelė įdėta
+msg_unpaired	Unpaired	Nesusieta
+msg_unpairing	unpair?	Nutraukti susiejimą?
+msg_unsupportformat	Unsupported format	Nepalaikomas formatas
+msg_update	Confirmed	Patvirtinta
+msg_wificancelsave	Delete Record?	Ištrinti įrašą?
+msg_wifidisconnect	Disconnect Now?	Atsijungti dabar?
+msg_yes	OK	Gerai
+navigation_all	All	Viskas
+netservice_airplay	AirPlay	AirPlay
+netservice_dlna	DLNA	DLNA
+netservice_wifitrans	Wi-Fi File Transfer	Failų perdavimas per Wi-Fi
+no_search	No search results	Nieko nerasta
+not_allmusic	Currently no songs	Dainų kol kas nėra
+otgdownload_percent	FW Downloaded	Programinė įranga atsisiųsta
+outputway	Output Options	Išvesties parinktys
+play_all	Play All	Groti viską
+player_abrepeat	AB Repeat	A–B kartojimas
+player_albuminfo	Look up Album	Rasti albumą
+player_bitdepth	Bit Depth	Bitų gylis
+player_bitrate	Bitrate	Bitų sparta
+player_delete	Delete Song	Ištrinti dainą
+player_encoding	Encoding	Kodavimas
+player_era	Year	Metai
+player_filesize	File Size	Failo dydis
+player_location	Location	Vieta
+player_msgmul	*Affecting only files below 48khz	*Tik failams iki 48 kHz
+player_multiple	Multiple Speed	Grojimo greitis
+player_nolyric	No Lyrics	Žodžių nėra
+player_onlinesearch	Download Cover & Lyrics	Atsisiųsti viršelį ir žodžius
+player_playlist	Queue	Eilė
+player_samplerate	Sample Rate	Diskretizavimo dažnis
+player_songerinfo	Look up Artist	Rasti atlikėją
+player_unknown	Unknown	Nežinoma
+player_unknown	Unknown Artist	Nežinomas atlikėjas
+playlist	Playlist	Grojaraštis
+playlist_create	New playlist	Naujas grojaraštis
+playlist_export	Export playlist	Eksportuoti grojaraštį
+playlist_import	Import playlist	Importuoti grojaraštį
+playmode_listplay	List Play	Pagal sąrašą
+playmode_repeatall	Repeat All	Kartoti viską
+playmode_repeattrack	Repeat Track	Kartoti dainą
+playmode_shuffle	Shuffle	Maišyti
+playset_balance	Channel Balance	Kanalų balansas
+playset_bootvol	Default Volume	Numatytasis garsumas
+playset_covermode	Enlarged Album Art	Didelis viršelis
+playset_dsdoutput	DSD Output Mode	DSD išvesties režimas
+playset_eq	EQ	Ekvalaizeris
+playset_filter	Digital Filters	Skaitmeniniai filtrai
+playset_foldercover	Folder Album Cover	Aplanko viršelis
+playset_folderjump	Folder Skip	Aplankų praleidimas
+playset_gain	Gain	Stiprinimas
+playset_gapless	Gapless	Be pauzių
+playset_maxvol	Max Volume	Didžiausias garsumas
+playset_memplay	Memory Playback	Prisiminti grojimą
+playset_noplay	Require Output (Beta)	Reikalauti išvesties (beta)
+playset_playmode	Play Mode	Grojimo režimas
+playset_replaygain	ReplayGain	ReplayGain
+playset_usbaudiovol	USB Audio Output	USB garso išvestis
+playset_volcover	Volume and Album Display	Garsumas ir albumas
+powerm_deep_off	Standby	Budėjimas
+powerm_sleep	Sleep Timer	Miego laikmatis
+recentadd	Recently Added	Neseniai pridėta
+recentplay	Recent	Neseniai grotos
+rename	Rename	Pervardyti
+renamesuccess	Successfully renamed	Pervardyta
+replaygain_track	Song	Daina
+reset_factory	Full Factory Reset	Visiškas gamyklinis atstatymas
+reset_initdatabase	Reset Database	Atstatyti duomenų bazę
+reset_initset	Reset Settings Only	Atstatyti tik nustatymus
+scan_automatic	Automatic Update	Automatinis naujinimas
+scan_now	Scan music now	Nuskaityti muziką dabar
+scan_now	Scan music now	Nuskaityti muziką dabar
+scan_spec	Scan specified folders	Nuskaityti nurodytus aplankus
+scan_spec	Scan specified folders	Nuskaityti nurodytus aplankus
+scan_startscan	Scan	Nuskaityti
+scan_updatefinish	Library Updated,%d Updated	Biblioteka atnaujinta, pakeitimų: %d
+scan_updating	Updating No.%d	Atnaujinama Nr. %d
+scover_cover	Cover	Viršelis
+scover_lyric	Lyrics	Žodžiai
+screenlock_about	Custom Lock Screen	Pasirinktinis užrakinimo ekranas
+screenlock_info1	1. Put the pictures in a folder named "lockscreenimage" at the top of the card.	1. Įdėkite paveikslėlius į aplanką „lockscreenimage“ kortelės šaknyje.
+screenlock_info2	2. PNG or JPG, exactly 375 x 320 pixels, under 1 MB each.	2. PNG arba JPG, tiksliai 375 x 320 taškų, kiekvienas iki 1 MB.
+screenlock_info3	3. Up to 5 pictures.	3. Iki 5 paveikslėlių.
+screenlock_timeshow	Show Time	Rodyti laiką
+search_tips1	Search for music,artists,albums,genres	Ieškokite muzikos, atlikėjų, albumų, žanrų
+search_track	Track	Daina
+singerbyalbum	Sort by album artist	Rikiuoti pagal albumo atlikėją
+singerbysong	Sort by song artist	Rikiuoti pagal dainos atlikėją
+small_album	Albums	Albumai
+small_coverflow	Album Wall	Albumų siena
+small_folder	Folder	Aplankai
+small_local	Local Songs	Vietinės dainos
+small_playing	Now Playing	Groja dabar
+small_playset	Playback	Grojimas
+small_stream	Streaming	Srautinis perdavimas
+small_sysset	System	Sistema
+songer	Artist	Atlikėjas
+sort_addtime	Time added	Pridėjimo laikas
+sort_alphabet	Alphabetical	Pagal abėcėlę
+sort_filename	File name	Failo pavadinimas
+sort_format	File format	Failo formatas
+sort_time_asc	Time added (ascending)	Pridėjimo laikas (didėjimo tvarka)
+sort_time_desc	Time added (descending)	Pridėjimo laikas (mažėjimo tvarka)
+standbyoff_10min	10min	10 min
+standbyoff_1min	1min	1 min
+standbyoff_3min	3min	3 min
+standbyoff_5min	5min	5 min
+standbyoff_deep	Auto-standby	Automatinis budėjimas
+standbyoff_deepinfo	After 5 minute of idle,device will go into standby mode.	Po 5 minučių neveiklumo įrenginys pereis į budėjimo režimą.
+standbyoff_saver	Auto-shutdown	Automatinis išjungimas
+synclink_off	Off	Išjungta
+system_about	About	Apie
+system_carmode	In-Vehicle Mode	Automobilio režimas
+system_display	Display	Ekranas
+system_general	General	Bendra
+system_keylock	Buttons Lock	Mygtukų užraktas
+system_keytone	Key Tone	Mygtukų garsas
+system_language	Language	Kalba
+system_navshow	Show Navigation Bar	Rodyti naršymo juostą
+system_netservice	Network	Tinklas
+system_powermanager	Power	Maitinimas
+system_prove	Certification	Sertifikatai
+system_reset	Reset Settings	Atstatyti nustatymus
+system_sys	System	Sistema
+system_time	Date & Time	Data ir laikas
+system_update	System Update	Sistemos naujinimas
+system_wheelmode	Wheel Function	Ratuko funkcija
+system_wifiset	Wireless	Belaidis ryšys
+timedate_24h	24-Hour	24 val.
+timedate_auto	Automatic Time Set	Automatinis laiko nustatymas
+timedate_manual	Set Time Manually	Nustatyti laiką rankiniu būdu
+timezone_gmt+1	(GMT+01:00)Europe/Amsterdam	(GMT+01:00)Amsterdamas
+timezone_gmt+10	(GMT+10:00)Australia/Sydney	(GMT+10:00)Sidnėjus
+timezone_gmt+12	(GMT+12:00)Pacific/Fiji	(GMT+12:00)Fidžis
+timezone_gmt+2	(GMT+02:00)Europe/Bucharest	(GMT+02:00)Bukareštas
+timezone_gmt+3	(GMT+03:00)Asia/Kuwait	(GMT+03:00)Kuveitas
+timezone_gmt+3_30	(GMT+03:30)Asia/Tehran	(GMT+03:30)Teheranas
+timezone_gmt+4	(GMT+04:00)Asia/Muscat	(GMT+04:00)Maskatas
+timezone_gmt+4_30	(GMT+04:30)Asia/Kabul	(GMT+04:30)Kabulas
+timezone_gmt+5	(GMT+05:00)Asia/Karachi	(GMT+05:00)Karačis
+timezone_gmt+6	(GMT+06:00)Asia/Almaty	(GMT+06:00)Almata
+timezone_gmt+7	(GMT+07:00)Asia/Bangkok	(GMT+07:00)Bankokas
+timezone_gmt+8	(GMT+08:00)Asia/Shanghai	(GMT+08:00)Šanchajus
+timezone_gmt+9	(GMT+09:00)Asia/Tokyo	(GMT+09:00)Tokijas
+timezone_gmt+9_30	(GMT+09:30)Australia/Adelaide	(GMT+09:30)Adelaidė
+timezone_gmt-0	(GMT 00:00)Europe/London	(GMT 00:00)Londonas
+timezone_gmt-1	(GMT-01:00)Atlantic/Azores	(GMT-01:00)Azorai
+timezone_gmt-10	(GMT-10:00)Pacific/Honolulu	(GMT-10:00)Honolulu
+timezone_gmt-11	(GMT-11:00)Pacific/Midway	(GMT-11:00)Midvėjus
+timezone_gmt-12	(GMT-12:00)Pacific/Kwajalein	(GMT-12:00)Kvadžaleinas
+timezone_gmt-3	(GMT-03:00)America/Argentina/Buenos_Aires	(GMT-03:00)Buenos Airės
+timezone_gmt-3_30	(GMT-03:30)America/St_Johns	(GMT-03:30)Sent Džonsas
+timezone_gmt-4	(GMT-04:00)Canada/Atlantic	(GMT-04:00)Kanada, Atlanto
+timezone_gmt-5	(GMT-05:00)America/New_York	(GMT-05:00)Niujorkas
+timezone_gmt-6	(GMT-06:00)America/Mexico_City	(GMT-06:00)Meksiko
+timezone_gmt-7	(GMT-07:00)America/Denver	(GMT-07:00)Denveris
+timezone_gmt-8	(GMT-08:00)America/Tijuana	(GMT-08:00)Tichuana
+timezone_gmt-9	(GMT-09:00)America/Anchorage	(GMT-09:00)Ankoridžas
+timezone_select	Time Zone Selection	Laiko juostos pasirinkimas
+title_downloaded	Downloaded	Atsisiųsta
+title_downloading	Downloading	Atsisiunčiama
+title_more	More	Daugiau
+title_sort	List sort order	Sąrašo rikiavimas
+update_online	Network update	Naujinimas tinklu
+update_tf	TF card update	Naujinimas iš kortelės
+usb_chargeswitch	USB DAC Charging	USB DAC įkrovimas
+usbmode_audio	USB AUDIO	USB garsas
+usbmode_connect	USB Connected	USB prijungtas
+usbmode_dac	USB DAC	USB DAC
+usbmode_disconnect	USB Disconnected	USB atjungtas
+usbmode_storge	USB Storage	USB saugykla
+usbvol_adjust	Volume Variable	Garsumas keičiamas
+usbvol_fixed	Volume Fixed	Garsumas fiksuotas
+wheelmode_menu	Menu Mode	Meniu režimas
+wheelmode_volume	Volume Mode	Garsumo režimas
+wifi_addnetwork	Add Network	Pridėti tinklą
+wifi_choice	Select Network	Pasirinkti tinklą
+wifi_scan	Scanning	Ieškoma
+wifiset_bt	Bluetooth	Bluetooth
+wifiset_synclink	SyncLink	SyncLink
+wifiset_wifi	Wi-Fi	Wi-Fi
+wifits_info1	Enter the following URL into your internet browser:	Įveskite šį adresą naršyklėje:
+Search	Search	Paieška
+Streaming	Streaming	Srautinis perdavimas
+Library's Games	Library's Games	Bibliotekos žaidimai
+Library's Apps	Library's Apps	Bibliotekos programos
+Network settings	Network settings	Tinklo nustatymai
+Wait until the App Store finishes	Wait until the App Store finishes	Palaukite, kol App Store baigs darbą
+It isn't on the card	It isn't on the card	Jos nėra kortelėje
+It couldn't start	It couldn't start	Nepavyko paleisti
+Stop %s	Stop %s	Sustabdyti: %s
+Loading…	Loading…	Įkeliama…
+More…	More…	Daugiau…
+Working…	Working…	Vykdoma…
+Starting %s…	Starting %s…	Paleidžiama: %s…
+Retry	Retry	Bandyti dar kartą
+Install it again in Library → App Store	Install it again in Library → App Store	Įdiekite iš naujo: Biblioteka → App Store
+Cancel	Cancel	Atšaukti
+%s isn't running	%s isn't running	%s neveikia
+%s didn't answer	%s didn't answer	%s neatsako
+Too long	Too long	Per ilgas
+%s stopped	%s stopped	%s sustabdyta
+%s isn't on the card	%s isn't on the card	%s nėra kortelėje
+Apps	Apps	Programos
+No apps	No apps	Programų nėra
+Not running	Not running	Neveikia
+No code yet	No code yet	Kodo dar nėra
+Connect the Q2 to Wi-Fi	Connect the Q2 to Wi-Fi	Prijunkite Q2 prie Wi-Fi
+Open it again	Open it again	Atidarykite iš naujo
+Wait a moment	Wait a moment	Šiek tiek palaukite
+Then come back here	Then come back here	Tada grįžkite čia
+Scan with your phone's	Scan with your phone's	Nuskaitykite telefono
+Scan with your	Scan with your	Nuskaitykite savo
+camera	camera	kamera
+phone's camera	phone's camera	telefono kamera
+or open	or open	arba atidarykite
+PIN	PIN	PIN
+Couldn't import %s	Couldn't import %s	Nepavyko importuoti: %s
+Playlists updated	Playlists updated	Grojaraščiai atnaujinti
+No memory card	No memory card	Nėra atminties kortelės
+Games	Games	Žaidimai
+%d update	%d update	%d naujinimas
+%d updates	%d updates	Naujinimų: %d
+INSTALL	INSTALL	ĮDIEGTI
+UPDATE	UPDATE	ATNAUJINTI
+INSTALLED	INSTALLED	ĮDIEGTA
+AM	AM	AM
+PM	PM	PM
+Jan	Jan	sau
+Feb	Feb	vas
+Mar	Mar	kov
+Apr	Apr	bal
+May	May	geg
+Jun	Jun	bir
+Jul	Jul	lie
+Aug	Aug	rgp
+Sep	Sep	rgs
+Oct	Oct	spa
+Nov	Nov	lap
+Dec	Dec	gru
+The card is in use over USB	The card is in use over USB	Kortele naudojamasi per USB
+Storage unavailable	Storage unavailable	Saugykla nepasiekiama
+The card is full	The card is full	Kortelė pilna
+Couldn't save	Couldn't save	Nepavyko išsaugoti
+Saved to battery-log.txt	Saved to battery-log.txt	Išsaugota faile battery-log.txt
+Battery History	Battery History	Baterijos istorija
+Unplug to start	Unplug to start	Atjunkite, kad pradėtumėte
+Export Log	Export Log	Eksportuoti žurnalą
+Card theme turned off after a failed start	Card theme turned off after a failed start	Kortelės tema išjungta po nesėkmingo paleidimo
+Card theme removed. Restart to finish	Card theme removed. Restart to finish	Kortelės tema pašalinta. Paleiskite iš naujo, kad užbaigtumėte
+Card theme file can't be used	Card theme file can't be used	Kortelės temos failo naudoti negalima
+Card theme saved. Restart to apply	Card theme saved. Restart to apply	Kortelės tema išsaugota. Paleiskite iš naujo, kad pritaikytumėte
+Could not save card theme	Could not save card theme	Nepavyko išsaugoti kortelės temos
+Done	Done	Baigta
+space	space	tarpas
+New Playlist	New Playlist	Naujas grojaraštis
+Playlist Name	Playlist Name	Grojaraščio pavadinimas
+Rename	Rename	Pervardyti
+Songs	Songs	Dainos
+Artists	Artists	Atlikėjai
+Albums	Albums	Albumai
+Genres	Genres	Žanrai
+Off	Off	Išjungta
+On	On	Įjungta
+%d of %d songs	%d of %d songs	%d iš %d dainų
+Updating Library	Updating Library	Atnaujinama biblioteka
+Connected	Connected	Prijungta
+Eject before disconnecting	Eject before disconnecting	Prieš atjungdami, išimkite
+%d:%02d AM	%d:%02d AM	%d:%02d AM
+%d:%02d PM	%d:%02d PM	%d:%02d PM
+Save	Save	Išsaugoti
+Sort: Album	Sort: Album	Rikiuoti: albumas
+Sort: Artist	Sort: Artist	Rikiuoti: atlikėjas
+Sort: Recently Added	Sort: Recently Added	Rikiuoti: neseniai pridėta
+Sort: Most Played	Sort: Most Played	Rikiuoti: dažniausiai grojama
+Sort: Random	Sort: Random	Rikiuoti: atsitiktinai
+Sort: Rating	Sort: Rating	Rikiuoti: įvertinimas
+Sort: Year	Sort: Year	Rikiuoti: metai
+%u song	%u song	%u daina
+%u songs	%u songs	Dainų: %u
+All albums	All albums	Visi albumai
+Preparing artwork… %d/%d	Preparing artwork… %d/%d	Ruošiami viršeliai… %d/%d
+Update Library first	Update Library first	Pirmiausia atnaujinkite biblioteką
+%u Song	%u Song	%u daina
+%u Songs	%u Songs	Dainų: %u
+%u Album	%u Album	%u albumas
+%u Albums	%u Albums	Albumų: %u
+%u Game	%u Game	%u žaidimas
+%u Games	%u Games	Žaidimų: %u
+%u Service	%u Service	%u paslauga
+%u Services	%u Services	Paslaugų: %u
+%u.%u GB Free	%u.%u GB Free	Laisva: %u.%u GB
+Library	Library	Biblioteka
+Settings	Settings	Nustatymai
+Crossfade: %d s	Crossfade: %d s	Crossfade: %d s
+Crossfade: Off	Crossfade: Off	Crossfade: išjungta
+Wheel Sensitivity: %d%%	Wheel Sensitivity: %d%%	Ratuko jautrumas: %d%%
+Resume Songs: %d min	Resume Songs: %d min	Dainų tęsimas: %d min
+Resume Songs: Off	Resume Songs: Off	Dainų tęsimas: išjungta
+Night Shift: %dK	Night Shift: %dK	Night Shift: %dK
+Night Shift: Auto	Night Shift: Auto	Night Shift: auto
+Night Shift: Off	Night Shift: Off	Night Shift: išjungta
+Mono Audio	Mono Audio	Mono garsas
+Swap L/R	Swap L/R	Sukeisti K/D
+Crossfade needs Gapless	Crossfade needs Gapless	Crossfade reikia režimo „Be pauzių“
+Auto	Auto	Auto
+Night Shift	Night Shift	Night Shift
+Resume Songs	Resume Songs	Dainų tęsimas
+Wheel Sensitivity	Wheel Sensitivity	Ratuko jautrumas
+Crossfade	Crossfade	Crossfade
+Measuring song lengths…	Measuring song lengths…	Matuojamas dainų ilgis…
+Sudoku	Sudoku	Sudoku
+Solitaire	Solitaire	Pasjansas
+Snake	Snake	Gyvatėlė
+Paused	Paused	Pristabdyta
+Continue	Continue	Tęsti
+Quit	Quit	Išeiti
+New best!	New best!	Naujas rekordas!
+Game over	Game over	Žaidimas baigtas
+Centre: play again	Centre: play again	Centras: žaisti dar kartą
+Play/Pause: resume	Play/Pause: resume	Groti/Pauzė: tęsti
+New game?	New game?	Naujas žaidimas?
+Centre: yes   Return: no	Centre: yes   Return: no	Centras: taip   Atgal: ne
+Solved!	Solved!	Išspręsta!
+Play/Pause: new game	Play/Pause: new game	Groti/Pauzė: naujas žaidimas
+Score	Score	Rezultatas
+Best	Best	Rekordas
+Level	Level	Lygis
+Centre	Centre	Centras
+You win!	You win!	Jūs laimėjote!
+Shuffle	Shuffle	Maišyti
+Era	Era	Dešimtmečiai
+Ratings	Ratings	Įvertinimai
+Most Played	Most Played	Dažniausiai grojama
+Long Songs	Long Songs	Ilgos dainos
+App Store	App Store	App Store
+Upload Scrobbles	Upload Scrobbles	Išsiųsti scrobblus
+Tidal Downloads	Tidal Downloads	Tidal atsisiuntimai
+Internet Radio	Internet Radio	Interneto radijas
+Configuration	Configuration	Konfigūracija
+Restart to apply?	Restart to apply?	Paleisti iš naujo ir pritaikyti?
+Couldn't copy the language	Couldn't copy the language	Nepavyko nukopijuoti kalbos
+Too many songs to shuffle	Too many songs to shuffle	Per daug dainų maišymui
+Shuffle Songs	Shuffle Songs	Maišyti dainas
+Shuffle Albums	Shuffle Albums	Maišyti albumus
+Shuffle Folders	Shuffle Folders	Maišyti aplankus
+Albums and folders take a moment to shuffle	Albums and folders take a moment to shuffle	Albumų ir aplankų maišymas užtrunka
+No plays yet	No plays yet	Grojimų dar nėra
+%u play	%u play	%u grojimas
+%u plays	%u plays	Grojimų: %u
+No downloads yet	No downloads yet	Atsisiuntimų dar nėra
+Clear All Downloads…	Clear All Downloads…	Išvalyti visus atsisiuntimus…
+%u track	%u track	%u takelis
+%u tracks	%u tracks	Takelių: %u
+Remove Downloads?	Remove Downloads?	Pašalinti atsisiuntimus?
+Keeps settings	Keeps settings	Nustatymai bus išsaugoti
+Remove	Remove	Pašalinti
+It isn't on the card any more	It isn't on the card any more	Jos kortelėje jau nėra
+%02ds	%02ds	%02d-ieji
+%ds	%ds	%d-ieji
+Era unavailable	Era unavailable	Dešimtmečiai nepasiekiami
+Album not found	Album not found	Albumas nerastas
+%u album	%u album	%u albumas
+%u albums	%u albums	Albumų: %u
+Play All	Play All	Groti viską
+Every song, shuffled	Every song, shuffled	Visos dainos, sumaišytos
+No dated albums yet	No dated albums yet	Albumų su data dar nėra
+No songs over 10 minutes	No songs over 10 minutes	Dainų, ilgesnių nei 10 minučių, nėra
+Measuring songs… %d/%d	Measuring songs… %d/%d	Matuojamos dainos… %d/%d
+Measuring songs…	Measuring songs…	Matuojamos dainos…
+Release to search	Release to search	Atleiskite, kad ieškotumėte
+Pull to search	Pull to search	Patraukite, kad ieškotumėte
+Sleep Timer	Sleep Timer	Miego laikmatis
+Lock Screen	Lock Screen	Užrakinimo ekranas
+Accent	Accent	Akcento spalva
+Everything	Everything	Viskas
+Buttons only	Buttons only	Tik mygtukai
+Volume only	Volume only	Tik garsumas
+Wake: Single Press	Wake: Single Press	Pažadinimas: vienas paspaudimas
+Wake: Double Press	Wake: Double Press	Pažadinimas: dvigubas paspaudimas
+Artist View: Grid	Artist View: Grid	Atlikėjų rodinys: tinklelis
+Artist View: Cover Flow	Artist View: Cover Flow	Atlikėjų rodinys: Cover Flow
+Artist View: List	Artist View: List	Atlikėjų rodinys: sąrašas
+Year Order: Newest First	Year Order: Newest First	Metų tvarka: naujausi pirmi
+Year Order: Oldest First	Year Order: Oldest First	Metų tvarka: seniausi pirmi
+Artists: Artist	Artists: Artist	Atlikėjai: atlikėjas
+Artists: Album Artist	Artists: Album Artist	Atlikėjai: albumo atlikėjas
+Resume on Connect: Off	Resume on Connect: Off	Tęsti prisijungus: išjungta
+Resume on Connect: On	Resume on Connect: On	Tęsti prisijungus: įjungta
+Clock: Standard	Clock: Standard	Laikrodis: įprastas
+Clock: Large	Clock: Large	Laikrodis: didelis
+Artist Album Order: Year	Artist Album Order: Year	Atlikėjo albumų tvarka: metai
+Artist Album Order: A–Z	Artist Album Order: A–Z	Atlikėjo albumų tvarka: A–Ž
+Volume Guard: Off	Volume Guard: Off	Garsumo apsauga: išjungta
+Volume Guard: On	Volume Guard: On	Garsumo apsauga: įjungta
+Hold Return: Recent	Hold Return: Recent	Laikyti „Atgal“: neseniai grotos
+Hold Return: Home	Hold Return: Home	Laikyti „Atgal“: pradžia
+Standby Limit: Off	Standby Limit: Off	Budėjimo riba: išjungta
+Standby Limit: %u h	Standby Limit: %u h	Budėjimo riba: %u val.
+Refresh Cover Flow	Refresh Cover Flow	Atnaujinti Cover Flow
+Playlist View: List	Playlist View: List	Grojaraščių rodinys: sąrašas
+Playlist View: Cover Flow	Playlist View: Cover Flow	Grojaraščių rodinys: Cover Flow
+Update Notifications: Off	Update Notifications: Off	Naujinimų pranešimai: išjungta
+Update Notifications: On	Update Notifications: On	Naujinimų pranešimai: įjungta
+Album View: List	Album View: List	Albumų rodinys: sąrašas
+Album View: Grid	Album View: Grid	Albumų rodinys: tinklelis
+Charge Limit (%u%%)	Charge Limit (%u%%)	Įkrovos riba (%u%%)
+Resume on Connect	Resume on Connect	Tęsti prisijungus
+Volume Guard	Volume Guard	Garsumo apsauga
+Control Device Volume	Control Device Volume	Valdyti įrenginio garsumą
+Key Tone	Key Tone	Mygtukų garsas
+In-Vehicle Mode	In-Vehicle Mode	Automobilio režimas
+Smart Wi-Fi	Smart Wi-Fi	Smart Wi-Fi
+Enlarged Album Art	Enlarged Album Art	Didelis viršelis
+Folder Album Cover	Folder Album Cover	Aplanko viršelis
+Fast Navigation	Fast Navigation	Greitoji naršyba
+Scan Song Durations	Scan Song Durations	Matuoti dainų trukmę
+Position Bar	Position Bar	Pozicijos juosta
+Hide Streaming	Hide Streaming	Slėpti srautinį perdavimą
+Hide Folder	Hide Folder	Slėpti aplankus
+Hide Apps	Hide Apps	Slėpti programas
+Hide Games	Hide Games	Slėpti žaidimus
+Hide App Store	Hide App Store	Slėpti App Store
+Receive Audio	Receive Audio	Priimti garsą
+Log Failed Artwork	Log Failed Artwork	Registruoti viršelių klaidas
+Hide Duplicate Albums	Hide Duplicate Albums	Slėpti pasikartojančius albumus
+Hide Duplicate Songs	Hide Duplicate Songs	Slėpti pasikartojančias dainas
+Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	Cover Flow viršelius sukurs iš naujo kitą kartą
+Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	Išjunkite ir vėl įjunkite Bluetooth, kad pritaikytumėte
+Folder Root: %s	Folder Root: %s	Aplankų šaknis: %s
+Folder Root: Card	Folder Root: Card	Aplankų šaknis: kortelė
+Library & Folders	Library & Folders	Biblioteka ir aplankai
+Press Centre to Change Mode	Press Centre to Change Mode	Spauskite Centrą, kad pakeistumėte režimą
+Press Centre to Turn On or Off	Press Centre to Turn On or Off	Spauskite Centrą, kad įjungtumėte ar išjungtumėte
+Press Centre When Finished	Press Centre When Finished	Baigę spauskite Centrą
+OK to Disconnect	OK to Disconnect	Galima atjungti
+Now Playing	Now Playing	Groja dabar
+Cover Flow	Cover Flow	Cover Flow
+EQ	EQ	Ekvalaizeris
+Update Library	Update Library	Atnaujinti biblioteką
+Balance	Balance	Balansas
+Home: Split	Home: Split	Pradžia: padalinta
+Home: Full	Home: Full	Pradžia: pilna
+Home: Carousel	Home: Carousel	Pradžia: karuselė
+Battery: Icon	Battery: Icon	Baterija: piktograma
+Battery: Percent	Battery: Percent	Baterija: procentai
+Battery: Icon + Percent	Battery: Icon + Percent	Baterija: piktograma + procentai
+Battery: Percent Inside	Battery: Percent Inside	Baterija: procentai viduje
+Light Mode: Off	Light Mode: Off	Šviesus režimas: išjungta
+Light Mode: On	Light Mode: On	Šviesus režimas: įjungta
+Light Mode: Auto	Light Mode: Auto	Šviesus režimas: auto
+Accent: Card Theme	Accent: Card Theme	Akcentas: kortelės tema
+Battery: Card Theme	Battery: Card Theme	Baterija: kortelės tema
+Light Mode: Card Theme	Light Mode: Card Theme	Šviesus režimas: kortelės tema
+Accent: %s	Accent: %s	Akcentas: %s
+Theme: %s	Theme: %s	Tema: %s
+Shortcut: None	Shortcut: None	Nuoroda: nėra
+Shortcut: %s	Shortcut: %s	Nuoroda: %s
+Rounded Corners	Rounded Corners	Suapvalinti kampai
+Smart Awake	Smart Awake	Smart Awake
+Centred Now Playing	Centred Now Playing	„Groja dabar“ centre
+Click With Headphones	Click With Headphones	Spragtelėjimas su ausinėmis
+Single Press Scrub	Single Press Scrub	Prasukimas vienu paspaudimu
+Time in Title	Time in Title	Laikas antraštėje
+Set by the card theme	Set by the card theme	Nustatyta pagal kortelės temą
+Location	Location	Vieta
+Unknown	Unknown	Nežinoma
+Appearance	Appearance	Išvaizda
+Controls	Controls	Valdymas
+Theme	Theme	Tema
+Boot to: Rockbox	Boot to: Rockbox	Paleisti: Rockbox
+Boot to: Q2 Pod	Boot to: Q2 Pod	Paleisti: Q2 Pod
+Rockbox is not on the card	Rockbox is not on the card	Rockbox nėra kortelėje
+Could not save boot choice	Could not save boot choice	Nepavyko išsaugoti pasirinkimo
+No albums	No albums	Albumų nėra
+No artists	No artists	Atlikėjų nėra
+No composers	No composers	Kompozitorių nėra
+No genres	No genres	Žanrų nėra
+Chapter %d	Chapter %d	Skyrius %d
+Chapters	Chapters	Skyriai
+Could not read chapters	Could not read chapters	Nepavyko nuskaityti skyrių
+No embedded chapters	No embedded chapters	Įterptų skyrių nėra
+Too long to read chapters on the Q2	Too long to read chapters on the Q2	Per ilga, kad Q2 nuskaitytų skyrius
+Loading chapters…	Loading chapters…	Įkeliami skyriai…
+Spotify Cache: %s	Spotify Cache: %s	Spotify talpykla: %s
+Tidal Cache: %s	Tidal Cache: %s	Tidal talpykla: %s
+Erasing…	Erasing…	Trinama…
+Press again to erase login and cache	Press again to erase login and cache	Spauskite dar kartą, kad ištrintumėte prisijungimą ir talpyklą
+Erase Spotify Data	Erase Spotify Data	Ištrinti Spotify duomenis
+Could not save setting	Could not save setting	Nepavyko išsaugoti nustatymo
+Streaming stopped	Streaming stopped	Srautinis perdavimas sustabdytas
+Wait for the one in progress	Wait for the one in progress	Palaukite, kol baigsis vykdoma operacija
+Stop Streaming Services	Stop Streaming Services	Sustabdyti srautinio perdavimo paslaugas
+No %s folder on the card	No %s folder on the card	Kortelėje nėra aplanko %s
+CFW. Version	CFW. Version	CFW versija
+Update to %s	Update to %s	Atnaujinti iki %s
+Latest firmware installed	Latest firmware installed	Įdiegta naujausia programinė įranga
+Can't reach GitHub	Can't reach GitHub	Nepavyksta pasiekti GitHub
+No update for this build	No update for this build	Šiai versijai naujinimo nėra
+Can't write to the card	Can't write to the card	Nepavyksta rašyti į kortelę
+Download cancelled	Download cancelled	Atsisiuntimas atšauktas
+GitHub is busy, try later	GitHub is busy, try later	GitHub užimtas, bandykite vėliau
+The download was damaged, try again	The download was damaged, try again	Atsisiuntimas pažeistas, bandykite dar kartą
+Downloading %d%%	Downloading %d%%	Atsisiunčiama %d%%
+Cancelling…	Cancelling…	Atšaukiama…
+Reconnecting…	Reconnecting…	Jungiamasi iš naujo…
+Verifying…	Verifying…	Tikrinama…
+Checking…	Checking…	Tikrinama…
+Needs %u MB more space	Needs %u MB more space	Reikia dar %u MB vietos
+Update downloaded: use TF card update	Update downloaded: use TF card update	Naujinys atsisiųstas: naudokite naujinimą iš kortelės
+Charge the battery first	Charge the battery first	Pirmiausia įkraukite bateriją
+Can't start the download	Can't start the download	Nepavyksta pradėti atsisiuntimo
+Downloading…	Downloading…	Atsisiunčiama…
+Q2 Pod %s is out: System Update → Network update	Q2 Pod %s is out: System Update → Network update	Išleista Q2 Pod %s: Sistemos naujinimas → Naujinimas tinklu
+Downloading	Downloading	Atsisiunčiama
+Unpacking…	Unpacking…	Išpakuojama…
+Installing…	Installing…	Diegiama…
+Removing…	Removing…	Šalinama…
+Connect to Wi-Fi to load the list	Connect to Wi-Fi to load the list	Prisijunkite prie Wi-Fi, kad įkeltumėte sąrašą
+Checked just now	Checked just now	Patikrinta ką tik
+Checked %u min ago	Checked %u min ago	Patikrinta prieš %u min.
+Checked %u h ago	Checked %u h ago	Patikrinta prieš %u val.
+Press again to remove	Press again to remove	Spauskite dar kartą, kad pašalintumėte
+Starts at power-on. Press again to install	Starts at power-on. Press again to install	Paleidžiama įjungus. Spauskite dar kartą, kad įdiegtumėte
+%d app can be updated	%d app can be updated	Galima atnaujinti %d programą
+%d apps can be updated	%d apps can be updated	Atnaujintinos programos: %d
+All apps are up to date	All apps are up to date	Visos programos atnaujintos
+The download is not a usable app	The download is not a usable app	Atsisiųstas failas nėra tinkama programa
+Rockbox is ready. Find it on Home	Rockbox is ready. Find it on Home	Rockbox paruoštas. Rasite jį pradžioje
+Rockbox Themes are ready in Rockbox's Theme Settings	Rockbox Themes are ready in Rockbox's Theme Settings	Rockbox temos paruoštos Rockbox temos nustatymuose
+%s is ready in %s	%s is ready in %s	%s paruošta: %s
+%s removed	%s removed	%s pašalinta
+Spotify's login and cache erased	Spotify's login and cache erased	Spotify prisijungimas ir talpykla ištrinti
+Stopped checking for updates	Stopped checking for updates	Naujinimų tikrinimas sustabdytas
+Install Rockbox first	Install Rockbox first	Pirmiausia įdiekite Rockbox
+Check for Updates	Check for Updates	Tikrinti naujinimus
+%d of %d	%d of %d	%d iš %d
+Album lyrics	Album lyrics	Albumo žodžiai
+LRCLIB stopped answering	LRCLIB stopped answering	LRCLIB nustojo atsakyti
+Cancelled	Cancelled	Atšaukta
+%d saved	%d saved	Išsaugota: %d
+%d not found	%d not found	Nerasta: %d
+%d already had lyrics	%d already had lyrics	Jau turėjo žodžius: %d
+%d failed	%d failed	Nepavyko: %d
+Album lyrics: no songs on the card	Album lyrics: no songs on the card	Albumo žodžiai: kortelėje nėra dainų
+Can't reach LRCLIB	Can't reach LRCLIB	Nepavyksta pasiekti LRCLIB
+Download Album Lyrics	Download Album Lyrics	Atsisiųsti albumo žodžius
+Downloading %d of %d	Downloading %d of %d	Atsisiunčiama %d iš %d
+No album songs on the card	No album songs on the card	Kortelėje nėra albumo dainų
+file exceeds 16384 bytes	file exceeds 16384 bytes	failas viršija 16384 baitus
+line exceeds 512 bytes	line exceeds 512 bytes	eilutė viršija 512 baitų
+embedded NUL	embedded NUL	įterptas NUL
+unsupported filter form	unsupported filter form	nepalaikoma filtro forma
+expected Preamp: <gain> dB	expected Preamp: <gain> dB	tikėtasi Preamp: <gain> dB
+preamp outside -60..24 dB or invalid number	preamp outside -60..24 dB or invalid number	preamp už -60..24 dB ribų arba netinkamas skaičius
+expected Channel: L, R or all	expected Channel: L, R or all	tikėtasi Channel: L, R arba all
+only channels L, R and all are supported	only channels L, R and all are supported	palaikomi tik kanalai L, R ir all
+unsupported command	unsupported command	nepalaikoma komanda
+invalid filter label	invalid filter label	netinkama filtro žymė
+expected Filter [number]:	expected Filter [number]:	tikėtasi Filter [skaičius]:
+expected ON or OFF	expected ON or OFF	tikėtasi ON arba OFF
+unsupported filter type	unsupported filter type	nepalaikomas filtro tipas
+expected Fc <Hz> Hz Gain <dB> dB	expected Fc <Hz> Hz Gain <dB> dB	tikėtasi Fc <Hz> Hz Gain <dB> dB
+invalid frequency or gain number	invalid frequency or gain number	netinkamas dažnio arba stiprinimo skaičius
+expected Q <number>	expected Q <number>	tikėtasi Q <skaičius>
+peaking filter requires Q	peaking filter requires Q	peaking filtrui reikia Q
+range: 20..20000 Hz, -24..24 dB, Q 0.1..10	range: 20..20000 Hz, -24..24 dB, Q 0.1..10	ribos: 20..20000 Hz, -24..24 dB, Q 0.1..10
+more than 30 bands	more than 30 bands	daugiau nei 30 juostų
+summed preamp outside -60..24 dB	summed preamp outside -60..24 dB	bendras preamp už -60..24 dB ribų
+L/R preamp differ by more than 12 dB	L/R preamp differ by more than 12 dB	K/D preamp skiriasi daugiau nei 12 dB
+out of memory	out of memory	pritrūko atminties
+cannot open file	cannot open file	nepavyksta atidaryti failo
+file read failed	file read failed	nepavyko perskaityti failo
+EQ for 3.5 mm	EQ for 3.5 mm	Ekvalaizeris 3,5 mm
+EQ for 4.4 mm	EQ for 4.4 mm	Ekvalaizeris 4,4 mm
+EQ for USB	EQ for USB	Ekvalaizeris USB
+EQ for this Bluetooth device	EQ for this Bluetooth device	EQ šiam Bluetooth įrenginiui
+Auto (44.1: %.1f / 48: %.1f)	Auto (44.1: %.1f / 48: %.1f)	Auto (44,1: %.1f / 48: %.1f)
+Folder missing or unavailable	Folder missing or unavailable	Aplanko nėra / nepasiekiamas
+Out of memory; cannot list presets	Out of memory; cannot list presets	Pritrūko atminties; nepavyksta išvardyti išankstinių nustatymų
+No presets found	No presets found	Išankstinių nustatymų nerasta
+Name not allowed; preset kept	Name not allowed; preset kept	Netinkamas pavadinimas; paliktas
+Name taken; preset kept	Name taken; preset kept	Pavadinimas užimtas; paliktas
+Rename failed; preset kept	Rename failed; preset kept	Nepavyko pervardyti; paliktas
+Renamed to %.100s	Renamed to %.100s	Pervardyta į %.100s
+Pop	Pop	Pop
+Rock	Rock	Rokas
+Dance	Dance	Šokių
+Blues	Blues	Bliuzas
+Metal	Metal	Metalas
+Vocal	Vocal	Vokalas
+Classical	Classical	Klasika
+Jazz	Jazz	Džiazas
+Preset loaded; choose Apply to activate	Preset loaded; choose Apply to activate	Išankstinis nustatymas įkeltas; pasirinkite Taikyti
+Preset saved; active EQ unchanged	Preset saved; active EQ unchanged	Išankstinis nustatymas išsaugotas; aktyvus EQ nepakeistas
+Save failed; settings unchanged	Save failed; settings unchanged	Nepavyko išsaugoti; nepakeista
+Switch failed; EQ unchanged	Switch failed; EQ unchanged	Nepavyko perjungti; EQ tas pats
+Applied	Applied	Pritaikyta
+Apply failed; active EQ unchanged	Apply failed; active EQ unchanged	Nepavyko pritaikyti; aktyvus EQ nepakeistas
+Reset; choose Apply to activate	Reset; choose Apply to activate	Atstatyta; pasirinkite Taikyti
+Delete failed; preset kept	Delete failed; preset kept	Nepavyko ištrinti; paliktas
+Deleted %.100s; active EQ unchanged	Deleted %.100s; active EQ unchanged	Ištrinta %.100s; aktyvus EQ nepakeistas
+Line %u: %s	Line %u: %s	Eilutė %u: %s
+Cannot read preset; settings unchanged	Cannot read preset; settings unchanged	Nepavyksta perskaityti išankstinio nustatymo; nustatymai nepakeisti
+Peaking	Peaking	Peaking
+Low shelf	Low shelf	Low shelf
+High shelf	High shelf	High shelf
+Apply changes	Apply changes	Taikyti pakeitimus
+Nothing to apply	Nothing to apply	Nėra ko taikyti
+Reset to defaults	Reset to defaults	Atstatyti numatytuosius
+Enabled	Enabled	Aktyvus
+EQ per Output	EQ per Output	EQ pagal išvestį
+Preamp	Preamp	Preamp
+Presets	Presets	Išankstiniai nustatymai
+Band	Band	Juosta
+Channels	Channels	Kanalai
+Both	Both	Abu
+Left	Left	Kairysis
+Right	Right	Dešinysis
+Type	Type	Tipas
+Frequency	Frequency	Dažnis
+Gain	Gain	Stiprinimas
+Band %d Q	Band %d Q	%d juostos Q
+Band %d Frequency (Hz)	Band %d Frequency (Hz)	%d juostos dažnis (Hz)
+Raise	Raise	Didinti
+Lower	Lower	Mažinti
+Step	Step	Žingsnis
+Delete %.100s? Confirm	Delete %.100s? Confirm	Ištrinti %.100s? Patvirtinti
+Replace existing preset? Confirm	Replace existing preset? Confirm	Pakeisti esamą? Patvirtinti
+Cancel replacement	Cancel replacement	Atšaukti pakeitimą
+Save as Manual %02d	Save as Manual %02d	Išsaugoti kaip Manual %02d
+Stock presets	Stock presets	Standartiniai nustatymai
+Import from SD /EQ	Import from SD /EQ	Importuoti iš SD /EQ
+Save editor preset	Save editor preset	Išsaugoti redaktoriaus nustatymą
+Rename a preset	Rename a preset	Pervardyti nustatymą
+Delete a preset	Delete a preset	Ištrinti nustatymą
+Previous page	Previous page	Ankstesnis puslapis
+Next page	Next page	Kitas puslapis
+Band %d	Band %d	Juosta %d
+Band %d Gain	Band %d Gain	%d juostos stiprinimas
+Presets %d/%d	Presets %d/%d	Išankstiniai %d/%d
+Save failed; EQ unchanged	Save failed; EQ unchanged	Nepavyko išsaugoti; EQ tas pats
+Advanced	Advanced	Papildomai
+Enabled: On	Enabled: On	Aktyvus: įjungta
+Enabled: Off	Enabled: Off	Aktyvus: išjungta
+Low	Low	Žemieji
+Mid	Mid	Vidurys
+High	High	Aukštieji
+Simple	Simple	Paprastas
+No photos	No photos	Nuotraukų nėra
+All Photos	All Photos	Visos nuotraukos
+Photos	Photos	Nuotraukos
+Can't open this photo	Can't open this photo	Nepavyksta atidaryti nuotraukos
+%d of %d  %s	%d of %d  %s	%d iš %d  %s
+Could not save folder speed	Could not save folder speed	Nepavyko išsaugoti aplanko greičio
+Too long to play on the Q2: split it into parts	Too long to play on the Q2: split it into parts	Per ilga groti Q2: padalykite į dalis
+Press again to restart	Press again to restart	Spauskite dar kartą, kad paleistumėte
+Could not save playlist	Could not save playlist	Nepavyko išsaugoti grojaraščio
+Already in playlist	Already in playlist	Jau grojaraštyje
+Added to Playlist	Added to Playlist	Pridėta prie grojaraščio
+Search songs	Search songs	Ieškoti dainų
+Editing: %s	Editing: %s	Redaguojama: %s
+Add Songs: %s	Add Songs: %s	Pridėti dainų: %s
+Song Actions: %s	Song Actions: %s	Dainos veiksmai: %s
+Remove song?: %s	Remove song?: %s	Pašalinti dainą?: %s
+Add Songs	Add Songs	Pridėti dainų
+Move Up	Move Up	Perkelti aukštyn
+Move Down	Move Down	Perkelti žemyn
+Remove from Playlist	Remove from Playlist	Pašalinti iš grojaraščio
+Search: %s	Search: %s	Paieška: %s
+No songs match	No songs match	Tinkamų dainų nėra
+Search for more songs	Search for more songs	Ieškoti daugiau dainų
+Delete Playlist?	Delete Playlist?	Ištrinti grojaraštį?
+Delete	Delete	Ištrinti
+Playlist deleted	Playlist deleted	Grojaraštis ištrintas
+Could not delete playlist	Could not delete playlist	Nepavyko ištrinti grojaraščio
+Delete Playlist	Delete Playlist	Ištrinti grojaraštį
+Edit Playlist	Edit Playlist	Redaguoti grojaraštį
+Queue unchanged	Queue unchanged	Eilė nepakeista
+Deselect All	Deselect All	Panaikinti visų žymėjimą
+Select All	Select All	Pažymėti viską
+Export %d Playlist	Export %d Playlist	Eksportuoti %d grojaraštį
+Export %d Playlists	Export %d Playlists	Eksportuoti grojaraščius: %d
+Delete %d Playlist…	Delete %d Playlist…	Ištrinti %d grojaraštį…
+Delete %d Playlists…	Delete %d Playlists…	Ištrinti grojaraščius: %d…
+%d Selected	%d Selected	Pažymėta: %d
+Select Playlists	Select Playlists	Pasirinkti grojaraščius
+Playlists	Playlists	Grojaraščiai
+No Playlists	No Playlists	Grojaraščių nėra
+New Playlist…	New Playlist…	Naujas grojaraštis…
+Select Playlists…	Select Playlists…	Pasirinkti grojaraščius…
+Import Playlists	Import Playlists	Importuoti grojaraščius
+Export	Export	Eksportuoti
+No other group	No other group	Kitos grupės nėra
+Folder not found	Folder not found	Aplankas nerastas
+All Songs	All Songs	Visos dainos
+Songs in Album	Songs in Album	Albumo dainos
+Albums and Songs	Albums and Songs	Albumai ir dainos
+Songs in Folder	Songs in Folder	Aplanko dainos
+Folders	Folders	Aplankai
+Folders and Songs	Folders and Songs	Aplankai ir dainos
+Play One Song	Play One Song	Groti vieną dainą
+Play One Album	Play One Album	Groti vieną albumą
+Repeat Song	Repeat Song	Kartoti dainą
+Repeat Album	Repeat Album	Kartoti albumą
+Repeat All	Repeat All	Kartoti viską
+Play One Folder	Play One Folder	Groti vieną aplanką
+Repeat Folder	Repeat Folder	Kartoti aplanką
+Album	Album	Albumas
+Folder	Folder	Aplankas
+Repeat	Repeat	Kartojimas
+Group by	Group by	Grupuoti pagal
+Play Next	Play Next	Groti kaip kitą
+Add to Queue	Add to Queue	Pridėti į eilę
+Add to Favourites	Add to Favourites	Pridėti prie mėgstamiausių
+Remove from Favourites	Remove from Favourites	Pašalinti iš mėgstamiausių
+Add to Playlist	Add to Playlist	Pridėti prie grojaraščio
+Go to Album	Go to Album	Eiti į albumą
+Go to Artist	Go to Artist	Eiti į atlikėją
+Next Album	Next Album	Kitas albumas
+Previous Album	Previous Album	Ankstesnis albumas
+Rate	Rate	Įvertinti
+Resume	Resume	Tęsti
+View Queue	View Queue	Rodyti eilę
+Go to Folder	Go to Folder	Eiti į aplanką
+Rate Album	Rate Album	Įvertinti albumą
+Group by: Folder	Group by: Folder	Grupuoti pagal: aplankas
+Group by: Album	Group by: Album	Grupuoti pagal: albumas
+Next Folder	Next Folder	Kitas aplankas
+Previous Folder	Previous Folder	Ankstesnis aplankas
+Wheel: Volume	Wheel: Volume	Ratukas: garsumas
+Wheel: Brightness	Wheel: Brightness	Ratukas: ryškumas
+Could not save Favourites	Could not save Favourites	Nepavyko išsaugoti mėgstamiausių
+Added to Favourites	Added to Favourites	Pridėta prie mėgstamiausių
+Removed from Favourites	Removed from Favourites	Pašalinta iš mėgstamiausių
+Stopped	Stopped	Sustabdyta
+Can't play: %s	Can't play: %s	Nepavyksta groti: %s
+Can't play this station	Can't play this station	Šios stoties groti nepavyksta
+Connecting…	Connecting…	Jungiamasi…
+Search is too long	Search is too long	Paieška per ilga
+Search stations	Search stations	Ieškoti stočių
+Favourites	Favourites	Mėgstamiausi
+Featured	Featured	Rekomenduojamos
+Top Stations	Top Stations	Populiariausios stotys
+By Country	By Country	Pagal šalį
+By Genre	By Genre	Pagal žanrą
+Countries	Countries	Šalys
+Connecting to Wi-Fi…	Connecting to Wi-Fi…	Jungiamasi prie Wi-Fi…
+Directory unavailable	Directory unavailable	Katalogas nepasiekiamas
+No Wi-Fi	No Wi-Fi	Nėra Wi-Fi
+No stations	No stations	Stočių nėra
+No favourites	No favourites	Mėgstamiausių nėra
+Rating not saved	Rating not saved	Įvertinimas neišsaugotas
+Ratings are full	Ratings are full	Įvertinimų sąrašas pilnas
+Favourite not sent to the app	Favourite not sent to the app	Mėgstamiausias nebuvo išsiųstas programai
+Unrated	Unrated	Neįvertinta
+1 Heart	1 Heart	1 širdis
+%d Hearts	%d Hearts	Širdžių: %d
+%d of 5	%d of 5	%d iš 5
+Album changed	Album changed	Albumas pasikeitė
+Favourite not saved	Favourite not saved	Mėgstamiausias neišsaugotas
+This app has no favourites	This app has no favourites	Ši programa neturi mėgstamiausių
+Top Rated	Top Rated	Geriausiai įvertinti
+Loved	Loved	Pamėgti
+All Rated	All Rated	Visi įvertinti
+Disliked	Disliked	Nepatikę
+No songs yet	No songs yet	Dainų dar nėra
+Hold the heart on Now Playing to rate	Hold the heart on Now Playing to rate	Norėdami įvertinti, palaikykite širdelę ekrane „Groja dabar“
+No rated albums yet	No rated albums yet	Įvertintų albumų dar nėra
+Upload failed, %d sent	Upload failed, %d sent	Nepavyko išsiųsti, išsiųsta: %d
+Scrobbles sent: %d	Scrobbles sent: %d	Išsiųsta scrobblų: %d
+Nothing to upload	Nothing to upload	Nėra ko siųsti
+Uploading scrobbles	Uploading scrobbles	Siunčiami scrobblai
+Already uploading	Already uploading	Jau siunčiama
+Upload failed	Upload failed	Nepavyko išsiųsti
+Connect to Wi-Fi first	Connect to Wi-Fi first	Pirmiausia prisijunkite prie Wi-Fi
+Waiting for Spotify	Waiting for Spotify	Laukiama Spotify
+Spotify isn't on the card	Spotify isn't on the card	Spotify nėra kortelėje
+See the Q2 Pod guide to add it	See the Q2 Pod guide to add it	Kaip pridėti, žr. Q2 Pod vadove
+Open Spotify on your phone	Open Spotify on your phone	Atidarykite Spotify telefone
+and choose Q2	and choose Q2	ir pasirinkite Q2
+Spotify refused this account	Spotify refused this account	Spotify atmetė šią paskyrą
+Its tracks can't play on the Q2	Its tracks can't play on the Q2	Jos takelių Q2 groti negali
+Playback didn't start	Playback didn't start	Grojimas nepradėtas
+Go back and try again	Go back and try again	Grįžkite ir bandykite dar kartą
+Starting playback	Starting playback	Pradedamas grojimas
+Update Spotify on the card	Update Spotify on the card	Atnaujinkite Spotify kortelėje
+See the Q2 Pod guide	See the Q2 Pod guide	Žr. Q2 Pod vadovą
+Nothing playing	Nothing playing	Nieko negroja
+Choose music in Spotify	Choose music in Spotify	Pasirinkite muziką Spotify
+Liked Songs	Liked Songs	Patikusios dainos
+Queue	Queue	Eilė
+Playback Settings	Playback Settings	Grojimo nustatymai
+Account	Account	Paskyra
+Downloaded Tracks	Downloaded Tracks	Atsisiųsti takeliai
+Downloads	Downloads	Atsisiuntimai
+Tracks	Tracks	Takeliai
+Open Spotify on your phone and choose Q2	Open Spotify on your phone and choose Q2	Atidarykite Spotify telefone ir pasirinkite Q2
+Both on the same Wi-Fi	Both on the same Wi-Fi	Abu tame pačiame Wi-Fi tinkle
+to browse on the Q2	to browse on the Q2	kad naršytumėte Q2
+Downloaded Playlists	Downloaded Playlists	Atsisiųsti grojaraščiai
+Download Progress	Download Progress	Atsisiuntimo eiga
+Storage Management	Storage Management	Saugyklos valdymas
+Download Status	Download Status	Atsisiuntimo būsena
+The latest download's progress	The latest download's progress	Paskutinio atsisiuntimo eiga
+for saved playlists and download controls	for saved playlists and download controls	išsaugotiems grojaraščiams ir atsisiuntimo valdymui
+Remove Playlists…	Remove Playlists…	Pašalinti grojaraščius…
+Remove Tracks…	Remove Tracks…	Pašalinti takelius…
+Keeps login and settings	Keeps login and settings	Prisijungimas ir nustatymai lieka
+Track removal can make playlists incomplete	Track removal can make playlists incomplete	Pašalinus takelius grojaraščiai gali būti nepilni
+Pause	Pause	Pauzė
+Cancel Download	Cancel Download	Atšaukti atsisiuntimą
+Retry Failed	Retry Failed	Kartoti nepavykusius
+Update Download	Update Download	Atnaujinti atsisiuntimą
+Sign Out of Spotify?	Sign Out of Spotify?	Atsijungti nuo Spotify?
+Sign Out	Sign Out	Atsijungti
+Nothing here	Nothing here	Čia nieko nėra
+Selected	Selected	Pasirinkta
+Press to select	Press to select	Spauskite, kad pasirinktumėte
+All	All	Visi
+One	One	Vienas
+Download Liked Songs	Download Liked Songs	Atsisiųsti patikusias dainas
+Download Playlist	Download Playlist	Atsisiųsti grojaraštį
+For offline listening	For offline listening	Klausymuisi neprisijungus
+Download Controls	Download Controls	Atsisiuntimo valdymas
+Update, retry, pause, resume or cancel	Update, retry, pause, resume or cancel	Atnaujinti, kartoti, pristabdyti, tęsti ar atšaukti
+Remove Selected…	Remove Selected…	Pašalinti pasirinktus…
+Confirm the affected count	Confirm the affected count	Patvirtinkite kiekį
+Spotify isn't running	Spotify isn't running	Spotify neveikia
+Spotify didn't answer	Spotify didn't answer	Spotify neatsakė
+Search Spotify	Search Spotify	Ieškoti Spotify
+Select Tracks	Select Tracks	Pasirinkti takelius
+Select at least one item	Select at least one item	Pasirinkite bent vieną elementą
+Selection full. Remove these first	Selection full. Remove these first	Pasirinkimas pilnas. Pirmiausia pašalinkite šiuos
+Boot logo must be a 320x375 JPEG	Boot logo must be a 320x375 JPEG	Paleidimo logotipas turi būti 320x375 JPEG
+Could not save boot logo	Could not save boot logo	Nepavyko išsaugoti paleidimo logotipo
+Accent: Graphite	Accent: Graphite	Akcentas: grafitas
+Accent: Crimson	Accent: Crimson	Akcentas: tamsiai raudona
+Accent: Tidal	Accent: Tidal	Akcentas: Tidal
+Accent: Champagne	Accent: Champagne	Akcentas: šampanas
+Accent: Cobalt	Accent: Cobalt	Akcentas: kobaltas
+Accent: Tangerine	Accent: Tangerine	Akcentas: mandarinas
+Accent: Plum	Accent: Plum	Akcentas: slyva
+Accent: Ivory	Accent: Ivory	Akcentas: dramblio kaulas
+Accent: Green	Accent: Green	Akcentas: žalia
+Favorites	Favorites	Mėgstamiausi
+Rated Albums	Rated Albums	Įvertinti albumai
+Podcasts	Podcasts	Tinklalaidės
+Audiobooks	Audiobooks	Audioknygos
+Groovebox can't start from the card	Groovebox can't start from the card	Groovebox negali pasileisti iš kortelės
+Groovebox is not on the card	Groovebox is not on the card	Groovebox nėra kortelėje
+Play a Tidal album or playlist first	Play a Tidal album or playlist first	Pirmiausia paleiskite Tidal albumą ar grojaraštį
+Downloading %u of %u. Press to stop	Downloading %u of %u. Press to stop	Atsisiunčiama %u iš %u. Spauskite, kad sustabdytumėte
+Download Playing Songs	Download Playing Songs	Atsisiųsti grojamas dainas
+Tidal Cache full: %u of %u song saved	Tidal Cache full: %u of %u song saved	Tidal talpykla pilna: išsaugota dainų: %u iš %u
+Tidal Cache full: %u of %u songs saved	Tidal Cache full: %u of %u songs saved	Tidal talpykla pilna: išsaugota dainų: %u iš %u
+Downloaded %u of %u song	Downloaded %u of %u song	Atsisiųsta dainų: %u iš %u
+Downloaded %u of %u songs	Downloaded %u of %u songs	Atsisiųsta dainų: %u iš %u
+Nothing to play next	Nothing to play next	Nėra ką groti toliau
+Queue changed	Queue changed	Eilė pasikeitė
+Never	Never	Niekada
+USB DAC Charging: %s	USB DAC Charging: %s	USB DAC įkrovimas: %s
+Spectrum	Spectrum	Spektras
+Oscilloscope	Oscilloscope	Osciloskopas
+VU Meters	VU Meters	VU matuokliai
+Halo	Halo	Halo
+Pulsar	Pulsar	Pulsar
+Contour	Contour	Kontūras
+More	More	Daugiau
+A-B Repeat	A-B Repeat	A–B kartojimas
+Speed	Speed	Greitis
+*Only for 48 kHz and below	*Only for 48 kHz and below	*Tik 48 kHz ir mažiau
+No lyrics	No lyrics	Žodžių nėra
+Genre	Genre	Žanras
+Size	Size	Dydis
+Year	Year	Metai
+Format	Format	Formatas
+Bit Depth	Bit Depth	Bitų gylis
+Bit Rate	Bit Rate	Bitų sparta
+Sample Rate	Sample Rate	Diskretizavimo dažnis
+Auto Scan	Auto Scan	Automatinis nuskaitymas
+Update Library Now	Update Library Now	Atnaujinti biblioteką dabar
+Scan Folders	Scan Folders	Nuskaityti aplankus
+OK	OK	Gerai
+Bluetooth	Bluetooth	Bluetooth
+Key Lock	Key Lock	Mygtukų užraktas
+Low Gain	Low Gain	Mažas stiprinimas
+USB Storage	USB Storage	USB saugykla
+Playback	Playback	Grojimas
+Custom	Custom	Pasirinktinis
+Reset	Reset	Atstatyti
+Open this address in a browser:	Open this address in a browser:	Atidarykite šį adresą naršyklėje:
+Downloaded	Downloaded	Atsisiųsta
+Baidu Netdisk	Baidu Netdisk	Baidu Netdisk
+Sign In	Sign In	Prisijungti
+Scan with the Baidu app to sign in	Scan with the Baidu app to sign in	Prisijunkite nuskaitę kodą Baidu programa
+Baidu encryption protects your privacy	Baidu encryption protects your privacy	Baidu šifravimas saugo jūsų privatumą
+Bluetooth RF test: connect from a computer	Bluetooth RF test: connect from a computer	Bluetooth RF testas: prisijunkite iš kompiuterio
+Press Next to exit	Press Next to exit	Spauskite „Kitas“, kad išeitumėte
+Brightness Test	Brightness Test	Ryškumo testas
+Next	Next	Kitas
+Bluetooth Test	Bluetooth Test	Bluetooth testas
+Down	Down	Žemyn
+Up	Up	Aukštyn
+Swipe Left	Swipe Left	Perbraukti kairėn
+Swipe Right	Swipe Right	Perbraukti dešinėn
+Key Test	Key Test	Mygtukų testas
+Headphone Test	Headphone Test	Ausinių testas
+Plug in single-ended headphones	Plug in single-ended headphones	Prijunkite nesubalansuotas ausines
+Play (left male, right female)	Play (left male, right female)	Groti (kairėje vyro, dešinėje moters balsas)
+Bluetooth Receiver Test	Bluetooth Receiver Test	Bluetooth imtuvo testas
+Battery Test	Battery Test	Baterijos testas
+Battery:	Battery:	Baterija:
+Charging:	Charging:	Įkrovimas:
+microSD Test	microSD Test	microSD testas
+Touch Test	Touch Test	Jutiklio testas
+Wi-Fi Test	Wi-Fi Test	Wi-Fi testas
+Artist	Artist	Atlikėjas
+Export Playlists	Export Playlists	Eksportuoti grojaraščius
+Playlist	Playlist	Grojaraštis
+0 songs	0 songs	0 dainų
+System	System	Sistema
+Rockbox	Rockbox	Rockbox
+Baker Island	Baker Island	Beikerio sala
+Midway	Midway	Midvėjus
+Honolulu	Honolulu	Honolulu
+Anchorage	Anchorage	Ankoridžas
+Los Angeles	Los Angeles	Los Andželas
+Denver	Denver	Denveris
+Mexico City	Mexico City	Meksiko
+New York	New York	Niujorkas
+Halifax	Halifax	Halifaksas
+St. John's	St. John's	Sent Džonsas
+Buenos Aires	Buenos Aires	Buenos Airės
+Azores	Azores	Azorai
+London	London	Londonas
+Amsterdam	Amsterdam	Amsterdamas
+Bucharest	Bucharest	Bukareštas
+Kuwait	Kuwait	Kuveitas
+Tehran	Tehran	Teheranas
+Muscat	Muscat	Maskatas
+Kabul	Kabul	Kabulas
+Karachi	Karachi	Karačis
+Dhaka	Dhaka	Daka
+Bangkok	Bangkok	Bankokas
+Shanghai	Shanghai	Šanchajus
+Tokyo	Tokyo	Tokijas
+Adelaide	Adelaide	Adelaidė
+Sydney	Sydney	Sidnėjus
+Fiji	Fiji	Fidžis
+Marquesas	Marquesas	Markizai
+South Georgia	South Georgia	Pietų Džordžija
+Colombo	Colombo	Kolombas
+Kathmandu	Kathmandu	Katmandu
+Yangon	Yangon	Jangonas
+Eucla	Eucla	Eukla
+L. Howe	L. Howe	Lordo Hau
+Noumea	Noumea	Numėja
+Chatham	Chatham	Čatemas
+Tongatapu	Tongatapu	Tongatapu
+Kiritimati	Kiritimati	Kiritimatis
+Chicago	Chicago	Čikaga
+Phoenix	Phoenix	Finiksas
+Kolkata	Kolkata	Kolkata
+Brisbane	Brisbane	Brisbenas
+Auckland	Auckland	Oklandas
+Status Bar	Status Bar	Būsenos juosta
+Minimal	Minimal	Minimali
+Modern	Modern	Moderni
+Classic	Classic	Klasikinė
+Show Wordmark	Show Wordmark	Rodyti logotipą
+Library on Home	Library on Home	Biblioteka pradžioje
+Row Preview	Row Preview	Eilutės peržiūra
+Row Art	Row Art	Eilučių viršeliai
+Classic Blue	Classic Blue	Klasikinė mėlyna

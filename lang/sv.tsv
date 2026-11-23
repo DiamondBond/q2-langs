@@ -1,0 +1,1181 @@
+# Svenska
+History_record	History record	Historik
+about_cardcap	Card Capacity	Kortkapacitet
+about_cardremain	Remaining	Kvar
+about_ipaddr	IP Address	IP-adress
+about_model	Model	Modell
+about_more	*Our sincere thanks go to the DiamondBond team and all its enthusiasts for their ingenuity, outstanding solutions, and generous contributions.	*Ett varmt tack till DiamondBond-teamet och alla entusiaster för deras uppfinningsrikedom, enastående lösningar och generösa bidrag.
+about_sn	Serial Number	Serienummer
+about_version	Version	Version
+about_wifimac	Wi-Fi MAC	Wi-Fi-MAC
+album	Album	Album
+album	Album	Album
+albumsinger	Album artist	Albumartist
+allmusic	All Songs	Alla låtar
+audio_settings	Audio settings	Ljudinställningar
+baidu_login	Log In	Logga in
+baidu_login_tips1	Please use Baidu Netdisk or Baidu App to scan the code to login	Skanna koden med Baidu Netdisk eller Baidu-appen för att logga in
+baidu_login_tips2	Baidu encryption technology protects your privacy and security	Baidus kryptering skyddar din integritet och säkerhet
+baidu_loginout	Log Out	Logga ut
+baidunet_floderinfo_failed	Failed to get file list	Det gick inte att hämta fillistan
+batch_addplaylist	Add to Playlist	Lägg till i spellista
+bt_adjvol	Bluetooth Headset Volume Control	Volymkontroll för Bluetooth-headset
+bt_compatiabledev	Compatible Device	Kompatibel enhet
+bt_name	Bluetooth Name	Bluetooth-namn
+bt_paireddev	Paired Device	Parkopplad enhet
+bt_quality	Quality	Kvalitet
+bt_search	Scan now	Sök nu
+btcode_aac	AAC	AAC
+btcode_aptx	aptX	aptX
+btcode_aptxhd	aptX HD	aptX HD
+btcode_ldacauto	LDAC Connection (auto)	LDAC-anslutning (auto)
+btcode_ldachq	LDAC HQ	LDAC HQ
+btcode_ldacst	LDAC Standard	LDAC Standard
+btcode_sbc	SBC	SBC
+btcode_sbchq	SBC HQ	SBC HQ
+custom_eq	Custom	Anpassad
+display_backlight	Brightness	Ljusstyrka
+display_lighttime	Screen Off Time	Skärm av efter
+display_screenlock	Lock Screen	Lås skärmen
+dsdmode_d2p	D2P	D2P
+dsdmode_dop	DOP	DOP
+dsdmode_native	Native	Nativ
+eq_blues	Blues	Blues
+eq_classical	Classical	Klassisk
+eq_club	Club	Club
+eq_custom1	Custom1	Anpassad 1
+eq_custom2	Custom2	Anpassad 2
+eq_custom3	Custom3	Anpassad 3
+eq_dance	Dance	Dance
+eq_doublebass	Sub-bass	Subbas
+eq_jazz	Jazz	Jazz
+eq_metal	Metal	Metal
+eq_only48kmsg	EQ only for files below 48kHz.	EQ endast för filer under 48 kHz.
+eq_pop	Pop	Pop
+eq_reset	Reset	Återställ
+eq_rock	Rock	Rock
+eq_vocal	Vocal	Sång
+fav	My Fav	Mina favoriter
+filter_delayfast	Low Delay Fast Roll-off	Låg fördröjning, snabb avklingning
+filter_delayslow	Low Delay Slow Roll-off	Låg fördröjning, långsam avklingning
+filter_fast	Fast Roll-off	Snabb avklingning
+filter_slow	Slow Roll-off	Långsam avklingning
+frequentplay	Frequent	Ofta spelat
+gain_high	High	Hög
+gain_low	Low	Låg
+genre	Genre	Genre
+genre_statistics	Total %d songs	Totalt %d låtar
+hr	Hi-Res	Hi-Res
+keyboard_keyword	Please enter keyword	Ange sökord
+keyboard_netname	Please enter network name	Ange nätverksnamn
+keyboard_password	Please enter password	Ange lösenord
+keylock_all	Lock Volume & Buttons	Lås volym och knappar
+keylock_info	Only effective when the screen is off	Gäller bara när skärmen är av
+keylock_info2	Effective on Lockscreen and when Screen Off	Gäller på låsskärmen och när skärmen är av
+keylock_key	Lock Buttons Only	Lås bara knappar
+keylock_volume	Lock Volume Only	Lås bara volym
+lan_english	English	English
+lan_french	Français	Français
+lan_german	Deutsch	Deutsch
+lan_italian	Italiano	Italiano
+lan_japanese	日本語	日本語
+lan_korean	한국어	한국어
+lan_polish	Polski	Polski
+lan_russian	Русский	Русский
+lan_simplified	简体中文	简体中文
+lan_spanish	español	español
+lan_thai	ภาษาไทย	ภาษาไทย
+lan_traditional	繁體中文	繁體中文
+lan_ukrainian	Українська	Українська
+lighttime_15s	15s	15 s
+lighttime_1min	1min	1 min
+lighttime_2min	2min	2 min
+lighttime_30min	30min	30 min
+lighttime_30s	30s	30 s
+lighttime_5min	5min	5 min
+lighttime_lyricmode	Lyrics mode	Textläge
+lighttime_off	Off	Av
+list_baidu	Baidu Netdisk	Baidu Netdisk
+list_tidal	TIDAL	TIDAL
+local_album	Albums	Album
+local_allmusic	Local Songs	Lokala låtar
+local_allsongs	Songs	Låtar
+local_fav	My Fav	Mina favoriter
+local_frequentplay	Frequent	Ofta spelat
+local_genre	Genres	Genrer
+local_hr	Hi-Res	Hi-Res
+local_playlist	Playlists	Spellistor
+local_recentadd	Recently Added	Nyligen tillagda
+local_recentplay	Recent	Senast spelat
+local_songer	Artists	Artister
+local_upmusic	Update Library	Uppdatera biblioteket
+login_out	Logout	Logga ut
+memplay_location	Location	Plats
+memplay_off	Off	Av
+memplay_track	Track	Spår
+msg_actionnotsupport	Non-local songs,not currently supported	Icke-lokala låtar stöds inte just nu
+msg_actionscan	Scan music?	Söka igenom musiken?
+msg_add_task	Please enter the URL of the file you want to download	Ange webbadressen till filen du vill ladda ned
+msg_addfailed	Adding Failed	Det gick inte att lägga till
+msg_addfavsuccess	Added To Fav	Tillagd i favoriter
+msg_addplaylistsuccess	Added To Playlist	Tillagd i spellistan
+msg_autoshutdown	Shutdown	Avstängning
+msg_btabnormal	Bluetooth abnormal	Bluetooth-fel
+msg_btinit_run	Bluetooth Starting	Bluetooth startar
+msg_btreconnect	Reconnect Bluetooth?	Återanslut Bluetooth?
+msg_cardeject	Audio Disconnected	Ljud frånkopplat
+msg_cardinsert	Audio Connected	Ljud anslutet
+msg_checkfw	Checking FW	Kontrollerar firmware
+msg_checkfwerr	FW. Check Error	Firmwarekontrollen misslyckades
+msg_closesynclink	Please close SyncLink	Stäng SyncLink
+msg_confirmupdate	Confirm Update?	Bekräfta uppdatering?
+msg_connected	Connected	Ansluten
+msg_connecting	Connecting	Ansluter
+msg_delalbum	Delete Album?	Ta bort albumet?
+msg_delalbumfailed	Failed To Delete Album	Det gick inte att ta bort albumet
+msg_delalbumsuccess	Album Deleted	Albumet har tagits bort
+msg_delartist	Delete Artist?	Ta bort artisten?
+msg_delartistsuccess	Artist Deleted	Artisten har tagits bort
+msg_delete_task	Are you sure you want to delete the download task?	Vill du verkligen ta bort nedladdningen?
+msg_deletesource	Also delete source file	Ta även bort källfilen
+msg_delfile	Are you sure you want to delete this file?	Vill du verkligen ta bort filen?
+msg_delfile	Delete File?	Ta bort filen?
+msg_delfilefailed	Failed To Delete File	Det gick inte att ta bort filen
+msg_delfilesuccess	File Deleted	Filen har tagits bort
+msg_delgenre	Delete Genre?	Ta bort genren?
+msg_delgenresuccess	Genre Deleted	Genren har tagits bort
+msg_delplaylist	Delete Playlist?	Ta bort spellistan?
+msg_delplaylistfailed	Failed To Delete Playlist	Det gick inte att ta bort spellistan
+msg_delplaylistsuccess	Playlist Deleted	Spellistan har tagits bort
+msg_delsong	Delete Song?	Ta bort låten?
+msg_delsongfailed	Failed To Delete Song	Det gick inte att ta bort låten
+msg_delsongsuccess	Song Deleted	Låten har tagits bort
+msg_disconnected	Disconnected	Frånkopplad
+msg_disonnectbt	Please disconnect the bluetooth device	Koppla från Bluetooth-enheten
+msg_downloadpath	Download path is	Nedladdningsmappen är
+msg_exist_task	The download task already exists	Nedladdningen finns redan
+msg_exitairplay	Quit AirPlay?	Avsluta AirPlay?
+msg_exportplaylist	Export Playlist?	Exportera spellistan?
+msg_exportsuccess	Export successful	Exporten lyckades
+msg_factorysuccess	Restore to factory settings succeeded	Fabriksinställningarna har återställts
+msg_favsuccess	Added To Fav	Tillagd i favoriter
+msg_file_exist	The file already exists	Filen finns redan
+msg_importplaylist	Import Playlists?	Importera spellistor?
+msg_importsuccess	Successfully imported	Importen lyckades
+msg_initsetsuccess	All settings initialized successfully	Alla inställningar har återställts
+msg_latestfw	Latest Fw. Installed	Senaste firmware är installerad
+msg_linkerror	WiFi Connection Error	Wi-Fi-anslutningsfel
+msg_lowarn	Line Out sets max volume,continue?	Line Out ställer in maxvolym. Fortsätta?
+msg_lowpower	Low Battery	Lågt batteri
+msg_namenull	The name can't be empty	Namnet får inte vara tomt
+msg_netnameerr	Network Must Be Named	Nätverket måste ha ett namn
+msg_no	Cancel	Avbryt
+msg_no_storage	Storage is full.Some songs couldn't be added.	Lagringen är full. Vissa låtar kunde inte läggas till.
+msg_noheadset	Playback is disabled without headphones.Please insert headphones.	Uppspelning är inaktiverad utan hörlurar. Anslut hörlurar.
+msg_nosongs	No songs in this folder	Inga låtar i den här mappen
+msg_notalbuminfo	This file has no Album data	Filen saknar albuminformation
+msg_notfile	File Not Found	Filen hittades inte
+msg_notfolder	Folder not found	Mappen hittades inte
+msg_notfoundfw	Fw. Not Found	Firmware hittades inte
+msg_notmemory	Memory is not enough	Minnet räcker inte
+msg_notmemory	Out of memory	Slut på minne
+msg_notnetwork	Network Disconnected	Nätverket är frånkopplat
+msg_nototg	No OTG Found	Ingen OTG hittades
+msg_notplaylist	Playlist Not Found	Spellistan hittades inte
+msg_notsongerinfo	This file has no Artist data	Filen saknar artistinformation
+msg_notsonglist	No Song List	Ingen låtlista
+msg_notspecdir	Folder not specified	Ingen mapp angiven
+msg_notsupport	Not Supported	Stöds inte
+msg_notsupportdel	Can't be removed	Kan inte tas bort
+msg_nottf	No TF Card Found	Inget minneskort hittades
+msg_otgeject	OTG Disconnected	OTG frånkopplad
+msg_otginfoerr	Failed To Get Version Info	Det gick inte att hämta versionsinformation
+msg_otginsert	OTG Connected	OTG ansluten
+msg_paircode	Bluetooth Code	Bluetooth-kod
+msg_paired	Paired	Parkopplad
+msg_playlistexist	Playlist Already Exists	Spellistan finns redan
+msg_playlistfull	Could not create playlist	Det gick inte att skapa spellistan
+msg_poweroff	Shut Down?	Stänga av?
+msg_resetdbsuccess	Reset completed	Återställningen är klar
+msg_restarting	Restarting	Startar om
+msg_shortpasswd	8 Digits PIN At Least	PIN-kod med minst 8 siffror
+msg_start_download_task	start the download task	Starta nedladdningen
+msg_stop_download_task	stop the download task	Stoppa nedladdningen
+msg_testmode	Enter test mode?	Starta testläget?
+msg_tfeject	TF Card Removed	Minneskortet har tagits ut
+msg_tfinsert	TF Card Inserted	Minneskort isatt
+msg_unpaired	Unpaired	Parkoppling borttagen
+msg_unpairing	unpair?	Ta bort parkopplingen?
+msg_unsupportformat	Unsupported format	Formatet stöds inte
+msg_update	Confirmed	Bekräftad
+msg_wificancelsave	Delete Record?	Ta bort posten?
+msg_wifidisconnect	Disconnect Now?	Koppla från nu?
+msg_yes	OK	OK
+navigation_all	All	Alla
+netservice_airplay	AirPlay	AirPlay
+netservice_dlna	DLNA	DLNA
+netservice_wifitrans	Wi-Fi File Transfer	Wi-Fi-filöverföring
+no_search	No search results	Inga sökresultat
+not_allmusic	Currently no songs	Inga låtar just nu
+otgdownload_percent	FW Downloaded	Firmware nedladdad
+outputway	Output Options	Utmatningsalternativ
+play_all	Play All	Spela alla
+player_abrepeat	AB Repeat	A-B-repetition
+player_albuminfo	Look up Album	Slå upp album
+player_bitdepth	Bit Depth	Bitdjup
+player_bitrate	Bitrate	Bithastighet
+player_delete	Delete Song	Ta bort låt
+player_encoding	Encoding	Kodning
+player_era	Year	År
+player_filesize	File Size	Filstorlek
+player_location	Location	Plats
+player_msgmul	*Affecting only files below 48khz	*Gäller bara filer under 48 kHz
+player_multiple	Multiple Speed	Uppspelningshastighet
+player_nolyric	No Lyrics	Ingen text
+player_onlinesearch	Download Cover & Lyrics	Hämta omslag och text
+player_playlist	Queue	Kö
+player_samplerate	Sample Rate	Samplingsfrekvens
+player_songerinfo	Look up Artist	Slå upp artist
+player_unknown	Unknown	Okänd
+player_unknown	Unknown Artist	Okänd artist
+playlist	Playlist	Spellista
+playlist_create	New playlist	Ny spellista
+playlist_export	Export playlist	Exportera spellista
+playlist_import	Import playlist	Importera spellista
+playmode_listplay	List Play	Spela lista
+playmode_repeatall	Repeat All	Upprepa alla
+playmode_repeattrack	Repeat Track	Upprepa spår
+playmode_shuffle	Shuffle	Blanda
+playset_balance	Channel Balance	Kanalbalans
+playset_bootvol	Default Volume	Standardvolym
+playset_covermode	Enlarged Album Art	Förstorat albumomslag
+playset_dsdoutput	DSD Output Mode	DSD-utmatningsläge
+playset_eq	EQ	EQ
+playset_filter	Digital Filters	Digitala filter
+playset_foldercover	Folder Album Cover	Mappomslag
+playset_folderjump	Folder Skip	Hoppa över mapp
+playset_gain	Gain	Förstärkning
+playset_gapless	Gapless	Gapless
+playset_maxvol	Max Volume	Maxvolym
+playset_memplay	Memory Playback	Minnesuppspelning
+playset_noplay	Require Output (Beta)	Kräv utgång (beta)
+playset_playmode	Play Mode	Uppspelningsläge
+playset_replaygain	ReplayGain	ReplayGain
+playset_usbaudiovol	USB Audio Output	USB-ljudutgång
+playset_volcover	Volume and Album Display	Volym- och albumvisning
+powerm_deep_off	Standby	Standby
+powerm_sleep	Sleep Timer	Insomningstimer
+recentadd	Recently Added	Nyligen tillagda
+recentplay	Recent	Senast spelat
+rename	Rename	Byt namn
+renamesuccess	Successfully renamed	Namnet har ändrats
+replaygain_track	Song	Låt
+reset_factory	Full Factory Reset	Fullständig fabriksåterställning
+reset_initdatabase	Reset Database	Återställ databasen
+reset_initset	Reset Settings Only	Återställ bara inställningarna
+scan_automatic	Automatic Update	Automatisk uppdatering
+scan_now	Scan music now	Sök igenom musik nu
+scan_now	Scan music now	Sök igenom musik nu
+scan_spec	Scan specified folders	Sök igenom valda mappar
+scan_spec	Scan specified folders	Sök igenom valda mappar
+scan_startscan	Scan	Sök igenom
+scan_updatefinish	Library Updated,%d Updated	Biblioteket är uppdaterat, %d uppdaterade
+scan_updating	Updating No.%d	Uppdaterar nr %d
+scover_cover	Cover	Omslag
+scover_lyric	Lyrics	Text
+screenlock_about	Custom Lock Screen	Egen låsskärm
+screenlock_info1	1. Put the pictures in a folder named "lockscreenimage" at the top of the card.	1. Lägg bilderna i en mapp som heter "lockscreenimage" högst upp på kortet.
+screenlock_info2	2. PNG or JPG, exactly 375 x 320 pixels, under 1 MB each.	2. PNG eller JPG, exakt 375 x 320 pixlar, under 1 MB per bild.
+screenlock_info3	3. Up to 5 pictures.	3. Upp till 5 bilder.
+screenlock_timeshow	Show Time	Visa tid
+search_tips1	Search for music,artists,albums,genres	Sök efter musik, artister, album, genrer
+search_track	Track	Spår
+singerbyalbum	Sort by album artist	Sortera efter albumartist
+singerbysong	Sort by song artist	Sortera efter låtartist
+small_album	Albums	Album
+small_coverflow	Album Wall	Albumvägg
+small_folder	Folder	Mapp
+small_local	Local Songs	Lokala låtar
+small_playing	Now Playing	Nu spelas
+small_playset	Playback	Uppspelning
+small_stream	Streaming	Streaming
+small_sysset	System	System
+songer	Artist	Artist
+sort_addtime	Time added	Tillagd
+sort_alphabet	Alphabetical	Alfabetisk
+sort_filename	File name	Filnamn
+sort_format	File format	Filformat
+sort_time_asc	Time added (ascending)	Tillagd (stigande)
+sort_time_desc	Time added (descending)	Tillagd (fallande)
+standbyoff_10min	10min	10 min
+standbyoff_1min	1min	1 min
+standbyoff_3min	3min	3 min
+standbyoff_5min	5min	5 min
+standbyoff_deep	Auto-standby	Auto-standby
+standbyoff_deepinfo	After 5 minute of idle,device will go into standby mode.	Efter 5 minuters inaktivitet går enheten i standby.
+standbyoff_saver	Auto-shutdown	Automatisk avstängning
+synclink_off	Off	Av
+system_about	About	Om
+system_carmode	In-Vehicle Mode	Billäge
+system_display	Display	Skärm
+system_general	General	Allmänt
+system_keylock	Buttons Lock	Knapplås
+system_keytone	Key Tone	Knappljud
+system_language	Language	Språk
+system_navshow	Show Navigation Bar	Visa navigeringsfält
+system_netservice	Network	Nätverk
+system_powermanager	Power	Ström
+system_prove	Certification	Certifiering
+system_reset	Reset Settings	Återställ inställningar
+system_sys	System	System
+system_time	Date & Time	Datum och tid
+system_update	System Update	Systemuppdatering
+system_wheelmode	Wheel Function	Hjulfunktion
+system_wifiset	Wireless	Trådlöst
+timedate_24h	24-Hour	24-timmars
+timedate_auto	Automatic Time Set	Ställ in tid automatiskt
+timedate_manual	Set Time Manually	Ställ in tid manuellt
+timezone_gmt+1	(GMT+01:00)Europe/Amsterdam	(GMT+01:00)Europe/Amsterdam
+timezone_gmt+10	(GMT+10:00)Australia/Sydney	(GMT+10:00)Australia/Sydney
+timezone_gmt+12	(GMT+12:00)Pacific/Fiji	(GMT+12:00)Pacific/Fiji
+timezone_gmt+2	(GMT+02:00)Europe/Bucharest	(GMT+02:00)Europe/Bucharest
+timezone_gmt+3	(GMT+03:00)Asia/Kuwait	(GMT+03:00)Asia/Kuwait
+timezone_gmt+3_30	(GMT+03:30)Asia/Tehran	(GMT+03:30)Asia/Tehran
+timezone_gmt+4	(GMT+04:00)Asia/Muscat	(GMT+04:00)Asia/Muscat
+timezone_gmt+4_30	(GMT+04:30)Asia/Kabul	(GMT+04:30)Asia/Kabul
+timezone_gmt+5	(GMT+05:00)Asia/Karachi	(GMT+05:00)Asia/Karachi
+timezone_gmt+6	(GMT+06:00)Asia/Almaty	(GMT+06:00)Asia/Almaty
+timezone_gmt+7	(GMT+07:00)Asia/Bangkok	(GMT+07:00)Asia/Bangkok
+timezone_gmt+8	(GMT+08:00)Asia/Shanghai	(GMT+08:00)Asia/Shanghai
+timezone_gmt+9	(GMT+09:00)Asia/Tokyo	(GMT+09:00)Asia/Tokyo
+timezone_gmt+9_30	(GMT+09:30)Australia/Adelaide	(GMT+09:30)Australia/Adelaide
+timezone_gmt-0	(GMT 00:00)Europe/London	(GMT 00:00)Europe/London
+timezone_gmt-1	(GMT-01:00)Atlantic/Azores	(GMT-01:00)Atlantic/Azores
+timezone_gmt-10	(GMT-10:00)Pacific/Honolulu	(GMT-10:00)Pacific/Honolulu
+timezone_gmt-11	(GMT-11:00)Pacific/Midway	(GMT-11:00)Pacific/Midway
+timezone_gmt-12	(GMT-12:00)Pacific/Kwajalein	(GMT-12:00)Pacific/Kwajalein
+timezone_gmt-3	(GMT-03:00)America/Argentina/Buenos_Aires	(GMT-03:00)America/Argentina/Buenos_Aires
+timezone_gmt-3_30	(GMT-03:30)America/St_Johns	(GMT-03:30)America/St_Johns
+timezone_gmt-4	(GMT-04:00)Canada/Atlantic	(GMT-04:00)Canada/Atlantic
+timezone_gmt-5	(GMT-05:00)America/New_York	(GMT-05:00)America/New_York
+timezone_gmt-6	(GMT-06:00)America/Mexico_City	(GMT-06:00)America/Mexico_City
+timezone_gmt-7	(GMT-07:00)America/Denver	(GMT-07:00)America/Denver
+timezone_gmt-8	(GMT-08:00)America/Tijuana	(GMT-08:00)America/Tijuana
+timezone_gmt-9	(GMT-09:00)America/Anchorage	(GMT-09:00)America/Anchorage
+timezone_select	Time Zone Selection	Välj tidszon
+title_downloaded	Downloaded	Nedladdade
+title_downloading	Downloading	Laddar ned
+title_more	More	Mer
+title_sort	List sort order	Sorteringsordning
+update_online	Network update	Nätverksuppdatering
+update_tf	TF card update	Uppdatering via minneskort
+usb_chargeswitch	USB DAC Charging	Laddning via USB DAC
+usbmode_audio	USB AUDIO	USB-ljud
+usbmode_connect	USB Connected	USB ansluten
+usbmode_dac	USB DAC	USB DAC
+usbmode_disconnect	USB Disconnected	USB frånkopplad
+usbmode_storge	USB Storage	USB-lagring
+usbvol_adjust	Volume Variable	Variabel volym
+usbvol_fixed	Volume Fixed	Fast volym
+wheelmode_menu	Menu Mode	Menyläge
+wheelmode_volume	Volume Mode	Volymläge
+wifi_addnetwork	Add Network	Lägg till nätverk
+wifi_choice	Select Network	Välj nätverk
+wifi_scan	Scanning	Söker
+wifiset_bt	Bluetooth	Bluetooth
+wifiset_synclink	SyncLink	SyncLink
+wifiset_wifi	Wi-Fi	Wi-Fi
+wifits_info1	Enter the following URL into your internet browser:	Ange följande adress i webbläsaren:
+Search	Search	Sök
+Streaming	Streaming	Streaming
+Library's Games	Library's Games	Bibliotek → Spel
+Library's Apps	Library's Apps	Bibliotek → Appar
+Network settings	Network settings	Nätverksinställningar
+Wait until the App Store finishes	Wait until the App Store finishes	Vänta tills App Store är klar
+It isn't on the card	It isn't on the card	Finns inte på kortet
+It couldn't start	It couldn't start	Kunde inte startas
+Stop %s	Stop %s	Stoppa %s
+Loading…	Loading…	Läser in…
+More…	More…	Mer…
+Working…	Working…	Arbetar…
+Starting %s…	Starting %s…	Startar %s…
+Retry	Retry	Försök igen
+Install it again in Library → App Store	Install it again in Library → App Store	Installera den igen i Bibliotek → App Store
+Cancel	Cancel	Avbryt
+%s isn't running	%s isn't running	%s körs inte
+%s didn't answer	%s didn't answer	%s svarade inte
+Too long	Too long	För lång
+%s stopped	%s stopped	%s har stoppats
+%s isn't on the card	%s isn't on the card	%s finns inte på kortet
+Apps	Apps	Appar
+No apps	No apps	Inga appar
+Not running	Not running	Körs inte
+No code yet	No code yet	Ingen kod än
+Connect the Q2 to Wi-Fi	Connect the Q2 to Wi-Fi	Anslut Q2 till Wi-Fi
+Open it again	Open it again	Öppna den igen
+Wait a moment	Wait a moment	Vänta ett ögonblick
+Then come back here	Then come back here	Kom sedan tillbaka hit
+Scan with your phone's	Scan with your phone's	Skanna med mobilens
+Scan with your	Scan with your	Skanna med
+camera	camera	kamera
+phone's camera	phone's camera	mobilens kamera
+or open	or open	eller öppna
+PIN	PIN	PIN
+Couldn't import %s	Couldn't import %s	Det gick inte att importera %s
+Playlists updated	Playlists updated	Spellistor uppdaterade
+No memory card	No memory card	Inget minneskort
+Games	Games	Spel
+%d update	%d update	%d uppdatering
+%d updates	%d updates	%d uppdateringar
+INSTALL	INSTALL	INSTALLERA
+UPDATE	UPDATE	UPPDATERA
+INSTALLED	INSTALLED	INSTALLERAD
+AM	AM	fm
+PM	PM	em
+Jan	Jan	jan
+Feb	Feb	feb
+Mar	Mar	mar
+Apr	Apr	apr
+May	May	maj
+Jun	Jun	jun
+Jul	Jul	jul
+Aug	Aug	aug
+Sep	Sep	sep
+Oct	Oct	okt
+Nov	Nov	nov
+Dec	Dec	dec
+The card is in use over USB	The card is in use over USB	Kortet används via USB
+Storage unavailable	Storage unavailable	Lagringen är inte tillgänglig
+The card is full	The card is full	Kortet är fullt
+Couldn't save	Couldn't save	Det gick inte att spara
+Saved to battery-log.txt	Saved to battery-log.txt	Sparad i battery-log.txt
+Battery History	Battery History	Batterihistorik
+Unplug to start	Unplug to start	Koppla ur för att starta
+Export Log	Export Log	Exportera logg
+Card theme turned off after a failed start	Card theme turned off after a failed start	Korttemat stängdes av efter en misslyckad start
+Card theme removed. Restart to finish	Card theme removed. Restart to finish	Korttemat har tagits bort. Starta om för att slutföra
+Card theme file can't be used	Card theme file can't be used	Korttemafilen kan inte användas
+Card theme saved. Restart to apply	Card theme saved. Restart to apply	Korttemat har sparats. Starta om för att använda det
+Could not save card theme	Could not save card theme	Det gick inte att spara korttemat
+Done	Done	Klar
+space	space	mellanslag
+New Playlist	New Playlist	Ny spellista
+Playlist Name	Playlist Name	Spellistans namn
+Rename	Rename	Byt namn
+Songs	Songs	Låtar
+Artists	Artists	Artister
+Albums	Albums	Album
+Genres	Genres	Genrer
+Off	Off	Av
+On	On	På
+%d of %d songs	%d of %d songs	%d av %d låtar
+Updating Library	Updating Library	Uppdaterar biblioteket
+Connected	Connected	Ansluten
+Eject before disconnecting	Eject before disconnecting	Mata ut innan du kopplar från
+%d:%02d AM	%d:%02d AM	%d:%02d fm
+%d:%02d PM	%d:%02d PM	%d:%02d em
+Save	Save	Spara
+Sort: Album	Sort: Album	Sortering: Album
+Sort: Artist	Sort: Artist	Sortering: Artist
+Sort: Recently Added	Sort: Recently Added	Sortering: Nyligen tillagda
+Sort: Most Played	Sort: Most Played	Sortering: Mest spelade
+Sort: Random	Sort: Random	Sortering: Slumpmässig
+Sort: Rating	Sort: Rating	Sortering: Betyg
+Sort: Year	Sort: Year	Sortering: År
+%u song	%u song	%u låt
+%u songs	%u songs	%u låtar
+All albums	All albums	Alla album
+Preparing artwork… %d/%d	Preparing artwork… %d/%d	Förbereder omslag… %d/%d
+Update Library first	Update Library first	Uppdatera biblioteket först
+%u Song	%u Song	%u låt
+%u Songs	%u Songs	%u låtar
+%u Album	%u Album	%u album
+%u Albums	%u Albums	%u album
+%u Game	%u Game	%u spel
+%u Games	%u Games	%u spel
+%u Service	%u Service	%u tjänst
+%u Services	%u Services	%u tjänster
+%u.%u GB Free	%u.%u GB Free	%u,%u GB ledigt
+Library	Library	Bibliotek
+Settings	Settings	Inställningar
+Crossfade: %d s	Crossfade: %d s	Crossfade: %d s
+Crossfade: Off	Crossfade: Off	Crossfade: Av
+Wheel Sensitivity: %d%%	Wheel Sensitivity: %d%%	Hjulkänslighet: %d%%
+Resume Songs: %d min	Resume Songs: %d min	Återuppta låtar: %d min
+Resume Songs: Off	Resume Songs: Off	Återuppta låtar: Av
+Night Shift: %dK	Night Shift: %dK	Night Shift: %dK
+Night Shift: Auto	Night Shift: Auto	Night Shift: Auto
+Night Shift: Off	Night Shift: Off	Night Shift: Av
+Mono Audio	Mono Audio	Monoljud
+Swap L/R	Swap L/R	Växla V/H
+Crossfade needs Gapless	Crossfade needs Gapless	Crossfade kräver Gapless
+Auto	Auto	Auto
+Night Shift	Night Shift	Night Shift
+Resume Songs	Resume Songs	Återuppta låtar
+Wheel Sensitivity	Wheel Sensitivity	Hjulkänslighet
+Crossfade	Crossfade	Crossfade
+Measuring song lengths…	Measuring song lengths…	Mäter låtlängder…
+Sudoku	Sudoku	Sudoku
+Solitaire	Solitaire	Patiens
+Snake	Snake	Snake
+Paused	Paused	Pausad
+Continue	Continue	Fortsätt
+Quit	Quit	Avsluta
+New best!	New best!	Nytt rekord!
+Game over	Game over	Spelet slut
+Centre: play again	Centre: play again	Mitten: spela igen
+Play/Pause: resume	Play/Pause: resume	Spela/Paus: fortsätt
+New game?	New game?	Nytt spel?
+Centre: yes   Return: no	Centre: yes   Return: no	Mitten: ja   Tillbaka: nej
+Solved!	Solved!	Löst!
+Play/Pause: new game	Play/Pause: new game	Spela/Paus: nytt spel
+Score	Score	Poäng
+Best	Best	Rekord
+Level	Level	Nivå
+Centre	Centre	Mitten
+You win!	You win!	Du vann!
+Shuffle	Shuffle	Blanda
+Era	Era	Årtionde
+Ratings	Ratings	Betyg
+Most Played	Most Played	Mest spelade
+Long Songs	Long Songs	Långa låtar
+App Store	App Store	App Store
+Upload Scrobbles	Upload Scrobbles	Ladda upp scrobblar
+Tidal Downloads	Tidal Downloads	Tidal-nedladdningar
+Internet Radio	Internet Radio	Internetradio
+Configuration	Configuration	Konfiguration
+Restart to apply?	Restart to apply?	Starta om för att tillämpa?
+Couldn't copy the language	Couldn't copy the language	Det gick inte att kopiera språket
+Too many songs to shuffle	Too many songs to shuffle	För många låtar att blanda
+Shuffle Songs	Shuffle Songs	Blanda låtar
+Shuffle Albums	Shuffle Albums	Blanda album
+Shuffle Folders	Shuffle Folders	Blanda mappar
+Albums and folders take a moment to shuffle	Albums and folders take a moment to shuffle	Det tar en stund att blanda album och mappar
+No plays yet	No plays yet	Inget spelat än
+%u play	%u play	%u uppspelning
+%u plays	%u plays	%u uppspelningar
+No downloads yet	No downloads yet	Inga nedladdningar än
+Clear All Downloads…	Clear All Downloads…	Rensa alla nedladdningar…
+%u track	%u track	%u spår
+%u tracks	%u tracks	%u spår
+Remove Downloads?	Remove Downloads?	Ta bort nedladdningar?
+Keeps settings	Keeps settings	Behåller inställningarna
+Remove	Remove	Ta bort
+It isn't on the card any more	It isn't on the card any more	Finns inte längre på kortet
+%02ds	%02ds	%02d-tal
+%ds	%ds	%d-tal
+Era unavailable	Era unavailable	Årtionde inte tillgängligt
+Album not found	Album not found	Albumet hittades inte
+%u album	%u album	%u album
+%u albums	%u albums	%u album
+Play All	Play All	Spela alla
+Every song, shuffled	Every song, shuffled	Alla låtar, blandade
+No dated albums yet	No dated albums yet	Inga daterade album än
+No songs over 10 minutes	No songs over 10 minutes	Inga låtar över 10 minuter
+Measuring songs… %d/%d	Measuring songs… %d/%d	Mäter låtar… %d/%d
+Measuring songs…	Measuring songs…	Mäter låtar…
+Release to search	Release to search	Släpp för att söka
+Pull to search	Pull to search	Dra för att söka
+Sleep Timer	Sleep Timer	Insomningstimer
+Lock Screen	Lock Screen	Lås skärmen
+Accent	Accent	Accent
+Everything	Everything	Allt
+Buttons only	Buttons only	Bara knappar
+Volume only	Volume only	Bara volym
+Wake: Single Press	Wake: Single Press	Väck: Ett tryck
+Wake: Double Press	Wake: Double Press	Väck: Dubbeltryck
+Artist View: Grid	Artist View: Grid	Artistvy: Rutnät
+Artist View: Cover Flow	Artist View: Cover Flow	Artistvy: Cover Flow
+Artist View: List	Artist View: List	Artistvy: Lista
+Year Order: Newest First	Year Order: Newest First	Årsordning: Nyaste först
+Year Order: Oldest First	Year Order: Oldest First	Årsordning: Äldsta först
+Artists: Artist	Artists: Artist	Artister: Artist
+Artists: Album Artist	Artists: Album Artist	Artister: Albumartist
+Resume on Connect: Off	Resume on Connect: Off	Återuppta vid anslutning: Av
+Resume on Connect: On	Resume on Connect: On	Återuppta vid anslutning: På
+Clock: Standard	Clock: Standard	Klocka: Standard
+Clock: Large	Clock: Large	Klocka: Stor
+Artist Album Order: Year	Artist Album Order: Year	Artistens albumordning: År
+Artist Album Order: A–Z	Artist Album Order: A–Z	Artistens albumordning: A–Ö
+Volume Guard: Off	Volume Guard: Off	Volymskydd: Av
+Volume Guard: On	Volume Guard: On	Volymskydd: På
+Hold Return: Recent	Hold Return: Recent	Håll Tillbaka: Senast spelat
+Hold Return: Home	Hold Return: Home	Håll Tillbaka: Hem
+Standby Limit: Off	Standby Limit: Off	Standbygräns: Av
+Standby Limit: %u h	Standby Limit: %u h	Standbygräns: %u h
+Refresh Cover Flow	Refresh Cover Flow	Uppdatera Cover Flow
+Playlist View: List	Playlist View: List	Spellistvy: Lista
+Playlist View: Cover Flow	Playlist View: Cover Flow	Spellistvy: Cover Flow
+Update Notifications: Off	Update Notifications: Off	Uppdateringsaviseringar: Av
+Update Notifications: On	Update Notifications: On	Uppdateringsaviseringar: På
+Album View: List	Album View: List	Albumvy: Lista
+Album View: Grid	Album View: Grid	Albumvy: Rutnät
+Charge Limit (%u%%)	Charge Limit (%u%%)	Laddningsgräns (%u%%)
+Resume on Connect	Resume on Connect	Återuppta vid anslutning
+Volume Guard	Volume Guard	Volymskydd
+Control Device Volume	Control Device Volume	Styr enhetens volym
+Key Tone	Key Tone	Knappljud
+In-Vehicle Mode	In-Vehicle Mode	Billäge
+Smart Wi-Fi	Smart Wi-Fi	Smart Wi-Fi
+Enlarged Album Art	Enlarged Album Art	Förstorat albumomslag
+Folder Album Cover	Folder Album Cover	Mappomslag
+Fast Navigation	Fast Navigation	Snabbnavigering
+Scan Song Durations	Scan Song Durations	Mät låtlängder
+Position Bar	Position Bar	Positionsfält
+Hide Streaming	Hide Streaming	Dölj Streaming
+Hide Folder	Hide Folder	Dölj Mapp
+Hide Apps	Hide Apps	Dölj Appar
+Hide Games	Hide Games	Dölj Spel
+Hide App Store	Hide App Store	Dölj App Store
+Receive Audio	Receive Audio	Ta emot ljud
+Log Failed Artwork	Log Failed Artwork	Logga misslyckade omslag
+Hide Duplicate Albums	Hide Duplicate Albums	Dölj dubbletter av album
+Hide Duplicate Songs	Hide Duplicate Songs	Dölj dubbletter av låtar
+Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	Cover Flow bygger om omslagen nästa gång
+Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	Stäng av och slå på Bluetooth för att tillämpa
+Folder Root: %s	Folder Root: %s	Rotmapp: %s
+Folder Root: Card	Folder Root: Card	Rotmapp: Kort
+Library & Folders	Library & Folders	Bibliotek och mappar
+Press Centre to Change Mode	Press Centre to Change Mode	Tryck på Mitten för att byta läge
+Press Centre to Turn On or Off	Press Centre to Turn On or Off	Tryck på Mitten för att slå på eller av
+Press Centre When Finished	Press Centre When Finished	Tryck på Mitten när du är klar
+OK to Disconnect	OK to Disconnect	OK att koppla från
+Now Playing	Now Playing	Nu spelas
+Cover Flow	Cover Flow	Cover Flow
+EQ	EQ	EQ
+Update Library	Update Library	Uppdatera biblioteket
+Balance	Balance	Balans
+Home: Split	Home: Split	Hem: Delat
+Home: Full	Home: Full	Hem: Helskärm
+Home: Carousel	Home: Carousel	Hem: Karusell
+Battery: Icon	Battery: Icon	Batteri: Ikon
+Battery: Percent	Battery: Percent	Batteri: Procent
+Battery: Icon + Percent	Battery: Icon + Percent	Batteri: Ikon + procent
+Battery: Percent Inside	Battery: Percent Inside	Batteri: Procent i ikonen
+Light Mode: Off	Light Mode: Off	Ljust läge: Av
+Light Mode: On	Light Mode: On	Ljust läge: På
+Light Mode: Auto	Light Mode: Auto	Ljust läge: Auto
+Accent: Card Theme	Accent: Card Theme	Accent: Korttema
+Battery: Card Theme	Battery: Card Theme	Batteri: Korttema
+Light Mode: Card Theme	Light Mode: Card Theme	Ljust läge: Korttema
+Accent: %s	Accent: %s	Accent: %s
+Theme: %s	Theme: %s	Tema: %s
+Shortcut: None	Shortcut: None	Genväg: Ingen
+Shortcut: %s	Shortcut: %s	Genväg: %s
+Rounded Corners	Rounded Corners	Rundade hörn
+Smart Awake	Smart Awake	Smart Awake
+Centred Now Playing	Centred Now Playing	Centrerad Nu spelas
+Click With Headphones	Click With Headphones	Klick med hörlurar
+Single Press Scrub	Single Press Scrub	Spola med ett tryck
+Time in Title	Time in Title	Tid i titeln
+Set by the card theme	Set by the card theme	Bestäms av korttemat
+Location	Location	Plats
+Unknown	Unknown	Okänd
+Appearance	Appearance	Utseende
+Controls	Controls	Kontroller
+Theme	Theme	Tema
+Boot to: Rockbox	Boot to: Rockbox	Starta i: Rockbox
+Boot to: Q2 Pod	Boot to: Q2 Pod	Starta i: Q2 Pod
+Rockbox is not on the card	Rockbox is not on the card	Rockbox finns inte på kortet
+Could not save boot choice	Could not save boot choice	Det gick inte att spara startvalet
+No albums	No albums	Inga album
+No artists	No artists	Inga artister
+No composers	No composers	Inga kompositörer
+No genres	No genres	Inga genrer
+Chapter %d	Chapter %d	Kapitel %d
+Chapters	Chapters	Kapitel
+Could not read chapters	Could not read chapters	Det gick inte att läsa kapitlen
+No embedded chapters	No embedded chapters	Inga inbäddade kapitel
+Too long to read chapters on the Q2	Too long to read chapters on the Q2	För långt för att läsa kapitel på Q2
+Loading chapters…	Loading chapters…	Läser in kapitel…
+Spotify Cache: %s	Spotify Cache: %s	Spotify-cache: %s
+Tidal Cache: %s	Tidal Cache: %s	Tidal-cache: %s
+Erasing…	Erasing…	Raderar…
+Press again to erase login and cache	Press again to erase login and cache	Tryck igen för att radera inloggning och cache
+Erase Spotify Data	Erase Spotify Data	Radera Spotify-data
+Could not save setting	Could not save setting	Det gick inte att spara inställningen
+Streaming stopped	Streaming stopped	Streaming stoppad
+Wait for the one in progress	Wait for the one in progress	Vänta på den som pågår
+Stop Streaming Services	Stop Streaming Services	Stoppa streamingtjänster
+No %s folder on the card	No %s folder on the card	Ingen %s-mapp på kortet
+CFW. Version	CFW. Version	CFW-version
+Update to %s	Update to %s	Uppdatera till %s
+Latest firmware installed	Latest firmware installed	Senaste firmware är installerad
+Can't reach GitHub	Can't reach GitHub	Kan inte nå GitHub
+No update for this build	No update for this build	Ingen uppdatering för den här versionen
+Can't write to the card	Can't write to the card	Kan inte skriva till kortet
+Download cancelled	Download cancelled	Nedladdningen avbröts
+GitHub is busy, try later	GitHub is busy, try later	GitHub är upptaget, försök senare
+The download was damaged, try again	The download was damaged, try again	Nedladdningen var skadad, försök igen
+Downloading %d%%	Downloading %d%%	Laddar ned %d%%
+Cancelling…	Cancelling…	Avbryter…
+Reconnecting…	Reconnecting…	Återansluter…
+Verifying…	Verifying…	Verifierar…
+Checking…	Checking…	Kontrollerar…
+Needs %u MB more space	Needs %u MB more space	Behöver %u MB mer utrymme
+Update downloaded: use TF card update	Update downloaded: use TF card update	Uppdateringen är nedladdad: använd Uppdatering via minneskort
+Charge the battery first	Charge the battery first	Ladda batteriet först
+Can't start the download	Can't start the download	Kan inte starta nedladdningen
+Downloading…	Downloading…	Laddar ned…
+Q2 Pod %s is out: System Update → Network update	Q2 Pod %s is out: System Update → Network update	Q2 Pod %s är tillgänglig: Systemuppdatering → Nätverksuppdatering
+Downloading	Downloading	Laddar ned
+Unpacking…	Unpacking…	Packar upp…
+Installing…	Installing…	Installerar…
+Removing…	Removing…	Tar bort…
+Connect to Wi-Fi to load the list	Connect to Wi-Fi to load the list	Anslut till Wi-Fi för att läsa in listan
+Checked just now	Checked just now	Kontrollerad nyss
+Checked %u min ago	Checked %u min ago	Kontrollerad för %u min sedan
+Checked %u h ago	Checked %u h ago	Kontrollerad för %u h sedan
+Press again to remove	Press again to remove	Tryck igen för att ta bort
+Starts at power-on. Press again to install	Starts at power-on. Press again to install	Startar vid uppstart. Tryck igen för att installera
+%d app can be updated	%d app can be updated	%d app kan uppdateras
+%d apps can be updated	%d apps can be updated	%d appar kan uppdateras
+All apps are up to date	All apps are up to date	Alla appar är uppdaterade
+The download is not a usable app	The download is not a usable app	Nedladdningen är ingen användbar app
+Rockbox is ready. Find it on Home	Rockbox is ready. Find it on Home	Rockbox är klart. Hitta det på Hem
+Rockbox Themes are ready in Rockbox's Theme Settings	Rockbox Themes are ready in Rockbox's Theme Settings	Rockbox-teman finns i Rockboxs temainställningar
+%s is ready in %s	%s is ready in %s	%s finns nu i %s
+%s removed	%s removed	%s har tagits bort
+Spotify's login and cache erased	Spotify's login and cache erased	Spotifys inloggning och cache har raderats
+Stopped checking for updates	Stopped checking for updates	Slutade söka efter uppdateringar
+Install Rockbox first	Install Rockbox first	Installera Rockbox först
+Check for Updates	Check for Updates	Sök efter uppdateringar
+%d of %d	%d of %d	%d av %d
+Album lyrics	Album lyrics	Albumtexter
+LRCLIB stopped answering	LRCLIB stopped answering	LRCLIB svarar inte längre
+Cancelled	Cancelled	Avbruten
+%d saved	%d saved	%d sparade
+%d not found	%d not found	%d hittades inte
+%d already had lyrics	%d already had lyrics	%d hade redan text
+%d failed	%d failed	%d misslyckades
+Album lyrics: no songs on the card	Album lyrics: no songs on the card	Albumtexter: inga låtar på kortet
+Can't reach LRCLIB	Can't reach LRCLIB	Kan inte nå LRCLIB
+Download Album Lyrics	Download Album Lyrics	Hämta albumtexter
+Downloading %d of %d	Downloading %d of %d	Laddar ned %d av %d
+No album songs on the card	No album songs on the card	Inga albumlåtar på kortet
+file exceeds 16384 bytes	file exceeds 16384 bytes	filen är över 16384 byte
+line exceeds 512 bytes	line exceeds 512 bytes	raden är över 512 byte
+embedded NUL	embedded NUL	inbäddad NUL
+unsupported filter form	unsupported filter form	filterformen stöds inte
+expected Preamp: <gain> dB	expected Preamp: <gain> dB	förväntade Preamp: <gain> dB
+preamp outside -60..24 dB or invalid number	preamp outside -60..24 dB or invalid number	preamp utanför -60..24 dB eller ogiltigt tal
+expected Channel: L, R or all	expected Channel: L, R or all	förväntade Channel: L, R eller all
+only channels L, R and all are supported	only channels L, R and all are supported	bara kanalerna L, R och all stöds
+unsupported command	unsupported command	kommandot stöds inte
+invalid filter label	invalid filter label	ogiltig filteretikett
+expected Filter [number]:	expected Filter [number]:	förväntade Filter [nummer]:
+expected ON or OFF	expected ON or OFF	förväntade ON eller OFF
+unsupported filter type	unsupported filter type	filtertypen stöds inte
+expected Fc <Hz> Hz Gain <dB> dB	expected Fc <Hz> Hz Gain <dB> dB	förväntade Fc <Hz> Hz Gain <dB> dB
+invalid frequency or gain number	invalid frequency or gain number	ogiltig frekvens eller gain
+expected Q <number>	expected Q <number>	förväntade Q <tal>
+peaking filter requires Q	peaking filter requires Q	peaking-filter kräver Q
+range: 20..20000 Hz, -24..24 dB, Q 0.1..10	range: 20..20000 Hz, -24..24 dB, Q 0.1..10	intervall: 20..20000 Hz, -24..24 dB, Q 0.1..10
+more than 30 bands	more than 30 bands	fler än 30 band
+summed preamp outside -60..24 dB	summed preamp outside -60..24 dB	summerad preamp utanför -60..24 dB
+L/R preamp differ by more than 12 dB	L/R preamp differ by more than 12 dB	V/H-preamp skiljer sig med mer än 12 dB
+out of memory	out of memory	slut på minne
+cannot open file	cannot open file	kan inte öppna filen
+file read failed	file read failed	det gick inte att läsa filen
+EQ for 3.5 mm	EQ for 3.5 mm	EQ för 3,5 mm
+EQ for 4.4 mm	EQ for 4.4 mm	EQ för 4,4 mm
+EQ for USB	EQ for USB	EQ för USB
+EQ for this Bluetooth device	EQ for this Bluetooth device	EQ för den här Bluetooth-enheten
+Auto (44.1: %.1f / 48: %.1f)	Auto (44.1: %.1f / 48: %.1f)	Auto (44.1: %.1f / 48: %.1f)
+Folder missing or unavailable	Folder missing or unavailable	Mappen saknas eller kan inte nås
+Out of memory; cannot list presets	Out of memory; cannot list presets	Slut på minne; kan inte lista förinställningar
+No presets found	No presets found	Inga förinställningar hittades
+Name not allowed; preset kept	Name not allowed; preset kept	Ogiltigt namn; behålls
+Name taken; preset kept	Name taken; preset kept	Namnet upptaget; behålls
+Rename failed; preset kept	Rename failed; preset kept	Namnbyte misslyckades; behålls
+Renamed to %.100s	Renamed to %.100s	Bytte namn till %.100s
+Pop	Pop	Pop
+Rock	Rock	Rock
+Dance	Dance	Dance
+Blues	Blues	Blues
+Metal	Metal	Metal
+Vocal	Vocal	Sång
+Classical	Classical	Klassisk
+Jazz	Jazz	Jazz
+Preset loaded; choose Apply to activate	Preset loaded; choose Apply to activate	Förinställning inläst; välj Tillämpa för att aktivera
+Preset saved; active EQ unchanged	Preset saved; active EQ unchanged	Förinställning sparad; aktiv EQ oförändrad
+Save failed; settings unchanged	Save failed; settings unchanged	Kunde inte spara; inget ändrat
+Switch failed; EQ unchanged	Switch failed; EQ unchanged	Byte misslyckades; EQ kvar
+Applied	Applied	Tillämpad
+Apply failed; active EQ unchanged	Apply failed; active EQ unchanged	Det gick inte att tillämpa; aktiv EQ oförändrad
+Reset; choose Apply to activate	Reset; choose Apply to activate	Återställd; välj Tillämpa
+Delete failed; preset kept	Delete failed; preset kept	Borttagning misslyckades
+Deleted %.100s; active EQ unchanged	Deleted %.100s; active EQ unchanged	%.100s har tagits bort; aktiv EQ oförändrad
+Line %u: %s	Line %u: %s	Rad %u: %s
+Cannot read preset; settings unchanged	Cannot read preset; settings unchanged	Kan inte läsa förinställningen; inställningarna är oförändrade
+Peaking	Peaking	Peaking
+Low shelf	Low shelf	Lågt hyllfilter
+High shelf	High shelf	Högt hyllfilter
+Apply changes	Apply changes	Tillämpa ändringar
+Nothing to apply	Nothing to apply	Inget att tillämpa
+Reset to defaults	Reset to defaults	Återställ till standard
+Enabled	Enabled	Aktiverad
+EQ per Output	EQ per Output	EQ per utgång
+Preamp	Preamp	Preamp
+Presets	Presets	Förinställningar
+Band	Band	Band
+Channels	Channels	Kanaler
+Both	Both	Båda
+Left	Left	Vänster
+Right	Right	Höger
+Type	Type	Typ
+Frequency	Frequency	Frekvens
+Gain	Gain	Förstärkning
+Band %d Q	Band %d Q	Band %d Q
+Band %d Frequency (Hz)	Band %d Frequency (Hz)	Band %d frekvens (Hz)
+Raise	Raise	Höj
+Lower	Lower	Sänk
+Step	Step	Steg
+Delete %.100s? Confirm	Delete %.100s? Confirm	Ta bort %.100s? Bekräfta
+Replace existing preset? Confirm	Replace existing preset? Confirm	Ersätta förinställning? Bekräfta
+Cancel replacement	Cancel replacement	Avbryt ersättning
+Save as Manual %02d	Save as Manual %02d	Spara som Manual %02d
+Stock presets	Stock presets	Standardförinställningar
+Import from SD /EQ	Import from SD /EQ	Importera från SD /EQ
+Save editor preset	Save editor preset	Spara editorns förinställning
+Rename a preset	Rename a preset	Byt namn på en förinställning
+Delete a preset	Delete a preset	Ta bort en förinställning
+Previous page	Previous page	Föregående sida
+Next page	Next page	Nästa sida
+Band %d	Band %d	Band %d
+Band %d Gain	Band %d Gain	Band %d förstärkning
+Presets %d/%d	Presets %d/%d	Förinställningar %d/%d
+Save failed; EQ unchanged	Save failed; EQ unchanged	Sparande misslyckades; EQ kvar
+Advanced	Advanced	Avancerat
+Enabled: On	Enabled: On	Aktiverad: På
+Enabled: Off	Enabled: Off	Aktiverad: Av
+Low	Low	Bas
+Mid	Mid	Mellan
+High	High	Diskant
+Simple	Simple	Enkel
+No photos	No photos	Inga foton
+All Photos	All Photos	Alla foton
+Photos	Photos	Foton
+Can't open this photo	Can't open this photo	Det går inte att öppna fotot
+%d of %d  %s	%d of %d  %s	%d av %d  %s
+Could not save folder speed	Could not save folder speed	Det gick inte att spara mapphastigheten
+Too long to play on the Q2: split it into parts	Too long to play on the Q2: split it into parts	För långt för att spelas på Q2: dela upp det i delar
+Press again to restart	Press again to restart	Tryck igen för att starta om
+Could not save playlist	Could not save playlist	Det gick inte att spara spellistan
+Already in playlist	Already in playlist	Finns redan i spellistan
+Added to Playlist	Added to Playlist	Tillagd i spellistan
+Search songs	Search songs	Sök låtar
+Editing: %s	Editing: %s	Redigerar: %s
+Add Songs: %s	Add Songs: %s	Lägg till låtar: %s
+Song Actions: %s	Song Actions: %s	Låtåtgärder: %s
+Remove song?: %s	Remove song?: %s	Ta bort låten?: %s
+Add Songs	Add Songs	Lägg till låtar
+Move Up	Move Up	Flytta upp
+Move Down	Move Down	Flytta ned
+Remove from Playlist	Remove from Playlist	Ta bort från spellistan
+Search: %s	Search: %s	Sök: %s
+No songs match	No songs match	Inga låtar matchar
+Search for more songs	Search for more songs	Sök efter fler låtar
+Delete Playlist?	Delete Playlist?	Ta bort spellistan?
+Delete	Delete	Ta bort
+Playlist deleted	Playlist deleted	Spellistan har tagits bort
+Could not delete playlist	Could not delete playlist	Det gick inte att ta bort spellistan
+Delete Playlist	Delete Playlist	Ta bort spellista
+Edit Playlist	Edit Playlist	Redigera spellista
+Queue unchanged	Queue unchanged	Kön är oförändrad
+Deselect All	Deselect All	Avmarkera alla
+Select All	Select All	Markera alla
+Export %d Playlist	Export %d Playlist	Exportera %d spellista
+Export %d Playlists	Export %d Playlists	Exportera %d spellistor
+Delete %d Playlist…	Delete %d Playlist…	Ta bort %d spellista…
+Delete %d Playlists…	Delete %d Playlists…	Ta bort %d spellistor…
+%d Selected	%d Selected	%d valda
+Select Playlists	Select Playlists	Välj spellistor
+Playlists	Playlists	Spellistor
+No Playlists	No Playlists	Inga spellistor
+New Playlist…	New Playlist…	Ny spellista…
+Select Playlists…	Select Playlists…	Välj spellistor…
+Import Playlists	Import Playlists	Importera spellistor
+Export	Export	Exportera
+No other group	No other group	Ingen annan grupp
+Folder not found	Folder not found	Mappen hittades inte
+All Songs	All Songs	Alla låtar
+Songs in Album	Songs in Album	Låtar i albumet
+Albums and Songs	Albums and Songs	Album och låtar
+Songs in Folder	Songs in Folder	Låtar i mappen
+Folders	Folders	Mappar
+Folders and Songs	Folders and Songs	Mappar och låtar
+Play One Song	Play One Song	Spela en låt
+Play One Album	Play One Album	Spela ett album
+Repeat Song	Repeat Song	Upprepa låt
+Repeat Album	Repeat Album	Upprepa album
+Repeat All	Repeat All	Upprepa alla
+Play One Folder	Play One Folder	Spela en mapp
+Repeat Folder	Repeat Folder	Upprepa mapp
+Album	Album	Album
+Folder	Folder	Mapp
+Repeat	Repeat	Upprepa
+Group by	Group by	Gruppera efter
+Play Next	Play Next	Spela härnäst
+Add to Queue	Add to Queue	Lägg till i kön
+Add to Favourites	Add to Favourites	Lägg till i favoriter
+Remove from Favourites	Remove from Favourites	Ta bort från favoriter
+Add to Playlist	Add to Playlist	Lägg till i spellista
+Go to Album	Go to Album	Gå till album
+Go to Artist	Go to Artist	Gå till artist
+Next Album	Next Album	Nästa album
+Previous Album	Previous Album	Föregående album
+Rate	Rate	Betygsätt
+Resume	Resume	Återuppta
+View Queue	View Queue	Visa kön
+Go to Folder	Go to Folder	Gå till mapp
+Rate Album	Rate Album	Betygsätt album
+Group by: Folder	Group by: Folder	Gruppera efter: Mapp
+Group by: Album	Group by: Album	Gruppera efter: Album
+Next Folder	Next Folder	Nästa mapp
+Previous Folder	Previous Folder	Föregående mapp
+Wheel: Volume	Wheel: Volume	Hjul: Volym
+Wheel: Brightness	Wheel: Brightness	Hjul: Ljusstyrka
+Could not save Favourites	Could not save Favourites	Det gick inte att spara favoriterna
+Added to Favourites	Added to Favourites	Tillagd i favoriter
+Removed from Favourites	Removed from Favourites	Borttagen från favoriter
+Stopped	Stopped	Stoppad
+Can't play: %s	Can't play: %s	Kan inte spelas: %s
+Can't play this station	Can't play this station	Kan inte spela den här stationen
+Connecting…	Connecting…	Ansluter…
+Search is too long	Search is too long	Sökningen är för lång
+Search stations	Search stations	Sök stationer
+Favourites	Favourites	Favoriter
+Featured	Featured	Utvalda
+Top Stations	Top Stations	Toppstationer
+By Country	By Country	Efter land
+By Genre	By Genre	Efter genre
+Countries	Countries	Länder
+Connecting to Wi-Fi…	Connecting to Wi-Fi…	Ansluter till Wi-Fi…
+Directory unavailable	Directory unavailable	Katalogen är inte tillgänglig
+No Wi-Fi	No Wi-Fi	Inget Wi-Fi
+No stations	No stations	Inga stationer
+No favourites	No favourites	Inga favoriter
+Rating not saved	Rating not saved	Betyget sparades inte
+Ratings are full	Ratings are full	Betygslagringen är full
+Favourite not sent to the app	Favourite not sent to the app	Favoriten skickades inte till appen
+Unrated	Unrated	Utan betyg
+1 Heart	1 Heart	1 hjärta
+%d Hearts	%d Hearts	%d hjärtan
+%d of 5	%d of 5	%d av 5
+Album changed	Album changed	Albumet har ändrats
+Favourite not saved	Favourite not saved	Favoriten sparades inte
+This app has no favourites	This app has no favourites	Den här appen har inga favoriter
+Top Rated	Top Rated	Högst betyg
+Loved	Loved	Älskade
+All Rated	All Rated	Alla betygsatta
+Disliked	Disliked	Ogillade
+No songs yet	No songs yet	Inga låtar än
+Hold the heart on Now Playing to rate	Hold the heart on Now Playing to rate	Håll hjärtat i Nu spelas för att betygsätta
+No rated albums yet	No rated albums yet	Inga betygsatta album än
+Upload failed, %d sent	Upload failed, %d sent	Uppladdningen misslyckades, %d skickade
+Scrobbles sent: %d	Scrobbles sent: %d	Skickade scrobblar: %d
+Nothing to upload	Nothing to upload	Inget att ladda upp
+Uploading scrobbles	Uploading scrobbles	Laddar upp scrobblar
+Already uploading	Already uploading	Laddar redan upp
+Upload failed	Upload failed	Uppladdningen misslyckades
+Connect to Wi-Fi first	Connect to Wi-Fi first	Anslut till Wi-Fi först
+Waiting for Spotify	Waiting for Spotify	Väntar på Spotify
+Spotify isn't on the card	Spotify isn't on the card	Spotify finns inte på kortet
+See the Q2 Pod guide to add it	See the Q2 Pod guide to add it	Se Q2 Pod-guiden för att lägga till det
+Open Spotify on your phone	Open Spotify on your phone	Öppna Spotify på mobilen
+and choose Q2	and choose Q2	och välj Q2
+Spotify refused this account	Spotify refused this account	Spotify nekade det här kontot
+Its tracks can't play on the Q2	Its tracks can't play on the Q2	Dess spår kan inte spelas på Q2
+Playback didn't start	Playback didn't start	Uppspelningen startade inte
+Go back and try again	Go back and try again	Gå tillbaka och försök igen
+Starting playback	Starting playback	Startar uppspelning
+Update Spotify on the card	Update Spotify on the card	Uppdatera Spotify på kortet
+See the Q2 Pod guide	See the Q2 Pod guide	Se Q2 Pod-guiden
+Nothing playing	Nothing playing	Inget spelas
+Choose music in Spotify	Choose music in Spotify	Välj musik i Spotify
+Liked Songs	Liked Songs	Gillade låtar
+Queue	Queue	Kö
+Playback Settings	Playback Settings	Uppspelningsinställningar
+Account	Account	Konto
+Downloaded Tracks	Downloaded Tracks	Nedladdade spår
+Downloads	Downloads	Nedladdningar
+Tracks	Tracks	Spår
+Open Spotify on your phone and choose Q2	Open Spotify on your phone and choose Q2	Öppna Spotify på mobilen och välj Q2
+Both on the same Wi-Fi	Both on the same Wi-Fi	Båda på samma Wi-Fi
+to browse on the Q2	to browse on the Q2	för att bläddra på Q2
+Downloaded Playlists	Downloaded Playlists	Nedladdade spellistor
+Download Progress	Download Progress	Nedladdningsförlopp
+Storage Management	Storage Management	Lagringshantering
+Download Status	Download Status	Nedladdningsstatus
+The latest download's progress	The latest download's progress	Förloppet för senaste nedladdningen
+for saved playlists and download controls	for saved playlists and download controls	för sparade spellistor och nedladdningskontroller
+Remove Playlists…	Remove Playlists…	Ta bort spellistor…
+Remove Tracks…	Remove Tracks…	Ta bort spår…
+Keeps login and settings	Keeps login and settings	Behåller inloggning och inställningar
+Track removal can make playlists incomplete	Track removal can make playlists incomplete	Att ta bort spår kan göra spellistor ofullständiga
+Pause	Pause	Paus
+Cancel Download	Cancel Download	Avbryt nedladdning
+Retry Failed	Retry Failed	Försök igen med misslyckade
+Update Download	Update Download	Uppdatera nedladdning
+Sign Out of Spotify?	Sign Out of Spotify?	Logga ut från Spotify?
+Sign Out	Sign Out	Logga ut
+Nothing here	Nothing here	Inget här
+Selected	Selected	Vald
+Press to select	Press to select	Tryck för att välja
+All	All	Alla
+One	One	En
+Download Liked Songs	Download Liked Songs	Ladda ned gillade låtar
+Download Playlist	Download Playlist	Ladda ned spellista
+For offline listening	For offline listening	För lyssning offline
+Download Controls	Download Controls	Nedladdningskontroller
+Update, retry, pause, resume or cancel	Update, retry, pause, resume or cancel	Uppdatera, försök igen, pausa, återuppta eller avbryt
+Remove Selected…	Remove Selected…	Ta bort valda…
+Confirm the affected count	Confirm the affected count	Bekräfta antalet som berörs
+Spotify isn't running	Spotify isn't running	Spotify körs inte
+Spotify didn't answer	Spotify didn't answer	Spotify svarade inte
+Search Spotify	Search Spotify	Sök på Spotify
+Select Tracks	Select Tracks	Välj spår
+Select at least one item	Select at least one item	Välj minst ett objekt
+Selection full. Remove these first	Selection full. Remove these first	Urvalet är fullt. Ta bort dessa först
+Boot logo must be a 320x375 JPEG	Boot logo must be a 320x375 JPEG	Startlogotypen måste vara en JPEG på 320x375
+Could not save boot logo	Could not save boot logo	Det gick inte att spara startlogotypen
+Accent: Graphite	Accent: Graphite	Accent: Grafit
+Accent: Crimson	Accent: Crimson	Accent: Karmosin
+Accent: Tidal	Accent: Tidal	Accent: Tidal
+Accent: Champagne	Accent: Champagne	Accent: Champagne
+Accent: Cobalt	Accent: Cobalt	Accent: Kobolt
+Accent: Tangerine	Accent: Tangerine	Accent: Mandarin
+Accent: Plum	Accent: Plum	Accent: Plommon
+Accent: Ivory	Accent: Ivory	Accent: Elfenben
+Accent: Green	Accent: Green	Accent: Grön
+Favorites	Favorites	Favoriter
+Rated Albums	Rated Albums	Betygsatta album
+Podcasts	Podcasts	Poddar
+Audiobooks	Audiobooks	Ljudböcker
+Groovebox can't start from the card	Groovebox can't start from the card	Groovebox kan inte startas från kortet
+Groovebox is not on the card	Groovebox is not on the card	Groovebox finns inte på kortet
+Play a Tidal album or playlist first	Play a Tidal album or playlist first	Spela först ett Tidal-album eller en spellista
+Downloading %u of %u. Press to stop	Downloading %u of %u. Press to stop	Laddar ned %u av %u. Tryck för att stoppa
+Download Playing Songs	Download Playing Songs	Ladda ned spelade låtar
+Tidal Cache full: %u of %u song saved	Tidal Cache full: %u of %u song saved	Tidal-cachen är full: %u av %u låt sparad
+Tidal Cache full: %u of %u songs saved	Tidal Cache full: %u of %u songs saved	Tidal-cachen är full: %u av %u låtar sparade
+Downloaded %u of %u song	Downloaded %u of %u song	Nedladdade %u av %u låt
+Downloaded %u of %u songs	Downloaded %u of %u songs	Nedladdade %u av %u låtar
+Nothing to play next	Nothing to play next	Inget att spela härnäst
+Queue changed	Queue changed	Kön har ändrats
+Never	Never	Aldrig
+USB DAC Charging: %s	USB DAC Charging: %s	Laddning via USB DAC: %s
+Spectrum	Spectrum	Spektrum
+Oscilloscope	Oscilloscope	Oscilloskop
+VU Meters	VU Meters	VU-mätare
+Halo	Halo	Halo
+Pulsar	Pulsar	Pulsar
+Contour	Contour	Kontur
+More	More	Mer
+A-B Repeat	A-B Repeat	A-B-repetition
+Speed	Speed	Hastighet
+*Only for 48 kHz and below	*Only for 48 kHz and below	*Bara för 48 kHz och lägre
+No lyrics	No lyrics	Ingen text
+Genre	Genre	Genre
+Size	Size	Storlek
+Year	Year	År
+Format	Format	Format
+Bit Depth	Bit Depth	Bitdjup
+Bit Rate	Bit Rate	Bithastighet
+Sample Rate	Sample Rate	Samplingsfrekvens
+Auto Scan	Auto Scan	Automatisk genomsökning
+Update Library Now	Update Library Now	Uppdatera biblioteket nu
+Scan Folders	Scan Folders	Sök igenom mappar
+OK	OK	OK
+Bluetooth	Bluetooth	Bluetooth
+Key Lock	Key Lock	Knapplås
+Low Gain	Low Gain	Låg förstärkning
+USB Storage	USB Storage	USB-lagring
+Playback	Playback	Uppspelning
+Custom	Custom	Anpassad
+Reset	Reset	Återställ
+Open this address in a browser:	Open this address in a browser:	Öppna den här adressen i en webbläsare:
+Downloaded	Downloaded	Nedladdade
+Baidu Netdisk	Baidu Netdisk	Baidu Netdisk
+Sign In	Sign In	Logga in
+Scan with the Baidu app to sign in	Scan with the Baidu app to sign in	Skanna med Baidu-appen för att logga in
+Baidu encryption protects your privacy	Baidu encryption protects your privacy	Baidus kryptering skyddar din integritet
+Bluetooth RF test: connect from a computer	Bluetooth RF test: connect from a computer	Bluetooth RF-test: anslut från en dator
+Press Next to exit	Press Next to exit	Tryck på Nästa för att avsluta
+Brightness Test	Brightness Test	Ljusstyrketest
+Next	Next	Nästa
+Bluetooth Test	Bluetooth Test	Bluetooth-test
+Down	Down	Ned
+Up	Up	Upp
+Swipe Left	Swipe Left	Svep åt vänster
+Swipe Right	Swipe Right	Svep åt höger
+Key Test	Key Test	Knapptest
+Headphone Test	Headphone Test	Hörlurstest
+Plug in single-ended headphones	Plug in single-ended headphones	Anslut hörlurar med osymmetrisk anslutning
+Play (left male, right female)	Play (left male, right female)	Spela (vänster mansröst, höger kvinnoröst)
+Bluetooth Receiver Test	Bluetooth Receiver Test	Test av Bluetooth-mottagare
+Battery Test	Battery Test	Batteritest
+Battery:	Battery:	Batteri:
+Charging:	Charging:	Laddning:
+microSD Test	microSD Test	microSD-test
+Touch Test	Touch Test	Touchtest
+Wi-Fi Test	Wi-Fi Test	Wi-Fi-test
+Artist	Artist	Artist
+Export Playlists	Export Playlists	Exportera spellistor
+Playlist	Playlist	Spellista
+0 songs	0 songs	0 låtar
+System	System	System
+Rockbox	Rockbox	Rockbox
+Baker Island	Baker Island	Bakerön
+Midway	Midway	Midway
+Honolulu	Honolulu	Honolulu
+Anchorage	Anchorage	Anchorage
+Los Angeles	Los Angeles	Los Angeles
+Denver	Denver	Denver
+Mexico City	Mexico City	Mexico City
+New York	New York	New York
+Halifax	Halifax	Halifax
+St. John's	St. John's	St. John's
+Buenos Aires	Buenos Aires	Buenos Aires
+Azores	Azores	Azorerna
+London	London	London
+Amsterdam	Amsterdam	Amsterdam
+Bucharest	Bucharest	Bukarest
+Kuwait	Kuwait	Kuwait
+Tehran	Tehran	Teheran
+Muscat	Muscat	Maskat
+Kabul	Kabul	Kabul
+Karachi	Karachi	Karachi
+Dhaka	Dhaka	Dhaka
+Bangkok	Bangkok	Bangkok
+Shanghai	Shanghai	Shanghai
+Tokyo	Tokyo	Tokyo
+Adelaide	Adelaide	Adelaide
+Sydney	Sydney	Sydney
+Fiji	Fiji	Fiji
+Marquesas	Marquesas	Marquesas
+South Georgia	South Georgia	Sydgeorgien
+Colombo	Colombo	Colombo
+Kathmandu	Kathmandu	Katmandu
+Yangon	Yangon	Yangon
+Eucla	Eucla	Eucla
+L. Howe	L. Howe	L. Howe
+Noumea	Noumea	Nouméa
+Chatham	Chatham	Chatham
+Tongatapu	Tongatapu	Tongatapu
+Kiritimati	Kiritimati	Kiritimati
+Chicago	Chicago	Chicago
+Phoenix	Phoenix	Phoenix
+Kolkata	Kolkata	Kolkata
+Brisbane	Brisbane	Brisbane
+Auckland	Auckland	Auckland
+Status Bar	Status Bar	Statusfält
+Minimal	Minimal	Minimal
+Modern	Modern	Modern
+Classic	Classic	Classic
+Show Wordmark	Show Wordmark	Visa logotyp
+Library on Home	Library on Home	Bibliotek på Hem
+Row Preview	Row Preview	Radförhandsvisning
+Row Art	Row Art	Radbild
+Classic Blue	Classic Blue	Classic blå

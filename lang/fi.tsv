@@ -1,0 +1,1181 @@
+# Suomi
+History_record	History record	Historia
+about_cardcap	Card Capacity	Muistikortin kapasiteetti
+about_cardremain	Remaining	Jäljellä
+about_ipaddr	IP Address	IP-osoite
+about_model	Model	Malli
+about_more	*Our sincere thanks go to the DiamondBond team and all its enthusiasts for their ingenuity, outstanding solutions, and generous contributions.	*Sydämellinen kiitos DiamondBond-tiimille ja kaikille harrastajille nokkeluudesta, erinomaisista ratkaisuista ja anteliaista panoksista.
+about_sn	Serial Number	Sarjanumero
+about_version	Version	Versio
+about_wifimac	Wi-Fi MAC	Wi-Fi-MAC
+album	Album	Albumi
+album	Album	Albumi
+albumsinger	Album artist	Albumin esittäjä
+allmusic	All Songs	Kaikki kappaleet
+audio_settings	Audio settings	Ääniasetukset
+baidu_login	Log In	Kirjaudu sisään
+baidu_login_tips1	Please use Baidu Netdisk or Baidu App to scan the code to login	Kirjaudu skannaamalla koodi Baidu Netdiskillä tai Baidu-sovelluksella
+baidu_login_tips2	Baidu encryption technology protects your privacy and security	Baidun salaus suojaa yksityisyyttäsi ja turvallisuuttasi
+baidu_loginout	Log Out	Kirjaudu ulos
+baidunet_floderinfo_failed	Failed to get file list	Tiedostoluettelon haku epäonnistui
+batch_addplaylist	Add to Playlist	Lisää soittolistaan
+bt_adjvol	Bluetooth Headset Volume Control	Bluetooth-kuulokkeiden äänenvoimakkuuden säätö
+bt_compatiabledev	Compatible Device	Yhteensopiva laite
+bt_name	Bluetooth Name	Bluetooth-nimi
+bt_paireddev	Paired Device	Pariliitetty laite
+bt_quality	Quality	Laatu
+bt_search	Scan now	Hae nyt
+btcode_aac	AAC	AAC
+btcode_aptx	aptX	aptX
+btcode_aptxhd	aptX HD	aptX HD
+btcode_ldacauto	LDAC Connection (auto)	LDAC-yhteys (auto)
+btcode_ldachq	LDAC HQ	LDAC HQ
+btcode_ldacst	LDAC Standard	LDAC Standard
+btcode_sbc	SBC	SBC
+btcode_sbchq	SBC HQ	SBC HQ
+custom_eq	Custom	Oma
+display_backlight	Brightness	Kirkkaus
+display_lighttime	Screen Off Time	Näytön sammutusaika
+display_screenlock	Lock Screen	Näytön lukitus
+dsdmode_d2p	D2P	D2P
+dsdmode_dop	DOP	DoP
+dsdmode_native	Native	Natiivi
+eq_blues	Blues	Blues
+eq_classical	Classical	Klassinen
+eq_club	Club	Club
+eq_custom1	Custom1	Oma 1
+eq_custom2	Custom2	Oma 2
+eq_custom3	Custom3	Oma 3
+eq_dance	Dance	Dance
+eq_doublebass	Sub-bass	Syvä basso
+eq_jazz	Jazz	Jazz
+eq_metal	Metal	Metal
+eq_only48kmsg	EQ only for files below 48kHz.	Taajuuskorjain vain alle 48 kHz:n tiedostoille.
+eq_pop	Pop	Pop
+eq_reset	Reset	Palauta
+eq_rock	Rock	Rock
+eq_vocal	Vocal	Laulu
+fav	My Fav	Suosikkini
+filter_delayfast	Low Delay Fast Roll-off	Pieni viive, nopea rajataajuus
+filter_delayslow	Low Delay Slow Roll-off	Pieni viive, hidas rajataajuus
+filter_fast	Fast Roll-off	Nopea rajataajuus
+filter_slow	Slow Roll-off	Hidas rajataajuus
+frequentplay	Frequent	Usein soitetut
+gain_high	High	Suuri
+gain_low	Low	Pieni
+genre	Genre	Tyylilaji
+genre_statistics	Total %d songs	Yhteensä %d kappaletta
+hr	Hi-Res	Hi-Res
+keyboard_keyword	Please enter keyword	Anna hakusana
+keyboard_netname	Please enter network name	Anna verkon nimi
+keyboard_password	Please enter password	Anna salasana
+keylock_all	Lock Volume & Buttons	Lukitse äänenvoimakkuus ja painikkeet
+keylock_info	Only effective when the screen is off	Toimii vain, kun näyttö on sammutettu
+keylock_info2	Effective on Lockscreen and when Screen Off	Toimii lukitusnäytössä ja kun näyttö on sammutettu
+keylock_key	Lock Buttons Only	Lukitse vain painikkeet
+keylock_volume	Lock Volume Only	Lukitse vain äänenvoimakkuus
+lan_english	English	English
+lan_french	Français	Français
+lan_german	Deutsch	Deutsch
+lan_italian	Italiano	Italiano
+lan_japanese	日本語	日本語
+lan_korean	한국어	한국어
+lan_polish	Polski	Polski
+lan_russian	Русский	Русский
+lan_simplified	简体中文	简体中文
+lan_spanish	español	español
+lan_thai	ภาษาไทย	ภาษาไทย
+lan_traditional	繁體中文	繁體中文
+lan_ukrainian	Українська	Українська
+lighttime_15s	15s	15 s
+lighttime_1min	1min	1 min
+lighttime_2min	2min	2 min
+lighttime_30min	30min	30 min
+lighttime_30s	30s	30 s
+lighttime_5min	5min	5 min
+lighttime_lyricmode	Lyrics mode	Sanoitustila
+lighttime_off	Off	Pois
+list_baidu	Baidu Netdisk	Baidu Netdisk
+list_tidal	TIDAL	TIDAL
+local_album	Albums	Albumit
+local_allmusic	Local Songs	Paikalliset kappaleet
+local_allsongs	Songs	Kappaleet
+local_fav	My Fav	Suosikkini
+local_frequentplay	Frequent	Usein soitetut
+local_genre	Genres	Tyylilajit
+local_hr	Hi-Res	Hi-Res
+local_playlist	Playlists	Soittolistat
+local_recentadd	Recently Added	Äskettäin lisätyt
+local_recentplay	Recent	Äskettäin soitetut
+local_songer	Artists	Esittäjät
+local_upmusic	Update Library	Päivitä kirjasto
+login_out	Logout	Kirjaudu ulos
+memplay_location	Location	Sijainti
+memplay_off	Off	Pois
+memplay_track	Track	Kappale
+msg_actionnotsupport	Non-local songs,not currently supported	Muut kuin paikalliset kappaleet eivät ole tuettuja
+msg_actionscan	Scan music?	Skannataanko musiikki?
+msg_add_task	Please enter the URL of the file you want to download	Anna ladattavan tiedoston URL-osoite
+msg_addfailed	Adding Failed	Lisäys epäonnistui
+msg_addfavsuccess	Added To Fav	Lisätty suosikkeihin
+msg_addplaylistsuccess	Added To Playlist	Lisätty soittolistaan
+msg_autoshutdown	Shutdown	Sammutus
+msg_btabnormal	Bluetooth abnormal	Bluetooth-virhe
+msg_btinit_run	Bluetooth Starting	Bluetooth käynnistyy
+msg_btreconnect	Reconnect Bluetooth?	Yhdistetäänkö Bluetooth uudelleen?
+msg_cardeject	Audio Disconnected	Ääni katkaistu
+msg_cardinsert	Audio Connected	Ääni yhdistetty
+msg_checkfw	Checking FW	Tarkistetaan ohjelmistoa
+msg_checkfwerr	FW. Check Error	Ohjelmistotarkistus epäonnistui
+msg_closesynclink	Please close SyncLink	Sulje SyncLink
+msg_confirmupdate	Confirm Update?	Vahvistetaanko päivitys?
+msg_connected	Connected	Yhdistetty
+msg_connecting	Connecting	Yhdistetään
+msg_delalbum	Delete Album?	Poistetaanko albumi?
+msg_delalbumfailed	Failed To Delete Album	Albumin poisto epäonnistui
+msg_delalbumsuccess	Album Deleted	Albumi poistettu
+msg_delartist	Delete Artist?	Poistetaanko esittäjä?
+msg_delartistsuccess	Artist Deleted	Esittäjä poistettu
+msg_delete_task	Are you sure you want to delete the download task?	Haluatko varmasti poistaa latauksen?
+msg_deletesource	Also delete source file	Poista myös lähdetiedosto
+msg_delfile	Are you sure you want to delete this file?	Haluatko varmasti poistaa tämän tiedoston?
+msg_delfile	Delete File?	Poistetaanko tiedosto?
+msg_delfilefailed	Failed To Delete File	Tiedoston poisto epäonnistui
+msg_delfilesuccess	File Deleted	Tiedosto poistettu
+msg_delgenre	Delete Genre?	Poistetaanko tyylilaji?
+msg_delgenresuccess	Genre Deleted	Tyylilaji poistettu
+msg_delplaylist	Delete Playlist?	Poistetaanko soittolista?
+msg_delplaylistfailed	Failed To Delete Playlist	Soittolistan poisto epäonnistui
+msg_delplaylistsuccess	Playlist Deleted	Soittolista poistettu
+msg_delsong	Delete Song?	Poistetaanko kappale?
+msg_delsongfailed	Failed To Delete Song	Kappaleen poisto epäonnistui
+msg_delsongsuccess	Song Deleted	Kappale poistettu
+msg_disconnected	Disconnected	Yhteys katkaistu
+msg_disonnectbt	Please disconnect the bluetooth device	Katkaise Bluetooth-laitteen yhteys
+msg_downloadpath	Download path is	Latauskansio on
+msg_exist_task	The download task already exists	Lataus on jo olemassa
+msg_exitairplay	Quit AirPlay?	Lopetetaanko AirPlay?
+msg_exportplaylist	Export Playlist?	Viedäänkö soittolista?
+msg_exportsuccess	Export successful	Vienti onnistui
+msg_factorysuccess	Restore to factory settings succeeded	Tehdasasetukset palautettu
+msg_favsuccess	Added To Fav	Lisätty suosikkeihin
+msg_file_exist	The file already exists	Tiedosto on jo olemassa
+msg_importplaylist	Import Playlists?	Tuodaanko soittolistat?
+msg_importsuccess	Successfully imported	Tuonti onnistui
+msg_initsetsuccess	All settings initialized successfully	Kaikki asetukset nollattu
+msg_latestfw	Latest Fw. Installed	Uusin laiteohjelmisto asennettu
+msg_linkerror	WiFi Connection Error	Wi-Fi-yhteysvirhe
+msg_lowarn	Line Out sets max volume,continue?	Line Out asettaa äänenvoimakkuuden maksimiin. Jatketaanko?
+msg_lowpower	Low Battery	Akku vähissä
+msg_namenull	The name can't be empty	Nimi ei voi olla tyhjä
+msg_netnameerr	Network Must Be Named	Verkolla on oltava nimi
+msg_no	Cancel	Peruuta
+msg_no_storage	Storage is full.Some songs couldn't be added.	Tallennustila täynnä. Kaikkia kappaleita ei voitu lisätä.
+msg_noheadset	Playback is disabled without headphones.Please insert headphones.	Toisto on estetty ilman kuulokkeita. Liitä kuulokkeet.
+msg_nosongs	No songs in this folder	Tässä kansiossa ei ole kappaleita
+msg_notalbuminfo	This file has no Album data	Tiedostossa ei ole albumitietoja
+msg_notfile	File Not Found	Tiedostoa ei löydy
+msg_notfolder	Folder not found	Kansiota ei löydy
+msg_notfoundfw	Fw. Not Found	Laiteohjelmistoa ei löydy
+msg_notmemory	Memory is not enough	Muisti ei riitä
+msg_notmemory	Out of memory	Muisti loppu
+msg_notnetwork	Network Disconnected	Verkkoyhteys katkennut
+msg_nototg	No OTG Found	OTG:tä ei löytynyt
+msg_notplaylist	Playlist Not Found	Soittolistaa ei löydy
+msg_notsongerinfo	This file has no Artist data	Tiedostossa ei ole esittäjätietoja
+msg_notsonglist	No Song List	Ei kappalelistaa
+msg_notspecdir	Folder not specified	Kansiota ei ole määritetty
+msg_notsupport	Not Supported	Ei tuettu
+msg_notsupportdel	Can't be removed	Ei voi poistaa
+msg_nottf	No TF Card Found	Muistikorttia ei löytynyt
+msg_otgeject	OTG Disconnected	OTG irrotettu
+msg_otginfoerr	Failed To Get Version Info	Versiotietojen haku epäonnistui
+msg_otginsert	OTG Connected	OTG yhdistetty
+msg_paircode	Bluetooth Code	Bluetooth-koodi
+msg_paired	Paired	Pariliitetty
+msg_playlistexist	Playlist Already Exists	Soittolista on jo olemassa
+msg_playlistfull	Could not create playlist	Soittolistaa ei voitu luoda
+msg_poweroff	Shut Down?	Sammutetaanko?
+msg_resetdbsuccess	Reset completed	Nollaus valmis
+msg_restarting	Restarting	Käynnistetään uudelleen
+msg_shortpasswd	8 Digits PIN At Least	PIN-koodissa vähintään 8 numeroa
+msg_start_download_task	start the download task	Aloita lataus
+msg_stop_download_task	stop the download task	Pysäytä lataus
+msg_testmode	Enter test mode?	Siirrytäänkö testitilaan?
+msg_tfeject	TF Card Removed	Muistikortti poistettu
+msg_tfinsert	TF Card Inserted	Muistikortti asetettu
+msg_unpaired	Unpaired	Pariliitos poistettu
+msg_unpairing	unpair?	Poista pariliitos?
+msg_unsupportformat	Unsupported format	Muotoa ei tueta
+msg_update	Confirmed	Vahvistettu
+msg_wificancelsave	Delete Record?	Poistetaanko tallenne?
+msg_wifidisconnect	Disconnect Now?	Katkaistaanko yhteys nyt?
+msg_yes	OK	OK
+navigation_all	All	Kaikki
+netservice_airplay	AirPlay	AirPlay
+netservice_dlna	DLNA	DLNA
+netservice_wifitrans	Wi-Fi File Transfer	Wi-Fi-tiedostonsiirto
+no_search	No search results	Ei hakutuloksia
+not_allmusic	Currently no songs	Ei vielä kappaleita
+otgdownload_percent	FW Downloaded	Laiteohjelmisto ladattu
+outputway	Output Options	Äänilähtö
+play_all	Play All	Soita kaikki
+player_abrepeat	AB Repeat	A-B-toisto
+player_albuminfo	Look up Album	Hae albumin tiedot
+player_bitdepth	Bit Depth	Bittisyvyys
+player_bitrate	Bitrate	Bittinopeus
+player_delete	Delete Song	Poista kappale
+player_encoding	Encoding	Koodaus
+player_era	Year	Vuosi
+player_filesize	File Size	Tiedostokoko
+player_location	Location	Sijainti
+player_msgmul	*Affecting only files below 48khz	*Vaikuttaa vain alle 48 kHz:n tiedostoihin
+player_multiple	Multiple Speed	Toistonopeus
+player_nolyric	No Lyrics	Ei sanoituksia
+player_onlinesearch	Download Cover & Lyrics	Lataa kansi ja sanoitukset
+player_playlist	Queue	Jono
+player_samplerate	Sample Rate	Näytteenottotaajuus
+player_songerinfo	Look up Artist	Hae esittäjän tiedot
+player_unknown	Unknown	Tuntematon
+player_unknown	Unknown Artist	Tuntematon esittäjä
+playlist	Playlist	Soittolista
+playlist_create	New playlist	Uusi soittolista
+playlist_export	Export playlist	Vie soittolista
+playlist_import	Import playlist	Tuo soittolista
+playmode_listplay	List Play	Listan toisto
+playmode_repeatall	Repeat All	Toista kaikki uudelleen
+playmode_repeattrack	Repeat Track	Toista kappale uudelleen
+playmode_shuffle	Shuffle	Sekoitus
+playset_balance	Channel Balance	Kanavatasapaino
+playset_bootvol	Default Volume	Oletusäänenvoimakkuus
+playset_covermode	Enlarged Album Art	Suurennettu albumin kansi
+playset_dsdoutput	DSD Output Mode	DSD-lähtötila
+playset_eq	EQ	Taajuuskorjain
+playset_filter	Digital Filters	Digitaalisuodattimet
+playset_foldercover	Folder Album Cover	Kansion albumikansi
+playset_folderjump	Folder Skip	Kansion ohitus
+playset_gain	Gain	Vahvistus
+playset_gapless	Gapless	Saumaton toisto
+playset_maxvol	Max Volume	Enimmäisäänenvoimakkuus
+playset_memplay	Memory Playback	Toiston muisti
+playset_noplay	Require Output (Beta)	Vaadi lähtö (beta)
+playset_playmode	Play Mode	Toistotila
+playset_replaygain	ReplayGain	ReplayGain
+playset_usbaudiovol	USB Audio Output	USB-äänilähtö
+playset_volcover	Volume and Album Display	Äänenvoimakkuus ja albumin näyttö
+powerm_deep_off	Standby	Valmiustila
+powerm_sleep	Sleep Timer	Uniajastin
+recentadd	Recently Added	Äskettäin lisätyt
+recentplay	Recent	Äskettäin soitetut
+rename	Rename	Nimeä uudelleen
+renamesuccess	Successfully renamed	Nimetty uudelleen
+replaygain_track	Song	Kappale
+reset_factory	Full Factory Reset	Täysi tehdasasetusten palautus
+reset_initdatabase	Reset Database	Nollaa tietokanta
+reset_initset	Reset Settings Only	Nollaa vain asetukset
+scan_automatic	Automatic Update	Automaattinen päivitys
+scan_now	Scan music now	Skannaa musiikki nyt
+scan_now	Scan music now	Skannaa musiikki nyt
+scan_spec	Scan specified folders	Skannaa valitut kansiot
+scan_spec	Scan specified folders	Skannaa valitut kansiot
+scan_startscan	Scan	Skannaa
+scan_updatefinish	Library Updated,%d Updated	Kirjasto päivitetty, %d päivitetty
+scan_updating	Updating No.%d	Päivitys nro %d
+scover_cover	Cover	Kansi
+scover_lyric	Lyrics	Sanoitukset
+screenlock_about	Custom Lock Screen	Oma lukitusnäyttö
+screenlock_info1	1. Put the pictures in a folder named "lockscreenimage" at the top of the card.	1. Laita kuvat kortin juureen kansioon nimeltä "lockscreenimage".
+screenlock_info2	2. PNG or JPG, exactly 375 x 320 pixels, under 1 MB each.	2. PNG tai JPG, tarkalleen 375 x 320 pikseliä, alle 1 Mt kukin.
+screenlock_info3	3. Up to 5 pictures.	3. Enintään 5 kuvaa.
+screenlock_timeshow	Show Time	Näytä kellonaika
+search_tips1	Search for music,artists,albums,genres	Hae musiikkia, esittäjiä, albumeita, tyylilajeja
+search_track	Track	Kappale
+singerbyalbum	Sort by album artist	Lajittele albumin esittäjän mukaan
+singerbysong	Sort by song artist	Lajittele kappaleen esittäjän mukaan
+small_album	Albums	Albumit
+small_coverflow	Album Wall	Albumiseinä
+small_folder	Folder	Kansio
+small_local	Local Songs	Paikalliset kappaleet
+small_playing	Now Playing	Nyt soi
+small_playset	Playback	Toisto
+small_stream	Streaming	Suoratoisto
+small_sysset	System	Järjestelmä
+songer	Artist	Esittäjä
+sort_addtime	Time added	Lisäysaika
+sort_alphabet	Alphabetical	Aakkosjärjestys
+sort_filename	File name	Tiedostonimi
+sort_format	File format	Tiedostomuoto
+sort_time_asc	Time added (ascending)	Lisäysaika (nouseva)
+sort_time_desc	Time added (descending)	Lisäysaika (laskeva)
+standbyoff_10min	10min	10 min
+standbyoff_1min	1min	1 min
+standbyoff_3min	3min	3 min
+standbyoff_5min	5min	5 min
+standbyoff_deep	Auto-standby	Automaattinen valmiustila
+standbyoff_deepinfo	After 5 minute of idle,device will go into standby mode.	Laite siirtyy valmiustilaan 5 minuutin käyttämättömyyden jälkeen.
+standbyoff_saver	Auto-shutdown	Automaattinen sammutus
+synclink_off	Off	Pois
+system_about	About	Tietoja
+system_carmode	In-Vehicle Mode	Autotila
+system_display	Display	Näyttö
+system_general	General	Yleiset
+system_keylock	Buttons Lock	Painikelukitus
+system_keytone	Key Tone	Painikeääni
+system_language	Language	Kieli
+system_navshow	Show Navigation Bar	Näytä siirtymispalkki
+system_netservice	Network	Verkko
+system_powermanager	Power	Virta
+system_prove	Certification	Sertifiointi
+system_reset	Reset Settings	Nollaa asetukset
+system_sys	System	Järjestelmä
+system_time	Date & Time	Päivämäärä ja aika
+system_update	System Update	Järjestelmäpäivitys
+system_wheelmode	Wheel Function	Kiekon toiminto
+system_wifiset	Wireless	Langaton
+timedate_24h	24-Hour	24 tuntia
+timedate_auto	Automatic Time Set	Automaattinen aika
+timedate_manual	Set Time Manually	Aseta aika käsin
+timezone_gmt+1	(GMT+01:00)Europe/Amsterdam	(GMT+01:00)Europe/Amsterdam
+timezone_gmt+10	(GMT+10:00)Australia/Sydney	(GMT+10:00)Australia/Sydney
+timezone_gmt+12	(GMT+12:00)Pacific/Fiji	(GMT+12:00)Pacific/Fiji
+timezone_gmt+2	(GMT+02:00)Europe/Bucharest	(GMT+02:00)Europe/Bucharest
+timezone_gmt+3	(GMT+03:00)Asia/Kuwait	(GMT+03:00)Asia/Kuwait
+timezone_gmt+3_30	(GMT+03:30)Asia/Tehran	(GMT+03:30)Asia/Tehran
+timezone_gmt+4	(GMT+04:00)Asia/Muscat	(GMT+04:00)Asia/Muscat
+timezone_gmt+4_30	(GMT+04:30)Asia/Kabul	(GMT+04:30)Asia/Kabul
+timezone_gmt+5	(GMT+05:00)Asia/Karachi	(GMT+05:00)Asia/Karachi
+timezone_gmt+6	(GMT+06:00)Asia/Almaty	(GMT+06:00)Asia/Almaty
+timezone_gmt+7	(GMT+07:00)Asia/Bangkok	(GMT+07:00)Asia/Bangkok
+timezone_gmt+8	(GMT+08:00)Asia/Shanghai	(GMT+08:00)Asia/Shanghai
+timezone_gmt+9	(GMT+09:00)Asia/Tokyo	(GMT+09:00)Asia/Tokyo
+timezone_gmt+9_30	(GMT+09:30)Australia/Adelaide	(GMT+09:30)Australia/Adelaide
+timezone_gmt-0	(GMT 00:00)Europe/London	(GMT 00:00)Europe/London
+timezone_gmt-1	(GMT-01:00)Atlantic/Azores	(GMT-01:00)Atlantic/Azores
+timezone_gmt-10	(GMT-10:00)Pacific/Honolulu	(GMT-10:00)Pacific/Honolulu
+timezone_gmt-11	(GMT-11:00)Pacific/Midway	(GMT-11:00)Pacific/Midway
+timezone_gmt-12	(GMT-12:00)Pacific/Kwajalein	(GMT-12:00)Pacific/Kwajalein
+timezone_gmt-3	(GMT-03:00)America/Argentina/Buenos_Aires	(GMT-03:00)America/Argentina/Buenos_Aires
+timezone_gmt-3_30	(GMT-03:30)America/St_Johns	(GMT-03:30)America/St_Johns
+timezone_gmt-4	(GMT-04:00)Canada/Atlantic	(GMT-04:00)Canada/Atlantic
+timezone_gmt-5	(GMT-05:00)America/New_York	(GMT-05:00)America/New_York
+timezone_gmt-6	(GMT-06:00)America/Mexico_City	(GMT-06:00)America/Mexico_City
+timezone_gmt-7	(GMT-07:00)America/Denver	(GMT-07:00)America/Denver
+timezone_gmt-8	(GMT-08:00)America/Tijuana	(GMT-08:00)America/Tijuana
+timezone_gmt-9	(GMT-09:00)America/Anchorage	(GMT-09:00)America/Anchorage
+timezone_select	Time Zone Selection	Aikavyöhykkeen valinta
+title_downloaded	Downloaded	Ladatut
+title_downloading	Downloading	Ladataan
+title_more	More	Lisää
+title_sort	List sort order	Listan järjestys
+update_online	Network update	Verkkopäivitys
+update_tf	TF card update	Päivitys muistikortilta
+usb_chargeswitch	USB DAC Charging	USB DAC -lataus
+usbmode_audio	USB AUDIO	USB-ääni
+usbmode_connect	USB Connected	USB yhdistetty
+usbmode_dac	USB DAC	USB DAC
+usbmode_disconnect	USB Disconnected	USB irrotettu
+usbmode_storge	USB Storage	USB-tallennus
+usbvol_adjust	Volume Variable	Muuttuva äänenvoimakkuus
+usbvol_fixed	Volume Fixed	Kiinteä äänenvoimakkuus
+wheelmode_menu	Menu Mode	Valikkotila
+wheelmode_volume	Volume Mode	Äänenvoimakkuustila
+wifi_addnetwork	Add Network	Lisää verkko
+wifi_choice	Select Network	Valitse verkko
+wifi_scan	Scanning	Haetaan
+wifiset_bt	Bluetooth	Bluetooth
+wifiset_synclink	SyncLink	SyncLink
+wifiset_wifi	Wi-Fi	Wi-Fi
+wifits_info1	Enter the following URL into your internet browser:	Kirjoita selaimeen seuraava URL-osoite:
+Search	Search	Haku
+Streaming	Streaming	Suoratoisto
+Library's Games	Library's Games	Kirjasto → Pelit
+Library's Apps	Library's Apps	Kirjasto → Sovellukset
+Network settings	Network settings	Verkkoasetukset
+Wait until the App Store finishes	Wait until the App Store finishes	Odota, kunnes App Store on valmis
+It isn't on the card	It isn't on the card	Ei ole kortilla
+It couldn't start	It couldn't start	Käynnistys ei onnistunut
+Stop %s	Stop %s	Pysäytä: %s
+Loading…	Loading…	Ladataan…
+More…	More…	Lisää…
+Working…	Working…	Käsitellään…
+Starting %s…	Starting %s…	Käynnistetään: %s…
+Retry	Retry	Yritä uudelleen
+Install it again in Library → App Store	Install it again in Library → App Store	Asenna uudelleen: Kirjasto → App Store
+Cancel	Cancel	Peruuta
+%s isn't running	%s isn't running	%s ei ole käynnissä
+%s didn't answer	%s didn't answer	%s ei vastannut
+Too long	Too long	Liian pitkä
+%s stopped	%s stopped	%s pysähtyi
+%s isn't on the card	%s isn't on the card	%s ei ole kortilla
+Apps	Apps	Sovellukset
+No apps	No apps	Ei sovelluksia
+Not running	Not running	Ei käynnissä
+No code yet	No code yet	Ei vielä koodia
+Connect the Q2 to Wi-Fi	Connect the Q2 to Wi-Fi	Yhdistä Q2 Wi-Fi-verkkoon
+Open it again	Open it again	Avaa se uudelleen
+Wait a moment	Wait a moment	Odota hetki
+Then come back here	Then come back here	Palaa sitten tänne
+Scan with your phone's	Scan with your phone's	Skannaa puhelimen
+Scan with your	Scan with your	Skannaa
+camera	camera	kameralla
+phone's camera	phone's camera	puhelimen kameralla
+or open	or open	tai avaa
+PIN	PIN	PIN
+Couldn't import %s	Couldn't import %s	Tuonti epäonnistui: %s
+Playlists updated	Playlists updated	Soittolistat päivitetty
+No memory card	No memory card	Ei muistikorttia
+Games	Games	Pelit
+%d update	%d update	%d päivitys
+%d updates	%d updates	%d päivitystä
+INSTALL	INSTALL	ASENNA
+UPDATE	UPDATE	PÄIVITÄ
+INSTALLED	INSTALLED	ASENNETTU
+AM	AM	AM
+PM	PM	PM
+Jan	Jan	Tam
+Feb	Feb	Hel
+Mar	Mar	Maa
+Apr	Apr	Huh
+May	May	Tou
+Jun	Jun	Kes
+Jul	Jul	Hei
+Aug	Aug	Elo
+Sep	Sep	Syy
+Oct	Oct	Lok
+Nov	Nov	Mar
+Dec	Dec	Jou
+The card is in use over USB	The card is in use over USB	Korttia käytetään USB:n kautta
+Storage unavailable	Storage unavailable	Tallennustila ei käytettävissä
+The card is full	The card is full	Kortti on täynnä
+Couldn't save	Couldn't save	Tallennus epäonnistui
+Saved to battery-log.txt	Saved to battery-log.txt	Tallennettu tiedostoon battery-log.txt
+Battery History	Battery History	Akun historia
+Unplug to start	Unplug to start	Irrota laturi aloittaaksesi
+Export Log	Export Log	Vie loki
+Card theme turned off after a failed start	Card theme turned off after a failed start	Kortin teema poistettu käytöstä epäonnistuneen käynnistyksen jälkeen
+Card theme removed. Restart to finish	Card theme removed. Restart to finish	Kortin teema poistettu. Viimeistele käynnistämällä uudelleen
+Card theme file can't be used	Card theme file can't be used	Kortin teematiedostoa ei voi käyttää
+Card theme saved. Restart to apply	Card theme saved. Restart to apply	Kortin teema tallennettu. Ota käyttöön käynnistämällä uudelleen
+Could not save card theme	Could not save card theme	Kortin teeman tallennus epäonnistui
+Done	Done	Valmis
+space	space	väli
+New Playlist	New Playlist	Uusi soittolista
+Playlist Name	Playlist Name	Soittolistan nimi
+Rename	Rename	Nimeä uudelleen
+Songs	Songs	Kappaleet
+Artists	Artists	Esittäjät
+Albums	Albums	Albumit
+Genres	Genres	Tyylilajit
+Off	Off	Pois
+On	On	Päällä
+%d of %d songs	%d of %d songs	%d / %d kappaletta
+Updating Library	Updating Library	Päivitetään kirjastoa
+Connected	Connected	Yhdistetty
+Eject before disconnecting	Eject before disconnecting	Poista laite ennen irrottamista
+%d:%02d AM	%d:%02d AM	%d:%02d AM
+%d:%02d PM	%d:%02d PM	%d:%02d PM
+Save	Save	Tallenna
+Sort: Album	Sort: Album	Lajittelu: Albumi
+Sort: Artist	Sort: Artist	Lajittelu: Esittäjä
+Sort: Recently Added	Sort: Recently Added	Lajittelu: Äskettäin lisätyt
+Sort: Most Played	Sort: Most Played	Lajittelu: Soitetuimmat
+Sort: Random	Sort: Random	Lajittelu: Satunnainen
+Sort: Rating	Sort: Rating	Lajittelu: Arvosana
+Sort: Year	Sort: Year	Lajittelu: Vuosi
+%u song	%u song	%u kappale
+%u songs	%u songs	%u kappaletta
+All albums	All albums	Kaikki albumit
+Preparing artwork… %d/%d	Preparing artwork… %d/%d	Valmistellaan kansikuvia… %d/%d
+Update Library first	Update Library first	Päivitä kirjasto ensin
+%u Song	%u Song	%u kappale
+%u Songs	%u Songs	%u kappaletta
+%u Album	%u Album	%u albumi
+%u Albums	%u Albums	%u albumia
+%u Game	%u Game	%u peli
+%u Games	%u Games	%u peliä
+%u Service	%u Service	%u palvelu
+%u Services	%u Services	%u palvelua
+%u.%u GB Free	%u.%u GB Free	%u,%u GB vapaana
+Library	Library	Kirjasto
+Settings	Settings	Asetukset
+Crossfade: %d s	Crossfade: %d s	Ristiinhäivytys: %d s
+Crossfade: Off	Crossfade: Off	Ristiinhäivytys: Pois
+Wheel Sensitivity: %d%%	Wheel Sensitivity: %d%%	Kiekon herkkyys: %d%%
+Resume Songs: %d min	Resume Songs: %d min	Kappaleiden jatko: %d min
+Resume Songs: Off	Resume Songs: Off	Kappaleiden jatko: Pois
+Night Shift: %dK	Night Shift: %dK	Night Shift: %dK
+Night Shift: Auto	Night Shift: Auto	Night Shift: Auto
+Night Shift: Off	Night Shift: Off	Night Shift: Pois
+Mono Audio	Mono Audio	Mono-ääni
+Swap L/R	Swap L/R	Vaihda V/O
+Crossfade needs Gapless	Crossfade needs Gapless	Ristiinhäivytys vaatii saumattoman toiston
+Auto	Auto	Auto
+Night Shift	Night Shift	Night Shift
+Resume Songs	Resume Songs	Kappaleiden jatko
+Wheel Sensitivity	Wheel Sensitivity	Kiekon herkkyys
+Crossfade	Crossfade	Ristiinhäivytys
+Measuring song lengths…	Measuring song lengths…	Mitataan kappaleiden kestoa…
+Sudoku	Sudoku	Sudoku
+Solitaire	Solitaire	Pasianssi
+Snake	Snake	Snake
+Paused	Paused	Tauolla
+Continue	Continue	Jatka
+Quit	Quit	Lopeta
+New best!	New best!	Uusi ennätys!
+Game over	Game over	Peli ohi
+Centre: play again	Centre: play again	Keski: pelaa uudelleen
+Play/Pause: resume	Play/Pause: resume	Toisto/Tauko: jatka
+New game?	New game?	Uusi peli?
+Centre: yes   Return: no	Centre: yes   Return: no	Keski: kyllä   Paluu: ei
+Solved!	Solved!	Ratkaistu!
+Play/Pause: new game	Play/Pause: new game	Toisto/Tauko: uusi peli
+Score	Score	Pisteet
+Best	Best	Ennätys
+Level	Level	Taso
+Centre	Centre	Keski
+You win!	You win!	Voitit!
+Shuffle	Shuffle	Sekoitus
+Era	Era	Vuosikymmen
+Ratings	Ratings	Arvosanat
+Most Played	Most Played	Soitetuimmat
+Long Songs	Long Songs	Pitkät kappaleet
+App Store	App Store	App Store
+Upload Scrobbles	Upload Scrobbles	Lähetä scrobblet
+Tidal Downloads	Tidal Downloads	Tidal-lataukset
+Internet Radio	Internet Radio	Internetradio
+Configuration	Configuration	Määritykset
+Restart to apply?	Restart to apply?	Käynnistetäänkö uudelleen?
+Couldn't copy the language	Couldn't copy the language	Kielen kopiointi epäonnistui
+Too many songs to shuffle	Too many songs to shuffle	Liian monta kappaletta sekoitettavaksi
+Shuffle Songs	Shuffle Songs	Sekoita kappaleet
+Shuffle Albums	Shuffle Albums	Sekoita albumit
+Shuffle Folders	Shuffle Folders	Sekoita kansiot
+Albums and folders take a moment to shuffle	Albums and folders take a moment to shuffle	Albumien ja kansioiden sekoitus kestää hetken
+No plays yet	No plays yet	Ei vielä toistoja
+%u play	%u play	%u toisto
+%u plays	%u plays	%u toistoa
+No downloads yet	No downloads yet	Ei vielä latauksia
+Clear All Downloads…	Clear All Downloads…	Tyhjennä kaikki lataukset…
+%u track	%u track	%u raita
+%u tracks	%u tracks	%u raitaa
+Remove Downloads?	Remove Downloads?	Poistetaanko lataukset?
+Keeps settings	Keeps settings	Asetukset säilyvät
+Remove	Remove	Poista
+It isn't on the card any more	It isn't on the card any more	Sitä ei enää ole kortilla
+%02ds	%02ds	%02d-luku
+%ds	%ds	%d-luku
+Era unavailable	Era unavailable	Vuosikymmen ei saatavilla
+Album not found	Album not found	Albumia ei löydy
+%u album	%u album	%u albumi
+%u albums	%u albums	%u albumia
+Play All	Play All	Soita kaikki
+Every song, shuffled	Every song, shuffled	Kaikki kappaleet sekoitettuna
+No dated albums yet	No dated albums yet	Ei vielä vuosiluvullisia albumeita
+No songs over 10 minutes	No songs over 10 minutes	Ei yli 10 minuutin kappaleita
+Measuring songs… %d/%d	Measuring songs… %d/%d	Mitataan kappaleita… %d/%d
+Measuring songs…	Measuring songs…	Mitataan kappaleita…
+Release to search	Release to search	Vapauta hakua varten
+Pull to search	Pull to search	Vedä hakeaksesi
+Sleep Timer	Sleep Timer	Uniajastin
+Lock Screen	Lock Screen	Näytön lukitus
+Accent	Accent	Korostusväri
+Everything	Everything	Kaikki
+Buttons only	Buttons only	Vain painikkeet
+Volume only	Volume only	Vain äänenvoimakkuus
+Wake: Single Press	Wake: Single Press	Herätys: Yksi painallus
+Wake: Double Press	Wake: Double Press	Herätys: Kaksoispainallus
+Artist View: Grid	Artist View: Grid	Esittäjänäkymä: Ruudukko
+Artist View: Cover Flow	Artist View: Cover Flow	Esittäjänäkymä: Cover Flow
+Artist View: List	Artist View: List	Esittäjänäkymä: Luettelo
+Year Order: Newest First	Year Order: Newest First	Vuosijärjestys: Uusimmat ensin
+Year Order: Oldest First	Year Order: Oldest First	Vuosijärjestys: Vanhimmat ensin
+Artists: Artist	Artists: Artist	Esittäjät: Esittäjä
+Artists: Album Artist	Artists: Album Artist	Esittäjät: Albumin esittäjä
+Resume on Connect: Off	Resume on Connect: Off	Jatka yhdistettäessä: Pois
+Resume on Connect: On	Resume on Connect: On	Jatka yhdistettäessä: Päällä
+Clock: Standard	Clock: Standard	Kello: Normaali
+Clock: Large	Clock: Large	Kello: Suuri
+Artist Album Order: Year	Artist Album Order: Year	Esittäjän albumit: Vuosi
+Artist Album Order: A–Z	Artist Album Order: A–Z	Esittäjän albumit: A–Ö
+Volume Guard: Off	Volume Guard: Off	Äänenvoimakkuuden suoja: Pois
+Volume Guard: On	Volume Guard: On	Äänenvoimakkuuden suoja: Päällä
+Hold Return: Recent	Hold Return: Recent	Paluun pito: Äskettäin soitetut
+Hold Return: Home	Hold Return: Home	Paluun pito: Aloitus
+Standby Limit: Off	Standby Limit: Off	Valmiustilan raja: Pois
+Standby Limit: %u h	Standby Limit: %u h	Valmiustilan raja: %u h
+Refresh Cover Flow	Refresh Cover Flow	Päivitä Cover Flow
+Playlist View: List	Playlist View: List	Soittolistanäkymä: Luettelo
+Playlist View: Cover Flow	Playlist View: Cover Flow	Soittolistanäkymä: Cover Flow
+Update Notifications: Off	Update Notifications: Off	Päivitysilmoitukset: Pois
+Update Notifications: On	Update Notifications: On	Päivitysilmoitukset: Päällä
+Album View: List	Album View: List	Albuminäkymä: Luettelo
+Album View: Grid	Album View: Grid	Albuminäkymä: Ruudukko
+Charge Limit (%u%%)	Charge Limit (%u%%)	Latausraja (%u%%)
+Resume on Connect	Resume on Connect	Jatka yhdistettäessä
+Volume Guard	Volume Guard	Äänenvoimakkuuden suoja
+Control Device Volume	Control Device Volume	Ohjaa laitteen äänenvoimakkuutta
+Key Tone	Key Tone	Painikeääni
+In-Vehicle Mode	In-Vehicle Mode	Autotila
+Smart Wi-Fi	Smart Wi-Fi	Smart Wi-Fi
+Enlarged Album Art	Enlarged Album Art	Suurennettu albumin kansi
+Folder Album Cover	Folder Album Cover	Kansion albumikansi
+Fast Navigation	Fast Navigation	Pikaselaus
+Scan Song Durations	Scan Song Durations	Skannaa kappaleiden kestot
+Position Bar	Position Bar	Sijaintipalkki
+Hide Streaming	Hide Streaming	Piilota suoratoisto
+Hide Folder	Hide Folder	Piilota kansio
+Hide Apps	Hide Apps	Piilota sovellukset
+Hide Games	Hide Games	Piilota pelit
+Hide App Store	Hide App Store	Piilota App Store
+Receive Audio	Receive Audio	Vastaanota ääntä
+Log Failed Artwork	Log Failed Artwork	Kirjaa kansikuvavirheet
+Hide Duplicate Albums	Hide Duplicate Albums	Piilota päällekkäiset albumit
+Hide Duplicate Songs	Hide Duplicate Songs	Piilota päällekkäiset kappaleet
+Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	Cover Flow rakentaa kansikuvat uudelleen ensi kerralla
+Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	Ota käyttöön kytkemällä Bluetooth pois ja päälle
+Folder Root: %s	Folder Root: %s	Kansion juuri: %s
+Folder Root: Card	Folder Root: Card	Kansion juuri: Kortti
+Library & Folders	Library & Folders	Kirjasto ja kansiot
+Press Centre to Change Mode	Press Centre to Change Mode	Vaihda tilaa painamalla Keskipainiketta
+Press Centre to Turn On or Off	Press Centre to Turn On or Off	Kytke päälle tai pois painamalla Keskipainiketta
+Press Centre When Finished	Press Centre When Finished	Paina Keskipainiketta, kun olet valmis
+OK to Disconnect	OK to Disconnect	Voi irrottaa
+Now Playing	Now Playing	Nyt soi
+Cover Flow	Cover Flow	Cover Flow
+EQ	EQ	Taajuuskorjain
+Update Library	Update Library	Päivitä kirjasto
+Balance	Balance	Tasapaino
+Home: Split	Home: Split	Aloitus: Jaettu
+Home: Full	Home: Full	Aloitus: Koko näyttö
+Home: Carousel	Home: Carousel	Aloitus: Karuselli
+Battery: Icon	Battery: Icon	Akku: Kuvake
+Battery: Percent	Battery: Percent	Akku: Prosentti
+Battery: Icon + Percent	Battery: Icon + Percent	Akku: Kuvake + prosentti
+Battery: Percent Inside	Battery: Percent Inside	Akku: Prosentti kuvakkeessa
+Light Mode: Off	Light Mode: Off	Vaalea tila: Pois
+Light Mode: On	Light Mode: On	Vaalea tila: Päällä
+Light Mode: Auto	Light Mode: Auto	Vaalea tila: Auto
+Accent: Card Theme	Accent: Card Theme	Korostusväri: Kortin teema
+Battery: Card Theme	Battery: Card Theme	Akku: Kortin teema
+Light Mode: Card Theme	Light Mode: Card Theme	Vaalea tila: Kortin teema
+Accent: %s	Accent: %s	Korostusväri: %s
+Theme: %s	Theme: %s	Teema: %s
+Shortcut: None	Shortcut: None	Pikavalinta: Ei mitään
+Shortcut: %s	Shortcut: %s	Pikavalinta: %s
+Rounded Corners	Rounded Corners	Pyöristetyt kulmat
+Smart Awake	Smart Awake	Smart Awake
+Centred Now Playing	Centred Now Playing	Keskitetty Nyt soi
+Click With Headphones	Click With Headphones	Napsahdus kuulokkeilla
+Single Press Scrub	Single Press Scrub	Kelaus yhdellä painalluksella
+Time in Title	Time in Title	Kellonaika otsikossa
+Set by the card theme	Set by the card theme	Kortin teeman asettama
+Location	Location	Sijainti
+Unknown	Unknown	Tuntematon
+Appearance	Appearance	Ulkoasu
+Controls	Controls	Ohjaus
+Theme	Theme	Teema
+Boot to: Rockbox	Boot to: Rockbox	Käynnistys: Rockbox
+Boot to: Q2 Pod	Boot to: Q2 Pod	Käynnistys: Q2 Pod
+Rockbox is not on the card	Rockbox is not on the card	Rockbox puuttuu kortilta
+Could not save boot choice	Could not save boot choice	Käynnistysvalinnan tallennus epäonnistui
+No albums	No albums	Ei albumeita
+No artists	No artists	Ei esittäjiä
+No composers	No composers	Ei säveltäjiä
+No genres	No genres	Ei tyylilajeja
+Chapter %d	Chapter %d	Luku %d
+Chapters	Chapters	Luvut
+Could not read chapters	Could not read chapters	Lukujen lukeminen epäonnistui
+No embedded chapters	No embedded chapters	Ei sisäänrakennettuja lukuja
+Too long to read chapters on the Q2	Too long to read chapters on the Q2	Liian pitkä, lukuja ei voi lukea Q2:lla
+Loading chapters…	Loading chapters…	Ladataan lukuja…
+Spotify Cache: %s	Spotify Cache: %s	Spotify-välimuisti: %s
+Tidal Cache: %s	Tidal Cache: %s	Tidal-välimuisti: %s
+Erasing…	Erasing…	Poistetaan…
+Press again to erase login and cache	Press again to erase login and cache	Paina uudelleen poistaaksesi kirjautumisen ja välimuistin
+Erase Spotify Data	Erase Spotify Data	Poista Spotify-tiedot
+Could not save setting	Could not save setting	Asetuksen tallennus epäonnistui
+Streaming stopped	Streaming stopped	Suoratoisto pysäytetty
+Wait for the one in progress	Wait for the one in progress	Odota käynnissä olevaa
+Stop Streaming Services	Stop Streaming Services	Pysäytä suoratoistopalvelut
+No %s folder on the card	No %s folder on the card	Ei %s-kansiota kortilla
+CFW. Version	CFW. Version	CFW-versio
+Update to %s	Update to %s	Päivitä versioon %s
+Latest firmware installed	Latest firmware installed	Uusin laiteohjelmisto asennettu
+Can't reach GitHub	Can't reach GitHub	GitHub-palveluun ei saada yhteyttä
+No update for this build	No update for this build	Tähän versioon ei ole päivitystä
+Can't write to the card	Can't write to the card	Kortille ei voi kirjoittaa
+Download cancelled	Download cancelled	Lataus peruttu
+GitHub is busy, try later	GitHub is busy, try later	GitHub on kuormitettu, yritä myöhemmin
+The download was damaged, try again	The download was damaged, try again	Lataus vioittui, yritä uudelleen
+Downloading %d%%	Downloading %d%%	Ladataan %d%%
+Cancelling…	Cancelling…	Peruutetaan…
+Reconnecting…	Reconnecting…	Yhdistetään uudelleen…
+Verifying…	Verifying…	Tarkistetaan…
+Checking…	Checking…	Haetaan…
+Needs %u MB more space	Needs %u MB more space	Tilaa tarvitaan %u Mt lisää
+Update downloaded: use TF card update	Update downloaded: use TF card update	Päivitys ladattu: käytä päivitystä muistikortilta
+Charge the battery first	Charge the battery first	Lataa akku ensin
+Can't start the download	Can't start the download	Latausta ei voi aloittaa
+Downloading…	Downloading…	Ladataan…
+Q2 Pod %s is out: System Update → Network update	Q2 Pod %s is out: System Update → Network update	Q2 Pod %s on julkaistu: Järjestelmäpäivitys → Verkkopäivitys
+Downloading	Downloading	Ladataan
+Unpacking…	Unpacking…	Puretaan…
+Installing…	Installing…	Asennetaan…
+Removing…	Removing…	Poistetaan…
+Connect to Wi-Fi to load the list	Connect to Wi-Fi to load the list	Lataa luettelo yhdistämällä Wi-Fi-verkkoon
+Checked just now	Checked just now	Tarkistettu juuri nyt
+Checked %u min ago	Checked %u min ago	Tarkistettu %u min sitten
+Checked %u h ago	Checked %u h ago	Tarkistettu %u h sitten
+Press again to remove	Press again to remove	Poista painamalla uudelleen
+Starts at power-on. Press again to install	Starts at power-on. Press again to install	Alkaa virran kytkeytyessä. Asenna painamalla uudelleen
+%d app can be updated	%d app can be updated	%d sovellus voidaan päivittää
+%d apps can be updated	%d apps can be updated	%d sovellusta voidaan päivittää
+All apps are up to date	All apps are up to date	Kaikki sovellukset ovat ajan tasalla
+The download is not a usable app	The download is not a usable app	Lataus ei ole käyttökelpoinen sovellus
+Rockbox is ready. Find it on Home	Rockbox is ready. Find it on Home	Rockbox on valmis. Löydät sen aloitusnäytöstä
+Rockbox Themes are ready in Rockbox's Theme Settings	Rockbox Themes are ready in Rockbox's Theme Settings	Rockbox-teemat ovat valmiina Rockbox-teema-asetuksissa
+%s is ready in %s	%s is ready in %s	%s on valmis kohdassa: %s
+%s removed	%s removed	Poistettu: %s
+Spotify's login and cache erased	Spotify's login and cache erased	Spotify-kirjautuminen ja välimuisti poistettu
+Stopped checking for updates	Stopped checking for updates	Päivitysten haku lopetettu
+Install Rockbox first	Install Rockbox first	Asenna Rockbox ensin
+Check for Updates	Check for Updates	Hae päivityksiä
+%d of %d	%d of %d	%d / %d
+Album lyrics	Album lyrics	Albumin sanoitukset
+LRCLIB stopped answering	LRCLIB stopped answering	LRCLIB lakkasi vastaamasta
+Cancelled	Cancelled	Peruttu
+%d saved	%d saved	%d tallennettu
+%d not found	%d not found	%d ei löytynyt
+%d already had lyrics	%d already had lyrics	%d:llä oli jo sanoitukset
+%d failed	%d failed	%d epäonnistui
+Album lyrics: no songs on the card	Album lyrics: no songs on the card	Albumin sanoitukset: kortilla ei ole kappaleita
+Can't reach LRCLIB	Can't reach LRCLIB	LRCLIB-palveluun ei saada yhteyttä
+Download Album Lyrics	Download Album Lyrics	Lataa albumin sanoitukset
+Downloading %d of %d	Downloading %d of %d	Ladataan %d / %d
+No album songs on the card	No album songs on the card	Kortilla ei ole albumin kappaleita
+file exceeds 16384 bytes	file exceeds 16384 bytes	tiedosto ylittää 16384 tavua
+line exceeds 512 bytes	line exceeds 512 bytes	rivi ylittää 512 tavua
+embedded NUL	embedded NUL	upotettu NUL
+unsupported filter form	unsupported filter form	suodattimen muotoa ei tueta
+expected Preamp: <gain> dB	expected Preamp: <gain> dB	odotettiin Preamp: <gain> dB
+preamp outside -60..24 dB or invalid number	preamp outside -60..24 dB or invalid number	preamp alueen -60..24 dB ulkopuolella tai virheellinen luku
+expected Channel: L, R or all	expected Channel: L, R or all	odotettiin Channel: L, R tai all
+only channels L, R and all are supported	only channels L, R and all are supported	vain kanavat L, R ja all ovat tuettuja
+unsupported command	unsupported command	komentoa ei tueta
+invalid filter label	invalid filter label	virheellinen suodattimen nimi
+expected Filter [number]:	expected Filter [number]:	odotettiin Filter [number]:
+expected ON or OFF	expected ON or OFF	odotettiin ON tai OFF
+unsupported filter type	unsupported filter type	suodatintyyppiä ei tueta
+expected Fc <Hz> Hz Gain <dB> dB	expected Fc <Hz> Hz Gain <dB> dB	odotettiin Fc <Hz> Hz Gain <dB> dB
+invalid frequency or gain number	invalid frequency or gain number	virheellinen taajuus tai gain-luku
+expected Q <number>	expected Q <number>	odotettiin Q <number>
+peaking filter requires Q	peaking filter requires Q	peaking-suodatin vaatii Q:n
+range: 20..20000 Hz, -24..24 dB, Q 0.1..10	range: 20..20000 Hz, -24..24 dB, Q 0.1..10	alue: 20..20000 Hz, -24..24 dB, Q 0.1..10
+more than 30 bands	more than 30 bands	yli 30 kaistaa
+summed preamp outside -60..24 dB	summed preamp outside -60..24 dB	preampien summa alueen -60..24 dB ulkopuolella
+L/R preamp differ by more than 12 dB	L/R preamp differ by more than 12 dB	V/O-preampien ero yli 12 dB
+out of memory	out of memory	muisti loppu
+cannot open file	cannot open file	tiedostoa ei voi avata
+file read failed	file read failed	tiedoston luku epäonnistui
+EQ for 3.5 mm	EQ for 3.5 mm	Taajuuskorjain 3,5 mm:lle
+EQ for 4.4 mm	EQ for 4.4 mm	Taajuuskorjain 4,4 mm:lle
+EQ for USB	EQ for USB	Taajuuskorjain USB:lle
+EQ for this Bluetooth device	EQ for this Bluetooth device	Bluetooth-taajuuskorjain
+Auto (44.1: %.1f / 48: %.1f)	Auto (44.1: %.1f / 48: %.1f)	Auto (44.1: %.1f / 48: %.1f)
+Folder missing or unavailable	Folder missing or unavailable	Kansio puuttuu
+Out of memory; cannot list presets	Out of memory; cannot list presets	Muisti loppu; ei voi listata
+No presets found	No presets found	Esiasetuksia ei löytynyt
+Name not allowed; preset kept	Name not allowed; preset kept	Nimi ei kelpaa; esiasetus säilyy
+Name taken; preset kept	Name taken; preset kept	Nimi on käytössä; säilyy
+Rename failed; preset kept	Rename failed; preset kept	Nimeäminen epäonnistui; säilyy
+Renamed to %.100s	Renamed to %.100s	Nimeksi tuli %.100s
+Pop	Pop	Pop
+Rock	Rock	Rock
+Dance	Dance	Dance
+Blues	Blues	Blues
+Metal	Metal	Metal
+Vocal	Vocal	Laulu
+Classical	Classical	Klassinen
+Jazz	Jazz	Jazz
+Preset loaded; choose Apply to activate	Preset loaded; choose Apply to activate	Esiasetus ladattu; ota käyttöön valitsemalla Ota käyttöön
+Preset saved; active EQ unchanged	Preset saved; active EQ unchanged	Esiasetus tallennettu; aktiivinen taajuuskorjain ennallaan
+Save failed; settings unchanged	Save failed; settings unchanged	Tallennus ei onnistunut
+Switch failed; EQ unchanged	Switch failed; EQ unchanged	Vaihto ei onnistunut
+Applied	Applied	Otettu käyttöön
+Apply failed; active EQ unchanged	Apply failed; active EQ unchanged	Käyttöönotto epäonnistui; aktiivinen taajuuskorjain ennallaan
+Reset; choose Apply to activate	Reset; choose Apply to activate	Nollattu; ota käyttöön
+Delete failed; preset kept	Delete failed; preset kept	Poisto epäonnistui; säilyy
+Deleted %.100s; active EQ unchanged	Deleted %.100s; active EQ unchanged	Poistettu %.100s; aktiivinen taajuuskorjain ennallaan
+Line %u: %s	Line %u: %s	Rivi %u: %s
+Cannot read preset; settings unchanged	Cannot read preset; settings unchanged	Esiasetusta ei voi lukea; asetukset ennallaan
+Peaking	Peaking	Peaking
+Low shelf	Low shelf	Basson hylly
+High shelf	High shelf	Diskantin hylly
+Apply changes	Apply changes	Ota muutokset käyttöön
+Nothing to apply	Nothing to apply	Ei otettavaa käyttöön
+Reset to defaults	Reset to defaults	Palauta oletukset
+Enabled	Enabled	Käytössä
+EQ per Output	EQ per Output	Taajuuskorjain lähdöittäin
+Preamp	Preamp	Preamp
+Presets	Presets	Esiasetukset
+Band	Band	Kaista
+Channels	Channels	Kanavat
+Both	Both	Molemmat
+Left	Left	Vasen
+Right	Right	Oikea
+Type	Type	Tyyppi
+Frequency	Frequency	Taajuus
+Gain	Gain	Vahvistus
+Band %d Q	Band %d Q	Kaista %d Q
+Band %d Frequency (Hz)	Band %d Frequency (Hz)	Kaista %d taajuus (Hz)
+Raise	Raise	Nosta
+Lower	Lower	Laske
+Step	Step	Askel
+Delete %.100s? Confirm	Delete %.100s? Confirm	Poistetaanko %.100s? Vahvista
+Replace existing preset? Confirm	Replace existing preset? Confirm	Korvataanko esiasetus? Vahvista
+Cancel replacement	Cancel replacement	Peruuta korvaus
+Save as Manual %02d	Save as Manual %02d	Tallenna nimellä Manual %02d
+Stock presets	Stock presets	Vakioesiasetukset
+Import from SD /EQ	Import from SD /EQ	Tuo SD-kortin kansiosta /EQ
+Save editor preset	Save editor preset	Tallenna editorin esiasetus
+Rename a preset	Rename a preset	Nimeä esiasetus uudelleen
+Delete a preset	Delete a preset	Poista esiasetus
+Previous page	Previous page	Edellinen sivu
+Next page	Next page	Seuraava sivu
+Band %d	Band %d	Kaista %d
+Band %d Gain	Band %d Gain	Kaista %d vahvistus
+Presets %d/%d	Presets %d/%d	Esiasetukset %d/%d
+Save failed; EQ unchanged	Save failed; EQ unchanged	Tallennus ei onnistunut
+Advanced	Advanced	Lisäasetukset
+Enabled: On	Enabled: On	Käytössä: Päällä
+Enabled: Off	Enabled: Off	Käytössä: Pois
+Low	Low	Basso
+Mid	Mid	Keskiäänet
+High	High	Diskantti
+Simple	Simple	Yksinkertainen
+No photos	No photos	Ei valokuvia
+All Photos	All Photos	Kaikki valokuvat
+Photos	Photos	Valokuvat
+Can't open this photo	Can't open this photo	Valokuvaa ei voi avata
+%d of %d  %s	%d of %d  %s	%d / %d  %s
+Could not save folder speed	Could not save folder speed	Kansion nopeuden tallennus epäonnistui
+Too long to play on the Q2: split it into parts	Too long to play on the Q2: split it into parts	Liian pitkä toistettavaksi Q2:lla: jaa osiin
+Press again to restart	Press again to restart	Käynnistä uudelleen painamalla vielä kerran
+Could not save playlist	Could not save playlist	Soittolistan tallennus epäonnistui
+Already in playlist	Already in playlist	On jo soittolistalla
+Added to Playlist	Added to Playlist	Lisätty soittolistaan
+Search songs	Search songs	Hae kappaleita
+Editing: %s	Editing: %s	Muokataan: %s
+Add Songs: %s	Add Songs: %s	Lisää kappaleita: %s
+Song Actions: %s	Song Actions: %s	Kappaleen toiminnot: %s
+Remove song?: %s	Remove song?: %s	Poistetaanko kappale?: %s
+Add Songs	Add Songs	Lisää kappaleita
+Move Up	Move Up	Siirrä ylös
+Move Down	Move Down	Siirrä alas
+Remove from Playlist	Remove from Playlist	Poista soittolistalta
+Search: %s	Search: %s	Haku: %s
+No songs match	No songs match	Ei vastaavia kappaleita
+Search for more songs	Search for more songs	Hae lisää kappaleita
+Delete Playlist?	Delete Playlist?	Poistetaanko soittolista?
+Delete	Delete	Poista
+Playlist deleted	Playlist deleted	Soittolista poistettu
+Could not delete playlist	Could not delete playlist	Soittolistan poisto epäonnistui
+Delete Playlist	Delete Playlist	Poista soittolista
+Edit Playlist	Edit Playlist	Muokkaa soittolistaa
+Queue unchanged	Queue unchanged	Jono ennallaan
+Deselect All	Deselect All	Poista kaikki valinnat
+Select All	Select All	Valitse kaikki
+Export %d Playlist	Export %d Playlist	Vie %d soittolista
+Export %d Playlists	Export %d Playlists	Vie %d soittolistaa
+Delete %d Playlist…	Delete %d Playlist…	Poista %d soittolista…
+Delete %d Playlists…	Delete %d Playlists…	Poista %d soittolistaa…
+%d Selected	%d Selected	%d valittu
+Select Playlists	Select Playlists	Valitse soittolistoja
+Playlists	Playlists	Soittolistat
+No Playlists	No Playlists	Ei soittolistoja
+New Playlist…	New Playlist…	Uusi soittolista…
+Select Playlists…	Select Playlists…	Valitse soittolistoja…
+Import Playlists	Import Playlists	Tuo soittolistoja
+Export	Export	Vie
+No other group	No other group	Ei toista ryhmää
+Folder not found	Folder not found	Kansiota ei löydy
+All Songs	All Songs	Kaikki kappaleet
+Songs in Album	Songs in Album	Albumin kappaleet
+Albums and Songs	Albums and Songs	Albumit ja kappaleet
+Songs in Folder	Songs in Folder	Kansion kappaleet
+Folders	Folders	Kansiot
+Folders and Songs	Folders and Songs	Kansiot ja kappaleet
+Play One Song	Play One Song	Soita yksi kappale
+Play One Album	Play One Album	Soita yksi albumi
+Repeat Song	Repeat Song	Toista kappale uudelleen
+Repeat Album	Repeat Album	Toista albumi uudelleen
+Repeat All	Repeat All	Toista kaikki uudelleen
+Play One Folder	Play One Folder	Soita yksi kansio
+Repeat Folder	Repeat Folder	Toista kansio uudelleen
+Album	Album	Albumi
+Folder	Folder	Kansio
+Repeat	Repeat	Toista uudelleen
+Group by	Group by	Ryhmittely
+Play Next	Play Next	Soita seuraavaksi
+Add to Queue	Add to Queue	Lisää jonoon
+Add to Favourites	Add to Favourites	Lisää suosikkeihin
+Remove from Favourites	Remove from Favourites	Poista suosikeista
+Add to Playlist	Add to Playlist	Lisää soittolistaan
+Go to Album	Go to Album	Siirry albumiin
+Go to Artist	Go to Artist	Siirry esittäjään
+Next Album	Next Album	Seuraava albumi
+Previous Album	Previous Album	Edellinen albumi
+Rate	Rate	Anna arvosana
+Resume	Resume	Jatka
+View Queue	View Queue	Näytä jono
+Go to Folder	Go to Folder	Siirry kansioon
+Rate Album	Rate Album	Arvostele albumi
+Group by: Folder	Group by: Folder	Ryhmittely: Kansio
+Group by: Album	Group by: Album	Ryhmittely: Albumi
+Next Folder	Next Folder	Seuraava kansio
+Previous Folder	Previous Folder	Edellinen kansio
+Wheel: Volume	Wheel: Volume	Kiekko: Äänenvoimakkuus
+Wheel: Brightness	Wheel: Brightness	Kiekko: Kirkkaus
+Could not save Favourites	Could not save Favourites	Suosikkien tallennus epäonnistui
+Added to Favourites	Added to Favourites	Lisätty suosikkeihin
+Removed from Favourites	Removed from Favourites	Poistettu suosikeista
+Stopped	Stopped	Pysäytetty
+Can't play: %s	Can't play: %s	Ei voi toistaa: %s
+Can't play this station	Can't play this station	Asemaa ei voi toistaa
+Connecting…	Connecting…	Yhdistetään…
+Search is too long	Search is too long	Haku on liian pitkä
+Search stations	Search stations	Hae asemia
+Favourites	Favourites	Suosikit
+Featured	Featured	Esittelyssä
+Top Stations	Top Stations	Suosituimmat asemat
+By Country	By Country	Maan mukaan
+By Genre	By Genre	Tyylilajin mukaan
+Countries	Countries	Maat
+Connecting to Wi-Fi…	Connecting to Wi-Fi…	Yhdistetään Wi-Fi-verkkoon…
+Directory unavailable	Directory unavailable	Hakemisto ei käytettävissä
+No Wi-Fi	No Wi-Fi	Ei Wi-Fi-yhteyttä
+No stations	No stations	Ei asemia
+No favourites	No favourites	Ei suosikkeja
+Rating not saved	Rating not saved	Arvosanaa ei tallennettu
+Ratings are full	Ratings are full	Arvosanatila täynnä
+Favourite not sent to the app	Favourite not sent to the app	Suosikkia ei lähetetty sovellukselle
+Unrated	Unrated	Ei arvosanaa
+1 Heart	1 Heart	1 sydän
+%d Hearts	%d Hearts	%d sydäntä
+%d of 5	%d of 5	%d / 5
+Album changed	Album changed	Albumi muuttui
+Favourite not saved	Favourite not saved	Suosikkia ei tallennettu
+This app has no favourites	This app has no favourites	Tällä sovelluksella ei ole suosikkeja
+Top Rated	Top Rated	Parhaiten arvostellut
+Loved	Loved	Tykätyt
+All Rated	All Rated	Kaikki arvostellut
+Disliked	Disliked	Ei-tykätyt
+No songs yet	No songs yet	Ei vielä kappaleita
+Hold the heart on Now Playing to rate	Hold the heart on Now Playing to rate	Arvostele pitämällä sydäntä painettuna Nyt soi -näkymässä
+No rated albums yet	No rated albums yet	Ei vielä arvosteltuja albumeita
+Upload failed, %d sent	Upload failed, %d sent	Lähetys epäonnistui, %d lähetetty
+Scrobbles sent: %d	Scrobbles sent: %d	Scrobblet lähetetty: %d
+Nothing to upload	Nothing to upload	Ei lähetettävää
+Uploading scrobbles	Uploading scrobbles	Lähetetään scrobblet
+Already uploading	Already uploading	Lähetys on jo käynnissä
+Upload failed	Upload failed	Lähetys epäonnistui
+Connect to Wi-Fi first	Connect to Wi-Fi first	Yhdistä ensin Wi-Fi-verkkoon
+Waiting for Spotify	Waiting for Spotify	Odotetaan Spotify-yhteyttä
+Spotify isn't on the card	Spotify isn't on the card	Spotify ei ole kortilla
+See the Q2 Pod guide to add it	See the Q2 Pod guide to add it	Katso lisäys Q2 Pod -oppaasta
+Open Spotify on your phone	Open Spotify on your phone	Avaa Spotify puhelimessasi
+and choose Q2	and choose Q2	ja valitse Q2
+Spotify refused this account	Spotify refused this account	Spotify hylkäsi tämän tilin
+Its tracks can't play on the Q2	Its tracks can't play on the Q2	Sen kappaleita ei voi toistaa Q2:lla
+Playback didn't start	Playback didn't start	Toisto ei käynnistynyt
+Go back and try again	Go back and try again	Palaa takaisin ja yritä uudelleen
+Starting playback	Starting playback	Käynnistetään toisto
+Update Spotify on the card	Update Spotify on the card	Päivitä Spotify kortilla
+See the Q2 Pod guide	See the Q2 Pod guide	Katso Q2 Pod -opas
+Nothing playing	Nothing playing	Mikään ei soi
+Choose music in Spotify	Choose music in Spotify	Valitse musiikkia Spotify-sovelluksessa
+Liked Songs	Liked Songs	Tykätyt kappaleet
+Queue	Queue	Jono
+Playback Settings	Playback Settings	Toisto-asetukset
+Account	Account	Tili
+Downloaded Tracks	Downloaded Tracks	Ladatut kappaleet
+Downloads	Downloads	Lataukset
+Tracks	Tracks	Kappaleet
+Open Spotify on your phone and choose Q2	Open Spotify on your phone and choose Q2	Avaa Spotify puhelimessasi ja valitse Q2
+Both on the same Wi-Fi	Both on the same Wi-Fi	Molemmat samassa Wi-Fi-verkossa
+to browse on the Q2	to browse on the Q2	selataksesi Q2:lla
+Downloaded Playlists	Downloaded Playlists	Ladatut soittolistat
+Download Progress	Download Progress	Latauksen edistyminen
+Storage Management	Storage Management	Tallennustilan hallinta
+Download Status	Download Status	Latauksen tila
+The latest download's progress	The latest download's progress	Viimeisimmän latauksen edistyminen
+for saved playlists and download controls	for saved playlists and download controls	tallennetuille soittolistoille ja latausten hallintaan
+Remove Playlists…	Remove Playlists…	Poista soittolistoja…
+Remove Tracks…	Remove Tracks…	Poista kappaleita…
+Keeps login and settings	Keeps login and settings	Kirjautuminen ja asetukset säilyvät
+Track removal can make playlists incomplete	Track removal can make playlists incomplete	Kappaleiden poisto voi tehdä soittolistoista vajaita
+Pause	Pause	Tauko
+Cancel Download	Cancel Download	Peruuta lataus
+Retry Failed	Retry Failed	Yritä virheelliset uudelleen
+Update Download	Update Download	Päivitä lataus
+Sign Out of Spotify?	Sign Out of Spotify?	Kirjaudutaanko ulos Spotify-tilistä?
+Sign Out	Sign Out	Kirjaudu ulos
+Nothing here	Nothing here	Täällä ei ole mitään
+Selected	Selected	Valittu
+Press to select	Press to select	Valitse painamalla
+All	All	Kaikki
+One	One	Yksi
+Download Liked Songs	Download Liked Songs	Lataa tykätyt kappaleet
+Download Playlist	Download Playlist	Lataa soittolista
+For offline listening	For offline listening	Kuunteluun ilman verkkoa
+Download Controls	Download Controls	Latausten hallinta
+Update, retry, pause, resume or cancel	Update, retry, pause, resume or cancel	Päivitä, yritä uudelleen, keskeytä, jatka tai peruuta
+Remove Selected…	Remove Selected…	Poista valitut…
+Confirm the affected count	Confirm the affected count	Vahvista käsiteltävien määrä
+Spotify isn't running	Spotify isn't running	Spotify ei ole käynnissä
+Spotify didn't answer	Spotify didn't answer	Spotify ei vastannut
+Search Spotify	Search Spotify	Hae Spotify-palvelusta
+Select Tracks	Select Tracks	Valitse kappaleita
+Select at least one item	Select at least one item	Valitse vähintään yksi kohde
+Selection full. Remove these first	Selection full. Remove these first	Valinta täynnä. Poista nämä ensin
+Boot logo must be a 320x375 JPEG	Boot logo must be a 320x375 JPEG	Käynnistyslogon on oltava 320x375 JPEG
+Could not save boot logo	Could not save boot logo	Käynnistyslogon tallennus epäonnistui
+Accent: Graphite	Accent: Graphite	Korostusväri: Grafiitti
+Accent: Crimson	Accent: Crimson	Korostusväri: Karmiini
+Accent: Tidal	Accent: Tidal	Korostusväri: Tidal
+Accent: Champagne	Accent: Champagne	Korostusväri: Samppanja
+Accent: Cobalt	Accent: Cobalt	Korostusväri: Koboltti
+Accent: Tangerine	Accent: Tangerine	Korostusväri: Mandariini
+Accent: Plum	Accent: Plum	Korostusväri: Luumu
+Accent: Ivory	Accent: Ivory	Korostusväri: Norsunluu
+Accent: Green	Accent: Green	Korostusväri: Vihreä
+Favorites	Favorites	Suosikit
+Rated Albums	Rated Albums	Arvostellut albumit
+Podcasts	Podcasts	Podcastit
+Audiobooks	Audiobooks	Äänikirjat
+Groovebox can't start from the card	Groovebox can't start from the card	Groovebox ei voi käynnistyä kortilta
+Groovebox is not on the card	Groovebox is not on the card	Groovebox ei ole kortilla
+Play a Tidal album or playlist first	Play a Tidal album or playlist first	Soita ensin Tidal-albumi tai -soittolista
+Downloading %u of %u. Press to stop	Downloading %u of %u. Press to stop	Ladataan %u / %u. Pysäytä painamalla
+Download Playing Songs	Download Playing Songs	Lataa soivat kappaleet
+Tidal Cache full: %u of %u song saved	Tidal Cache full: %u of %u song saved	Tidal-välimuisti täynnä: tallennettu %u / %u kappaletta
+Tidal Cache full: %u of %u songs saved	Tidal Cache full: %u of %u songs saved	Tidal-välimuisti täynnä: tallennettu %u / %u kappaletta
+Downloaded %u of %u song	Downloaded %u of %u song	Ladattu %u / %u kappaletta
+Downloaded %u of %u songs	Downloaded %u of %u songs	Ladattu %u / %u kappaletta
+Nothing to play next	Nothing to play next	Ei seuraavaksi soitettavaa
+Queue changed	Queue changed	Jono muuttui
+Never	Never	Ei koskaan
+USB DAC Charging: %s	USB DAC Charging: %s	USB DAC -lataus: %s
+Spectrum	Spectrum	Spektri
+Oscilloscope	Oscilloscope	Oskilloskooppi
+VU Meters	VU Meters	VU-mittarit
+Halo	Halo	Halo
+Pulsar	Pulsar	Pulsar
+Contour	Contour	Ääriviiva
+More	More	Lisää
+A-B Repeat	A-B Repeat	A-B-toisto
+Speed	Speed	Nopeus
+*Only for 48 kHz and below	*Only for 48 kHz and below	*Vain 48 kHz ja alle
+No lyrics	No lyrics	Ei sanoituksia
+Genre	Genre	Tyylilaji
+Size	Size	Koko
+Year	Year	Vuosi
+Format	Format	Muoto
+Bit Depth	Bit Depth	Bittisyvyys
+Bit Rate	Bit Rate	Bittinopeus
+Sample Rate	Sample Rate	Näytteenottotaajuus
+Auto Scan	Auto Scan	Automaattinen skannaus
+Update Library Now	Update Library Now	Päivitä kirjasto nyt
+Scan Folders	Scan Folders	Skannaa kansiot
+OK	OK	OK
+Bluetooth	Bluetooth	Bluetooth
+Key Lock	Key Lock	Painikelukitus
+Low Gain	Low Gain	Pieni vahvistus
+USB Storage	USB Storage	USB-tallennus
+Playback	Playback	Toisto
+Custom	Custom	Oma
+Reset	Reset	Palauta
+Open this address in a browser:	Open this address in a browser:	Avaa tämä osoite selaimessa:
+Downloaded	Downloaded	Ladatut
+Baidu Netdisk	Baidu Netdisk	Baidu Netdisk
+Sign In	Sign In	Kirjaudu sisään
+Scan with the Baidu app to sign in	Scan with the Baidu app to sign in	Kirjaudu skannaamalla Baidu-sovelluksella
+Baidu encryption protects your privacy	Baidu encryption protects your privacy	Baidun salaus suojaa yksityisyyttäsi
+Bluetooth RF test: connect from a computer	Bluetooth RF test: connect from a computer	Bluetooth RF -testi: yhdistä tietokoneelta
+Press Next to exit	Press Next to exit	Poistu painamalla Seuraava
+Brightness Test	Brightness Test	Kirkkaustesti
+Next	Next	Seuraava
+Bluetooth Test	Bluetooth Test	Bluetooth-testi
+Down	Down	Alas
+Up	Up	Ylös
+Swipe Left	Swipe Left	Pyyhkäise vasemmalle
+Swipe Right	Swipe Right	Pyyhkäise oikealle
+Key Test	Key Test	Painiketesti
+Headphone Test	Headphone Test	Kuulokkeiden testi
+Plug in single-ended headphones	Plug in single-ended headphones	Liitä epäsymmetriset kuulokkeet
+Play (left male, right female)	Play (left male, right female)	Toista (vasemmalla mies, oikealla nainen)
+Bluetooth Receiver Test	Bluetooth Receiver Test	Bluetooth-vastaanottimen testi
+Battery Test	Battery Test	Akkutesti
+Battery:	Battery:	Akku:
+Charging:	Charging:	Lataus:
+microSD Test	microSD Test	microSD-testi
+Touch Test	Touch Test	Kosketustesti
+Wi-Fi Test	Wi-Fi Test	Wi-Fi-testi
+Artist	Artist	Esittäjä
+Export Playlists	Export Playlists	Vie soittolistat
+Playlist	Playlist	Soittolista
+0 songs	0 songs	0 kappaletta
+System	System	Järjestelmä
+Rockbox	Rockbox	Rockbox
+Baker Island	Baker Island	Bakerinsaari
+Midway	Midway	Midway
+Honolulu	Honolulu	Honolulu
+Anchorage	Anchorage	Anchorage
+Los Angeles	Los Angeles	Los Angeles
+Denver	Denver	Denver
+Mexico City	Mexico City	Mexico City
+New York	New York	New York
+Halifax	Halifax	Halifax
+St. John's	St. John's	St. John's
+Buenos Aires	Buenos Aires	Buenos Aires
+Azores	Azores	Azorit
+London	London	Lontoo
+Amsterdam	Amsterdam	Amsterdam
+Bucharest	Bucharest	Bukarest
+Kuwait	Kuwait	Kuwait
+Tehran	Tehran	Teheran
+Muscat	Muscat	Maskat
+Kabul	Kabul	Kabul
+Karachi	Karachi	Karachi
+Dhaka	Dhaka	Dhaka
+Bangkok	Bangkok	Bangkok
+Shanghai	Shanghai	Shanghai
+Tokyo	Tokyo	Tokio
+Adelaide	Adelaide	Adelaide
+Sydney	Sydney	Sydney
+Fiji	Fiji	Fidži
+Marquesas	Marquesas	Marquesassaaret
+South Georgia	South Georgia	Etelä-Georgia
+Colombo	Colombo	Colombo
+Kathmandu	Kathmandu	Kathmandu
+Yangon	Yangon	Yangon
+Eucla	Eucla	Eucla
+L. Howe	L. Howe	L. Howe
+Noumea	Noumea	Nouméa
+Chatham	Chatham	Chatham
+Tongatapu	Tongatapu	Tongatapu
+Kiritimati	Kiritimati	Kiritimati
+Chicago	Chicago	Chicago
+Phoenix	Phoenix	Phoenix
+Kolkata	Kolkata	Kolkata
+Brisbane	Brisbane	Brisbane
+Auckland	Auckland	Auckland
+Status Bar	Status Bar	Tilapalkki
+Minimal	Minimal	Minimaalinen
+Modern	Modern	Moderni
+Classic	Classic	Klassinen
+Show Wordmark	Show Wordmark	Näytä logotyyppi
+Library on Home	Library on Home	Kirjasto aloitusnäytössä
+Row Preview	Row Preview	Rivien esikatselu
+Row Art	Row Art	Rivien kuvat
+Classic Blue	Classic Blue	Klassinen sininen

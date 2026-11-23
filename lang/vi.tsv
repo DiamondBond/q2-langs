@@ -1,0 +1,1181 @@
+# Tiếng Việt
+History_record	History record	Lịch sử
+about_cardcap	Card Capacity	Dung lượng thẻ
+about_cardremain	Remaining	Còn trống
+about_ipaddr	IP Address	Địa chỉ IP
+about_model	Model	Kiểu máy
+about_more	*Our sincere thanks go to the DiamondBond team and all its enthusiasts for their ingenuity, outstanding solutions, and generous contributions.	*Chân thành cảm ơn đội ngũ DiamondBond và tất cả những người đam mê vì sự sáng tạo, những giải pháp xuất sắc và đóng góp hào phóng.
+about_sn	Serial Number	Số sê-ri
+about_version	Version	Phiên bản
+about_wifimac	Wi-Fi MAC	Địa chỉ MAC Wi-Fi
+album	Album	Album
+album	Album	Album
+albumsinger	Album artist	Nghệ sĩ album
+allmusic	All Songs	Tất cả bài hát
+audio_settings	Audio settings	Cài đặt âm thanh
+baidu_login	Log In	Đăng nhập
+baidu_login_tips1	Please use Baidu Netdisk or Baidu App to scan the code to login	Dùng Baidu Netdisk hoặc ứng dụng Baidu để quét mã đăng nhập
+baidu_login_tips2	Baidu encryption technology protects your privacy and security	Công nghệ mã hóa của Baidu bảo vệ quyền riêng tư và an toàn của bạn
+baidu_loginout	Log Out	Đăng xuất
+baidunet_floderinfo_failed	Failed to get file list	Không lấy được danh sách tệp
+batch_addplaylist	Add to Playlist	Thêm vào danh sách phát
+bt_adjvol	Bluetooth Headset Volume Control	Điều khiển âm lượng tai nghe Bluetooth
+bt_compatiabledev	Compatible Device	Thiết bị tương thích
+bt_name	Bluetooth Name	Tên Bluetooth
+bt_paireddev	Paired Device	Thiết bị đã ghép nối
+bt_quality	Quality	Chất lượng
+bt_search	Scan now	Quét ngay
+btcode_aac	AAC	AAC
+btcode_aptx	aptX	aptX
+btcode_aptxhd	aptX HD	aptX HD
+btcode_ldacauto	LDAC Connection (auto)	Kết nối LDAC (tự động)
+btcode_ldachq	LDAC HQ	LDAC HQ
+btcode_ldacst	LDAC Standard	LDAC Tiêu chuẩn
+btcode_sbc	SBC	SBC
+btcode_sbchq	SBC HQ	SBC HQ
+custom_eq	Custom	Tùy chỉnh
+display_backlight	Brightness	Độ sáng
+display_lighttime	Screen Off Time	Thời gian tắt màn hình
+display_screenlock	Lock Screen	Khóa màn hình
+dsdmode_d2p	D2P	D2P
+dsdmode_dop	DOP	DoP
+dsdmode_native	Native	Gốc
+eq_blues	Blues	Blues
+eq_classical	Classical	Cổ điển
+eq_club	Club	Club
+eq_custom1	Custom1	Tùy chỉnh 1
+eq_custom2	Custom2	Tùy chỉnh 2
+eq_custom3	Custom3	Tùy chỉnh 3
+eq_dance	Dance	Dance
+eq_doublebass	Sub-bass	Siêu trầm
+eq_jazz	Jazz	Jazz
+eq_metal	Metal	Metal
+eq_only48kmsg	EQ only for files below 48kHz.	EQ chỉ dùng cho tệp dưới 48 kHz.
+eq_pop	Pop	Pop
+eq_reset	Reset	Đặt lại
+eq_rock	Rock	Rock
+eq_vocal	Vocal	Giọng hát
+fav	My Fav	Yêu thích
+filter_delayfast	Low Delay Fast Roll-off	Cắt nhanh, độ trễ thấp
+filter_delayslow	Low Delay Slow Roll-off	Cắt chậm, độ trễ thấp
+filter_fast	Fast Roll-off	Cắt nhanh
+filter_slow	Slow Roll-off	Cắt chậm
+frequentplay	Frequent	Thường nghe
+gain_high	High	Cao
+gain_low	Low	Thấp
+genre	Genre	Thể loại
+genre_statistics	Total %d songs	Tổng cộng %d bài hát
+hr	Hi-Res	Hi-Res
+keyboard_keyword	Please enter keyword	Nhập từ khóa
+keyboard_netname	Please enter network name	Nhập tên mạng
+keyboard_password	Please enter password	Nhập mật khẩu
+keylock_all	Lock Volume & Buttons	Khóa âm lượng và nút
+keylock_info	Only effective when the screen is off	Chỉ có tác dụng khi màn hình tắt
+keylock_info2	Effective on Lockscreen and when Screen Off	Có tác dụng ở màn hình khóa và khi màn hình tắt
+keylock_key	Lock Buttons Only	Chỉ khóa nút
+keylock_volume	Lock Volume Only	Chỉ khóa âm lượng
+lan_english	English	English
+lan_french	Français	Français
+lan_german	Deutsch	Deutsch
+lan_italian	Italiano	Italiano
+lan_japanese	日本語	日本語
+lan_korean	한국어	한국어
+lan_polish	Polski	Polski
+lan_russian	Русский	Русский
+lan_simplified	简体中文	简体中文
+lan_spanish	español	español
+lan_thai	ภาษาไทย	ภาษาไทย
+lan_traditional	繁體中文	繁體中文
+lan_ukrainian	Українська	Українська
+lighttime_15s	15s	15 giây
+lighttime_1min	1min	1 phút
+lighttime_2min	2min	2 phút
+lighttime_30min	30min	30 phút
+lighttime_30s	30s	30 giây
+lighttime_5min	5min	5 phút
+lighttime_lyricmode	Lyrics mode	Chế độ lời bài hát
+lighttime_off	Off	Tắt
+list_baidu	Baidu Netdisk	Baidu Netdisk
+list_tidal	TIDAL	TIDAL
+local_album	Albums	Album
+local_allmusic	Local Songs	Nhạc trong máy
+local_allsongs	Songs	Bài hát
+local_fav	My Fav	Yêu thích
+local_frequentplay	Frequent	Thường nghe
+local_genre	Genres	Thể loại
+local_hr	Hi-Res	Hi-Res
+local_playlist	Playlists	Danh sách phát
+local_recentadd	Recently Added	Mới thêm
+local_recentplay	Recent	Gần đây
+local_songer	Artists	Nghệ sĩ
+local_upmusic	Update Library	Cập nhật thư viện
+login_out	Logout	Đăng xuất
+memplay_location	Location	Vị trí
+memplay_off	Off	Tắt
+memplay_track	Track	Bài hát
+msg_actionnotsupport	Non-local songs,not currently supported	Bài hát trực tuyến chưa hỗ trợ thao tác này
+msg_actionscan	Scan music?	Quét nhạc?
+msg_add_task	Please enter the URL of the file you want to download	Nhập URL của tệp cần tải xuống
+msg_addfailed	Adding Failed	Thêm không thành công
+msg_addfavsuccess	Added To Fav	Đã thêm vào Yêu thích
+msg_addplaylistsuccess	Added To Playlist	Đã thêm vào danh sách phát
+msg_autoshutdown	Shutdown	Tắt nguồn
+msg_btabnormal	Bluetooth abnormal	Bluetooth gặp sự cố
+msg_btinit_run	Bluetooth Starting	Đang khởi động Bluetooth
+msg_btreconnect	Reconnect Bluetooth?	Kết nối lại Bluetooth?
+msg_cardeject	Audio Disconnected	Đã ngắt kết nối âm thanh
+msg_cardinsert	Audio Connected	Đã kết nối âm thanh
+msg_checkfw	Checking FW	Đang kiểm tra firmware
+msg_checkfwerr	FW. Check Error	Kiểm tra firmware lỗi
+msg_closesynclink	Please close SyncLink	Vui lòng đóng SyncLink
+msg_confirmupdate	Confirm Update?	Xác nhận cập nhật?
+msg_connected	Connected	Đã kết nối
+msg_connecting	Connecting	Đang kết nối
+msg_delalbum	Delete Album?	Xóa album?
+msg_delalbumfailed	Failed To Delete Album	Không xóa được album
+msg_delalbumsuccess	Album Deleted	Đã xóa album
+msg_delartist	Delete Artist?	Xóa nghệ sĩ?
+msg_delartistsuccess	Artist Deleted	Đã xóa nghệ sĩ
+msg_delete_task	Are you sure you want to delete the download task?	Bạn có chắc muốn xóa tác vụ tải xuống không?
+msg_deletesource	Also delete source file	Xóa cả tệp nguồn
+msg_delfile	Are you sure you want to delete this file?	Bạn có chắc muốn xóa tệp này không?
+msg_delfile	Delete File?	Xóa tệp?
+msg_delfilefailed	Failed To Delete File	Không xóa được tệp
+msg_delfilesuccess	File Deleted	Đã xóa tệp
+msg_delgenre	Delete Genre?	Xóa thể loại?
+msg_delgenresuccess	Genre Deleted	Đã xóa thể loại
+msg_delplaylist	Delete Playlist?	Xóa danh sách phát?
+msg_delplaylistfailed	Failed To Delete Playlist	Không xóa được danh sách phát
+msg_delplaylistsuccess	Playlist Deleted	Đã xóa danh sách phát
+msg_delsong	Delete Song?	Xóa bài hát?
+msg_delsongfailed	Failed To Delete Song	Không xóa được bài hát
+msg_delsongsuccess	Song Deleted	Đã xóa bài hát
+msg_disconnected	Disconnected	Đã ngắt kết nối
+msg_disonnectbt	Please disconnect the bluetooth device	Vui lòng ngắt kết nối thiết bị Bluetooth
+msg_downloadpath	Download path is	Thư mục tải xuống là
+msg_exist_task	The download task already exists	Tác vụ tải xuống đã tồn tại
+msg_exitairplay	Quit AirPlay?	Thoát AirPlay?
+msg_exportplaylist	Export Playlist?	Xuất danh sách phát?
+msg_exportsuccess	Export successful	Xuất thành công
+msg_factorysuccess	Restore to factory settings succeeded	Đã khôi phục cài đặt gốc
+msg_favsuccess	Added To Fav	Đã thêm vào Yêu thích
+msg_file_exist	The file already exists	Tệp đã tồn tại
+msg_importplaylist	Import Playlists?	Nhập danh sách phát?
+msg_importsuccess	Successfully imported	Nhập thành công
+msg_initsetsuccess	All settings initialized successfully	Đã đặt lại mọi cài đặt
+msg_latestfw	Latest Fw. Installed	Đã là firmware mới nhất
+msg_linkerror	WiFi Connection Error	Lỗi kết nối Wi-Fi
+msg_lowarn	Line Out sets max volume,continue?	Line Out đặt âm lượng tối đa, tiếp tục?
+msg_lowpower	Low Battery	Pin yếu
+msg_namenull	The name can't be empty	Tên không được để trống
+msg_netnameerr	Network Must Be Named	Mạng phải có tên
+msg_no	Cancel	Hủy
+msg_no_storage	Storage is full.Some songs couldn't be added.	Bộ nhớ đầy. Không thêm được một số bài hát.
+msg_noheadset	Playback is disabled without headphones.Please insert headphones.	Không thể phát khi chưa cắm tai nghe. Vui lòng cắm tai nghe.
+msg_nosongs	No songs in this folder	Thư mục này không có bài hát
+msg_notalbuminfo	This file has no Album data	Tệp này không có thông tin album
+msg_notfile	File Not Found	Không tìm thấy tệp
+msg_notfolder	Folder not found	Không tìm thấy thư mục
+msg_notfoundfw	Fw. Not Found	Không tìm thấy firmware
+msg_notmemory	Memory is not enough	Không đủ bộ nhớ
+msg_notmemory	Out of memory	Hết bộ nhớ
+msg_notnetwork	Network Disconnected	Mạng đã ngắt kết nối
+msg_nototg	No OTG Found	Không tìm thấy OTG
+msg_notplaylist	Playlist Not Found	Không tìm thấy danh sách phát
+msg_notsongerinfo	This file has no Artist data	Tệp này không có thông tin nghệ sĩ
+msg_notsonglist	No Song List	Chưa có danh sách bài hát
+msg_notspecdir	Folder not specified	Chưa chọn thư mục
+msg_notsupport	Not Supported	Không được hỗ trợ
+msg_notsupportdel	Can't be removed	Không thể gỡ bỏ
+msg_nottf	No TF Card Found	Không tìm thấy thẻ TF
+msg_otgeject	OTG Disconnected	Đã ngắt kết nối OTG
+msg_otginfoerr	Failed To Get Version Info	Không lấy được thông tin phiên bản
+msg_otginsert	OTG Connected	Đã kết nối OTG
+msg_paircode	Bluetooth Code	Mã Bluetooth
+msg_paired	Paired	Đã ghép nối
+msg_playlistexist	Playlist Already Exists	Danh sách phát đã tồn tại
+msg_playlistfull	Could not create playlist	Không tạo được danh sách phát
+msg_poweroff	Shut Down?	Tắt máy?
+msg_resetdbsuccess	Reset completed	Đã đặt lại xong
+msg_restarting	Restarting	Đang khởi động lại
+msg_shortpasswd	8 Digits PIN At Least	PIN tối thiểu 8 chữ số
+msg_start_download_task	start the download task	Bắt đầu tải xuống
+msg_stop_download_task	stop the download task	Dừng tải xuống
+msg_testmode	Enter test mode?	Vào chế độ kiểm tra?
+msg_tfeject	TF Card Removed	Đã rút thẻ TF
+msg_tfinsert	TF Card Inserted	Đã cắm thẻ TF
+msg_unpaired	Unpaired	Đã hủy ghép nối
+msg_unpairing	unpair?	Hủy ghép nối?
+msg_unsupportformat	Unsupported format	Định dạng không được hỗ trợ
+msg_update	Confirmed	Đã xác nhận
+msg_wificancelsave	Delete Record?	Xóa bản ghi?
+msg_wifidisconnect	Disconnect Now?	Ngắt kết nối ngay?
+msg_yes	OK	OK
+navigation_all	All	Tất cả
+netservice_airplay	AirPlay	AirPlay
+netservice_dlna	DLNA	DLNA
+netservice_wifitrans	Wi-Fi File Transfer	Truyền tệp qua Wi-Fi
+no_search	No search results	Không có kết quả tìm kiếm
+not_allmusic	Currently no songs	Chưa có bài hát nào
+otgdownload_percent	FW Downloaded	Đã tải firmware
+outputway	Output Options	Tùy chọn đầu ra
+play_all	Play All	Phát tất cả
+player_abrepeat	AB Repeat	Lặp A-B
+player_albuminfo	Look up Album	Xem album
+player_bitdepth	Bit Depth	Độ sâu bit
+player_bitrate	Bitrate	Tốc độ bit
+player_delete	Delete Song	Xóa bài hát
+player_encoding	Encoding	Mã hóa
+player_era	Year	Năm
+player_filesize	File Size	Kích thước tệp
+player_location	Location	Vị trí
+player_msgmul	*Affecting only files below 48khz	*Chỉ áp dụng cho tệp dưới 48 kHz
+player_multiple	Multiple Speed	Tốc độ phát
+player_nolyric	No Lyrics	Không có lời bài hát
+player_onlinesearch	Download Cover & Lyrics	Tải bìa và lời bài hát
+player_playlist	Queue	Hàng đợi
+player_samplerate	Sample Rate	Tần số lấy mẫu
+player_songerinfo	Look up Artist	Xem nghệ sĩ
+player_unknown	Unknown	Không rõ
+player_unknown	Unknown Artist	Nghệ sĩ không rõ
+playlist	Playlist	Danh sách phát
+playlist_create	New playlist	Danh sách phát mới
+playlist_export	Export playlist	Xuất danh sách phát
+playlist_import	Import playlist	Nhập danh sách phát
+playmode_listplay	List Play	Phát theo danh sách
+playmode_repeatall	Repeat All	Lặp lại tất cả
+playmode_repeattrack	Repeat Track	Lặp lại bài hát
+playmode_shuffle	Shuffle	Phát ngẫu nhiên
+playset_balance	Channel Balance	Cân bằng kênh
+playset_bootvol	Default Volume	Âm lượng mặc định
+playset_covermode	Enlarged Album Art	Ảnh bìa phóng to
+playset_dsdoutput	DSD Output Mode	Chế độ xuất DSD
+playset_eq	EQ	EQ
+playset_filter	Digital Filters	Bộ lọc kỹ thuật số
+playset_foldercover	Folder Album Cover	Ảnh bìa thư mục
+playset_folderjump	Folder Skip	Chuyển thư mục
+playset_gain	Gain	Độ lợi
+playset_gapless	Gapless	Phát liền mạch
+playset_maxvol	Max Volume	Âm lượng tối đa
+playset_memplay	Memory Playback	Ghi nhớ phát
+playset_noplay	Require Output (Beta)	Yêu cầu đầu ra (Beta)
+playset_playmode	Play Mode	Chế độ phát
+playset_replaygain	ReplayGain	ReplayGain
+playset_usbaudiovol	USB Audio Output	Đầu ra âm thanh USB
+playset_volcover	Volume and Album Display	Âm lượng và ảnh bìa
+powerm_deep_off	Standby	Chờ
+powerm_sleep	Sleep Timer	Hẹn giờ ngủ
+recentadd	Recently Added	Mới thêm
+recentplay	Recent	Gần đây
+rename	Rename	Đổi tên
+renamesuccess	Successfully renamed	Đã đổi tên
+replaygain_track	Song	Bài hát
+reset_factory	Full Factory Reset	Khôi phục cài đặt gốc hoàn toàn
+reset_initdatabase	Reset Database	Đặt lại cơ sở dữ liệu
+reset_initset	Reset Settings Only	Chỉ đặt lại cài đặt
+scan_automatic	Automatic Update	Tự động cập nhật
+scan_now	Scan music now	Quét nhạc ngay
+scan_now	Scan music now	Quét nhạc ngay
+scan_spec	Scan specified folders	Quét thư mục chỉ định
+scan_spec	Scan specified folders	Quét thư mục chỉ định
+scan_startscan	Scan	Quét
+scan_updatefinish	Library Updated,%d Updated	Đã cập nhật thư viện, %d mục được cập nhật
+scan_updating	Updating No.%d	Đang cập nhật mục %d
+scover_cover	Cover	Ảnh bìa
+scover_lyric	Lyrics	Lời bài hát
+screenlock_about	Custom Lock Screen	Màn hình khóa tùy chỉnh
+screenlock_info1	1. Put the pictures in a folder named "lockscreenimage" at the top of the card.	1. Đặt ảnh vào thư mục có tên "lockscreenimage" ở gốc thẻ.
+screenlock_info2	2. PNG or JPG, exactly 375 x 320 pixels, under 1 MB each.	2. PNG hoặc JPG, đúng 375 x 320 pixel, mỗi ảnh dưới 1 MB.
+screenlock_info3	3. Up to 5 pictures.	3. Tối đa 5 ảnh.
+screenlock_timeshow	Show Time	Hiện giờ
+search_tips1	Search for music,artists,albums,genres	Tìm nhạc, nghệ sĩ, album, thể loại
+search_track	Track	Bài hát
+singerbyalbum	Sort by album artist	Sắp xếp theo nghệ sĩ album
+singerbysong	Sort by song artist	Sắp xếp theo nghệ sĩ bài hát
+small_album	Albums	Album
+small_coverflow	Album Wall	Tường album
+small_folder	Folder	Thư mục
+small_local	Local Songs	Nhạc trong máy
+small_playing	Now Playing	Đang phát
+small_playset	Playback	Phát nhạc
+small_stream	Streaming	Streaming
+small_sysset	System	Hệ thống
+songer	Artist	Nghệ sĩ
+sort_addtime	Time added	Ngày thêm
+sort_alphabet	Alphabetical	Theo bảng chữ cái
+sort_filename	File name	Tên tệp
+sort_format	File format	Định dạng tệp
+sort_time_asc	Time added (ascending)	Ngày thêm (cũ nhất trước)
+sort_time_desc	Time added (descending)	Ngày thêm (mới nhất trước)
+standbyoff_10min	10min	10 phút
+standbyoff_1min	1min	1 phút
+standbyoff_3min	3min	3 phút
+standbyoff_5min	5min	5 phút
+standbyoff_deep	Auto-standby	Tự động chờ
+standbyoff_deepinfo	After 5 minute of idle,device will go into standby mode.	Sau 5 phút không dùng, máy sẽ chuyển sang chế độ chờ.
+standbyoff_saver	Auto-shutdown	Tự động tắt máy
+synclink_off	Off	Tắt
+system_about	About	Giới thiệu
+system_carmode	In-Vehicle Mode	Chế độ trên xe
+system_display	Display	Hiển thị
+system_general	General	Chung
+system_keylock	Buttons Lock	Khóa nút
+system_keytone	Key Tone	Âm phím
+system_language	Language	Ngôn ngữ
+system_navshow	Show Navigation Bar	Hiện thanh điều hướng
+system_netservice	Network	Mạng
+system_powermanager	Power	Nguồn
+system_prove	Certification	Chứng nhận
+system_reset	Reset Settings	Đặt lại cài đặt
+system_sys	System	Hệ thống
+system_time	Date & Time	Ngày và giờ
+system_update	System Update	Cập nhật hệ thống
+system_wheelmode	Wheel Function	Chức năng vòng xoay
+system_wifiset	Wireless	Không dây
+timedate_24h	24-Hour	24 giờ
+timedate_auto	Automatic Time Set	Tự động đặt giờ
+timedate_manual	Set Time Manually	Đặt giờ thủ công
+timezone_gmt+1	(GMT+01:00)Europe/Amsterdam	(GMT+01:00)Europe/Amsterdam
+timezone_gmt+10	(GMT+10:00)Australia/Sydney	(GMT+10:00)Australia/Sydney
+timezone_gmt+12	(GMT+12:00)Pacific/Fiji	(GMT+12:00)Pacific/Fiji
+timezone_gmt+2	(GMT+02:00)Europe/Bucharest	(GMT+02:00)Europe/Bucharest
+timezone_gmt+3	(GMT+03:00)Asia/Kuwait	(GMT+03:00)Asia/Kuwait
+timezone_gmt+3_30	(GMT+03:30)Asia/Tehran	(GMT+03:30)Asia/Tehran
+timezone_gmt+4	(GMT+04:00)Asia/Muscat	(GMT+04:00)Asia/Muscat
+timezone_gmt+4_30	(GMT+04:30)Asia/Kabul	(GMT+04:30)Asia/Kabul
+timezone_gmt+5	(GMT+05:00)Asia/Karachi	(GMT+05:00)Asia/Karachi
+timezone_gmt+6	(GMT+06:00)Asia/Almaty	(GMT+06:00)Asia/Almaty
+timezone_gmt+7	(GMT+07:00)Asia/Bangkok	(GMT+07:00)Asia/Bangkok
+timezone_gmt+8	(GMT+08:00)Asia/Shanghai	(GMT+08:00)Asia/Shanghai
+timezone_gmt+9	(GMT+09:00)Asia/Tokyo	(GMT+09:00)Asia/Tokyo
+timezone_gmt+9_30	(GMT+09:30)Australia/Adelaide	(GMT+09:30)Australia/Adelaide
+timezone_gmt-0	(GMT 00:00)Europe/London	(GMT 00:00)Europe/London
+timezone_gmt-1	(GMT-01:00)Atlantic/Azores	(GMT-01:00)Atlantic/Azores
+timezone_gmt-10	(GMT-10:00)Pacific/Honolulu	(GMT-10:00)Pacific/Honolulu
+timezone_gmt-11	(GMT-11:00)Pacific/Midway	(GMT-11:00)Pacific/Midway
+timezone_gmt-12	(GMT-12:00)Pacific/Kwajalein	(GMT-12:00)Pacific/Kwajalein
+timezone_gmt-3	(GMT-03:00)America/Argentina/Buenos_Aires	(GMT-03:00)America/Argentina/Buenos_Aires
+timezone_gmt-3_30	(GMT-03:30)America/St_Johns	(GMT-03:30)America/St_Johns
+timezone_gmt-4	(GMT-04:00)Canada/Atlantic	(GMT-04:00)Canada/Atlantic
+timezone_gmt-5	(GMT-05:00)America/New_York	(GMT-05:00)America/New_York
+timezone_gmt-6	(GMT-06:00)America/Mexico_City	(GMT-06:00)America/Mexico_City
+timezone_gmt-7	(GMT-07:00)America/Denver	(GMT-07:00)America/Denver
+timezone_gmt-8	(GMT-08:00)America/Tijuana	(GMT-08:00)America/Tijuana
+timezone_gmt-9	(GMT-09:00)America/Anchorage	(GMT-09:00)America/Anchorage
+timezone_select	Time Zone Selection	Chọn múi giờ
+title_downloaded	Downloaded	Đã tải xuống
+title_downloading	Downloading	Đang tải xuống
+title_more	More	Thêm
+title_sort	List sort order	Thứ tự danh sách
+update_online	Network update	Cập nhật qua mạng
+update_tf	TF card update	Cập nhật qua thẻ TF
+usb_chargeswitch	USB DAC Charging	Sạc USB DAC
+usbmode_audio	USB AUDIO	USB AUDIO
+usbmode_connect	USB Connected	Đã kết nối USB
+usbmode_dac	USB DAC	USB DAC
+usbmode_disconnect	USB Disconnected	Đã ngắt kết nối USB
+usbmode_storge	USB Storage	Bộ nhớ USB
+usbvol_adjust	Volume Variable	Âm lượng thay đổi được
+usbvol_fixed	Volume Fixed	Âm lượng cố định
+wheelmode_menu	Menu Mode	Chế độ menu
+wheelmode_volume	Volume Mode	Chế độ âm lượng
+wifi_addnetwork	Add Network	Thêm mạng
+wifi_choice	Select Network	Chọn mạng
+wifi_scan	Scanning	Đang quét
+wifiset_bt	Bluetooth	Bluetooth
+wifiset_synclink	SyncLink	SyncLink
+wifiset_wifi	Wi-Fi	Wi-Fi
+wifits_info1	Enter the following URL into your internet browser:	Nhập URL sau vào trình duyệt web của bạn:
+Search	Search	Tìm kiếm
+Streaming	Streaming	Streaming
+Library's Games	Library's Games	Thư viện → Trò chơi
+Library's Apps	Library's Apps	Thư viện → Ứng dụng
+Network settings	Network settings	Cài đặt mạng
+Wait until the App Store finishes	Wait until the App Store finishes	Chờ App Store hoàn tất
+It isn't on the card	It isn't on the card	Không có trên thẻ
+It couldn't start	It couldn't start	Không khởi động được
+Stop %s	Stop %s	Dừng %s
+Loading…	Loading…	Đang tải…
+More…	More…	Thêm…
+Working…	Working…	Đang xử lý…
+Starting %s…	Starting %s…	Đang khởi động %s…
+Retry	Retry	Thử lại
+Install it again in Library → App Store	Install it again in Library → App Store	Hãy cài lại trong Thư viện → App Store
+Cancel	Cancel	Hủy
+%s isn't running	%s isn't running	%s không chạy
+%s didn't answer	%s didn't answer	%s không phản hồi
+Too long	Too long	Quá dài
+%s stopped	%s stopped	%s đã dừng
+%s isn't on the card	%s isn't on the card	%s không có trên thẻ
+Apps	Apps	Ứng dụng
+No apps	No apps	Không có ứng dụng
+Not running	Not running	Không chạy
+No code yet	No code yet	Chưa có mã
+Connect the Q2 to Wi-Fi	Connect the Q2 to Wi-Fi	Kết nối Q2 với Wi-Fi
+Open it again	Open it again	Hãy mở lại
+Wait a moment	Wait a moment	Vui lòng chờ một lát
+Then come back here	Then come back here	Rồi quay lại đây
+Scan with your phone's	Scan with your phone's	Quét bằng camera
+Scan with your	Scan with your	Quét bằng
+camera	camera	của điện thoại
+phone's camera	phone's camera	camera điện thoại
+or open	or open	hoặc mở
+PIN	PIN	PIN
+Couldn't import %s	Couldn't import %s	Không nhập được %s
+Playlists updated	Playlists updated	Đã cập nhật danh sách phát
+No memory card	No memory card	Không có thẻ nhớ
+Games	Games	Trò chơi
+%d update	%d update	%d bản cập nhật
+%d updates	%d updates	%d bản cập nhật
+INSTALL	INSTALL	CÀI ĐẶT
+UPDATE	UPDATE	CẬP NHẬT
+INSTALLED	INSTALLED	ĐÃ CÀI
+AM	AM	SA
+PM	PM	CH
+Jan	Jan	Thg 1
+Feb	Feb	Thg 2
+Mar	Mar	Thg 3
+Apr	Apr	Thg 4
+May	May	Thg 5
+Jun	Jun	Thg 6
+Jul	Jul	Thg 7
+Aug	Aug	Thg 8
+Sep	Sep	Thg 9
+Oct	Oct	Thg 10
+Nov	Nov	Thg 11
+Dec	Dec	Thg 12
+The card is in use over USB	The card is in use over USB	Thẻ đang được dùng qua USB
+Storage unavailable	Storage unavailable	Bộ nhớ không khả dụng
+The card is full	The card is full	Thẻ đã đầy
+Couldn't save	Couldn't save	Không lưu được
+Saved to battery-log.txt	Saved to battery-log.txt	Đã lưu vào battery-log.txt
+Battery History	Battery History	Lịch sử pin
+Unplug to start	Unplug to start	Rút sạc để bắt đầu
+Export Log	Export Log	Xuất nhật ký
+Card theme turned off after a failed start	Card theme turned off after a failed start	Đã tắt giao diện thẻ sau lần khởi động lỗi
+Card theme removed. Restart to finish	Card theme removed. Restart to finish	Đã gỡ giao diện thẻ. Khởi động lại để hoàn tất
+Card theme file can't be used	Card theme file can't be used	Không dùng được tệp giao diện thẻ
+Card theme saved. Restart to apply	Card theme saved. Restart to apply	Đã lưu giao diện thẻ. Khởi động lại để áp dụng
+Could not save card theme	Could not save card theme	Không lưu được giao diện thẻ
+Done	Done	Xong
+space	space	dấu cách
+New Playlist	New Playlist	Danh sách phát mới
+Playlist Name	Playlist Name	Tên danh sách phát
+Rename	Rename	Đổi tên
+Songs	Songs	Bài hát
+Artists	Artists	Nghệ sĩ
+Albums	Albums	Album
+Genres	Genres	Thể loại
+Off	Off	Tắt
+On	On	Bật
+%d of %d songs	%d of %d songs	%d trên %d bài hát
+Updating Library	Updating Library	Đang cập nhật thư viện
+Connected	Connected	Đã kết nối
+Eject before disconnecting	Eject before disconnecting	Hãy gỡ thiết bị an toàn trước khi ngắt kết nối
+%d:%02d AM	%d:%02d AM	%d:%02d SA
+%d:%02d PM	%d:%02d PM	%d:%02d CH
+Save	Save	Lưu
+Sort: Album	Sort: Album	Sắp xếp: Album
+Sort: Artist	Sort: Artist	Sắp xếp: Nghệ sĩ
+Sort: Recently Added	Sort: Recently Added	Sắp xếp: Mới thêm
+Sort: Most Played	Sort: Most Played	Sắp xếp: Nghe nhiều nhất
+Sort: Random	Sort: Random	Sắp xếp: Ngẫu nhiên
+Sort: Rating	Sort: Rating	Sắp xếp: Xếp hạng
+Sort: Year	Sort: Year	Sắp xếp: Năm
+%u song	%u song	%u bài hát
+%u songs	%u songs	%u bài hát
+All albums	All albums	Tất cả album
+Preparing artwork… %d/%d	Preparing artwork… %d/%d	Đang chuẩn bị ảnh bìa… %d/%d
+Update Library first	Update Library first	Hãy cập nhật thư viện trước
+%u Song	%u Song	%u bài hát
+%u Songs	%u Songs	%u bài hát
+%u Album	%u Album	%u album
+%u Albums	%u Albums	%u album
+%u Game	%u Game	%u trò chơi
+%u Games	%u Games	%u trò chơi
+%u Service	%u Service	%u dịch vụ
+%u Services	%u Services	%u dịch vụ
+%u.%u GB Free	%u.%u GB Free	Trống %u.%u GB
+Library	Library	Thư viện
+Settings	Settings	Cài đặt
+Crossfade: %d s	Crossfade: %d s	Crossfade: %d giây
+Crossfade: Off	Crossfade: Off	Crossfade: Tắt
+Wheel Sensitivity: %d%%	Wheel Sensitivity: %d%%	Độ nhạy vòng xoay: %d%%
+Resume Songs: %d min	Resume Songs: %d min	Phát tiếp bài hát: %d phút
+Resume Songs: Off	Resume Songs: Off	Phát tiếp bài hát: Tắt
+Night Shift: %dK	Night Shift: %dK	Night Shift: %dK
+Night Shift: Auto	Night Shift: Auto	Night Shift: Tự động
+Night Shift: Off	Night Shift: Off	Night Shift: Tắt
+Mono Audio	Mono Audio	Âm thanh mono
+Swap L/R	Swap L/R	Đổi trái/phải
+Crossfade needs Gapless	Crossfade needs Gapless	Crossfade cần Phát liền mạch
+Auto	Auto	Tự động
+Night Shift	Night Shift	Night Shift
+Resume Songs	Resume Songs	Phát tiếp bài hát
+Wheel Sensitivity	Wheel Sensitivity	Độ nhạy vòng xoay
+Crossfade	Crossfade	Crossfade
+Measuring song lengths…	Measuring song lengths…	Đang đo thời lượng bài hát…
+Sudoku	Sudoku	Sudoku
+Solitaire	Solitaire	Solitaire
+Snake	Snake	Snake
+Paused	Paused	Đã tạm dừng
+Continue	Continue	Tiếp tục
+Quit	Quit	Thoát
+New best!	New best!	Kỷ lục mới!
+Game over	Game over	Kết thúc
+Centre: play again	Centre: play again	Nút giữa: chơi lại
+Play/Pause: resume	Play/Pause: resume	Phát/Tạm dừng: tiếp tục
+New game?	New game?	Ván mới?
+Centre: yes   Return: no	Centre: yes   Return: no	Nút giữa: có   Quay lại: không
+Solved!	Solved!	Đã giải xong!
+Play/Pause: new game	Play/Pause: new game	Phát/Tạm dừng: ván mới
+Score	Score	Điểm
+Best	Best	Cao nhất
+Level	Level	Cấp độ
+Centre	Centre	Nút giữa
+You win!	You win!	Bạn thắng!
+Shuffle	Shuffle	Phát ngẫu nhiên
+Era	Era	Thập niên
+Ratings	Ratings	Xếp hạng
+Most Played	Most Played	Nghe nhiều nhất
+Long Songs	Long Songs	Bài hát dài
+App Store	App Store	App Store
+Upload Scrobbles	Upload Scrobbles	Gửi scrobble
+Tidal Downloads	Tidal Downloads	Tải xuống từ Tidal
+Internet Radio	Internet Radio	Radio Internet
+Configuration	Configuration	Cấu hình
+Restart to apply?	Restart to apply?	Khởi động lại để áp dụng?
+Couldn't copy the language	Couldn't copy the language	Không sao chép được ngôn ngữ
+Too many songs to shuffle	Too many songs to shuffle	Quá nhiều bài hát để xáo trộn
+Shuffle Songs	Shuffle Songs	Xáo trộn bài hát
+Shuffle Albums	Shuffle Albums	Xáo trộn album
+Shuffle Folders	Shuffle Folders	Xáo trộn thư mục
+Albums and folders take a moment to shuffle	Albums and folders take a moment to shuffle	Xáo trộn album và thư mục cần một lúc
+No plays yet	No plays yet	Chưa phát lần nào
+%u play	%u play	%u lần phát
+%u plays	%u plays	%u lần phát
+No downloads yet	No downloads yet	Chưa có tải xuống
+Clear All Downloads…	Clear All Downloads…	Xóa mọi tải xuống…
+%u track	%u track	%u bài
+%u tracks	%u tracks	%u bài
+Remove Downloads?	Remove Downloads?	Xóa các tải xuống?
+Keeps settings	Keeps settings	Giữ lại cài đặt
+Remove	Remove	Xóa
+It isn't on the card any more	It isn't on the card any more	Không còn trên thẻ nữa
+%02ds	%02ds	Thập niên %02d
+%ds	%ds	Thập niên %d
+Era unavailable	Era unavailable	Không có thập niên
+Album not found	Album not found	Không tìm thấy album
+%u album	%u album	%u album
+%u albums	%u albums	%u album
+Play All	Play All	Phát tất cả
+Every song, shuffled	Every song, shuffled	Mọi bài hát, xáo trộn
+No dated albums yet	No dated albums yet	Chưa có album nào có năm
+No songs over 10 minutes	No songs over 10 minutes	Không có bài hát nào dài hơn 10 phút
+Measuring songs… %d/%d	Measuring songs… %d/%d	Đang đo bài hát… %d/%d
+Measuring songs…	Measuring songs…	Đang đo bài hát…
+Release to search	Release to search	Thả để tìm kiếm
+Pull to search	Pull to search	Kéo để tìm kiếm
+Sleep Timer	Sleep Timer	Hẹn giờ ngủ
+Lock Screen	Lock Screen	Khóa màn hình
+Accent	Accent	Màu nhấn
+Everything	Everything	Tất cả
+Buttons only	Buttons only	Chỉ nút
+Volume only	Volume only	Chỉ âm lượng
+Wake: Single Press	Wake: Single Press	Đánh thức: Nhấn một lần
+Wake: Double Press	Wake: Double Press	Đánh thức: Nhấn hai lần
+Artist View: Grid	Artist View: Grid	Xem nghệ sĩ: Lưới
+Artist View: Cover Flow	Artist View: Cover Flow	Xem nghệ sĩ: Cover Flow
+Artist View: List	Artist View: List	Xem nghệ sĩ: Danh sách
+Year Order: Newest First	Year Order: Newest First	Thứ tự năm: Mới nhất trước
+Year Order: Oldest First	Year Order: Oldest First	Thứ tự năm: Cũ nhất trước
+Artists: Artist	Artists: Artist	Nghệ sĩ: Nghệ sĩ
+Artists: Album Artist	Artists: Album Artist	Nghệ sĩ: Nghệ sĩ album
+Resume on Connect: Off	Resume on Connect: Off	Phát tiếp khi kết nối: Tắt
+Resume on Connect: On	Resume on Connect: On	Phát tiếp khi kết nối: Bật
+Clock: Standard	Clock: Standard	Đồng hồ: Tiêu chuẩn
+Clock: Large	Clock: Large	Đồng hồ: Lớn
+Artist Album Order: Year	Artist Album Order: Year	Thứ tự album của nghệ sĩ: Năm
+Artist Album Order: A–Z	Artist Album Order: A–Z	Thứ tự album của nghệ sĩ: A–Z
+Volume Guard: Off	Volume Guard: Off	Bảo vệ âm lượng: Tắt
+Volume Guard: On	Volume Guard: On	Bảo vệ âm lượng: Bật
+Hold Return: Recent	Hold Return: Recent	Giữ Quay lại: Gần đây
+Hold Return: Home	Hold Return: Home	Giữ Quay lại: Màn hình chính
+Standby Limit: Off	Standby Limit: Off	Giới hạn chờ: Tắt
+Standby Limit: %u h	Standby Limit: %u h	Giới hạn chờ: %u giờ
+Refresh Cover Flow	Refresh Cover Flow	Làm mới Cover Flow
+Playlist View: List	Playlist View: List	Xem danh sách phát: Danh sách
+Playlist View: Cover Flow	Playlist View: Cover Flow	Xem danh sách phát: Cover Flow
+Update Notifications: Off	Update Notifications: Off	Thông báo cập nhật: Tắt
+Update Notifications: On	Update Notifications: On	Thông báo cập nhật: Bật
+Album View: List	Album View: List	Xem album: Danh sách
+Album View: Grid	Album View: Grid	Xem album: Lưới
+Charge Limit (%u%%)	Charge Limit (%u%%)	Giới hạn sạc (%u%%)
+Resume on Connect	Resume on Connect	Phát tiếp khi kết nối
+Volume Guard	Volume Guard	Bảo vệ âm lượng
+Control Device Volume	Control Device Volume	Điều khiển âm lượng thiết bị
+Key Tone	Key Tone	Âm phím
+In-Vehicle Mode	In-Vehicle Mode	Chế độ trên xe
+Smart Wi-Fi	Smart Wi-Fi	Wi-Fi thông minh
+Enlarged Album Art	Enlarged Album Art	Ảnh bìa phóng to
+Folder Album Cover	Folder Album Cover	Ảnh bìa thư mục
+Fast Navigation	Fast Navigation	Điều hướng nhanh
+Scan Song Durations	Scan Song Durations	Quét thời lượng bài hát
+Position Bar	Position Bar	Thanh vị trí
+Hide Streaming	Hide Streaming	Ẩn Streaming
+Hide Folder	Hide Folder	Ẩn Thư mục
+Hide Apps	Hide Apps	Ẩn Ứng dụng
+Hide Games	Hide Games	Ẩn Trò chơi
+Hide App Store	Hide App Store	Ẩn App Store
+Receive Audio	Receive Audio	Nhận âm thanh
+Log Failed Artwork	Log Failed Artwork	Ghi nhật ký ảnh bìa lỗi
+Hide Duplicate Albums	Hide Duplicate Albums	Ẩn album trùng
+Hide Duplicate Songs	Hide Duplicate Songs	Ẩn bài hát trùng
+Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	Lần sau Cover Flow sẽ tạo lại ảnh bìa
+Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	Tắt rồi bật lại Bluetooth để áp dụng
+Folder Root: %s	Folder Root: %s	Gốc thư mục: %s
+Folder Root: Card	Folder Root: Card	Gốc thư mục: Thẻ
+Library & Folders	Library & Folders	Thư viện và thư mục
+Press Centre to Change Mode	Press Centre to Change Mode	Nhấn nút giữa để đổi chế độ
+Press Centre to Turn On or Off	Press Centre to Turn On or Off	Nhấn nút giữa để bật hoặc tắt
+Press Centre When Finished	Press Centre When Finished	Nhấn nút giữa khi xong
+OK to Disconnect	OK to Disconnect	OK để ngắt kết nối
+Now Playing	Now Playing	Đang phát
+Cover Flow	Cover Flow	Cover Flow
+EQ	EQ	EQ
+Update Library	Update Library	Cập nhật thư viện
+Balance	Balance	Cân bằng
+Home: Split	Home: Split	Màn hình chính: Chia đôi
+Home: Full	Home: Full	Màn hình chính: Đầy đủ
+Home: Carousel	Home: Carousel	Màn hình chính: Vòng xoay
+Battery: Icon	Battery: Icon	Pin: Biểu tượng
+Battery: Percent	Battery: Percent	Pin: Phần trăm
+Battery: Icon + Percent	Battery: Icon + Percent	Pin: Biểu tượng + phần trăm
+Battery: Percent Inside	Battery: Percent Inside	Pin: Phần trăm bên trong
+Light Mode: Off	Light Mode: Off	Chế độ sáng: Tắt
+Light Mode: On	Light Mode: On	Chế độ sáng: Bật
+Light Mode: Auto	Light Mode: Auto	Chế độ sáng: Tự động
+Accent: Card Theme	Accent: Card Theme	Màu nhấn: Giao diện thẻ
+Battery: Card Theme	Battery: Card Theme	Pin: Giao diện thẻ
+Light Mode: Card Theme	Light Mode: Card Theme	Chế độ sáng: Giao diện thẻ
+Accent: %s	Accent: %s	Màu nhấn: %s
+Theme: %s	Theme: %s	Giao diện: %s
+Shortcut: None	Shortcut: None	Phím tắt: Không
+Shortcut: %s	Shortcut: %s	Phím tắt: %s
+Rounded Corners	Rounded Corners	Bo tròn góc
+Smart Awake	Smart Awake	Giữ sáng thông minh
+Centred Now Playing	Centred Now Playing	Đang phát căn giữa
+Click With Headphones	Click With Headphones	Tiếng nhấn khi có tai nghe
+Single Press Scrub	Single Press Scrub	Tua bằng một lần nhấn
+Time in Title	Time in Title	Giờ trên tiêu đề
+Set by the card theme	Set by the card theme	Do giao diện thẻ đặt
+Location	Location	Vị trí
+Unknown	Unknown	Không rõ
+Appearance	Appearance	Giao diện
+Controls	Controls	Điều khiển
+Theme	Theme	Giao diện
+Boot to: Rockbox	Boot to: Rockbox	Khởi động vào: Rockbox
+Boot to: Q2 Pod	Boot to: Q2 Pod	Khởi động vào: Q2 Pod
+Rockbox is not on the card	Rockbox is not on the card	Không có Rockbox trên thẻ
+Could not save boot choice	Could not save boot choice	Không lưu được lựa chọn khởi động
+No albums	No albums	Không có album
+No artists	No artists	Không có nghệ sĩ
+No composers	No composers	Không có nhạc sĩ
+No genres	No genres	Không có thể loại
+Chapter %d	Chapter %d	Chương %d
+Chapters	Chapters	Chương
+Could not read chapters	Could not read chapters	Không đọc được chương
+No embedded chapters	No embedded chapters	Không có chương nhúng
+Too long to read chapters on the Q2	Too long to read chapters on the Q2	Quá dài, Q2 không đọc được chương
+Loading chapters…	Loading chapters…	Đang tải chương…
+Spotify Cache: %s	Spotify Cache: %s	Bộ nhớ đệm Spotify: %s
+Tidal Cache: %s	Tidal Cache: %s	Bộ nhớ đệm Tidal: %s
+Erasing…	Erasing…	Đang xóa…
+Press again to erase login and cache	Press again to erase login and cache	Nhấn lại để xóa đăng nhập và bộ nhớ đệm
+Erase Spotify Data	Erase Spotify Data	Xóa dữ liệu Spotify
+Could not save setting	Could not save setting	Không lưu được cài đặt
+Streaming stopped	Streaming stopped	Đã dừng streaming
+Wait for the one in progress	Wait for the one in progress	Hãy chờ tác vụ đang chạy
+Stop Streaming Services	Stop Streaming Services	Dừng các dịch vụ streaming
+No %s folder on the card	No %s folder on the card	Không có thư mục %s trên thẻ
+CFW. Version	CFW. Version	Phiên bản CFW
+Update to %s	Update to %s	Cập nhật lên %s
+Latest firmware installed	Latest firmware installed	Đã là firmware mới nhất
+Can't reach GitHub	Can't reach GitHub	Không kết nối được GitHub
+No update for this build	No update for this build	Không có bản cập nhật cho bản dựng này
+Can't write to the card	Can't write to the card	Không ghi được vào thẻ
+Download cancelled	Download cancelled	Đã hủy tải xuống
+GitHub is busy, try later	GitHub is busy, try later	GitHub đang bận, hãy thử lại sau
+The download was damaged, try again	The download was damaged, try again	Bản tải xuống bị hỏng, hãy thử lại
+Downloading %d%%	Downloading %d%%	Đang tải xuống %d%%
+Cancelling…	Cancelling…	Đang hủy…
+Reconnecting…	Reconnecting…	Đang kết nối lại…
+Verifying…	Verifying…	Đang xác minh…
+Checking…	Checking…	Đang kiểm tra…
+Needs %u MB more space	Needs %u MB more space	Cần thêm %u MB dung lượng
+Update downloaded: use TF card update	Update downloaded: use TF card update	Đã tải bản cập nhật: dùng Cập nhật qua thẻ TF
+Charge the battery first	Charge the battery first	Hãy sạc pin trước
+Can't start the download	Can't start the download	Không bắt đầu tải xuống được
+Downloading…	Downloading…	Đang tải xuống…
+Q2 Pod %s is out: System Update → Network update	Q2 Pod %s is out: System Update → Network update	Q2 Pod %s đã ra mắt: Cập nhật hệ thống → Cập nhật qua mạng
+Downloading	Downloading	Đang tải xuống
+Unpacking…	Unpacking…	Đang giải nén…
+Installing…	Installing…	Đang cài đặt…
+Removing…	Removing…	Đang gỡ…
+Connect to Wi-Fi to load the list	Connect to Wi-Fi to load the list	Kết nối Wi-Fi để tải danh sách
+Checked just now	Checked just now	Vừa kiểm tra xong
+Checked %u min ago	Checked %u min ago	Đã kiểm tra %u phút trước
+Checked %u h ago	Checked %u h ago	Đã kiểm tra %u giờ trước
+Press again to remove	Press again to remove	Nhấn lại để gỡ
+Starts at power-on. Press again to install	Starts at power-on. Press again to install	Bắt đầu khi bật nguồn. Nhấn lại để cài đặt
+%d app can be updated	%d app can be updated	%d ứng dụng có thể cập nhật
+%d apps can be updated	%d apps can be updated	%d ứng dụng có thể cập nhật
+All apps are up to date	All apps are up to date	Mọi ứng dụng đều là bản mới nhất
+The download is not a usable app	The download is not a usable app	Bản tải xuống không phải ứng dụng dùng được
+Rockbox is ready. Find it on Home	Rockbox is ready. Find it on Home	Rockbox đã sẵn sàng. Tìm trên Màn hình chính
+Rockbox Themes are ready in Rockbox's Theme Settings	Rockbox Themes are ready in Rockbox's Theme Settings	Giao diện Rockbox đã sẵn sàng trong Cài đặt giao diện của Rockbox
+%s is ready in %s	%s is ready in %s	%s đã sẵn sàng trong %s
+%s removed	%s removed	Đã gỡ %s
+Spotify's login and cache erased	Spotify's login and cache erased	Đã xóa đăng nhập và bộ nhớ đệm của Spotify
+Stopped checking for updates	Stopped checking for updates	Đã dừng kiểm tra cập nhật
+Install Rockbox first	Install Rockbox first	Hãy cài Rockbox trước
+Check for Updates	Check for Updates	Kiểm tra cập nhật
+%d of %d	%d of %d	%d trên %d
+Album lyrics	Album lyrics	Lời bài hát của album
+LRCLIB stopped answering	LRCLIB stopped answering	LRCLIB không còn phản hồi
+Cancelled	Cancelled	Đã hủy
+%d saved	%d saved	Đã lưu %d
+%d not found	%d not found	Không tìm thấy %d
+%d already had lyrics	%d already had lyrics	%d đã có lời bài hát
+%d failed	%d failed	%d không thành công
+Album lyrics: no songs on the card	Album lyrics: no songs on the card	Lời bài hát của album: không có bài hát trên thẻ
+Can't reach LRCLIB	Can't reach LRCLIB	Không kết nối được LRCLIB
+Download Album Lyrics	Download Album Lyrics	Tải lời bài hát của album
+Downloading %d of %d	Downloading %d of %d	Đang tải %d trên %d
+No album songs on the card	No album songs on the card	Không có bài hát nào của album trên thẻ
+file exceeds 16384 bytes	file exceeds 16384 bytes	tệp vượt quá 16384 byte
+line exceeds 512 bytes	line exceeds 512 bytes	dòng vượt quá 512 byte
+embedded NUL	embedded NUL	có ký tự NUL nhúng
+unsupported filter form	unsupported filter form	dạng bộ lọc không được hỗ trợ
+expected Preamp: <gain> dB	expected Preamp: <gain> dB	cần Preamp: <gain> dB
+preamp outside -60..24 dB or invalid number	preamp outside -60..24 dB or invalid number	preamp ngoài khoảng -60..24 dB hoặc số không hợp lệ
+expected Channel: L, R or all	expected Channel: L, R or all	cần Channel: L, R hoặc all
+only channels L, R and all are supported	only channels L, R and all are supported	chỉ hỗ trợ kênh L, R và all
+unsupported command	unsupported command	lệnh không được hỗ trợ
+invalid filter label	invalid filter label	nhãn bộ lọc không hợp lệ
+expected Filter [number]:	expected Filter [number]:	cần Filter [số]:
+expected ON or OFF	expected ON or OFF	cần ON hoặc OFF
+unsupported filter type	unsupported filter type	loại bộ lọc không được hỗ trợ
+expected Fc <Hz> Hz Gain <dB> dB	expected Fc <Hz> Hz Gain <dB> dB	cần Fc <Hz> Hz Gain <dB> dB
+invalid frequency or gain number	invalid frequency or gain number	tần số hoặc độ lợi không hợp lệ
+expected Q <number>	expected Q <number>	cần Q <số>
+peaking filter requires Q	peaking filter requires Q	bộ lọc peaking cần Q
+range: 20..20000 Hz, -24..24 dB, Q 0.1..10	range: 20..20000 Hz, -24..24 dB, Q 0.1..10	phạm vi: 20..20000 Hz, -24..24 dB, Q 0.1..10
+more than 30 bands	more than 30 bands	hơn 30 băng tần
+summed preamp outside -60..24 dB	summed preamp outside -60..24 dB	tổng preamp ngoài khoảng -60..24 dB
+L/R preamp differ by more than 12 dB	L/R preamp differ by more than 12 dB	preamp L/R chênh nhau hơn 12 dB
+out of memory	out of memory	hết bộ nhớ
+cannot open file	cannot open file	không mở được tệp
+file read failed	file read failed	đọc tệp thất bại
+EQ for 3.5 mm	EQ for 3.5 mm	EQ cho 3.5 mm
+EQ for 4.4 mm	EQ for 4.4 mm	EQ cho 4.4 mm
+EQ for USB	EQ for USB	EQ cho USB
+EQ for this Bluetooth device	EQ for this Bluetooth device	EQ cho thiết bị Bluetooth này
+Auto (44.1: %.1f / 48: %.1f)	Auto (44.1: %.1f / 48: %.1f)	Tự động (44.1: %.1f / 48: %.1f)
+Folder missing or unavailable	Folder missing or unavailable	Thư mục thiếu hoặc không mở được
+Out of memory; cannot list presets	Out of memory; cannot list presets	Hết bộ nhớ; không liệt kê được các cài đặt sẵn
+No presets found	No presets found	Không tìm thấy cài đặt sẵn
+Name not allowed; preset kept	Name not allowed; preset kept	Tên không hợp lệ; đã giữ lại
+Name taken; preset kept	Name taken; preset kept	Tên đã có; đã giữ lại
+Rename failed; preset kept	Rename failed; preset kept	Đổi tên lỗi; đã giữ lại
+Renamed to %.100s	Renamed to %.100s	Đã đổi tên thành %.100s
+Pop	Pop	Pop
+Rock	Rock	Rock
+Dance	Dance	Dance
+Blues	Blues	Blues
+Metal	Metal	Metal
+Vocal	Vocal	Giọng hát
+Classical	Classical	Cổ điển
+Jazz	Jazz	Jazz
+Preset loaded; choose Apply to activate	Preset loaded; choose Apply to activate	Đã tải cài đặt sẵn; chọn Áp dụng để kích hoạt
+Preset saved; active EQ unchanged	Preset saved; active EQ unchanged	Đã lưu cài đặt sẵn; EQ đang dùng không đổi
+Save failed; settings unchanged	Save failed; settings unchanged	Lưu thất bại; cài đặt không đổi
+Switch failed; EQ unchanged	Switch failed; EQ unchanged	Chuyển thất bại; EQ không đổi
+Applied	Applied	Đã áp dụng
+Apply failed; active EQ unchanged	Apply failed; active EQ unchanged	Áp dụng thất bại; EQ đang dùng không đổi
+Reset; choose Apply to activate	Reset; choose Apply to activate	Đã đặt lại; chọn Áp dụng
+Delete failed; preset kept	Delete failed; preset kept	Xóa thất bại; đã giữ cài đặt sẵn
+Deleted %.100s; active EQ unchanged	Deleted %.100s; active EQ unchanged	Đã xóa %.100s; EQ đang dùng không đổi
+Line %u: %s	Line %u: %s	Dòng %u: %s
+Cannot read preset; settings unchanged	Cannot read preset; settings unchanged	Không đọc được cài đặt sẵn; cài đặt không đổi
+Peaking	Peaking	Peaking
+Low shelf	Low shelf	Low shelf
+High shelf	High shelf	High shelf
+Apply changes	Apply changes	Áp dụng thay đổi
+Nothing to apply	Nothing to apply	Không có gì để áp dụng
+Reset to defaults	Reset to defaults	Đặt lại mặc định
+Enabled	Enabled	Kích hoạt
+EQ per Output	EQ per Output	EQ theo đầu ra
+Preamp	Preamp	Preamp
+Presets	Presets	Cài đặt sẵn
+Band	Band	Băng tần
+Channels	Channels	Kênh
+Both	Both	Cả hai
+Left	Left	Trái
+Right	Right	Phải
+Type	Type	Loại
+Frequency	Frequency	Tần số
+Gain	Gain	Độ lợi
+Band %d Q	Band %d Q	Q băng tần %d
+Band %d Frequency (Hz)	Band %d Frequency (Hz)	Tần số băng tần %d (Hz)
+Raise	Raise	Tăng
+Lower	Lower	Giảm
+Step	Step	Bước
+Delete %.100s? Confirm	Delete %.100s? Confirm	Xóa %.100s? Xác nhận
+Replace existing preset? Confirm	Replace existing preset? Confirm	Thay thế cài đặt? Xác nhận
+Cancel replacement	Cancel replacement	Hủy thay thế
+Save as Manual %02d	Save as Manual %02d	Lưu thành Thủ công %02d
+Stock presets	Stock presets	Cài đặt sẵn gốc
+Import from SD /EQ	Import from SD /EQ	Nhập từ thẻ SD /EQ
+Save editor preset	Save editor preset	Lưu cài đặt sẵn của trình sửa
+Rename a preset	Rename a preset	Đổi tên cài đặt sẵn
+Delete a preset	Delete a preset	Xóa cài đặt sẵn
+Previous page	Previous page	Trang trước
+Next page	Next page	Trang sau
+Band %d	Band %d	Băng tần %d
+Band %d Gain	Band %d Gain	Độ lợi băng tần %d
+Presets %d/%d	Presets %d/%d	Cài đặt sẵn %d/%d
+Save failed; EQ unchanged	Save failed; EQ unchanged	Lưu thất bại; EQ không đổi
+Advanced	Advanced	Nâng cao
+Enabled: On	Enabled: On	Kích hoạt: Bật
+Enabled: Off	Enabled: Off	Kích hoạt: Tắt
+Low	Low	Trầm
+Mid	Mid	Trung
+High	High	Bổng
+Simple	Simple	Đơn giản
+No photos	No photos	Không có ảnh
+All Photos	All Photos	Tất cả ảnh
+Photos	Photos	Ảnh
+Can't open this photo	Can't open this photo	Không mở được ảnh này
+%d of %d  %s	%d of %d  %s	%d trên %d  %s
+Could not save folder speed	Could not save folder speed	Không lưu được tốc độ thư mục
+Too long to play on the Q2: split it into parts	Too long to play on the Q2: split it into parts	Quá dài để phát trên Q2: hãy chia thành nhiều phần
+Press again to restart	Press again to restart	Nhấn lại để khởi động lại
+Could not save playlist	Could not save playlist	Không lưu được danh sách phát
+Already in playlist	Already in playlist	Đã có trong danh sách phát
+Added to Playlist	Added to Playlist	Đã thêm vào danh sách phát
+Search songs	Search songs	Tìm bài hát
+Editing: %s	Editing: %s	Đang sửa: %s
+Add Songs: %s	Add Songs: %s	Thêm bài hát: %s
+Song Actions: %s	Song Actions: %s	Thao tác bài hát: %s
+Remove song?: %s	Remove song?: %s	Gỡ bài hát?: %s
+Add Songs	Add Songs	Thêm bài hát
+Move Up	Move Up	Chuyển lên
+Move Down	Move Down	Chuyển xuống
+Remove from Playlist	Remove from Playlist	Gỡ khỏi danh sách phát
+Search: %s	Search: %s	Tìm kiếm: %s
+No songs match	No songs match	Không có bài hát phù hợp
+Search for more songs	Search for more songs	Tìm thêm bài hát
+Delete Playlist?	Delete Playlist?	Xóa danh sách phát?
+Delete	Delete	Xóa
+Playlist deleted	Playlist deleted	Đã xóa danh sách phát
+Could not delete playlist	Could not delete playlist	Không xóa được danh sách phát
+Delete Playlist	Delete Playlist	Xóa danh sách phát
+Edit Playlist	Edit Playlist	Sửa danh sách phát
+Queue unchanged	Queue unchanged	Hàng đợi không đổi
+Deselect All	Deselect All	Bỏ chọn tất cả
+Select All	Select All	Chọn tất cả
+Export %d Playlist	Export %d Playlist	Xuất %d danh sách phát
+Export %d Playlists	Export %d Playlists	Xuất %d danh sách phát
+Delete %d Playlist…	Delete %d Playlist…	Xóa %d danh sách phát…
+Delete %d Playlists…	Delete %d Playlists…	Xóa %d danh sách phát…
+%d Selected	%d Selected	Đã chọn %d
+Select Playlists	Select Playlists	Chọn danh sách phát
+Playlists	Playlists	Danh sách phát
+No Playlists	No Playlists	Không có danh sách phát
+New Playlist…	New Playlist…	Danh sách phát mới…
+Select Playlists…	Select Playlists…	Chọn danh sách phát…
+Import Playlists	Import Playlists	Nhập danh sách phát
+Export	Export	Xuất
+No other group	No other group	Không có nhóm khác
+Folder not found	Folder not found	Không tìm thấy thư mục
+All Songs	All Songs	Tất cả bài hát
+Songs in Album	Songs in Album	Bài hát trong album
+Albums and Songs	Albums and Songs	Album và bài hát
+Songs in Folder	Songs in Folder	Bài hát trong thư mục
+Folders	Folders	Thư mục
+Folders and Songs	Folders and Songs	Thư mục và bài hát
+Play One Song	Play One Song	Phát một bài hát
+Play One Album	Play One Album	Phát một album
+Repeat Song	Repeat Song	Lặp lại bài hát
+Repeat Album	Repeat Album	Lặp lại album
+Repeat All	Repeat All	Lặp lại tất cả
+Play One Folder	Play One Folder	Phát một thư mục
+Repeat Folder	Repeat Folder	Lặp lại thư mục
+Album	Album	Album
+Folder	Folder	Thư mục
+Repeat	Repeat	Lặp lại
+Group by	Group by	Nhóm theo
+Play Next	Play Next	Phát tiếp theo
+Add to Queue	Add to Queue	Thêm vào hàng đợi
+Add to Favourites	Add to Favourites	Thêm vào Yêu thích
+Remove from Favourites	Remove from Favourites	Gỡ khỏi Yêu thích
+Add to Playlist	Add to Playlist	Thêm vào danh sách phát
+Go to Album	Go to Album	Đến album
+Go to Artist	Go to Artist	Đến nghệ sĩ
+Next Album	Next Album	Album sau
+Previous Album	Previous Album	Album trước
+Rate	Rate	Xếp hạng
+Resume	Resume	Tiếp tục
+View Queue	View Queue	Xem hàng đợi
+Go to Folder	Go to Folder	Đến thư mục
+Rate Album	Rate Album	Xếp hạng album
+Group by: Folder	Group by: Folder	Nhóm theo: Thư mục
+Group by: Album	Group by: Album	Nhóm theo: Album
+Next Folder	Next Folder	Thư mục sau
+Previous Folder	Previous Folder	Thư mục trước
+Wheel: Volume	Wheel: Volume	Vòng xoay: Âm lượng
+Wheel: Brightness	Wheel: Brightness	Vòng xoay: Độ sáng
+Could not save Favourites	Could not save Favourites	Không lưu được Yêu thích
+Added to Favourites	Added to Favourites	Đã thêm vào Yêu thích
+Removed from Favourites	Removed from Favourites	Đã gỡ khỏi Yêu thích
+Stopped	Stopped	Đã dừng
+Can't play: %s	Can't play: %s	Không phát được: %s
+Can't play this station	Can't play this station	Không phát được đài này
+Connecting…	Connecting…	Đang kết nối…
+Search is too long	Search is too long	Từ khóa tìm kiếm quá dài
+Search stations	Search stations	Tìm đài
+Favourites	Favourites	Yêu thích
+Featured	Featured	Nổi bật
+Top Stations	Top Stations	Đài hàng đầu
+By Country	By Country	Theo quốc gia
+By Genre	By Genre	Theo thể loại
+Countries	Countries	Quốc gia
+Connecting to Wi-Fi…	Connecting to Wi-Fi…	Đang kết nối Wi-Fi…
+Directory unavailable	Directory unavailable	Danh mục không khả dụng
+No Wi-Fi	No Wi-Fi	Không có Wi-Fi
+No stations	No stations	Không có đài
+No favourites	No favourites	Không có mục yêu thích
+Rating not saved	Rating not saved	Chưa lưu xếp hạng
+Ratings are full	Ratings are full	Xếp hạng đã đầy
+Favourite not sent to the app	Favourite not sent to the app	Chưa gửi mục yêu thích đến ứng dụng
+Unrated	Unrated	Chưa xếp hạng
+1 Heart	1 Heart	1 trái tim
+%d Hearts	%d Hearts	%d trái tim
+%d of 5	%d of 5	%d trên 5
+Album changed	Album changed	Album đã thay đổi
+Favourite not saved	Favourite not saved	Chưa lưu mục yêu thích
+This app has no favourites	This app has no favourites	Ứng dụng này không có mục yêu thích
+Top Rated	Top Rated	Xếp hạng cao nhất
+Loved	Loved	Đã thích
+All Rated	All Rated	Tất cả đã xếp hạng
+Disliked	Disliked	Không thích
+No songs yet	No songs yet	Chưa có bài hát
+Hold the heart on Now Playing to rate	Hold the heart on Now Playing to rate	Giữ trái tim ở Đang phát để xếp hạng
+No rated albums yet	No rated albums yet	Chưa có album nào được xếp hạng
+Upload failed, %d sent	Upload failed, %d sent	Tải lên thất bại, đã gửi %d
+Scrobbles sent: %d	Scrobbles sent: %d	Đã gửi scrobble: %d
+Nothing to upload	Nothing to upload	Không có gì để tải lên
+Uploading scrobbles	Uploading scrobbles	Đang tải scrobble lên
+Already uploading	Already uploading	Đang tải lên rồi
+Upload failed	Upload failed	Tải lên thất bại
+Connect to Wi-Fi first	Connect to Wi-Fi first	Hãy kết nối Wi-Fi trước
+Waiting for Spotify	Waiting for Spotify	Đang chờ Spotify
+Spotify isn't on the card	Spotify isn't on the card	Không có Spotify trên thẻ
+See the Q2 Pod guide to add it	See the Q2 Pod guide to add it	Xem hướng dẫn Q2 Pod để thêm
+Open Spotify on your phone	Open Spotify on your phone	Mở Spotify trên điện thoại
+and choose Q2	and choose Q2	và chọn Q2
+Spotify refused this account	Spotify refused this account	Spotify đã từ chối tài khoản này
+Its tracks can't play on the Q2	Its tracks can't play on the Q2	Bài hát của tài khoản không phát được trên Q2
+Playback didn't start	Playback didn't start	Phát nhạc không bắt đầu
+Go back and try again	Go back and try again	Quay lại và thử lại
+Starting playback	Starting playback	Đang bắt đầu phát
+Update Spotify on the card	Update Spotify on the card	Cập nhật Spotify trên thẻ
+See the Q2 Pod guide	See the Q2 Pod guide	Xem hướng dẫn Q2 Pod
+Nothing playing	Nothing playing	Không có gì đang phát
+Choose music in Spotify	Choose music in Spotify	Chọn nhạc trong Spotify
+Liked Songs	Liked Songs	Bài hát đã thích
+Queue	Queue	Hàng đợi
+Playback Settings	Playback Settings	Cài đặt phát nhạc
+Account	Account	Tài khoản
+Downloaded Tracks	Downloaded Tracks	Bài hát đã tải xuống
+Downloads	Downloads	Tải xuống
+Tracks	Tracks	Bài hát
+Open Spotify on your phone and choose Q2	Open Spotify on your phone and choose Q2	Mở Spotify trên điện thoại và chọn Q2
+Both on the same Wi-Fi	Both on the same Wi-Fi	Cả hai dùng chung một Wi-Fi
+to browse on the Q2	to browse on the Q2	để duyệt trên Q2
+Downloaded Playlists	Downloaded Playlists	Danh sách phát đã tải xuống
+Download Progress	Download Progress	Tiến trình tải xuống
+Storage Management	Storage Management	Quản lý bộ nhớ
+Download Status	Download Status	Trạng thái tải xuống
+The latest download's progress	The latest download's progress	Tiến trình của lần tải xuống gần nhất
+for saved playlists and download controls	for saved playlists and download controls	cho danh sách phát đã lưu và điều khiển tải xuống
+Remove Playlists…	Remove Playlists…	Xóa danh sách phát…
+Remove Tracks…	Remove Tracks…	Xóa bài hát…
+Keeps login and settings	Keeps login and settings	Giữ đăng nhập và cài đặt
+Track removal can make playlists incomplete	Track removal can make playlists incomplete	Xóa bài hát có thể làm danh sách phát không đầy đủ
+Pause	Pause	Tạm dừng
+Cancel Download	Cancel Download	Hủy tải xuống
+Retry Failed	Retry Failed	Thử lại mục lỗi
+Update Download	Update Download	Cập nhật tải xuống
+Sign Out of Spotify?	Sign Out of Spotify?	Đăng xuất khỏi Spotify?
+Sign Out	Sign Out	Đăng xuất
+Nothing here	Nothing here	Không có gì ở đây
+Selected	Selected	Đã chọn
+Press to select	Press to select	Nhấn để chọn
+All	All	Tất cả
+One	One	Một
+Download Liked Songs	Download Liked Songs	Tải bài hát đã thích
+Download Playlist	Download Playlist	Tải danh sách phát
+For offline listening	For offline listening	Để nghe ngoại tuyến
+Download Controls	Download Controls	Điều khiển tải xuống
+Update, retry, pause, resume or cancel	Update, retry, pause, resume or cancel	Cập nhật, thử lại, tạm dừng, tiếp tục hoặc hủy
+Remove Selected…	Remove Selected…	Xóa mục đã chọn…
+Confirm the affected count	Confirm the affected count	Xác nhận số lượng bị ảnh hưởng
+Spotify isn't running	Spotify isn't running	Spotify không chạy
+Spotify didn't answer	Spotify didn't answer	Spotify không phản hồi
+Search Spotify	Search Spotify	Tìm trên Spotify
+Select Tracks	Select Tracks	Chọn bài hát
+Select at least one item	Select at least one item	Chọn ít nhất một mục
+Selection full. Remove these first	Selection full. Remove these first	Đã chọn đầy. Hãy xóa các mục này trước
+Boot logo must be a 320x375 JPEG	Boot logo must be a 320x375 JPEG	Logo khởi động phải là JPEG 320x375
+Could not save boot logo	Could not save boot logo	Không lưu được logo khởi động
+Accent: Graphite	Accent: Graphite	Màu nhấn: Than chì
+Accent: Crimson	Accent: Crimson	Màu nhấn: Đỏ thẫm
+Accent: Tidal	Accent: Tidal	Màu nhấn: Tidal
+Accent: Champagne	Accent: Champagne	Màu nhấn: Champagne
+Accent: Cobalt	Accent: Cobalt	Màu nhấn: Xanh cobalt
+Accent: Tangerine	Accent: Tangerine	Màu nhấn: Cam quýt
+Accent: Plum	Accent: Plum	Màu nhấn: Mận
+Accent: Ivory	Accent: Ivory	Màu nhấn: Ngà
+Accent: Green	Accent: Green	Màu nhấn: Xanh lá
+Favorites	Favorites	Yêu thích
+Rated Albums	Rated Albums	Album đã xếp hạng
+Podcasts	Podcasts	Podcast
+Audiobooks	Audiobooks	Sách nói
+Groovebox can't start from the card	Groovebox can't start from the card	Groovebox không khởi động được từ thẻ
+Groovebox is not on the card	Groovebox is not on the card	Không có Groovebox trên thẻ
+Play a Tidal album or playlist first	Play a Tidal album or playlist first	Hãy phát album hoặc danh sách phát Tidal trước
+Downloading %u of %u. Press to stop	Downloading %u of %u. Press to stop	Đang tải %u trên %u. Nhấn để dừng
+Download Playing Songs	Download Playing Songs	Tải các bài đang phát
+Tidal Cache full: %u of %u song saved	Tidal Cache full: %u of %u song saved	Bộ nhớ đệm Tidal đầy: đã lưu %u trên %u bài hát
+Tidal Cache full: %u of %u songs saved	Tidal Cache full: %u of %u songs saved	Bộ nhớ đệm Tidal đầy: đã lưu %u trên %u bài hát
+Downloaded %u of %u song	Downloaded %u of %u song	Đã tải %u trên %u bài hát
+Downloaded %u of %u songs	Downloaded %u of %u songs	Đã tải %u trên %u bài hát
+Nothing to play next	Nothing to play next	Không có bài nào phát tiếp theo
+Queue changed	Queue changed	Hàng đợi đã thay đổi
+Never	Never	Không bao giờ
+USB DAC Charging: %s	USB DAC Charging: %s	Sạc USB DAC: %s
+Spectrum	Spectrum	Phổ tần
+Oscilloscope	Oscilloscope	Máy hiện sóng
+VU Meters	VU Meters	Đồng hồ VU
+Halo	Halo	Halo
+Pulsar	Pulsar	Pulsar
+Contour	Contour	Contour
+More	More	Thêm
+A-B Repeat	A-B Repeat	Lặp A-B
+Speed	Speed	Tốc độ
+*Only for 48 kHz and below	*Only for 48 kHz and below	*Chỉ cho 48 kHz trở xuống
+No lyrics	No lyrics	Không có lời bài hát
+Genre	Genre	Thể loại
+Size	Size	Kích thước
+Year	Year	Năm
+Format	Format	Định dạng
+Bit Depth	Bit Depth	Độ sâu bit
+Bit Rate	Bit Rate	Tốc độ bit
+Sample Rate	Sample Rate	Tần số lấy mẫu
+Auto Scan	Auto Scan	Tự động quét
+Update Library Now	Update Library Now	Cập nhật thư viện ngay
+Scan Folders	Scan Folders	Quét thư mục
+OK	OK	OK
+Bluetooth	Bluetooth	Bluetooth
+Key Lock	Key Lock	Khóa nút
+Low Gain	Low Gain	Độ lợi thấp
+USB Storage	USB Storage	Bộ nhớ USB
+Playback	Playback	Phát nhạc
+Custom	Custom	Tùy chỉnh
+Reset	Reset	Đặt lại
+Open this address in a browser:	Open this address in a browser:	Mở địa chỉ này trong trình duyệt:
+Downloaded	Downloaded	Đã tải xuống
+Baidu Netdisk	Baidu Netdisk	Baidu Netdisk
+Sign In	Sign In	Đăng nhập
+Scan with the Baidu app to sign in	Scan with the Baidu app to sign in	Quét bằng ứng dụng Baidu để đăng nhập
+Baidu encryption protects your privacy	Baidu encryption protects your privacy	Mã hóa của Baidu bảo vệ quyền riêng tư của bạn
+Bluetooth RF test: connect from a computer	Bluetooth RF test: connect from a computer	Kiểm tra RF Bluetooth: kết nối từ máy tính
+Press Next to exit	Press Next to exit	Nhấn Tiếp để thoát
+Brightness Test	Brightness Test	Kiểm tra độ sáng
+Next	Next	Tiếp
+Bluetooth Test	Bluetooth Test	Kiểm tra Bluetooth
+Down	Down	Xuống
+Up	Up	Lên
+Swipe Left	Swipe Left	Vuốt trái
+Swipe Right	Swipe Right	Vuốt phải
+Key Test	Key Test	Kiểm tra phím
+Headphone Test	Headphone Test	Kiểm tra tai nghe
+Plug in single-ended headphones	Plug in single-ended headphones	Cắm tai nghe single-ended
+Play (left male, right female)	Play (left male, right female)	Phát (nam trái, nữ phải)
+Bluetooth Receiver Test	Bluetooth Receiver Test	Kiểm tra thu Bluetooth
+Battery Test	Battery Test	Kiểm tra pin
+Battery:	Battery:	Pin:
+Charging:	Charging:	Đang sạc:
+microSD Test	microSD Test	Kiểm tra microSD
+Touch Test	Touch Test	Kiểm tra cảm ứng
+Wi-Fi Test	Wi-Fi Test	Kiểm tra Wi-Fi
+Artist	Artist	Nghệ sĩ
+Export Playlists	Export Playlists	Xuất danh sách phát
+Playlist	Playlist	Danh sách phát
+0 songs	0 songs	0 bài hát
+System	System	Hệ thống
+Rockbox	Rockbox	Rockbox
+Baker Island	Baker Island	Đảo Baker
+Midway	Midway	Midway
+Honolulu	Honolulu	Honolulu
+Anchorage	Anchorage	Anchorage
+Los Angeles	Los Angeles	Los Angeles
+Denver	Denver	Denver
+Mexico City	Mexico City	Mexico City
+New York	New York	New York
+Halifax	Halifax	Halifax
+St. John's	St. John's	St. John's
+Buenos Aires	Buenos Aires	Buenos Aires
+Azores	Azores	Azores
+London	London	Luân Đôn
+Amsterdam	Amsterdam	Amsterdam
+Bucharest	Bucharest	Bucharest
+Kuwait	Kuwait	Kuwait
+Tehran	Tehran	Tehran
+Muscat	Muscat	Muscat
+Kabul	Kabul	Kabul
+Karachi	Karachi	Karachi
+Dhaka	Dhaka	Dhaka
+Bangkok	Bangkok	Bangkok
+Shanghai	Shanghai	Thượng Hải
+Tokyo	Tokyo	Tokyo
+Adelaide	Adelaide	Adelaide
+Sydney	Sydney	Sydney
+Fiji	Fiji	Fiji
+Marquesas	Marquesas	Marquesas
+South Georgia	South Georgia	Nam Georgia
+Colombo	Colombo	Colombo
+Kathmandu	Kathmandu	Kathmandu
+Yangon	Yangon	Yangon
+Eucla	Eucla	Eucla
+L. Howe	L. Howe	L. Howe
+Noumea	Noumea	Noumea
+Chatham	Chatham	Chatham
+Tongatapu	Tongatapu	Tongatapu
+Kiritimati	Kiritimati	Kiritimati
+Chicago	Chicago	Chicago
+Phoenix	Phoenix	Phoenix
+Kolkata	Kolkata	Kolkata
+Brisbane	Brisbane	Brisbane
+Auckland	Auckland	Auckland
+Status Bar	Status Bar	Thanh trạng thái
+Minimal	Minimal	Tối giản
+Modern	Modern	Hiện đại
+Classic	Classic	Classic
+Show Wordmark	Show Wordmark	Hiện logo chữ
+Library on Home	Library on Home	Thư viện trên Màn hình chính
+Row Preview	Row Preview	Xem trước hàng
+Row Art	Row Art	Ảnh bìa hàng
+Classic Blue	Classic Blue	Xanh Classic

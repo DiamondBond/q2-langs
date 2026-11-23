@@ -1,0 +1,1181 @@
+# Română
+History_record	History record	Istoric
+about_cardcap	Card Capacity	Capacitate card
+about_cardremain	Remaining	Rămas
+about_ipaddr	IP Address	Adresă IP
+about_model	Model	Model
+about_more	*Our sincere thanks go to the DiamondBond team and all its enthusiasts for their ingenuity, outstanding solutions, and generous contributions.	*Mulţumirile noastre sincere echipei DiamondBond şi tuturor pasionaţilor ei pentru ingeniozitate, soluţii remarcabile şi contribuţii generoase.
+about_sn	Serial Number	Număr de serie
+about_version	Version	Versiune
+about_wifimac	Wi-Fi MAC	MAC Wi-Fi
+album	Album	Album
+album	Album	Album
+albumsinger	Album artist	Artistul albumului
+allmusic	All Songs	Toate melodiile
+audio_settings	Audio settings	Setări audio
+baidu_login	Log In	Conectare
+baidu_login_tips1	Please use Baidu Netdisk or Baidu App to scan the code to login	Folosiţi Baidu Netdisk sau aplicaţia Baidu pentru a scana codul şi a vă conecta
+baidu_login_tips2	Baidu encryption technology protects your privacy and security	Criptarea Baidu vă protejează confidenţialitatea şi securitatea
+baidu_loginout	Log Out	Deconectare
+baidunet_floderinfo_failed	Failed to get file list	Lista de fişiere nu a putut fi obţinută
+batch_addplaylist	Add to Playlist	Adaugă la playlist
+bt_adjvol	Bluetooth Headset Volume Control	Volum căşti Bluetooth
+bt_compatiabledev	Compatible Device	Dispozitiv compatibil
+bt_name	Bluetooth Name	Nume Bluetooth
+bt_paireddev	Paired Device	Dispozitiv asociat
+bt_quality	Quality	Calitate
+bt_search	Scan now	Caută acum
+btcode_aac	AAC	AAC
+btcode_aptx	aptX	aptX
+btcode_aptxhd	aptX HD	aptX HD
+btcode_ldacauto	LDAC Connection (auto)	Conexiune LDAC (auto)
+btcode_ldachq	LDAC HQ	LDAC HQ
+btcode_ldacst	LDAC Standard	LDAC Standard
+btcode_sbc	SBC	SBC
+btcode_sbchq	SBC HQ	SBC HQ
+custom_eq	Custom	Personalizat
+display_backlight	Brightness	Luminozitate
+display_lighttime	Screen Off Time	Oprirea ecranului
+display_screenlock	Lock Screen	Ecran de blocare
+dsdmode_d2p	D2P	D2P
+dsdmode_dop	DOP	DoP
+dsdmode_native	Native	Nativ
+eq_blues	Blues	Blues
+eq_classical	Classical	Clasică
+eq_club	Club	Club
+eq_custom1	Custom1	Personal 1
+eq_custom2	Custom2	Personal 2
+eq_custom3	Custom3	Personal 3
+eq_dance	Dance	Dance
+eq_doublebass	Sub-bass	Subgrave
+eq_jazz	Jazz	Jazz
+eq_metal	Metal	Metal
+eq_only48kmsg	EQ only for files below 48kHz.	EQ doar pentru fişiere sub 48 kHz.
+eq_pop	Pop	Pop
+eq_reset	Reset	Resetare
+eq_rock	Rock	Rock
+eq_vocal	Vocal	Vocal
+fav	My Fav	Favoritele mele
+filter_delayfast	Low Delay Fast Roll-off	Roll-off rapid, latenţă mică
+filter_delayslow	Low Delay Slow Roll-off	Roll-off lent, latenţă mică
+filter_fast	Fast Roll-off	Roll-off rapid
+filter_slow	Slow Roll-off	Roll-off lent
+frequentplay	Frequent	Frecvente
+gain_high	High	Mare
+gain_low	Low	Mic
+genre	Genre	Gen
+genre_statistics	Total %d songs	Total: %d melodii
+hr	Hi-Res	Hi-Res
+keyboard_keyword	Please enter keyword	Introduceţi un cuvânt-cheie
+keyboard_netname	Please enter network name	Introduceţi numele reţelei
+keyboard_password	Please enter password	Introduceţi parola
+keylock_all	Lock Volume & Buttons	Blochează volumul şi butoanele
+keylock_info	Only effective when the screen is off	Activ doar cu ecranul stins
+keylock_info2	Effective on Lockscreen and when Screen Off	Activ pe ecranul de blocare şi cu ecranul stins
+keylock_key	Lock Buttons Only	Blochează doar butoanele
+keylock_volume	Lock Volume Only	Blochează doar volumul
+lan_english	English	English
+lan_french	Français	Français
+lan_german	Deutsch	Deutsch
+lan_italian	Italiano	Italiano
+lan_japanese	日本語	日本語
+lan_korean	한국어	한국어
+lan_polish	Polski	Polski
+lan_russian	Русский	Русский
+lan_simplified	简体中文	简体中文
+lan_spanish	español	Español
+lan_thai	ภาษาไทย	ภาษาไทย
+lan_traditional	繁體中文	繁體中文
+lan_ukrainian	Українська	Українська
+lighttime_15s	15s	15 s
+lighttime_1min	1min	1 min
+lighttime_2min	2min	2 min
+lighttime_30min	30min	30 min
+lighttime_30s	30s	30 s
+lighttime_5min	5min	5 min
+lighttime_lyricmode	Lyrics mode	Mod versuri
+lighttime_off	Off	Oprit
+list_baidu	Baidu Netdisk	Baidu Netdisk
+list_tidal	TIDAL	TIDAL
+local_album	Albums	Albume
+local_allmusic	Local Songs	Melodii locale
+local_allsongs	Songs	Melodii
+local_fav	My Fav	Favoritele mele
+local_frequentplay	Frequent	Frecvente
+local_genre	Genres	Genuri
+local_hr	Hi-Res	Hi-Res
+local_playlist	Playlists	Playlisturi
+local_recentadd	Recently Added	Adăugate recent
+local_recentplay	Recent	Recente
+local_songer	Artists	Artişti
+local_upmusic	Update Library	Actualizează biblioteca
+login_out	Logout	Deconectare
+memplay_location	Location	Locaţie
+memplay_off	Off	Oprit
+memplay_track	Track	Piesă
+msg_actionnotsupport	Non-local songs,not currently supported	Melodiile non-locale nu sunt acceptate
+msg_actionscan	Scan music?	Scanaţi muzica?
+msg_add_task	Please enter the URL of the file you want to download	Introduceţi adresa URL a fişierului de descărcat
+msg_addfailed	Adding Failed	Adăugare eşuată
+msg_addfavsuccess	Added To Fav	Adăugat la favorite
+msg_addplaylistsuccess	Added To Playlist	Adăugat la playlist
+msg_autoshutdown	Shutdown	Oprire
+msg_btabnormal	Bluetooth abnormal	Eroare Bluetooth
+msg_btinit_run	Bluetooth Starting	Bluetooth porneşte
+msg_btreconnect	Reconnect Bluetooth?	Reconectaţi Bluetooth?
+msg_cardeject	Audio Disconnected	Audio deconectat
+msg_cardinsert	Audio Connected	Audio conectat
+msg_checkfw	Checking FW	Se verifică firmware-ul
+msg_checkfwerr	FW. Check Error	Eroare verificare firmware
+msg_closesynclink	Please close SyncLink	Închideţi SyncLink
+msg_confirmupdate	Confirm Update?	Confirmaţi actualizarea?
+msg_connected	Connected	Conectat
+msg_connecting	Connecting	Se conectează
+msg_delalbum	Delete Album?	Ştergeţi albumul?
+msg_delalbumfailed	Failed To Delete Album	Albumul nu a putut fi şters
+msg_delalbumsuccess	Album Deleted	Album şters
+msg_delartist	Delete Artist?	Ştergeţi artistul?
+msg_delartistsuccess	Artist Deleted	Artist şters
+msg_delete_task	Are you sure you want to delete the download task?	Sigur doriţi să ştergeţi descărcarea?
+msg_deletesource	Also delete source file	Şterge şi fişierul sursă
+msg_delfile	Are you sure you want to delete this file?	Sigur doriţi să ştergeţi acest fişier?
+msg_delfile	Delete File?	Ştergeţi fişierul?
+msg_delfilefailed	Failed To Delete File	Fişierul nu a putut fi şters
+msg_delfilesuccess	File Deleted	Fişier şters
+msg_delgenre	Delete Genre?	Ştergeţi genul?
+msg_delgenresuccess	Genre Deleted	Gen şters
+msg_delplaylist	Delete Playlist?	Ştergeţi playlistul?
+msg_delplaylistfailed	Failed To Delete Playlist	Playlistul nu a putut fi şters
+msg_delplaylistsuccess	Playlist Deleted	Playlist şters
+msg_delsong	Delete Song?	Ştergeţi melodia?
+msg_delsongfailed	Failed To Delete Song	Melodia nu a putut fi ştearsă
+msg_delsongsuccess	Song Deleted	Melodie ştearsă
+msg_disconnected	Disconnected	Deconectat
+msg_disonnectbt	Please disconnect the bluetooth device	Deconectaţi dispozitivul Bluetooth
+msg_downloadpath	Download path is	Calea de descărcare este
+msg_exist_task	The download task already exists	Descărcarea există deja
+msg_exitairplay	Quit AirPlay?	Ieşiţi din AirPlay?
+msg_exportplaylist	Export Playlist?	Exportaţi playlistul?
+msg_exportsuccess	Export successful	Export reuşit
+msg_factorysuccess	Restore to factory settings succeeded	Setările din fabrică au fost restabilite
+msg_favsuccess	Added To Fav	Adăugat la favorite
+msg_file_exist	The file already exists	Fişierul există deja
+msg_importplaylist	Import Playlists?	Importaţi playlisturile?
+msg_importsuccess	Successfully imported	Import reuşit
+msg_initsetsuccess	All settings initialized successfully	Toate setările au fost resetate
+msg_latestfw	Latest Fw. Installed	Firmware la zi
+msg_linkerror	WiFi Connection Error	Eroare de conectare Wi-Fi
+msg_lowarn	Line Out sets max volume,continue?	Line Out setează volumul maxim. Continuaţi?
+msg_lowpower	Low Battery	Baterie slabă
+msg_namenull	The name can't be empty	Numele nu poate fi gol
+msg_netnameerr	Network Must Be Named	Reţeaua trebuie să aibă un nume
+msg_no	Cancel	Anulează
+msg_no_storage	Storage is full.Some songs couldn't be added.	Memorie plină. Unele melodii nu au putut fi adăugate.
+msg_noheadset	Playback is disabled without headphones.Please insert headphones.	Redarea este dezactivată fără căşti. Conectaţi căşti.
+msg_nosongs	No songs in this folder	Nicio melodie în acest dosar
+msg_notalbuminfo	This file has no Album data	Fişierul nu are date despre album
+msg_notfile	File Not Found	Fişier negăsit
+msg_notfolder	Folder not found	Dosar negăsit
+msg_notfoundfw	Fw. Not Found	Firmware negăsit
+msg_notmemory	Memory is not enough	Memorie insuficientă
+msg_notmemory	Out of memory	Memorie epuizată
+msg_notnetwork	Network Disconnected	Reţea deconectată
+msg_nototg	No OTG Found	OTG negăsit
+msg_notplaylist	Playlist Not Found	Playlist negăsit
+msg_notsongerinfo	This file has no Artist data	Fişierul nu are date despre artist
+msg_notsonglist	No Song List	Nicio listă de melodii
+msg_notspecdir	Folder not specified	Dosar nespecificat
+msg_notsupport	Not Supported	Neacceptat
+msg_notsupportdel	Can't be removed	Nu poate fi eliminat
+msg_nottf	No TF Card Found	Niciun card TF găsit
+msg_otgeject	OTG Disconnected	OTG deconectat
+msg_otginfoerr	Failed To Get Version Info	Versiunea nu a putut fi obţinută
+msg_otginsert	OTG Connected	OTG conectat
+msg_paircode	Bluetooth Code	Cod Bluetooth
+msg_paired	Paired	Asociat
+msg_playlistexist	Playlist Already Exists	Playlistul există deja
+msg_playlistfull	Could not create playlist	Playlistul nu a putut fi creat
+msg_poweroff	Shut Down?	Opriţi?
+msg_resetdbsuccess	Reset completed	Resetare finalizată
+msg_restarting	Restarting	Se reporneşte
+msg_shortpasswd	8 Digits PIN At Least	PIN de cel puţin 8 cifre
+msg_start_download_task	start the download task	Porniţi descărcarea
+msg_stop_download_task	stop the download task	Opriţi descărcarea
+msg_testmode	Enter test mode?	Intraţi în modul test?
+msg_tfeject	TF Card Removed	Card TF scos
+msg_tfinsert	TF Card Inserted	Card TF introdus
+msg_unpaired	Unpaired	Disociat
+msg_unpairing	unpair?	Disociaţi?
+msg_unsupportformat	Unsupported format	Format neacceptat
+msg_update	Confirmed	Confirmat
+msg_wificancelsave	Delete Record?	Ştergeţi înregistrarea?
+msg_wifidisconnect	Disconnect Now?	Deconectaţi acum?
+msg_yes	OK	OK
+navigation_all	All	Toate
+netservice_airplay	AirPlay	AirPlay
+netservice_dlna	DLNA	DLNA
+netservice_wifitrans	Wi-Fi File Transfer	Transfer de fişiere prin Wi-Fi
+no_search	No search results	Niciun rezultat
+not_allmusic	Currently no songs	Nicio melodie deocamdată
+otgdownload_percent	FW Downloaded	Firmware descărcat
+outputway	Output Options	Opţiuni de ieşire
+play_all	Play All	Redă tot
+player_abrepeat	AB Repeat	Repetare A-B
+player_albuminfo	Look up Album	Caută albumul
+player_bitdepth	Bit Depth	Adâncime de biţi
+player_bitrate	Bitrate	Bitrate
+player_delete	Delete Song	Şterge melodia
+player_encoding	Encoding	Codificare
+player_era	Year	An
+player_filesize	File Size	Dimensiune fişier
+player_location	Location	Locaţie
+player_msgmul	*Affecting only files below 48khz	*Doar pentru fişiere sub 48 kHz
+player_multiple	Multiple Speed	Viteză de redare
+player_nolyric	No Lyrics	Fără versuri
+player_onlinesearch	Download Cover & Lyrics	Descarcă coperta şi versurile
+player_playlist	Queue	Coadă
+player_samplerate	Sample Rate	Rată de eşantionare
+player_songerinfo	Look up Artist	Caută artistul
+player_unknown	Unknown	Necunoscut
+player_unknown	Unknown Artist	Artist necunoscut
+playlist	Playlist	Playlist
+playlist_create	New playlist	Playlist nou
+playlist_export	Export playlist	Exportă playlistul
+playlist_import	Import playlist	Importă playlist
+playmode_listplay	List Play	Redare listă
+playmode_repeatall	Repeat All	Repetă tot
+playmode_repeattrack	Repeat Track	Repetă piesa
+playmode_shuffle	Shuffle	Aleatoriu
+playset_balance	Channel Balance	Balans canale
+playset_bootvol	Default Volume	Volum implicit
+playset_covermode	Enlarged Album Art	Copertă mărită
+playset_dsdoutput	DSD Output Mode	Mod ieşire DSD
+playset_eq	EQ	EQ
+playset_filter	Digital Filters	Filtre digitale
+playset_foldercover	Folder Album Cover	Coperta dosarului
+playset_folderjump	Folder Skip	Salt între dosare
+playset_gain	Gain	Câştig
+playset_gapless	Gapless	Gapless
+playset_maxvol	Max Volume	Volum maxim
+playset_memplay	Memory Playback	Reluare redare
+playset_noplay	Require Output (Beta)	Cere ieşire (Beta)
+playset_playmode	Play Mode	Mod de redare
+playset_replaygain	ReplayGain	ReplayGain
+playset_usbaudiovol	USB Audio Output	Ieşire audio USB
+playset_volcover	Volume and Album Display	Volum şi copertă
+powerm_deep_off	Standby	Standby
+powerm_sleep	Sleep Timer	Temporizator de oprire
+recentadd	Recently Added	Adăugate recent
+recentplay	Recent	Recente
+rename	Rename	Redenumeşte
+renamesuccess	Successfully renamed	Redenumit
+replaygain_track	Song	Melodie
+reset_factory	Full Factory Reset	Resetare completă din fabrică
+reset_initdatabase	Reset Database	Resetează baza de date
+reset_initset	Reset Settings Only	Resetează doar setările
+scan_automatic	Automatic Update	Actualizare automată
+scan_now	Scan music now	Scanează muzica acum
+scan_now	Scan music now	Scanează muzica acum
+scan_spec	Scan specified folders	Scanează dosare anume
+scan_spec	Scan specified folders	Scanează dosare anume
+scan_startscan	Scan	Scanează
+scan_updatefinish	Library Updated,%d Updated	Bibliotecă actualizată, %d actualizate
+scan_updating	Updating No.%d	Actualizare nr. %d
+scover_cover	Cover	Copertă
+scover_lyric	Lyrics	Versuri
+screenlock_about	Custom Lock Screen	Ecran de blocare personalizat
+screenlock_info1	1. Put the pictures in a folder named "lockscreenimage" at the top of the card.	1. Puneţi imaginile într-un dosar numit "lockscreenimage" în rădăcina cardului.
+screenlock_info2	2. PNG or JPG, exactly 375 x 320 pixels, under 1 MB each.	2. PNG sau JPG, exact 375 x 320 pixeli, sub 1 MB fiecare.
+screenlock_info3	3. Up to 5 pictures.	3. Până la 5 imagini.
+screenlock_timeshow	Show Time	Afişează ora
+search_tips1	Search for music,artists,albums,genres	Căutaţi muzică, artişti, albume, genuri
+search_track	Track	Piesă
+singerbyalbum	Sort by album artist	Sortare după artistul albumului
+singerbysong	Sort by song artist	Sortare după artistul melodiei
+small_album	Albums	Albume
+small_coverflow	Album Wall	Perete de albume
+small_folder	Folder	Dosar
+small_local	Local Songs	Melodii locale
+small_playing	Now Playing	Se redă acum
+small_playset	Playback	Redare
+small_stream	Streaming	Streaming
+small_sysset	System	Sistem
+songer	Artist	Artist
+sort_addtime	Time added	Data adăugării
+sort_alphabet	Alphabetical	Alfabetic
+sort_filename	File name	Nume fişier
+sort_format	File format	Format fişier
+sort_time_asc	Time added (ascending)	Data adăugării (crescător)
+sort_time_desc	Time added (descending)	Data adăugării (descrescător)
+standbyoff_10min	10min	10 min
+standbyoff_1min	1min	1 min
+standbyoff_3min	3min	3 min
+standbyoff_5min	5min	5 min
+standbyoff_deep	Auto-standby	Standby automat
+standbyoff_deepinfo	After 5 minute of idle,device will go into standby mode.	După 5 minute de inactivitate, dispozitivul intră în standby.
+standbyoff_saver	Auto-shutdown	Oprire automată
+synclink_off	Off	Oprit
+system_about	About	Despre
+system_carmode	In-Vehicle Mode	Mod auto
+system_display	Display	Ecran
+system_general	General	General
+system_keylock	Buttons Lock	Blocare butoane
+system_keytone	Key Tone	Sunet taste
+system_language	Language	Limbă
+system_navshow	Show Navigation Bar	Afişează bara de navigare
+system_netservice	Network	Reţea
+system_powermanager	Power	Alimentare
+system_prove	Certification	Certificări
+system_reset	Reset Settings	Resetează setările
+system_sys	System	Sistem
+system_time	Date & Time	Dată şi oră
+system_update	System Update	Actualizare sistem
+system_wheelmode	Wheel Function	Funcţia rotiţei
+system_wifiset	Wireless	Fără fir
+timedate_24h	24-Hour	24 de ore
+timedate_auto	Automatic Time Set	Oră automată
+timedate_manual	Set Time Manually	Setează ora manual
+timezone_gmt+1	(GMT+01:00)Europe/Amsterdam	(GMT+01:00)Europe/Amsterdam
+timezone_gmt+10	(GMT+10:00)Australia/Sydney	(GMT+10:00)Australia/Sydney
+timezone_gmt+12	(GMT+12:00)Pacific/Fiji	(GMT+12:00)Pacific/Fiji
+timezone_gmt+2	(GMT+02:00)Europe/Bucharest	(GMT+02:00)Europe/Bucharest
+timezone_gmt+3	(GMT+03:00)Asia/Kuwait	(GMT+03:00)Asia/Kuwait
+timezone_gmt+3_30	(GMT+03:30)Asia/Tehran	(GMT+03:30)Asia/Tehran
+timezone_gmt+4	(GMT+04:00)Asia/Muscat	(GMT+04:00)Asia/Muscat
+timezone_gmt+4_30	(GMT+04:30)Asia/Kabul	(GMT+04:30)Asia/Kabul
+timezone_gmt+5	(GMT+05:00)Asia/Karachi	(GMT+05:00)Asia/Karachi
+timezone_gmt+6	(GMT+06:00)Asia/Almaty	(GMT+06:00)Asia/Almaty
+timezone_gmt+7	(GMT+07:00)Asia/Bangkok	(GMT+07:00)Asia/Bangkok
+timezone_gmt+8	(GMT+08:00)Asia/Shanghai	(GMT+08:00)Asia/Shanghai
+timezone_gmt+9	(GMT+09:00)Asia/Tokyo	(GMT+09:00)Asia/Tokyo
+timezone_gmt+9_30	(GMT+09:30)Australia/Adelaide	(GMT+09:30)Australia/Adelaide
+timezone_gmt-0	(GMT 00:00)Europe/London	(GMT 00:00)Europe/London
+timezone_gmt-1	(GMT-01:00)Atlantic/Azores	(GMT-01:00)Atlantic/Azores
+timezone_gmt-10	(GMT-10:00)Pacific/Honolulu	(GMT-10:00)Pacific/Honolulu
+timezone_gmt-11	(GMT-11:00)Pacific/Midway	(GMT-11:00)Pacific/Midway
+timezone_gmt-12	(GMT-12:00)Pacific/Kwajalein	(GMT-12:00)Pacific/Kwajalein
+timezone_gmt-3	(GMT-03:00)America/Argentina/Buenos_Aires	(GMT-03:00)America/Argentina/Buenos_Aires
+timezone_gmt-3_30	(GMT-03:30)America/St_Johns	(GMT-03:30)America/St_Johns
+timezone_gmt-4	(GMT-04:00)Canada/Atlantic	(GMT-04:00)Canada/Atlantic
+timezone_gmt-5	(GMT-05:00)America/New_York	(GMT-05:00)America/New_York
+timezone_gmt-6	(GMT-06:00)America/Mexico_City	(GMT-06:00)America/Mexico_City
+timezone_gmt-7	(GMT-07:00)America/Denver	(GMT-07:00)America/Denver
+timezone_gmt-8	(GMT-08:00)America/Tijuana	(GMT-08:00)America/Tijuana
+timezone_gmt-9	(GMT-09:00)America/Anchorage	(GMT-09:00)America/Anchorage
+timezone_select	Time Zone Selection	Selectare fus orar
+title_downloaded	Downloaded	Descărcate
+title_downloading	Downloading	Se descarcă
+title_more	More	Mai mult
+title_sort	List sort order	Ordinea listei
+update_online	Network update	Actualizare prin reţea
+update_tf	TF card update	Actualizare de pe card TF
+usb_chargeswitch	USB DAC Charging	Încărcare prin USB DAC
+usbmode_audio	USB AUDIO	USB AUDIO
+usbmode_connect	USB Connected	USB conectat
+usbmode_dac	USB DAC	USB DAC
+usbmode_disconnect	USB Disconnected	USB deconectat
+usbmode_storge	USB Storage	Stocare USB
+usbvol_adjust	Volume Variable	Volum variabil
+usbvol_fixed	Volume Fixed	Volum fix
+wheelmode_menu	Menu Mode	Mod meniu
+wheelmode_volume	Volume Mode	Mod volum
+wifi_addnetwork	Add Network	Adaugă reţea
+wifi_choice	Select Network	Alege reţeaua
+wifi_scan	Scanning	Se caută
+wifiset_bt	Bluetooth	Bluetooth
+wifiset_synclink	SyncLink	SyncLink
+wifiset_wifi	Wi-Fi	Wi-Fi
+wifits_info1	Enter the following URL into your internet browser:	Introduceţi această adresă URL în browser:
+Search	Search	Caută
+Streaming	Streaming	Streaming
+Library's Games	Library's Games	Jocuri din bibliotecă
+Library's Apps	Library's Apps	Aplicaţii din bibliotecă
+Network settings	Network settings	Setări de reţea
+Wait until the App Store finishes	Wait until the App Store finishes	Aşteptaţi să se termine App Store
+It isn't on the card	It isn't on the card	Nu este pe card
+It couldn't start	It couldn't start	Nu a putut porni
+Stop %s	Stop %s	Opreşte %s
+Loading…	Loading…	Se încarcă…
+More…	More…	Mai mult…
+Working…	Working…	Se lucrează…
+Starting %s…	Starting %s…	Se porneşte %s…
+Retry	Retry	Reîncearcă
+Install it again in Library → App Store	Install it again in Library → App Store	Instalaţi-o din nou în Bibliotecă → App Store
+Cancel	Cancel	Anulează
+%s isn't running	%s isn't running	%s nu rulează
+%s didn't answer	%s didn't answer	%s nu a răspuns
+Too long	Too long	Prea lung
+%s stopped	%s stopped	%s s-a oprit
+%s isn't on the card	%s isn't on the card	%s nu este pe card
+Apps	Apps	Aplicaţii
+No apps	No apps	Nicio aplicaţie
+Not running	Not running	Nu rulează
+No code yet	No code yet	Încă fără cod
+Connect the Q2 to Wi-Fi	Connect the Q2 to Wi-Fi	Conectaţi Q2 la Wi-Fi
+Open it again	Open it again	Deschideţi-o din nou
+Wait a moment	Wait a moment	Aşteptaţi puţin
+Then come back here	Then come back here	Apoi reveniţi aici
+Scan with your phone's	Scan with your phone's	Scanaţi cu camera
+Scan with your	Scan with your	Scanaţi cu
+camera	camera	telefonului
+phone's camera	phone's camera	camera telefonului
+or open	or open	sau deschideţi
+PIN	PIN	PIN
+Couldn't import %s	Couldn't import %s	%s nu a putut fi importat
+Playlists updated	Playlists updated	Playlisturi actualizate
+No memory card	No memory card	Niciun card de memorie
+Games	Games	Jocuri
+%d update	%d update	%d actualizare
+%d updates	%d updates	Actualizări: %d
+INSTALL	INSTALL	INSTALEAZĂ
+UPDATE	UPDATE	ACTUALIZEAZĂ
+INSTALLED	INSTALLED	INSTALAT
+AM	AM	AM
+PM	PM	PM
+Jan	Jan	ian
+Feb	Feb	feb
+Mar	Mar	mar
+Apr	Apr	apr
+May	May	mai
+Jun	Jun	iun
+Jul	Jul	iul
+Aug	Aug	aug
+Sep	Sep	sep
+Oct	Oct	oct
+Nov	Nov	nov
+Dec	Dec	dec
+The card is in use over USB	The card is in use over USB	Cardul este folosit prin USB
+Storage unavailable	Storage unavailable	Stocare indisponibilă
+The card is full	The card is full	Cardul este plin
+Couldn't save	Couldn't save	Nu s-a putut salva
+Saved to battery-log.txt	Saved to battery-log.txt	Salvat în battery-log.txt
+Battery History	Battery History	Istoricul bateriei
+Unplug to start	Unplug to start	Deconectaţi cablul
+Export Log	Export Log	Exportă jurnalul
+Card theme turned off after a failed start	Card theme turned off after a failed start	Tema de pe card a fost dezactivată după o pornire eşuată
+Card theme removed. Restart to finish	Card theme removed. Restart to finish	Tema de pe card a fost eliminată. Reporniţi pentru a termina
+Card theme file can't be used	Card theme file can't be used	Fişierul temei de pe card nu poate fi folosit
+Card theme saved. Restart to apply	Card theme saved. Restart to apply	Tema de pe card a fost salvată. Reporniţi pentru a o aplica
+Could not save card theme	Could not save card theme	Tema de pe card nu a putut fi salvată
+Done	Done	Gata
+space	space	spaţiu
+New Playlist	New Playlist	Playlist nou
+Playlist Name	Playlist Name	Numele playlistului
+Rename	Rename	Redenumeşte
+Songs	Songs	Melodii
+Artists	Artists	Artişti
+Albums	Albums	Albume
+Genres	Genres	Genuri
+Off	Off	Oprit
+On	On	Pornit
+%d of %d songs	%d of %d songs	%d din %d melodii
+Updating Library	Updating Library	Se actualizează biblioteca
+Connected	Connected	Conectat
+Eject before disconnecting	Eject before disconnecting	Scoateţi în siguranţă înainte de deconectare
+%d:%02d AM	%d:%02d AM	%d:%02d AM
+%d:%02d PM	%d:%02d PM	%d:%02d PM
+Save	Save	Salvează
+Sort: Album	Sort: Album	Sortare: Album
+Sort: Artist	Sort: Artist	Sortare: Artist
+Sort: Recently Added	Sort: Recently Added	Sortare: Adăugate recent
+Sort: Most Played	Sort: Most Played	Sortare: Cele mai ascultate
+Sort: Random	Sort: Random	Sortare: Aleatoriu
+Sort: Rating	Sort: Rating	Sortare: Evaluare
+Sort: Year	Sort: Year	Sortare: An
+%u song	%u song	%u melodie
+%u songs	%u songs	Melodii: %u
+All albums	All albums	Toate albumele
+Preparing artwork… %d/%d	Preparing artwork… %d/%d	Se pregătesc copertele… %d/%d
+Update Library first	Update Library first	Actualizaţi mai întâi biblioteca
+%u Song	%u Song	%u Melodie
+%u Songs	%u Songs	Melodii: %u
+%u Album	%u Album	%u Album
+%u Albums	%u Albums	Albume: %u
+%u Game	%u Game	%u Joc
+%u Games	%u Games	Jocuri: %u
+%u Service	%u Service	%u Serviciu
+%u Services	%u Services	Servicii: %u
+%u.%u GB Free	%u.%u GB Free	%u.%u GB liberi
+Library	Library	Bibliotecă
+Settings	Settings	Setări
+Crossfade: %d s	Crossfade: %d s	Crossfade: %d s
+Crossfade: Off	Crossfade: Off	Crossfade: Oprit
+Wheel Sensitivity: %d%%	Wheel Sensitivity: %d%%	Sensibilitate rotiţă: %d%%
+Resume Songs: %d min	Resume Songs: %d min	Reluare melodii: %d min
+Resume Songs: Off	Resume Songs: Off	Reluare melodii: Oprit
+Night Shift: %dK	Night Shift: %dK	Night Shift: %dK
+Night Shift: Auto	Night Shift: Auto	Night Shift: Auto
+Night Shift: Off	Night Shift: Off	Night Shift: Oprit
+Mono Audio	Mono Audio	Audio mono
+Swap L/R	Swap L/R	Inversează S/D
+Crossfade needs Gapless	Crossfade needs Gapless	Crossfade cere Gapless
+Auto	Auto	Auto
+Night Shift	Night Shift	Night Shift
+Resume Songs	Resume Songs	Reluare melodii
+Wheel Sensitivity	Wheel Sensitivity	Sensibilitate rotiţă
+Crossfade	Crossfade	Crossfade
+Measuring song lengths…	Measuring song lengths…	Se măsoară durata melodiilor…
+Sudoku	Sudoku	Sudoku
+Solitaire	Solitaire	Solitaire
+Snake	Snake	Snake
+Paused	Paused	Pauză
+Continue	Continue	Continuă
+Quit	Quit	Ieşire
+New best!	New best!	Record nou!
+Game over	Game over	Joc terminat
+Centre: play again	Centre: play again	Centru: joacă din nou
+Play/Pause: resume	Play/Pause: resume	Redare/Pauză: reluare
+New game?	New game?	Joc nou?
+Centre: yes   Return: no	Centre: yes   Return: no	Centru: da   Înapoi: nu
+Solved!	Solved!	Rezolvat!
+Play/Pause: new game	Play/Pause: new game	Redare/Pauză: joc nou
+Score	Score	Scor
+Best	Best	Record
+Level	Level	Nivel
+Centre	Centre	Centru
+You win!	You win!	Ai câştigat!
+Shuffle	Shuffle	Aleatoriu
+Era	Era	Deceniu
+Ratings	Ratings	Evaluări
+Most Played	Most Played	Cele mai ascultate
+Long Songs	Long Songs	Melodii lungi
+App Store	App Store	App Store
+Upload Scrobbles	Upload Scrobbles	Trimite scrobble-uri
+Tidal Downloads	Tidal Downloads	Descărcări Tidal
+Internet Radio	Internet Radio	Radio internet
+Configuration	Configuration	Configurare
+Restart to apply?	Restart to apply?	Reporniţi pentru a aplica?
+Couldn't copy the language	Couldn't copy the language	Limba nu a putut fi copiată
+Too many songs to shuffle	Too many songs to shuffle	Prea multe melodii de amestecat
+Shuffle Songs	Shuffle Songs	Amestecă melodiile
+Shuffle Albums	Shuffle Albums	Amestecă albumele
+Shuffle Folders	Shuffle Folders	Amestecă dosarele
+Albums and folders take a moment to shuffle	Albums and folders take a moment to shuffle	Amestecarea albumelor şi dosarelor durează puţin
+No plays yet	No plays yet	Nicio redare încă
+%u play	%u play	%u redare
+%u plays	%u plays	Redări: %u
+No downloads yet	No downloads yet	Nicio descărcare încă
+Clear All Downloads…	Clear All Downloads…	Şterge toate descărcările…
+%u track	%u track	%u piesă
+%u tracks	%u tracks	Piese: %u
+Remove Downloads?	Remove Downloads?	Eliminaţi descărcările?
+Keeps settings	Keeps settings	Păstrează setările
+Remove	Remove	Elimină
+It isn't on the card any more	It isn't on the card any more	Nu mai este pe card
+%02ds	%02ds	Anii %02d
+%ds	%ds	Anii %d
+Era unavailable	Era unavailable	Deceniu indisponibil
+Album not found	Album not found	Album negăsit
+%u album	%u album	%u album
+%u albums	%u albums	Albume: %u
+Play All	Play All	Redă tot
+Every song, shuffled	Every song, shuffled	Toate melodiile, aleatoriu
+No dated albums yet	No dated albums yet	Niciun album cu dată încă
+No songs over 10 minutes	No songs over 10 minutes	Nicio melodie de peste 10 minute
+Measuring songs… %d/%d	Measuring songs… %d/%d	Se măsoară melodiile… %d/%d
+Measuring songs…	Measuring songs…	Se măsoară melodiile…
+Release to search	Release to search	Eliberaţi pentru a căuta
+Pull to search	Pull to search	Trageţi pentru a căuta
+Sleep Timer	Sleep Timer	Temporizator de oprire
+Lock Screen	Lock Screen	Ecran de blocare
+Accent	Accent	Accent
+Everything	Everything	Totul
+Buttons only	Buttons only	Doar butoanele
+Volume only	Volume only	Doar volumul
+Wake: Single Press	Wake: Single Press	Trezire: O apăsare
+Wake: Double Press	Wake: Double Press	Trezire: Dublă apăsare
+Artist View: Grid	Artist View: Grid	Vizualizare artişti: Grilă
+Artist View: Cover Flow	Artist View: Cover Flow	Vizualizare artişti: Cover Flow
+Artist View: List	Artist View: List	Vizualizare artişti: Listă
+Year Order: Newest First	Year Order: Newest First	Ordine ani: Cele mai noi întâi
+Year Order: Oldest First	Year Order: Oldest First	Ordine ani: Cele mai vechi întâi
+Artists: Artist	Artists: Artist	Artişti: Artist
+Artists: Album Artist	Artists: Album Artist	Artişti: Artistul albumului
+Resume on Connect: Off	Resume on Connect: Off	Reluare la conectare: Oprit
+Resume on Connect: On	Resume on Connect: On	Reluare la conectare: Pornit
+Clock: Standard	Clock: Standard	Ceas: Standard
+Clock: Large	Clock: Large	Ceas: Mare
+Artist Album Order: Year	Artist Album Order: Year	Ordine albume artist: An
+Artist Album Order: A–Z	Artist Album Order: A–Z	Ordine albume artist: A–Z
+Volume Guard: Off	Volume Guard: Off	Protecţie volum: Oprit
+Volume Guard: On	Volume Guard: On	Protecţie volum: Pornit
+Hold Return: Recent	Hold Return: Recent	Menţinere Înapoi: Recente
+Hold Return: Home	Hold Return: Home	Menţinere Înapoi: Acasă
+Standby Limit: Off	Standby Limit: Off	Limită standby: Oprit
+Standby Limit: %u h	Standby Limit: %u h	Limită standby: %u h
+Refresh Cover Flow	Refresh Cover Flow	Reîmprospătează Cover Flow
+Playlist View: List	Playlist View: List	Vizualizare playlisturi: Listă
+Playlist View: Cover Flow	Playlist View: Cover Flow	Vizualizare playlisturi: Cover Flow
+Update Notifications: Off	Update Notifications: Off	Notificări actualizări: Oprit
+Update Notifications: On	Update Notifications: On	Notificări actualizări: Pornit
+Album View: List	Album View: List	Vizualizare albume: Listă
+Album View: Grid	Album View: Grid	Vizualizare albume: Grilă
+Charge Limit (%u%%)	Charge Limit (%u%%)	Limită de încărcare (%u%%)
+Resume on Connect	Resume on Connect	Reluare la conectare
+Volume Guard	Volume Guard	Protecţie volum
+Control Device Volume	Control Device Volume	Controlează volumul dispozitivului
+Key Tone	Key Tone	Sunet taste
+In-Vehicle Mode	In-Vehicle Mode	Mod auto
+Smart Wi-Fi	Smart Wi-Fi	Wi-Fi inteligent
+Enlarged Album Art	Enlarged Album Art	Copertă mărită
+Folder Album Cover	Folder Album Cover	Coperta dosarului
+Fast Navigation	Fast Navigation	Navigare rapidă
+Scan Song Durations	Scan Song Durations	Măsoară durata melodiilor
+Position Bar	Position Bar	Bară de poziţie
+Hide Streaming	Hide Streaming	Ascunde Streaming
+Hide Folder	Hide Folder	Ascunde dosarul
+Hide Apps	Hide Apps	Ascunde aplicaţiile
+Hide Games	Hide Games	Ascunde jocurile
+Hide App Store	Hide App Store	Ascunde App Store
+Receive Audio	Receive Audio	Primeşte audio
+Log Failed Artwork	Log Failed Artwork	Jurnal copertelor eşuate
+Hide Duplicate Albums	Hide Duplicate Albums	Ascunde albumele duplicate
+Hide Duplicate Songs	Hide Duplicate Songs	Ascunde melodiile duplicate
+Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	Cover Flow reface copertele data viitoare
+Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	Opriţi şi reporniţi Bluetooth pentru a aplica
+Folder Root: %s	Folder Root: %s	Rădăcină dosare: %s
+Folder Root: Card	Folder Root: Card	Rădăcină dosare: Card
+Library & Folders	Library & Folders	Bibliotecă şi dosare
+Press Centre to Change Mode	Press Centre to Change Mode	Apăsaţi Centru pentru a schimba modul
+Press Centre to Turn On or Off	Press Centre to Turn On or Off	Apăsaţi Centru pentru a porni sau opri
+Press Centre When Finished	Press Centre When Finished	Apăsaţi Centru când terminaţi
+OK to Disconnect	OK to Disconnect	Puteţi deconecta
+Now Playing	Now Playing	Se redă acum
+Cover Flow	Cover Flow	Cover Flow
+EQ	EQ	EQ
+Update Library	Update Library	Actualizează biblioteca
+Balance	Balance	Balans
+Home: Split	Home: Split	Acasă: Împărţit
+Home: Full	Home: Full	Acasă: Complet
+Home: Carousel	Home: Carousel	Acasă: Carusel
+Battery: Icon	Battery: Icon	Baterie: Pictogramă
+Battery: Percent	Battery: Percent	Baterie: Procent
+Battery: Icon + Percent	Battery: Icon + Percent	Baterie: Pictogramă + procent
+Battery: Percent Inside	Battery: Percent Inside	Baterie: Procent în interior
+Light Mode: Off	Light Mode: Off	Mod luminos: Oprit
+Light Mode: On	Light Mode: On	Mod luminos: Pornit
+Light Mode: Auto	Light Mode: Auto	Mod luminos: Auto
+Accent: Card Theme	Accent: Card Theme	Accent: Tema cardului
+Battery: Card Theme	Battery: Card Theme	Baterie: Tema cardului
+Light Mode: Card Theme	Light Mode: Card Theme	Mod luminos: Tema cardului
+Accent: %s	Accent: %s	Accent: %s
+Theme: %s	Theme: %s	Temă: %s
+Shortcut: None	Shortcut: None	Comandă rapidă: Niciuna
+Shortcut: %s	Shortcut: %s	Comandă rapidă: %s
+Rounded Corners	Rounded Corners	Colţuri rotunjite
+Smart Awake	Smart Awake	Smart Awake
+Centred Now Playing	Centred Now Playing	Se redă acum centrat
+Click With Headphones	Click With Headphones	Clic cu căşti
+Single Press Scrub	Single Press Scrub	Derulare cu o apăsare
+Time in Title	Time in Title	Ora în titlu
+Set by the card theme	Set by the card theme	Stabilit de tema cardului
+Location	Location	Locaţie
+Unknown	Unknown	Necunoscut
+Appearance	Appearance	Aspect
+Controls	Controls	Comenzi
+Theme	Theme	Temă
+Boot to: Rockbox	Boot to: Rockbox	Pornire în: Rockbox
+Boot to: Q2 Pod	Boot to: Q2 Pod	Pornire în: Q2 Pod
+Rockbox is not on the card	Rockbox is not on the card	Rockbox nu este pe card
+Could not save boot choice	Could not save boot choice	Alegerea de pornire nu a putut fi salvată
+No albums	No albums	Niciun album
+No artists	No artists	Niciun artist
+No composers	No composers	Niciun compozitor
+No genres	No genres	Niciun gen
+Chapter %d	Chapter %d	Capitolul %d
+Chapters	Chapters	Capitole
+Could not read chapters	Could not read chapters	Capitolele nu au putut fi citite
+No embedded chapters	No embedded chapters	Fără capitole încorporate
+Too long to read chapters on the Q2	Too long to read chapters on the Q2	Prea lung pentru citirea capitolelor pe Q2
+Loading chapters…	Loading chapters…	Se încarcă capitolele…
+Spotify Cache: %s	Spotify Cache: %s	Cache Spotify: %s
+Tidal Cache: %s	Tidal Cache: %s	Cache Tidal: %s
+Erasing…	Erasing…	Se şterge…
+Press again to erase login and cache	Press again to erase login and cache	Apăsaţi din nou pentru a şterge autentificarea şi cache-ul
+Erase Spotify Data	Erase Spotify Data	Şterge datele Spotify
+Could not save setting	Could not save setting	Setarea nu a putut fi salvată
+Streaming stopped	Streaming stopped	Streaming oprit
+Wait for the one in progress	Wait for the one in progress	Aşteptaţi-l pe cel în curs
+Stop Streaming Services	Stop Streaming Services	Opreşte serviciile de streaming
+No %s folder on the card	No %s folder on the card	Niciun dosar %s pe card
+CFW. Version	CFW. Version	Versiune CFW
+Update to %s	Update to %s	Actualizare la %s
+Latest firmware installed	Latest firmware installed	Firmware la zi
+Can't reach GitHub	Can't reach GitHub	GitHub nu poate fi contactat
+No update for this build	No update for this build	Nicio actualizare pentru această versiune
+Can't write to the card	Can't write to the card	Nu se poate scrie pe card
+Download cancelled	Download cancelled	Descărcare anulată
+GitHub is busy, try later	GitHub is busy, try later	GitHub este ocupat, încercaţi mai târziu
+The download was damaged, try again	The download was damaged, try again	Descărcarea s-a deteriorat, încercaţi din nou
+Downloading %d%%	Downloading %d%%	Se descarcă %d%%
+Cancelling…	Cancelling…	Se anulează…
+Reconnecting…	Reconnecting…	Se reconectează…
+Verifying…	Verifying…	Se verifică…
+Checking…	Checking…	Se verifică…
+Needs %u MB more space	Needs %u MB more space	Mai trebuie %u MB de spaţiu
+Update downloaded: use TF card update	Update downloaded: use TF card update	Actualizare descărcată: folosiţi Actualizare de pe card TF
+Charge the battery first	Charge the battery first	Încărcaţi mai întâi bateria
+Can't start the download	Can't start the download	Descărcarea nu poate porni
+Downloading…	Downloading…	Se descarcă…
+Q2 Pod %s is out: System Update → Network update	Q2 Pod %s is out: System Update → Network update	Q2 Pod %s este disponibil: Actualizare sistem → Actualizare prin reţea
+Downloading	Downloading	Se descarcă
+Unpacking…	Unpacking…	Se despachetează…
+Installing…	Installing…	Se instalează…
+Removing…	Removing…	Se elimină…
+Connect to Wi-Fi to load the list	Connect to Wi-Fi to load the list	Conectaţi-vă la Wi-Fi pentru a încărca lista
+Checked just now	Checked just now	Verificat chiar acum
+Checked %u min ago	Checked %u min ago	Verificat acum %u min
+Checked %u h ago	Checked %u h ago	Verificat acum %u h
+Press again to remove	Press again to remove	Apăsaţi din nou pentru a elimina
+Starts at power-on. Press again to install	Starts at power-on. Press again to install	Porneşte la pornirea dispozitivului. Apăsaţi din nou pentru a instala
+%d app can be updated	%d app can be updated	%d aplicaţie poate fi actualizată
+%d apps can be updated	%d apps can be updated	Aplicaţii de actualizat: %d
+All apps are up to date	All apps are up to date	Toate aplicaţiile sunt la zi
+The download is not a usable app	The download is not a usable app	Descărcarea nu este o aplicaţie utilizabilă
+Rockbox is ready. Find it on Home	Rockbox is ready. Find it on Home	Rockbox este gata. Îl găsiţi pe Acasă
+Rockbox Themes are ready in Rockbox's Theme Settings	Rockbox Themes are ready in Rockbox's Theme Settings	Temele Rockbox sunt gata în setările de temă din Rockbox
+%s is ready in %s	%s is ready in %s	%s este gata în %s
+%s removed	%s removed	%s eliminat
+Spotify's login and cache erased	Spotify's login and cache erased	Autentificarea şi cache-ul Spotify au fost şterse
+Stopped checking for updates	Stopped checking for updates	Verificarea actualizărilor s-a oprit
+Install Rockbox first	Install Rockbox first	Instalaţi mai întâi Rockbox
+Check for Updates	Check for Updates	Caută actualizări
+%d of %d	%d of %d	%d din %d
+Album lyrics	Album lyrics	Versuri album
+LRCLIB stopped answering	LRCLIB stopped answering	LRCLIB nu mai răspunde
+Cancelled	Cancelled	Anulat
+%d saved	%d saved	Salvate: %d
+%d not found	%d not found	Negăsite: %d
+%d already had lyrics	%d already had lyrics	Aveau deja versuri: %d
+%d failed	%d failed	Eşuate: %d
+Album lyrics: no songs on the card	Album lyrics: no songs on the card	Versuri album: nicio melodie pe card
+Can't reach LRCLIB	Can't reach LRCLIB	LRCLIB nu poate fi contactat
+Download Album Lyrics	Download Album Lyrics	Descarcă versurile albumului
+Downloading %d of %d	Downloading %d of %d	Se descarcă %d din %d
+No album songs on the card	No album songs on the card	Nicio melodie din album pe card
+file exceeds 16384 bytes	file exceeds 16384 bytes	fişierul depăşeşte 16384 de octeţi
+line exceeds 512 bytes	line exceeds 512 bytes	linia depăşeşte 512 octeţi
+embedded NUL	embedded NUL	NUL încorporat
+unsupported filter form	unsupported filter form	formă de filtru neacceptată
+expected Preamp: <gain> dB	expected Preamp: <gain> dB	aşteptat Preamp: <gain> dB
+preamp outside -60..24 dB or invalid number	preamp outside -60..24 dB or invalid number	preamp în afara -60..24 dB sau număr nevalid
+expected Channel: L, R or all	expected Channel: L, R or all	aşteptat Channel: L, R sau all
+only channels L, R and all are supported	only channels L, R and all are supported	sunt acceptate doar canalele L, R şi all
+unsupported command	unsupported command	comandă neacceptată
+invalid filter label	invalid filter label	etichetă de filtru nevalidă
+expected Filter [number]:	expected Filter [number]:	aşteptat Filter [număr]:
+expected ON or OFF	expected ON or OFF	aşteptat ON sau OFF
+unsupported filter type	unsupported filter type	tip de filtru neacceptat
+expected Fc <Hz> Hz Gain <dB> dB	expected Fc <Hz> Hz Gain <dB> dB	aşteptat Fc <Hz> Hz Gain <dB> dB
+invalid frequency or gain number	invalid frequency or gain number	frecvenţă sau câştig nevalid
+expected Q <number>	expected Q <number>	aşteptat Q <număr>
+peaking filter requires Q	peaking filter requires Q	filtrul peaking cere Q
+range: 20..20000 Hz, -24..24 dB, Q 0.1..10	range: 20..20000 Hz, -24..24 dB, Q 0.1..10	interval: 20..20000 Hz, -24..24 dB, Q 0.1..10
+more than 30 bands	more than 30 bands	mai mult de 30 de benzi
+summed preamp outside -60..24 dB	summed preamp outside -60..24 dB	preamp însumat în afara -60..24 dB
+L/R preamp differ by more than 12 dB	L/R preamp differ by more than 12 dB	preamp S/D diferă cu mai mult de 12 dB
+out of memory	out of memory	memorie epuizată
+cannot open file	cannot open file	fişierul nu poate fi deschis
+file read failed	file read failed	citirea fişierului a eşuat
+EQ for 3.5 mm	EQ for 3.5 mm	EQ pentru 3,5 mm
+EQ for 4.4 mm	EQ for 4.4 mm	EQ pentru 4,4 mm
+EQ for USB	EQ for USB	EQ pentru USB
+EQ for this Bluetooth device	EQ for this Bluetooth device	EQ pentru acest dispozitiv BT
+Auto (44.1: %.1f / 48: %.1f)	Auto (44.1: %.1f / 48: %.1f)	Auto (44,1=%.1f / 48=%.1f)
+Folder missing or unavailable	Folder missing or unavailable	Dosar lipsă sau indisponibil
+Out of memory; cannot list presets	Out of memory; cannot list presets	Memorie epuizată; presetările nu pot fi listate
+No presets found	No presets found	Nicio presetare găsită
+Name not allowed; preset kept	Name not allowed; preset kept	Nume nepermis; se păstrează
+Name taken; preset kept	Name taken; preset kept	Nume ocupat; se păstrează
+Rename failed; preset kept	Rename failed; preset kept	Redenumire eşuată; se păstrează
+Renamed to %.100s	Renamed to %.100s	Redenumit în %.100s
+Pop	Pop	Pop
+Rock	Rock	Rock
+Dance	Dance	Dance
+Blues	Blues	Blues
+Metal	Metal	Metal
+Vocal	Vocal	Vocal
+Classical	Classical	Clasică
+Jazz	Jazz	Jazz
+Preset loaded; choose Apply to activate	Preset loaded; choose Apply to activate	Presetare încărcată; alegeţi Aplică
+Preset saved; active EQ unchanged	Preset saved; active EQ unchanged	Presetare salvată; EQ activ neschimbat
+Save failed; settings unchanged	Save failed; settings unchanged	Salvare eşuată; fără modificări
+Switch failed; EQ unchanged	Switch failed; EQ unchanged	Comutare eşuată; EQ neschimbat
+Applied	Applied	Aplicat
+Apply failed; active EQ unchanged	Apply failed; active EQ unchanged	Aplicare eşuată; EQ activ neschimbat
+Reset; choose Apply to activate	Reset; choose Apply to activate	Resetat; alegeţi Aplică
+Delete failed; preset kept	Delete failed; preset kept	Ştergere eşuată; se păstrează
+Deleted %.100s; active EQ unchanged	Deleted %.100s; active EQ unchanged	%.100s şters; EQ activ neschimbat
+Line %u: %s	Line %u: %s	Linia %u: %s
+Cannot read preset; settings unchanged	Cannot read preset; settings unchanged	Presetarea nu poate fi citită; setări neschimbate
+Peaking	Peaking	Peaking
+Low shelf	Low shelf	Low shelf
+High shelf	High shelf	High shelf
+Apply changes	Apply changes	Aplică modificările
+Nothing to apply	Nothing to apply	Nimic de aplicat
+Reset to defaults	Reset to defaults	Revino la valorile implicite
+Enabled	Enabled	Activat
+EQ per Output	EQ per Output	EQ pe ieşire
+Preamp	Preamp	Preamp
+Presets	Presets	Presetări
+Band	Band	Bandă
+Channels	Channels	Canale
+Both	Both	Ambele
+Left	Left	Stânga
+Right	Right	Dreapta
+Type	Type	Tip
+Frequency	Frequency	Frecvenţă
+Gain	Gain	Câştig
+Band %d Q	Band %d Q	Q al benzii %d
+Band %d Frequency (Hz)	Band %d Frequency (Hz)	Frecvenţa benzii %d (Hz)
+Raise	Raise	Creşte
+Lower	Lower	Scade
+Step	Step	Pas
+Delete %.100s? Confirm	Delete %.100s? Confirm	Ştergeţi %.100s? Confirmaţi
+Replace existing preset? Confirm	Replace existing preset? Confirm	Înlocuiţi presetarea? Confirmaţi
+Cancel replacement	Cancel replacement	Anulează înlocuirea
+Save as Manual %02d	Save as Manual %02d	Salvează ca Manual %02d
+Stock presets	Stock presets	Presetări din fabrică
+Import from SD /EQ	Import from SD /EQ	Importă de pe SD /EQ
+Save editor preset	Save editor preset	Salvează presetarea
+Rename a preset	Rename a preset	Redenumeşte o presetare
+Delete a preset	Delete a preset	Şterge o presetare
+Previous page	Previous page	Pagina anterioară
+Next page	Next page	Pagina următoare
+Band %d	Band %d	Banda %d
+Band %d Gain	Band %d Gain	Câştigul benzii %d
+Presets %d/%d	Presets %d/%d	Presetări %d/%d
+Save failed; EQ unchanged	Save failed; EQ unchanged	Salvare eşuată; EQ neschimbat
+Advanced	Advanced	Avansat
+Enabled: On	Enabled: On	Activat: Da
+Enabled: Off	Enabled: Off	Activat: Nu
+Low	Low	Grave
+Mid	Mid	Medii
+High	High	Înalte
+Simple	Simple	Simplu
+No photos	No photos	Nicio fotografie
+All Photos	All Photos	Toate fotografiile
+Photos	Photos	Fotografii
+Can't open this photo	Can't open this photo	Fotografia nu poate fi deschisă
+%d of %d  %s	%d of %d  %s	%d din %d  %s
+Could not save folder speed	Could not save folder speed	Viteza dosarului nu a putut fi salvată
+Too long to play on the Q2: split it into parts	Too long to play on the Q2: split it into parts	Prea lung pentru Q2: împărţiţi-l în părţi
+Press again to restart	Press again to restart	Apăsaţi din nou pentru a reporni
+Could not save playlist	Could not save playlist	Playlistul nu a putut fi salvat
+Already in playlist	Already in playlist	Deja în playlist
+Added to Playlist	Added to Playlist	Adăugat la playlist
+Search songs	Search songs	Caută melodii
+Editing: %s	Editing: %s	Editare: %s
+Add Songs: %s	Add Songs: %s	Adaugă melodii: %s
+Song Actions: %s	Song Actions: %s	Acţiuni melodie: %s
+Remove song?: %s	Remove song?: %s	Eliminaţi melodia?: %s
+Add Songs	Add Songs	Adaugă melodii
+Move Up	Move Up	Mută în sus
+Move Down	Move Down	Mută în jos
+Remove from Playlist	Remove from Playlist	Elimină din playlist
+Search: %s	Search: %s	Căutare: %s
+No songs match	No songs match	Nicio melodie potrivită
+Search for more songs	Search for more songs	Caută mai multe melodii
+Delete Playlist?	Delete Playlist?	Ştergeţi playlistul?
+Delete	Delete	Şterge
+Playlist deleted	Playlist deleted	Playlist şters
+Could not delete playlist	Could not delete playlist	Playlistul nu a putut fi şters
+Delete Playlist	Delete Playlist	Şterge playlistul
+Edit Playlist	Edit Playlist	Editează playlistul
+Queue unchanged	Queue unchanged	Coadă neschimbată
+Deselect All	Deselect All	Deselectează tot
+Select All	Select All	Selectează tot
+Export %d Playlist	Export %d Playlist	Exportă %d playlist
+Export %d Playlists	Export %d Playlists	Exportă playlisturi (%d)
+Delete %d Playlist…	Delete %d Playlist…	Şterge %d playlist…
+Delete %d Playlists…	Delete %d Playlists…	Şterge playlisturi (%d)…
+%d Selected	%d Selected	Selectate: %d
+Select Playlists	Select Playlists	Alege playlisturi
+Playlists	Playlists	Playlisturi
+No Playlists	No Playlists	Niciun playlist
+New Playlist…	New Playlist…	Playlist nou…
+Select Playlists…	Select Playlists…	Alege playlisturi…
+Import Playlists	Import Playlists	Importă playlisturi
+Export	Export	Exportă
+No other group	No other group	Niciun alt grup
+Folder not found	Folder not found	Dosar negăsit
+All Songs	All Songs	Toate melodiile
+Songs in Album	Songs in Album	Melodii din album
+Albums and Songs	Albums and Songs	Albume şi melodii
+Songs in Folder	Songs in Folder	Melodii din dosar
+Folders	Folders	Dosare
+Folders and Songs	Folders and Songs	Dosare şi melodii
+Play One Song	Play One Song	Redă o melodie
+Play One Album	Play One Album	Redă un album
+Repeat Song	Repeat Song	Repetă melodia
+Repeat Album	Repeat Album	Repetă albumul
+Repeat All	Repeat All	Repetă tot
+Play One Folder	Play One Folder	Redă un dosar
+Repeat Folder	Repeat Folder	Repetă dosarul
+Album	Album	Album
+Folder	Folder	Dosar
+Repeat	Repeat	Repetă
+Group by	Group by	Grupează după
+Play Next	Play Next	Redă următoarea
+Add to Queue	Add to Queue	Adaugă la coadă
+Add to Favourites	Add to Favourites	Adaugă la favorite
+Remove from Favourites	Remove from Favourites	Elimină din favorite
+Add to Playlist	Add to Playlist	Adaugă la playlist
+Go to Album	Go to Album	Mergi la album
+Go to Artist	Go to Artist	Mergi la artist
+Next Album	Next Album	Albumul următor
+Previous Album	Previous Album	Albumul anterior
+Rate	Rate	Evaluează
+Resume	Resume	Reia
+View Queue	View Queue	Vezi coada
+Go to Folder	Go to Folder	Mergi la dosar
+Rate Album	Rate Album	Evaluează albumul
+Group by: Folder	Group by: Folder	Grupează după: Dosar
+Group by: Album	Group by: Album	Grupează după: Album
+Next Folder	Next Folder	Dosarul următor
+Previous Folder	Previous Folder	Dosarul anterior
+Wheel: Volume	Wheel: Volume	Rotiţă: Volum
+Wheel: Brightness	Wheel: Brightness	Rotiţă: Luminozitate
+Could not save Favourites	Could not save Favourites	Favoritele nu au putut fi salvate
+Added to Favourites	Added to Favourites	Adăugat la favorite
+Removed from Favourites	Removed from Favourites	Eliminat din favorite
+Stopped	Stopped	Oprit
+Can't play: %s	Can't play: %s	Nu se poate reda: %s
+Can't play this station	Can't play this station	Această staţie nu poate fi redată
+Connecting…	Connecting…	Se conectează…
+Search is too long	Search is too long	Căutarea este prea lungă
+Search stations	Search stations	Caută staţii
+Favourites	Favourites	Favorite
+Featured	Featured	Recomandate
+Top Stations	Top Stations	Staţii de top
+By Country	By Country	După ţară
+By Genre	By Genre	După gen
+Countries	Countries	Ţări
+Connecting to Wi-Fi…	Connecting to Wi-Fi…	Se conectează la Wi-Fi…
+Directory unavailable	Directory unavailable	Director indisponibil
+No Wi-Fi	No Wi-Fi	Fără Wi-Fi
+No stations	No stations	Nicio staţie
+No favourites	No favourites	Niciun favorit
+Rating not saved	Rating not saved	Evaluarea nu a fost salvată
+Ratings are full	Ratings are full	Evaluările sunt pline
+Favourite not sent to the app	Favourite not sent to the app	Favoritul nu a fost trimis aplicaţiei
+Unrated	Unrated	Neevaluat
+1 Heart	1 Heart	1 inimă
+%d Hearts	%d Hearts	Inimi: %d
+%d of 5	%d of 5	%d din 5
+Album changed	Album changed	Album schimbat
+Favourite not saved	Favourite not saved	Favoritul nu a fost salvat
+This app has no favourites	This app has no favourites	Această aplicaţie nu are favorite
+Top Rated	Top Rated	Cele mai bine evaluate
+Loved	Loved	Îndrăgite
+All Rated	All Rated	Toate evaluate
+Disliked	Disliked	Neapreciate
+No songs yet	No songs yet	Nicio melodie încă
+Hold the heart on Now Playing to rate	Hold the heart on Now Playing to rate	Ţineţi apăsată inima din Se redă acum pentru a evalua
+No rated albums yet	No rated albums yet	Niciun album evaluat încă
+Upload failed, %d sent	Upload failed, %d sent	Trimitere eşuată, %d trimise
+Scrobbles sent: %d	Scrobbles sent: %d	Scrobble-uri trimise: %d
+Nothing to upload	Nothing to upload	Nimic de trimis
+Uploading scrobbles	Uploading scrobbles	Se trimit scrobble-urile
+Already uploading	Already uploading	Se trimite deja
+Upload failed	Upload failed	Trimitere eşuată
+Connect to Wi-Fi first	Connect to Wi-Fi first	Conectaţi-vă mai întâi la Wi-Fi
+Waiting for Spotify	Waiting for Spotify	Se aşteaptă Spotify
+Spotify isn't on the card	Spotify isn't on the card	Spotify nu este pe card
+See the Q2 Pod guide to add it	See the Q2 Pod guide to add it	Vedeţi ghidul Q2 Pod pentru a-l adăuga
+Open Spotify on your phone	Open Spotify on your phone	Deschideţi Spotify pe telefon
+and choose Q2	and choose Q2	şi alegeţi Q2
+Spotify refused this account	Spotify refused this account	Spotify a refuzat acest cont
+Its tracks can't play on the Q2	Its tracks can't play on the Q2	Piesele lui nu pot fi redate pe Q2
+Playback didn't start	Playback didn't start	Redarea nu a pornit
+Go back and try again	Go back and try again	Reveniţi şi încercaţi din nou
+Starting playback	Starting playback	Se porneşte redarea
+Update Spotify on the card	Update Spotify on the card	Actualizaţi Spotify pe card
+See the Q2 Pod guide	See the Q2 Pod guide	Vedeţi ghidul Q2 Pod
+Nothing playing	Nothing playing	Nimic în redare
+Choose music in Spotify	Choose music in Spotify	Alegeţi muzică în Spotify
+Liked Songs	Liked Songs	Melodii apreciate
+Queue	Queue	Coadă
+Playback Settings	Playback Settings	Setări de redare
+Account	Account	Cont
+Downloaded Tracks	Downloaded Tracks	Piese descărcate
+Downloads	Downloads	Descărcări
+Tracks	Tracks	Piese
+Open Spotify on your phone and choose Q2	Open Spotify on your phone and choose Q2	Deschideţi Spotify pe telefon şi alegeţi Q2
+Both on the same Wi-Fi	Both on the same Wi-Fi	Ambele în aceeaşi reţea Wi-Fi
+to browse on the Q2	to browse on the Q2	pentru a naviga pe Q2
+Downloaded Playlists	Downloaded Playlists	Playlisturi descărcate
+Download Progress	Download Progress	Progres descărcare
+Storage Management	Storage Management	Gestionare stocare
+Download Status	Download Status	Stare descărcare
+The latest download's progress	The latest download's progress	Progresul ultimei descărcări
+for saved playlists and download controls	for saved playlists and download controls	pentru playlisturi salvate şi comenzi de descărcare
+Remove Playlists…	Remove Playlists…	Elimină playlisturi…
+Remove Tracks…	Remove Tracks…	Elimină piese…
+Keeps login and settings	Keeps login and settings	Păstrează autentificarea şi setările
+Track removal can make playlists incomplete	Track removal can make playlists incomplete	Eliminarea pieselor poate lăsa playlisturi incomplete
+Pause	Pause	Pauză
+Cancel Download	Cancel Download	Anulează descărcarea
+Retry Failed	Retry Failed	Reîncearcă cele eşuate
+Update Download	Update Download	Actualizează descărcarea
+Sign Out of Spotify?	Sign Out of Spotify?	Vă deconectaţi de la Spotify?
+Sign Out	Sign Out	Deconectare
+Nothing here	Nothing here	Nimic aici
+Selected	Selected	Selectat
+Press to select	Press to select	Apăsaţi pentru a selecta
+All	All	Toate
+One	One	Una
+Download Liked Songs	Download Liked Songs	Descarcă melodiile apreciate
+Download Playlist	Download Playlist	Descarcă playlistul
+For offline listening	For offline listening	Pentru ascultare offline
+Download Controls	Download Controls	Comenzi descărcare
+Update, retry, pause, resume or cancel	Update, retry, pause, resume or cancel	Actualizare, reîncercare, pauză, reluare sau anulare
+Remove Selected…	Remove Selected…	Elimină selecţia…
+Confirm the affected count	Confirm the affected count	Confirmaţi numărul afectat
+Spotify isn't running	Spotify isn't running	Spotify nu rulează
+Spotify didn't answer	Spotify didn't answer	Spotify nu a răspuns
+Search Spotify	Search Spotify	Caută în Spotify
+Select Tracks	Select Tracks	Selectează piese
+Select at least one item	Select at least one item	Selectaţi cel puţin un element
+Selection full. Remove these first	Selection full. Remove these first	Selecţie plină. Eliminaţi mai întâi acestea
+Boot logo must be a 320x375 JPEG	Boot logo must be a 320x375 JPEG	Logo-ul de pornire trebuie să fie un JPEG 320x375
+Could not save boot logo	Could not save boot logo	Logo-ul de pornire nu a putut fi salvat
+Accent: Graphite	Accent: Graphite	Accent: Grafit
+Accent: Crimson	Accent: Crimson	Accent: Carmin
+Accent: Tidal	Accent: Tidal	Accent: Tidal
+Accent: Champagne	Accent: Champagne	Accent: Şampanie
+Accent: Cobalt	Accent: Cobalt	Accent: Cobalt
+Accent: Tangerine	Accent: Tangerine	Accent: Mandarină
+Accent: Plum	Accent: Plum	Accent: Prună
+Accent: Ivory	Accent: Ivory	Accent: Fildeş
+Accent: Green	Accent: Green	Accent: Verde
+Favorites	Favorites	Favorite
+Rated Albums	Rated Albums	Albume evaluate
+Podcasts	Podcasts	Podcasturi
+Audiobooks	Audiobooks	Cărţi audio
+Groovebox can't start from the card	Groovebox can't start from the card	Groovebox nu poate porni de pe card
+Groovebox is not on the card	Groovebox is not on the card	Groovebox nu este pe card
+Play a Tidal album or playlist first	Play a Tidal album or playlist first	Redaţi mai întâi un album sau un playlist Tidal
+Downloading %u of %u. Press to stop	Downloading %u of %u. Press to stop	Se descarcă %u din %u. Apăsaţi pentru a opri
+Download Playing Songs	Download Playing Songs	Descarcă melodiile în redare
+Tidal Cache full: %u of %u song saved	Tidal Cache full: %u of %u song saved	Cache Tidal plin: %u din %u melodie salvată
+Tidal Cache full: %u of %u songs saved	Tidal Cache full: %u of %u songs saved	Cache Tidal plin: melodii salvate %u din %u
+Downloaded %u of %u song	Downloaded %u of %u song	%u din %u melodie descărcată
+Downloaded %u of %u songs	Downloaded %u of %u songs	Melodii descărcate: %u din %u
+Nothing to play next	Nothing to play next	Nimic de redat în continuare
+Queue changed	Queue changed	Coadă modificată
+Never	Never	Niciodată
+USB DAC Charging: %s	USB DAC Charging: %s	Încărcare prin USB DAC: %s
+Spectrum	Spectrum	Spectru
+Oscilloscope	Oscilloscope	Osciloscop
+VU Meters	VU Meters	Vumetre
+Halo	Halo	Halo
+Pulsar	Pulsar	Pulsar
+Contour	Contour	Contur
+More	More	Mai mult
+A-B Repeat	A-B Repeat	Repetare A-B
+Speed	Speed	Viteză
+*Only for 48 kHz and below	*Only for 48 kHz and below	*Doar până la 48 kHz
+No lyrics	No lyrics	Fără versuri
+Genre	Genre	Gen
+Size	Size	Dimensiune
+Year	Year	An
+Format	Format	Format
+Bit Depth	Bit Depth	Adâncime de biţi
+Bit Rate	Bit Rate	Bitrate
+Sample Rate	Sample Rate	Rată de eşantionare
+Auto Scan	Auto Scan	Scanare auto
+Update Library Now	Update Library Now	Actualizează biblioteca acum
+Scan Folders	Scan Folders	Scanează dosare
+OK	OK	OK
+Bluetooth	Bluetooth	Bluetooth
+Key Lock	Key Lock	Blocare taste
+Low Gain	Low Gain	Câştig mic
+USB Storage	USB Storage	Stocare USB
+Playback	Playback	Redare
+Custom	Custom	Personalizat
+Reset	Reset	Resetare
+Open this address in a browser:	Open this address in a browser:	Deschideţi această adresă în browser:
+Downloaded	Downloaded	Descărcate
+Baidu Netdisk	Baidu Netdisk	Baidu Netdisk
+Sign In	Sign In	Conectare
+Scan with the Baidu app to sign in	Scan with the Baidu app to sign in	Scanaţi cu aplicaţia Baidu pentru a vă conecta
+Baidu encryption protects your privacy	Baidu encryption protects your privacy	Criptarea Baidu vă protejează confidenţialitatea
+Bluetooth RF test: connect from a computer	Bluetooth RF test: connect from a computer	Test RF Bluetooth: conectaţi-vă de pe un computer
+Press Next to exit	Press Next to exit	Apăsaţi Următorul pentru a ieşi
+Brightness Test	Brightness Test	Test luminozitate
+Next	Next	Următorul
+Bluetooth Test	Bluetooth Test	Test Bluetooth
+Down	Down	Jos
+Up	Up	Sus
+Swipe Left	Swipe Left	Glisaţi la stânga
+Swipe Right	Swipe Right	Glisaţi la dreapta
+Key Test	Key Test	Test taste
+Headphone Test	Headphone Test	Test căşti
+Plug in single-ended headphones	Plug in single-ended headphones	Conectaţi căşti nebalansate
+Play (left male, right female)	Play (left male, right female)	Redare (stânga bărbat, dreapta femeie)
+Bluetooth Receiver Test	Bluetooth Receiver Test	Test receptor Bluetooth
+Battery Test	Battery Test	Test baterie
+Battery:	Battery:	Baterie:
+Charging:	Charging:	Încărcare:
+microSD Test	microSD Test	Test microSD
+Touch Test	Touch Test	Test tactil
+Wi-Fi Test	Wi-Fi Test	Test Wi-Fi
+Artist	Artist	Artist
+Export Playlists	Export Playlists	Exportă playlisturi
+Playlist	Playlist	Playlist
+0 songs	0 songs	0 melodii
+System	System	Sistem
+Rockbox	Rockbox	Rockbox
+Baker Island	Baker Island	Insula Baker
+Midway	Midway	Midway
+Honolulu	Honolulu	Honolulu
+Anchorage	Anchorage	Anchorage
+Los Angeles	Los Angeles	Los Angeles
+Denver	Denver	Denver
+Mexico City	Mexico City	Ciudad de Mexico
+New York	New York	New York
+Halifax	Halifax	Halifax
+St. John's	St. John's	St. John's
+Buenos Aires	Buenos Aires	Buenos Aires
+Azores	Azores	Azore
+London	London	Londra
+Amsterdam	Amsterdam	Amsterdam
+Bucharest	Bucharest	Bucureşti
+Kuwait	Kuwait	Kuweit
+Tehran	Tehran	Teheran
+Muscat	Muscat	Muscat
+Kabul	Kabul	Kabul
+Karachi	Karachi	Karachi
+Dhaka	Dhaka	Dhaka
+Bangkok	Bangkok	Bangkok
+Shanghai	Shanghai	Shanghai
+Tokyo	Tokyo	Tokyo
+Adelaide	Adelaide	Adelaide
+Sydney	Sydney	Sydney
+Fiji	Fiji	Fiji
+Marquesas	Marquesas	Marquesas
+South Georgia	South Georgia	Georgia de Sud
+Colombo	Colombo	Colombo
+Kathmandu	Kathmandu	Katmandu
+Yangon	Yangon	Yangon
+Eucla	Eucla	Eucla
+L. Howe	L. Howe	L. Howe
+Noumea	Noumea	Nouméa
+Chatham	Chatham	Chatham
+Tongatapu	Tongatapu	Tongatapu
+Kiritimati	Kiritimati	Kiritimati
+Chicago	Chicago	Chicago
+Phoenix	Phoenix	Phoenix
+Kolkata	Kolkata	Calcutta
+Brisbane	Brisbane	Brisbane
+Auckland	Auckland	Auckland
+Status Bar	Status Bar	Bară de stare
+Minimal	Minimal	Minimal
+Modern	Modern	Modern
+Classic	Classic	Clasic
+Show Wordmark	Show Wordmark	Afişează sigla
+Library on Home	Library on Home	Biblioteca pe Acasă
+Row Preview	Row Preview	Previzualizare rânduri
+Row Art	Row Art	Copertele rândurilor
+Classic Blue	Classic Blue	Albastru clasic

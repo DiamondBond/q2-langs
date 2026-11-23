@@ -1,0 +1,1181 @@
+# Magyar
+History_record	History record	Előzmények
+about_cardcap	Card Capacity	Kártya kapacitása
+about_cardremain	Remaining	Szabad
+about_ipaddr	IP Address	IP-cím
+about_model	Model	Modell
+about_more	*Our sincere thanks go to the DiamondBond team and all its enthusiasts for their ingenuity, outstanding solutions, and generous contributions.	*Őszinte köszönetünk a DiamondBond csapatnak és minden lelkes támogatójának a találékonyságukért, kiváló megoldásaikért és nagylelkű hozzájárulásukért.
+about_sn	Serial Number	Sorozatszám
+about_version	Version	Verzió
+about_wifimac	Wi-Fi MAC	Wi-Fi MAC
+album	Album	Album
+album	Album	Album
+albumsinger	Album artist	Albumelőadó
+allmusic	All Songs	Összes dal
+audio_settings	Audio settings	Hangbeállítások
+baidu_login	Log In	Bejelentkezés
+baidu_login_tips1	Please use Baidu Netdisk or Baidu App to scan the code to login	A bejelentkezéshez olvassa be a kódot a Baidu Netdisk vagy a Baidu alkalmazással
+baidu_login_tips2	Baidu encryption technology protects your privacy and security	A Baidu titkosítása védi az Ön adatait és biztonságát
+baidu_loginout	Log Out	Kijelentkezés
+baidunet_floderinfo_failed	Failed to get file list	A fájllista lekérése sikertelen
+batch_addplaylist	Add to Playlist	Hozzáadás lejátszási listához
+bt_adjvol	Bluetooth Headset Volume Control	Bluetooth-fejhallgató hangerőszabályzása
+bt_compatiabledev	Compatible Device	Kompatibilis eszköz
+bt_name	Bluetooth Name	Bluetooth-név
+bt_paireddev	Paired Device	Párosított eszköz
+bt_quality	Quality	Minőség
+bt_search	Scan now	Keresés most
+btcode_aac	AAC	AAC
+btcode_aptx	aptX	aptX
+btcode_aptxhd	aptX HD	aptX HD
+btcode_ldacauto	LDAC Connection (auto)	LDAC-kapcsolat (auto)
+btcode_ldachq	LDAC HQ	LDAC HQ
+btcode_ldacst	LDAC Standard	LDAC Standard
+btcode_sbc	SBC	SBC
+btcode_sbchq	SBC HQ	SBC HQ
+custom_eq	Custom	Egyéni
+display_backlight	Brightness	Fényerő
+display_lighttime	Screen Off Time	Kijelző kikapcsolása
+display_screenlock	Lock Screen	Képernyőzár
+dsdmode_d2p	D2P	D2P
+dsdmode_dop	DOP	DoP
+dsdmode_native	Native	Natív
+eq_blues	Blues	Blues
+eq_classical	Classical	Klasszikus
+eq_club	Club	Club
+eq_custom1	Custom1	Egyéni 1
+eq_custom2	Custom2	Egyéni 2
+eq_custom3	Custom3	Egyéni 3
+eq_dance	Dance	Dance
+eq_doublebass	Sub-bass	Szubbasszus
+eq_jazz	Jazz	Jazz
+eq_metal	Metal	Metal
+eq_only48kmsg	EQ only for files below 48kHz.	Az EQ csak 48 kHz alatti fájlokhoz érhető el.
+eq_pop	Pop	Pop
+eq_reset	Reset	Visszaállítás
+eq_rock	Rock	Rock
+eq_vocal	Vocal	Ének
+fav	My Fav	Kedvenceim
+filter_delayfast	Low Delay Fast Roll-off	Kis késleltetés, gyors lecsengés
+filter_delayslow	Low Delay Slow Roll-off	Kis késleltetés, lassú lecsengés
+filter_fast	Fast Roll-off	Gyors lecsengés
+filter_slow	Slow Roll-off	Lassú lecsengés
+frequentplay	Frequent	Gyakori
+gain_high	High	Magas
+gain_low	Low	Alacsony
+genre	Genre	Műfaj
+genre_statistics	Total %d songs	Összesen %d dal
+hr	Hi-Res	Hi-Res
+keyboard_keyword	Please enter keyword	Adja meg a keresőszót
+keyboard_netname	Please enter network name	Adja meg a hálózat nevét
+keyboard_password	Please enter password	Adja meg a jelszót
+keylock_all	Lock Volume & Buttons	Hangerő és gombok zárolása
+keylock_info	Only effective when the screen is off	Csak kikapcsolt kijelzőnél él
+keylock_info2	Effective on Lockscreen and when Screen Off	Zárolt és kikapcsolt kijelzőnél él
+keylock_key	Lock Buttons Only	Csak a gombok zárolása
+keylock_volume	Lock Volume Only	Csak a hangerő zárolása
+lan_english	English	English
+lan_french	Français	Français
+lan_german	Deutsch	Deutsch
+lan_italian	Italiano	Italiano
+lan_japanese	日本語	日本語
+lan_korean	한국어	한국어
+lan_polish	Polski	Polski
+lan_russian	Русский	Русский
+lan_simplified	简体中文	简体中文
+lan_spanish	español	español
+lan_thai	ภาษาไทย	ภาษาไทย
+lan_traditional	繁體中文	繁體中文
+lan_ukrainian	Українська	Українська
+lighttime_15s	15s	15 mp
+lighttime_1min	1min	1 perc
+lighttime_2min	2min	2 perc
+lighttime_30min	30min	30 perc
+lighttime_30s	30s	30 mp
+lighttime_5min	5min	5 perc
+lighttime_lyricmode	Lyrics mode	Dalszöveg mód
+lighttime_off	Off	Ki
+list_baidu	Baidu Netdisk	Baidu Netdisk
+list_tidal	TIDAL	TIDAL
+local_album	Albums	Albumok
+local_allmusic	Local Songs	Helyi dalok
+local_allsongs	Songs	Dalok
+local_fav	My Fav	Kedvenceim
+local_frequentplay	Frequent	Gyakori
+local_genre	Genres	Műfajok
+local_hr	Hi-Res	Hi-Res
+local_playlist	Playlists	Lejátszási listák
+local_recentadd	Recently Added	Nemrég hozzáadott
+local_recentplay	Recent	Nemrég játszott
+local_songer	Artists	Előadók
+local_upmusic	Update Library	Könyvtár frissítése
+login_out	Logout	Kijelentkezés
+memplay_location	Location	Hely
+memplay_off	Off	Ki
+memplay_track	Track	Szám
+msg_actionnotsupport	Non-local songs,not currently supported	A nem helyi dalok jelenleg nem támogatottak
+msg_actionscan	Scan music?	Zene beolvasása?
+msg_add_task	Please enter the URL of the file you want to download	Adja meg a letölteni kívánt fájl URL-jét
+msg_addfailed	Adding Failed	Sikertelen hozzáadás
+msg_addfavsuccess	Added To Fav	Hozzáadva a kedvencekhez
+msg_addplaylistsuccess	Added To Playlist	Hozzáadva a lejátszási listához
+msg_autoshutdown	Shutdown	Leállítás
+msg_btabnormal	Bluetooth abnormal	Bluetooth-hiba
+msg_btinit_run	Bluetooth Starting	A Bluetooth indul
+msg_btreconnect	Reconnect Bluetooth?	Újracsatlakozik a Bluetooth?
+msg_cardeject	Audio Disconnected	Hang leválasztva
+msg_cardinsert	Audio Connected	Hang csatlakoztatva
+msg_checkfw	Checking FW	Firmware ellenőrzése
+msg_checkfwerr	FW. Check Error	Firmware-ellenőrzési hiba
+msg_closesynclink	Please close SyncLink	Zárja be a SyncLinket
+msg_confirmupdate	Confirm Update?	Frissít?
+msg_connected	Connected	Csatlakoztatva
+msg_connecting	Connecting	Csatlakozás
+msg_delalbum	Delete Album?	Törli az albumot?
+msg_delalbumfailed	Failed To Delete Album	Az album törlése sikertelen
+msg_delalbumsuccess	Album Deleted	Album törölve
+msg_delartist	Delete Artist?	Törli az előadót?
+msg_delartistsuccess	Artist Deleted	Előadó törölve
+msg_delete_task	Are you sure you want to delete the download task?	Biztosan törli a letöltést?
+msg_deletesource	Also delete source file	A forrásfájl törlése is
+msg_delfile	Are you sure you want to delete this file?	Biztosan törli ezt a fájlt?
+msg_delfile	Delete File?	Törli a fájlt?
+msg_delfilefailed	Failed To Delete File	A fájl törlése sikertelen
+msg_delfilesuccess	File Deleted	Fájl törölve
+msg_delgenre	Delete Genre?	Törli a műfajt?
+msg_delgenresuccess	Genre Deleted	Műfaj törölve
+msg_delplaylist	Delete Playlist?	Törli a lejátszási listát?
+msg_delplaylistfailed	Failed To Delete Playlist	A lejátszási lista törlése sikertelen
+msg_delplaylistsuccess	Playlist Deleted	Lejátszási lista törölve
+msg_delsong	Delete Song?	Törli a dalt?
+msg_delsongfailed	Failed To Delete Song	A dal törlése sikertelen
+msg_delsongsuccess	Song Deleted	Dal törölve
+msg_disconnected	Disconnected	Leválasztva
+msg_disonnectbt	Please disconnect the bluetooth device	Válassza le a Bluetooth-eszközt
+msg_downloadpath	Download path is	A letöltési mappa:
+msg_exist_task	The download task already exists	Ez a letöltés már létezik
+msg_exitairplay	Quit AirPlay?	Kilép az AirPlayből?
+msg_exportplaylist	Export Playlist?	Exportálja a lejátszási listát?
+msg_exportsuccess	Export successful	Sikeres exportálás
+msg_factorysuccess	Restore to factory settings succeeded	A gyári beállítások visszaállítva
+msg_favsuccess	Added To Fav	Hozzáadva a kedvencekhez
+msg_file_exist	The file already exists	A fájl már létezik
+msg_importplaylist	Import Playlists?	Importálja a lejátszási listákat?
+msg_importsuccess	Successfully imported	Sikeres importálás
+msg_initsetsuccess	All settings initialized successfully	Minden beállítás visszaállítva
+msg_latestfw	Latest Fw. Installed	A legújabb firmware telepítve
+msg_linkerror	WiFi Connection Error	Wi-Fi-kapcsolati hiba
+msg_lowarn	Line Out sets max volume,continue?	A Line Out maximális hangerőt állít be. Folytatja?
+msg_lowpower	Low Battery	Alacsony akkumulátorszint
+msg_namenull	The name can't be empty	A név nem lehet üres
+msg_netnameerr	Network Must Be Named	A hálózatnak nevet kell adni
+msg_no	Cancel	Mégse
+msg_no_storage	Storage is full.Some songs couldn't be added.	A tároló megtelt. Néhány dal nem adható hozzá.
+msg_noheadset	Playback is disabled without headphones.Please insert headphones.	Fejhallgató nélkül a lejátszás le van tiltva. Csatlakoztasson fejhallgatót.
+msg_nosongs	No songs in this folder	Nincs dal ebben a mappában
+msg_notalbuminfo	This file has no Album data	Ennek a fájlnak nincsenek albumadatai
+msg_notfile	File Not Found	A fájl nem található
+msg_notfolder	Folder not found	A mappa nem található
+msg_notfoundfw	Fw. Not Found	A firmware nem található
+msg_notmemory	Memory is not enough	Nincs elég memória
+msg_notmemory	Out of memory	Elfogyott a memória
+msg_notnetwork	Network Disconnected	A hálózat megszakadt
+msg_nototg	No OTG Found	Nincs OTG-eszköz
+msg_notplaylist	Playlist Not Found	A lejátszási lista nem található
+msg_notsongerinfo	This file has no Artist data	Ennek a fájlnak nincsenek előadóadatai
+msg_notsonglist	No Song List	Nincs dallista
+msg_notspecdir	Folder not specified	Nincs mappa megadva
+msg_notsupport	Not Supported	Nem támogatott
+msg_notsupportdel	Can't be removed	Nem távolítható el
+msg_nottf	No TF Card Found	Nincs TF-kártya
+msg_otgeject	OTG Disconnected	OTG leválasztva
+msg_otginfoerr	Failed To Get Version Info	A verzióadatok lekérése sikertelen
+msg_otginsert	OTG Connected	OTG csatlakoztatva
+msg_paircode	Bluetooth Code	Bluetooth-kód
+msg_paired	Paired	Párosítva
+msg_playlistexist	Playlist Already Exists	A lejátszási lista már létezik
+msg_playlistfull	Could not create playlist	A lejátszási lista nem hozható létre
+msg_poweroff	Shut Down?	Leállítja?
+msg_resetdbsuccess	Reset completed	Visszaállítás kész
+msg_restarting	Restarting	Újraindítás
+msg_shortpasswd	8 Digits PIN At Least	Legalább 8 számjegyű PIN szükséges
+msg_start_download_task	start the download task	Letöltés indítása
+msg_stop_download_task	stop the download task	Letöltés leállítása
+msg_testmode	Enter test mode?	Belép a tesztmódba?
+msg_tfeject	TF Card Removed	TF-kártya eltávolítva
+msg_tfinsert	TF Card Inserted	TF-kártya behelyezve
+msg_unpaired	Unpaired	Párosítás megszüntetve
+msg_unpairing	unpair?	Párosítás törlése?
+msg_unsupportformat	Unsupported format	Nem támogatott formátum
+msg_update	Confirmed	Megerősítve
+msg_wificancelsave	Delete Record?	Törli a bejegyzést?
+msg_wifidisconnect	Disconnect Now?	Megszakítja a kapcsolatot?
+msg_yes	OK	OK
+navigation_all	All	Mind
+netservice_airplay	AirPlay	AirPlay
+netservice_dlna	DLNA	DLNA
+netservice_wifitrans	Wi-Fi File Transfer	Wi-Fi fájlátvitel
+no_search	No search results	Nincs találat
+not_allmusic	Currently no songs	Jelenleg nincs dal
+otgdownload_percent	FW Downloaded	Firmware letöltve
+outputway	Output Options	Kimeneti beállítások
+play_all	Play All	Összes lejátszása
+player_abrepeat	AB Repeat	A-B ismétlés
+player_albuminfo	Look up Album	Album keresése
+player_bitdepth	Bit Depth	Bitmélység
+player_bitrate	Bitrate	Bitráta
+player_delete	Delete Song	Dal törlése
+player_encoding	Encoding	Kódolás
+player_era	Year	Év
+player_filesize	File Size	Fájlméret
+player_location	Location	Hely
+player_msgmul	*Affecting only files below 48khz	*Csak 48 kHz alatti fájlokra érvényes
+player_multiple	Multiple Speed	Lejátszási sebesség
+player_nolyric	No Lyrics	Nincs dalszöveg
+player_onlinesearch	Download Cover & Lyrics	Borító és dalszöveg letöltése
+player_playlist	Queue	Várólista
+player_samplerate	Sample Rate	Mintavételi frekvencia
+player_songerinfo	Look up Artist	Előadó keresése
+player_unknown	Unknown	Ismeretlen
+player_unknown	Unknown Artist	Ismeretlen előadó
+playlist	Playlist	Lejátszási lista
+playlist_create	New playlist	Új lejátszási lista
+playlist_export	Export playlist	Lejátszási lista exportálása
+playlist_import	Import playlist	Lejátszási lista importálása
+playmode_listplay	List Play	Lista lejátszása
+playmode_repeatall	Repeat All	Összes ismétlése
+playmode_repeattrack	Repeat Track	Szám ismétlése
+playmode_shuffle	Shuffle	Keverés
+playset_balance	Channel Balance	Csatornaegyensúly
+playset_bootvol	Default Volume	Alap hangerő
+playset_covermode	Enlarged Album Art	Nagy albumborító
+playset_dsdoutput	DSD Output Mode	DSD kimeneti mód
+playset_eq	EQ	EQ
+playset_filter	Digital Filters	Digitális szűrők
+playset_foldercover	Folder Album Cover	Mappa albumborítója
+playset_folderjump	Folder Skip	Mappák átugrása
+playset_gain	Gain	Erősítés
+playset_gapless	Gapless	Szünetmentes
+playset_maxvol	Max Volume	Max. hangerő
+playset_memplay	Memory Playback	Lejátszás megjegyzése
+playset_noplay	Require Output (Beta)	Kimenet szükséges (béta)
+playset_playmode	Play Mode	Lejátszási mód
+playset_replaygain	ReplayGain	ReplayGain
+playset_usbaudiovol	USB Audio Output	USB hangkimenet
+playset_volcover	Volume and Album Display	Hangerő és album megjelenítése
+powerm_deep_off	Standby	Készenlét
+powerm_sleep	Sleep Timer	Alvásidőzítő
+recentadd	Recently Added	Nemrég hozzáadott
+recentplay	Recent	Nemrég játszott
+rename	Rename	Átnevezés
+renamesuccess	Successfully renamed	Sikeres átnevezés
+replaygain_track	Song	Dal
+reset_factory	Full Factory Reset	Teljes gyári visszaállítás
+reset_initdatabase	Reset Database	Adatbázis visszaállítása
+reset_initset	Reset Settings Only	Csak a beállítások visszaállítása
+scan_automatic	Automatic Update	Automatikus frissítés
+scan_now	Scan music now	Zene beolvasása most
+scan_now	Scan music now	Zene beolvasása most
+scan_spec	Scan specified folders	Megadott mappák beolvasása
+scan_spec	Scan specified folders	Megadott mappák beolvasása
+scan_startscan	Scan	Beolvasás
+scan_updatefinish	Library Updated,%d Updated	Könyvtár frissítve, %d frissítve
+scan_updating	Updating No.%d	Frissítés: %d. elem
+scover_cover	Cover	Borító
+scover_lyric	Lyrics	Dalszöveg
+screenlock_about	Custom Lock Screen	Egyéni zárolt képernyő
+screenlock_info1	1. Put the pictures in a folder named "lockscreenimage" at the top of the card.	1. Tegye a képeket a kártya gyökerében lévő „lockscreenimage” nevű mappába.
+screenlock_info2	2. PNG or JPG, exactly 375 x 320 pixels, under 1 MB each.	2. PNG vagy JPG, pontosan 375 x 320 képpont, egyenként 1 MB alatt.
+screenlock_info3	3. Up to 5 pictures.	3. Legfeljebb 5 kép.
+screenlock_timeshow	Show Time	Idő megjelenítése
+search_tips1	Search for music,artists,albums,genres	Zene, előadó, album, műfaj keresése
+search_track	Track	Szám
+singerbyalbum	Sort by album artist	Rendezés albumelőadó szerint
+singerbysong	Sort by song artist	Rendezés dalelőadó szerint
+small_album	Albums	Albumok
+small_coverflow	Album Wall	Albumfal
+small_folder	Folder	Mappa
+small_local	Local Songs	Helyi dalok
+small_playing	Now Playing	Most szól
+small_playset	Playback	Lejátszás
+small_stream	Streaming	Streaming
+small_sysset	System	Rendszer
+songer	Artist	Előadó
+sort_addtime	Time added	Hozzáadás ideje
+sort_alphabet	Alphabetical	Betűrend
+sort_filename	File name	Fájlnév
+sort_format	File format	Fájlformátum
+sort_time_asc	Time added (ascending)	Hozzáadás ideje (növekvő)
+sort_time_desc	Time added (descending)	Hozzáadás ideje (csökkenő)
+standbyoff_10min	10min	10 perc
+standbyoff_1min	1min	1 perc
+standbyoff_3min	3min	3 perc
+standbyoff_5min	5min	5 perc
+standbyoff_deep	Auto-standby	Automatikus készenlét
+standbyoff_deepinfo	After 5 minute of idle,device will go into standby mode.	5 perc tétlenség után az eszköz készenléti módba lép.
+standbyoff_saver	Auto-shutdown	Automatikus kikapcsolás
+synclink_off	Off	Ki
+system_about	About	Névjegy
+system_carmode	In-Vehicle Mode	Autós mód
+system_display	Display	Kijelző
+system_general	General	Általános
+system_keylock	Buttons Lock	Gombzár
+system_keytone	Key Tone	Gombhang
+system_language	Language	Nyelv
+system_navshow	Show Navigation Bar	Navigációs sáv megjelenítése
+system_netservice	Network	Hálózat
+system_powermanager	Power	Energia
+system_prove	Certification	Tanúsítványok
+system_reset	Reset Settings	Beállítások visszaállítása
+system_sys	System	Rendszer
+system_time	Date & Time	Dátum és idő
+system_update	System Update	Rendszerfrissítés
+system_wheelmode	Wheel Function	Tárcsa funkciója
+system_wifiset	Wireless	Vezeték nélküli
+timedate_24h	24-Hour	24 órás
+timedate_auto	Automatic Time Set	Automatikus időbeállítás
+timedate_manual	Set Time Manually	Idő kézi beállítása
+timezone_gmt+1	(GMT+01:00)Europe/Amsterdam	(GMT+01:00)Europe/Amsterdam
+timezone_gmt+10	(GMT+10:00)Australia/Sydney	(GMT+10:00)Australia/Sydney
+timezone_gmt+12	(GMT+12:00)Pacific/Fiji	(GMT+12:00)Pacific/Fiji
+timezone_gmt+2	(GMT+02:00)Europe/Bucharest	(GMT+02:00)Europe/Bucharest
+timezone_gmt+3	(GMT+03:00)Asia/Kuwait	(GMT+03:00)Asia/Kuwait
+timezone_gmt+3_30	(GMT+03:30)Asia/Tehran	(GMT+03:30)Asia/Tehran
+timezone_gmt+4	(GMT+04:00)Asia/Muscat	(GMT+04:00)Asia/Muscat
+timezone_gmt+4_30	(GMT+04:30)Asia/Kabul	(GMT+04:30)Asia/Kabul
+timezone_gmt+5	(GMT+05:00)Asia/Karachi	(GMT+05:00)Asia/Karachi
+timezone_gmt+6	(GMT+06:00)Asia/Almaty	(GMT+06:00)Asia/Almaty
+timezone_gmt+7	(GMT+07:00)Asia/Bangkok	(GMT+07:00)Asia/Bangkok
+timezone_gmt+8	(GMT+08:00)Asia/Shanghai	(GMT+08:00)Asia/Shanghai
+timezone_gmt+9	(GMT+09:00)Asia/Tokyo	(GMT+09:00)Asia/Tokyo
+timezone_gmt+9_30	(GMT+09:30)Australia/Adelaide	(GMT+09:30)Australia/Adelaide
+timezone_gmt-0	(GMT 00:00)Europe/London	(GMT 00:00)Europe/London
+timezone_gmt-1	(GMT-01:00)Atlantic/Azores	(GMT-01:00)Atlantic/Azores
+timezone_gmt-10	(GMT-10:00)Pacific/Honolulu	(GMT-10:00)Pacific/Honolulu
+timezone_gmt-11	(GMT-11:00)Pacific/Midway	(GMT-11:00)Pacific/Midway
+timezone_gmt-12	(GMT-12:00)Pacific/Kwajalein	(GMT-12:00)Pacific/Kwajalein
+timezone_gmt-3	(GMT-03:00)America/Argentina/Buenos_Aires	(GMT-03:00)America/Argentina/Buenos_Aires
+timezone_gmt-3_30	(GMT-03:30)America/St_Johns	(GMT-03:30)America/St_Johns
+timezone_gmt-4	(GMT-04:00)Canada/Atlantic	(GMT-04:00)Canada/Atlantic
+timezone_gmt-5	(GMT-05:00)America/New_York	(GMT-05:00)America/New_York
+timezone_gmt-6	(GMT-06:00)America/Mexico_City	(GMT-06:00)America/Mexico_City
+timezone_gmt-7	(GMT-07:00)America/Denver	(GMT-07:00)America/Denver
+timezone_gmt-8	(GMT-08:00)America/Tijuana	(GMT-08:00)America/Tijuana
+timezone_gmt-9	(GMT-09:00)America/Anchorage	(GMT-09:00)America/Anchorage
+timezone_select	Time Zone Selection	Időzóna kiválasztása
+title_downloaded	Downloaded	Letöltve
+title_downloading	Downloading	Letöltés folyamatban
+title_more	More	Továbbiak
+title_sort	List sort order	Lista rendezése
+update_online	Network update	Hálózati frissítés
+update_tf	TF card update	Frissítés TF-kártyáról
+usb_chargeswitch	USB DAC Charging	USB DAC töltése
+usbmode_audio	USB AUDIO	USB-hang
+usbmode_connect	USB Connected	USB csatlakoztatva
+usbmode_dac	USB DAC	USB DAC
+usbmode_disconnect	USB Disconnected	USB leválasztva
+usbmode_storge	USB Storage	USB-tároló
+usbvol_adjust	Volume Variable	Változó hangerő
+usbvol_fixed	Volume Fixed	Rögzített hangerő
+wheelmode_menu	Menu Mode	Menü mód
+wheelmode_volume	Volume Mode	Hangerő mód
+wifi_addnetwork	Add Network	Hálózat hozzáadása
+wifi_choice	Select Network	Hálózat kiválasztása
+wifi_scan	Scanning	Keresés folyamatban
+wifiset_bt	Bluetooth	Bluetooth
+wifiset_synclink	SyncLink	SyncLink
+wifiset_wifi	Wi-Fi	Wi-Fi
+wifits_info1	Enter the following URL into your internet browser:	Írja be a következő URL-t a böngészőbe:
+Search	Search	Keresés
+Streaming	Streaming	Streaming
+Library's Games	Library's Games	Könyvtár → Játékok
+Library's Apps	Library's Apps	Könyvtár → Alkalmazások
+Network settings	Network settings	Hálózati beállítások
+Wait until the App Store finishes	Wait until the App Store finishes	Várja meg, amíg az App Store végez
+It isn't on the card	It isn't on the card	Nincs a kártyán
+It couldn't start	It couldn't start	Nem indult el
+Stop %s	Stop %s	%s leállítása
+Loading…	Loading…	Betöltés…
+More…	More…	Továbbiak…
+Working…	Working…	Folyamatban…
+Starting %s…	Starting %s…	%s indítása…
+Retry	Retry	Újra
+Install it again in Library → App Store	Install it again in Library → App Store	Telepítse újra: Könyvtár → App Store
+Cancel	Cancel	Mégse
+%s isn't running	%s isn't running	%s nem fut
+%s didn't answer	%s didn't answer	%s nem válaszolt
+Too long	Too long	Túl hosszú
+%s stopped	%s stopped	%s leállt
+%s isn't on the card	%s isn't on the card	%s nincs a kártyán
+Apps	Apps	Alkalmazások
+No apps	No apps	Nincs alkalmazás
+Not running	Not running	Nem fut
+No code yet	No code yet	Még nincs kód
+Connect the Q2 to Wi-Fi	Connect the Q2 to Wi-Fi	Csatlakoztassa a Q2-t Wi-Fi-hez
+Open it again	Open it again	Nyissa meg újra
+Wait a moment	Wait a moment	Egy pillanat
+Then come back here	Then come back here	Aztán térjen vissza ide
+Scan with your phone's	Scan with your phone's	Olvassa be a telefon kamerájával
+Scan with your	Scan with your	Olvassa be a
+camera	camera	kamerával
+phone's camera	phone's camera	telefon kamerájával
+or open	or open	vagy nyissa meg
+PIN	PIN	PIN
+Couldn't import %s	Couldn't import %s	%s importálása sikertelen
+Playlists updated	Playlists updated	Lejátszási listák frissítve
+No memory card	No memory card	Nincs memóriakártya
+Games	Games	Játékok
+%d update	%d update	%d frissítés
+%d updates	%d updates	%d frissítés
+INSTALL	INSTALL	TELEPÍTÉS
+UPDATE	UPDATE	FRISSÍTÉS
+INSTALLED	INSTALLED	TELEPÍTVE
+AM	AM	de.
+PM	PM	du.
+Jan	Jan	jan.
+Feb	Feb	febr.
+Mar	Mar	márc.
+Apr	Apr	ápr.
+May	May	máj.
+Jun	Jun	jún.
+Jul	Jul	júl.
+Aug	Aug	aug.
+Sep	Sep	szept.
+Oct	Oct	okt.
+Nov	Nov	nov.
+Dec	Dec	dec.
+The card is in use over USB	The card is in use over USB	A kártyát USB-n használják
+Storage unavailable	Storage unavailable	A tároló nem érhető el
+The card is full	The card is full	A kártya megtelt
+Couldn't save	Couldn't save	Nem sikerült menteni
+Saved to battery-log.txt	Saved to battery-log.txt	Mentve: battery-log.txt
+Battery History	Battery History	Akkumulátor-előzmények
+Unplug to start	Unplug to start	Húzza ki az indításhoz
+Export Log	Export Log	Napló exportálása
+Card theme turned off after a failed start	Card theme turned off after a failed start	A kártyatéma ki lett kapcsolva egy sikertelen indítás után
+Card theme removed. Restart to finish	Card theme removed. Restart to finish	Kártyatéma eltávolítva. Indítsa újra a befejezéshez
+Card theme file can't be used	Card theme file can't be used	A kártyatéma-fájl nem használható
+Card theme saved. Restart to apply	Card theme saved. Restart to apply	Kártyatéma mentve. Indítsa újra az alkalmazáshoz
+Could not save card theme	Could not save card theme	A kártyatéma nem menthető
+Done	Done	Kész
+space	space	szóköz
+New Playlist	New Playlist	Új lejátszási lista
+Playlist Name	Playlist Name	Lejátszási lista neve
+Rename	Rename	Átnevezés
+Songs	Songs	Dalok
+Artists	Artists	Előadók
+Albums	Albums	Albumok
+Genres	Genres	Műfajok
+Off	Off	Ki
+On	On	Be
+%d of %d songs	%d of %d songs	%d / %d dal
+Updating Library	Updating Library	Könyvtár frissítése
+Connected	Connected	Csatlakoztatva
+Eject before disconnecting	Eject before disconnecting	Leválasztás előtt oldja ki
+%d:%02d AM	%d:%02d AM	%d:%02d de.
+%d:%02d PM	%d:%02d PM	%d:%02d du.
+Save	Save	Mentés
+Sort: Album	Sort: Album	Rendezés: Album
+Sort: Artist	Sort: Artist	Rendezés: Előadó
+Sort: Recently Added	Sort: Recently Added	Rendezés: Nemrég hozzáadott
+Sort: Most Played	Sort: Most Played	Rendezés: Legtöbbet játszott
+Sort: Random	Sort: Random	Rendezés: Véletlen
+Sort: Rating	Sort: Rating	Rendezés: Értékelés
+Sort: Year	Sort: Year	Rendezés: Év
+%u song	%u song	%u dal
+%u songs	%u songs	%u dal
+All albums	All albums	Összes album
+Preparing artwork… %d/%d	Preparing artwork… %d/%d	Borítók előkészítése… %d/%d
+Update Library first	Update Library first	Előbb frissítse a könyvtárat
+%u Song	%u Song	%u dal
+%u Songs	%u Songs	%u dal
+%u Album	%u Album	%u album
+%u Albums	%u Albums	%u album
+%u Game	%u Game	%u játék
+%u Games	%u Games	%u játék
+%u Service	%u Service	%u szolgáltatás
+%u Services	%u Services	%u szolgáltatás
+%u.%u GB Free	%u.%u GB Free	%u,%u GB szabad
+Library	Library	Könyvtár
+Settings	Settings	Beállítások
+Crossfade: %d s	Crossfade: %d s	Átúsztatás: %d mp
+Crossfade: Off	Crossfade: Off	Átúsztatás: Ki
+Wheel Sensitivity: %d%%	Wheel Sensitivity: %d%%	Tárcsa érzékenysége: %d%%
+Resume Songs: %d min	Resume Songs: %d min	Dalok folytatása: %d perc
+Resume Songs: Off	Resume Songs: Off	Dalok folytatása: Ki
+Night Shift: %dK	Night Shift: %dK	Night Shift: %dK
+Night Shift: Auto	Night Shift: Auto	Night Shift: Auto
+Night Shift: Off	Night Shift: Off	Night Shift: Ki
+Mono Audio	Mono Audio	Mono hang
+Swap L/R	Swap L/R	B/J csere
+Crossfade needs Gapless	Crossfade needs Gapless	Az átúsztatáshoz szünetmentes lejátszás kell
+Auto	Auto	Auto
+Night Shift	Night Shift	Night Shift
+Resume Songs	Resume Songs	Dalok folytatása
+Wheel Sensitivity	Wheel Sensitivity	Tárcsa érzékenysége
+Crossfade	Crossfade	Átúsztatás
+Measuring song lengths…	Measuring song lengths…	Dalok hosszának mérése…
+Sudoku	Sudoku	Sudoku
+Solitaire	Solitaire	Pasziánsz
+Snake	Snake	Snake
+Paused	Paused	Szünet
+Continue	Continue	Folytatás
+Quit	Quit	Kilépés
+New best!	New best!	Új rekord!
+Game over	Game over	Vége a játéknak
+Centre: play again	Centre: play again	Közép: új játék
+Play/Pause: resume	Play/Pause: resume	Lejátszás/Szünet: folytatás
+New game?	New game?	Új játék?
+Centre: yes   Return: no	Centre: yes   Return: no	Közép: igen   Vissza: nem
+Solved!	Solved!	Megoldva!
+Play/Pause: new game	Play/Pause: new game	Lejátszás/Szünet: új játék
+Score	Score	Pontszám
+Best	Best	Rekord
+Level	Level	Szint
+Centre	Centre	Közép
+You win!	You win!	Nyert!
+Shuffle	Shuffle	Keverés
+Era	Era	Évtized
+Ratings	Ratings	Értékelések
+Most Played	Most Played	Legtöbbet játszott
+Long Songs	Long Songs	Hosszú dalok
+App Store	App Store	App Store
+Upload Scrobbles	Upload Scrobbles	Scrobble-feltöltés
+Tidal Downloads	Tidal Downloads	Tidal-letöltések
+Internet Radio	Internet Radio	Internetrádió
+Configuration	Configuration	Konfiguráció
+Restart to apply?	Restart to apply?	Újraindítja a módosításhoz?
+Couldn't copy the language	Couldn't copy the language	A nyelv másolása sikertelen
+Too many songs to shuffle	Too many songs to shuffle	Túl sok dal a keveréshez
+Shuffle Songs	Shuffle Songs	Dalok keverése
+Shuffle Albums	Shuffle Albums	Albumok keverése
+Shuffle Folders	Shuffle Folders	Mappák keverése
+Albums and folders take a moment to shuffle	Albums and folders take a moment to shuffle	Az albumok és mappák keverése eltart egy ideig
+No plays yet	No plays yet	Még nincs lejátszás
+%u play	%u play	%u lejátszás
+%u plays	%u plays	%u lejátszás
+No downloads yet	No downloads yet	Még nincs letöltés
+Clear All Downloads…	Clear All Downloads…	Összes letöltés törlése…
+%u track	%u track	%u szám
+%u tracks	%u tracks	%u szám
+Remove Downloads?	Remove Downloads?	Eltávolítja a letöltéseket?
+Keeps settings	Keeps settings	A beállítások megmaradnak
+Remove	Remove	Eltávolítás
+It isn't on the card any more	It isn't on the card any more	Már nincs a kártyán
+%02ds	%02ds	%02d-évek
+%ds	%ds	%d-évek
+Era unavailable	Era unavailable	Az évtized nem érhető el
+Album not found	Album not found	Az album nem található
+%u album	%u album	%u album
+%u albums	%u albums	%u album
+Play All	Play All	Összes lejátszása
+Every song, shuffled	Every song, shuffled	Minden dal, keverve
+No dated albums yet	No dated albums yet	Még nincs keltezett album
+No songs over 10 minutes	No songs over 10 minutes	Nincs 10 percnél hosszabb dal
+Measuring songs… %d/%d	Measuring songs… %d/%d	Dalok mérése… %d/%d
+Measuring songs…	Measuring songs…	Dalok mérése…
+Release to search	Release to search	Engedje el a kereséshez
+Pull to search	Pull to search	Húzza le a kereséshez
+Sleep Timer	Sleep Timer	Alvásidőzítő
+Lock Screen	Lock Screen	Képernyőzár
+Accent	Accent	Kiemelőszín
+Everything	Everything	Minden
+Buttons only	Buttons only	Csak gombok
+Volume only	Volume only	Csak hangerő
+Wake: Single Press	Wake: Single Press	Ébresztés: Egy nyomás
+Wake: Double Press	Wake: Double Press	Ébresztés: Dupla nyomás
+Artist View: Grid	Artist View: Grid	Előadó nézet: Rács
+Artist View: Cover Flow	Artist View: Cover Flow	Előadó nézet: Cover Flow
+Artist View: List	Artist View: List	Előadó nézet: Lista
+Year Order: Newest First	Year Order: Newest First	Évek sorrendje: Legújabb elöl
+Year Order: Oldest First	Year Order: Oldest First	Évek sorrendje: Legrégebbi elöl
+Artists: Artist	Artists: Artist	Előadók: Előadó
+Artists: Album Artist	Artists: Album Artist	Előadók: Albumelőadó
+Resume on Connect: Off	Resume on Connect: Off	Folytatás csatlakozáskor: Ki
+Resume on Connect: On	Resume on Connect: On	Folytatás csatlakozáskor: Be
+Clock: Standard	Clock: Standard	Óra: Normál
+Clock: Large	Clock: Large	Óra: Nagy
+Artist Album Order: Year	Artist Album Order: Year	Előadó albumai: Év
+Artist Album Order: A–Z	Artist Album Order: A–Z	Előadó albumai: A–Z
+Volume Guard: Off	Volume Guard: Off	Hangerővédelem: Ki
+Volume Guard: On	Volume Guard: On	Hangerővédelem: Be
+Hold Return: Recent	Hold Return: Recent	Vissza hosszan: Nemrég játszott
+Hold Return: Home	Hold Return: Home	Vissza hosszan: Kezdőlap
+Standby Limit: Off	Standby Limit: Off	Készenléti korlát: Ki
+Standby Limit: %u h	Standby Limit: %u h	Készenléti korlát: %u ó
+Refresh Cover Flow	Refresh Cover Flow	Cover Flow frissítése
+Playlist View: List	Playlist View: List	Lejátszási listák nézete: Lista
+Playlist View: Cover Flow	Playlist View: Cover Flow	Lejátszási listák nézete: Cover Flow
+Update Notifications: Off	Update Notifications: Off	Frissítési értesítések: Ki
+Update Notifications: On	Update Notifications: On	Frissítési értesítések: Be
+Album View: List	Album View: List	Albumnézet: Lista
+Album View: Grid	Album View: Grid	Albumnézet: Rács
+Charge Limit (%u%%)	Charge Limit (%u%%)	Töltési korlát (%u%%)
+Resume on Connect	Resume on Connect	Folytatás csatlakozáskor
+Volume Guard	Volume Guard	Hangerővédelem
+Control Device Volume	Control Device Volume	Eszköz hangerejének vezérlése
+Key Tone	Key Tone	Gombhang
+In-Vehicle Mode	In-Vehicle Mode	Autós mód
+Smart Wi-Fi	Smart Wi-Fi	Smart Wi-Fi
+Enlarged Album Art	Enlarged Album Art	Nagy albumborító
+Folder Album Cover	Folder Album Cover	Mappa albumborítója
+Fast Navigation	Fast Navigation	Gyors navigáció
+Scan Song Durations	Scan Song Durations	Dalok hosszának beolvasása
+Position Bar	Position Bar	Pozíciósáv
+Hide Streaming	Hide Streaming	Streaming elrejtése
+Hide Folder	Hide Folder	Mappa elrejtése
+Hide Apps	Hide Apps	Alkalmazások elrejtése
+Hide Games	Hide Games	Játékok elrejtése
+Hide App Store	Hide App Store	App Store elrejtése
+Receive Audio	Receive Audio	Hang fogadása
+Log Failed Artwork	Log Failed Artwork	Borítóhibák naplózása
+Hide Duplicate Albums	Hide Duplicate Albums	Ismétlődő albumok elrejtése
+Hide Duplicate Songs	Hide Duplicate Songs	Ismétlődő dalok elrejtése
+Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	A Cover Flow legközelebb újraépíti a borítókat
+Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	A módosításhoz kapcsolja ki, majd be a Bluetooth funkciót
+Folder Root: %s	Folder Root: %s	Gyökérmappa: %s
+Folder Root: Card	Folder Root: Card	Gyökérmappa: Kártya
+Library & Folders	Library & Folders	Könyvtár és mappák
+Press Centre to Change Mode	Press Centre to Change Mode	Mód váltása a Közép gombbal
+Press Centre to Turn On or Off	Press Centre to Turn On or Off	Be- vagy kikapcsolás a Közép gombbal
+Press Centre When Finished	Press Centre When Finished	Kész – nyomja meg a Közép gombot
+OK to Disconnect	OK to Disconnect	Biztonságosan leválasztható
+Now Playing	Now Playing	Most szól
+Cover Flow	Cover Flow	Cover Flow
+EQ	EQ	EQ
+Update Library	Update Library	Könyvtár frissítése
+Balance	Balance	Balansz
+Home: Split	Home: Split	Kezdőlap: Osztott
+Home: Full	Home: Full	Kezdőlap: Teljes
+Home: Carousel	Home: Carousel	Kezdőlap: Körhinta
+Battery: Icon	Battery: Icon	Akku: Ikon
+Battery: Percent	Battery: Percent	Akku: Százalék
+Battery: Icon + Percent	Battery: Icon + Percent	Akku: Ikon + százalék
+Battery: Percent Inside	Battery: Percent Inside	Akku: Százalék benne
+Light Mode: Off	Light Mode: Off	Világos mód: Ki
+Light Mode: On	Light Mode: On	Világos mód: Be
+Light Mode: Auto	Light Mode: Auto	Világos mód: Auto
+Accent: Card Theme	Accent: Card Theme	Kiemelőszín: Kártyatéma
+Battery: Card Theme	Battery: Card Theme	Akku: Kártyatéma
+Light Mode: Card Theme	Light Mode: Card Theme	Világos mód: Kártyatéma
+Accent: %s	Accent: %s	Kiemelőszín: %s
+Theme: %s	Theme: %s	Téma: %s
+Shortcut: None	Shortcut: None	Gyorsgomb: Nincs
+Shortcut: %s	Shortcut: %s	Gyorsgomb: %s
+Rounded Corners	Rounded Corners	Kerek sarkok
+Smart Awake	Smart Awake	Smart Awake
+Centred Now Playing	Centred Now Playing	Középre igazított lejátszó
+Click With Headphones	Click With Headphones	Kattintás fejhallgatóval
+Single Press Scrub	Single Press Scrub	Léptetés egy nyomással
+Time in Title	Time in Title	Idő a címsorban
+Set by the card theme	Set by the card theme	A kártyatéma állítja be
+Location	Location	Hely
+Unknown	Unknown	Ismeretlen
+Appearance	Appearance	Megjelenés
+Controls	Controls	Vezérlés
+Theme	Theme	Téma
+Boot to: Rockbox	Boot to: Rockbox	Indítás: Rockbox
+Boot to: Q2 Pod	Boot to: Q2 Pod	Indítás: Q2 Pod
+Rockbox is not on the card	Rockbox is not on the card	A Rockbox nincs a kártyán
+Could not save boot choice	Could not save boot choice	Az indítási választás nem menthető
+No albums	No albums	Nincs album
+No artists	No artists	Nincs előadó
+No composers	No composers	Nincs zeneszerző
+No genres	No genres	Nincs műfaj
+Chapter %d	Chapter %d	%d. fejezet
+Chapters	Chapters	Fejezetek
+Could not read chapters	Could not read chapters	A fejezetek nem olvashatók
+No embedded chapters	No embedded chapters	Nincs beágyazott fejezet
+Too long to read chapters on the Q2	Too long to read chapters on the Q2	Túl hosszú a fejezetek olvasásához a Q2-n
+Loading chapters…	Loading chapters…	Fejezetek betöltése…
+Spotify Cache: %s	Spotify Cache: %s	Spotify-gyorsítótár: %s
+Tidal Cache: %s	Tidal Cache: %s	Tidal-gyorsítótár: %s
+Erasing…	Erasing…	Törlés…
+Press again to erase login and cache	Press again to erase login and cache	Nyomja meg újra a bejelentkezés és a gyorsítótár törléséhez
+Erase Spotify Data	Erase Spotify Data	Spotify-adatok törlése
+Could not save setting	Could not save setting	A beállítás nem menthető
+Streaming stopped	Streaming stopped	Streaming leállítva
+Wait for the one in progress	Wait for the one in progress	Várja meg a folyamatban lévőt
+Stop Streaming Services	Stop Streaming Services	Streaming-szolgáltatások leállítása
+No %s folder on the card	No %s folder on the card	Nincs %s mappa a kártyán
+CFW. Version	CFW. Version	CFW-verzió
+Update to %s	Update to %s	Frissítés: %s
+Latest firmware installed	Latest firmware installed	A legújabb firmware telepítve
+Can't reach GitHub	Can't reach GitHub	A GitHub nem érhető el
+No update for this build	No update for this build	Ehhez a buildhez nincs frissítés
+Can't write to the card	Can't write to the card	Nem lehet írni a kártyára
+Download cancelled	Download cancelled	Letöltés megszakítva
+GitHub is busy, try later	GitHub is busy, try later	A GitHub elfoglalt, próbálja később
+The download was damaged, try again	The download was damaged, try again	A letöltés sérült, próbálja újra
+Downloading %d%%	Downloading %d%%	Letöltés: %d%%
+Cancelling…	Cancelling…	Megszakítás…
+Reconnecting…	Reconnecting…	Újracsatlakozás…
+Verifying…	Verifying…	Ellenőrzés…
+Checking…	Checking…	Keresés…
+Needs %u MB more space	Needs %u MB more space	Még %u MB hely kell
+Update downloaded: use TF card update	Update downloaded: use TF card update	Frissítés letöltve: használja a Frissítés TF-kártyáról funkciót
+Charge the battery first	Charge the battery first	Előbb töltse fel az akkumulátort
+Can't start the download	Can't start the download	A letöltés nem indítható
+Downloading…	Downloading…	Letöltés…
+Q2 Pod %s is out: System Update → Network update	Q2 Pod %s is out: System Update → Network update	Megjelent a Q2 Pod %s: Rendszerfrissítés → Hálózati frissítés
+Downloading	Downloading	Letöltés
+Unpacking…	Unpacking…	Kicsomagolás…
+Installing…	Installing…	Telepítés…
+Removing…	Removing…	Eltávolítás…
+Connect to Wi-Fi to load the list	Connect to Wi-Fi to load the list	A lista betöltéséhez csatlakozzon Wi-Fi-hez
+Checked just now	Checked just now	Épp most ellenőrizve
+Checked %u min ago	Checked %u min ago	Ellenőrizve %u perce
+Checked %u h ago	Checked %u h ago	Ellenőrizve %u órája
+Press again to remove	Press again to remove	Nyomja meg újra az eltávolításhoz
+Starts at power-on. Press again to install	Starts at power-on. Press again to install	Bekapcsoláskor indul. Nyomja meg újra a telepítéshez
+%d app can be updated	%d app can be updated	%d alkalmazás frissíthető
+%d apps can be updated	%d apps can be updated	%d alkalmazás frissíthető
+All apps are up to date	All apps are up to date	Minden alkalmazás naprakész
+The download is not a usable app	The download is not a usable app	A letöltés nem használható alkalmazás
+Rockbox is ready. Find it on Home	Rockbox is ready. Find it on Home	A Rockbox kész. Megtalálja a Kezdőlapon
+Rockbox Themes are ready in Rockbox's Theme Settings	Rockbox Themes are ready in Rockbox's Theme Settings	A Rockbox-témák készen állnak a Rockbox témabeállításaiban
+%s is ready in %s	%s is ready in %s	%s kész: %s
+%s removed	%s removed	%s eltávolítva
+Spotify's login and cache erased	Spotify's login and cache erased	A Spotify-bejelentkezés és -gyorsítótár törölve
+Stopped checking for updates	Stopped checking for updates	A frissítések keresése leállt
+Install Rockbox first	Install Rockbox first	Előbb telepítse a Rockboxot
+Check for Updates	Check for Updates	Frissítések keresése
+%d of %d	%d of %d	%d / %d
+Album lyrics	Album lyrics	Albumdalszövegek
+LRCLIB stopped answering	LRCLIB stopped answering	A LRCLIB nem válaszol tovább
+Cancelled	Cancelled	Megszakítva
+%d saved	%d saved	%d mentve
+%d not found	%d not found	%d nem található
+%d already had lyrics	%d already had lyrics	%d dalhoz már volt dalszöveg
+%d failed	%d failed	%d sikertelen
+Album lyrics: no songs on the card	Album lyrics: no songs on the card	Albumdalszövegek: nincs dal a kártyán
+Can't reach LRCLIB	Can't reach LRCLIB	A LRCLIB nem érhető el
+Download Album Lyrics	Download Album Lyrics	Albumdalszövegek letöltése
+Downloading %d of %d	Downloading %d of %d	Letöltés: %d / %d
+No album songs on the card	No album songs on the card	Nincs albumdal a kártyán
+file exceeds 16384 bytes	file exceeds 16384 bytes	a fájl nagyobb 16384 bájtnál
+line exceeds 512 bytes	line exceeds 512 bytes	a sor hosszabb 512 bájtnál
+embedded NUL	embedded NUL	beágyazott NUL
+unsupported filter form	unsupported filter form	nem támogatott szűrőforma
+expected Preamp: <gain> dB	expected Preamp: <gain> dB	várt: Preamp: <gain> dB
+preamp outside -60..24 dB or invalid number	preamp outside -60..24 dB or invalid number	a preamp -60..24 dB-en kívül van, vagy érvénytelen szám
+expected Channel: L, R or all	expected Channel: L, R or all	várt: Channel: L, R vagy all
+only channels L, R and all are supported	only channels L, R and all are supported	csak az L, R és all csatorna támogatott
+unsupported command	unsupported command	nem támogatott parancs
+invalid filter label	invalid filter label	érvénytelen szűrőcímke
+expected Filter [number]:	expected Filter [number]:	várt: Filter [szám]:
+expected ON or OFF	expected ON or OFF	várt: ON vagy OFF
+unsupported filter type	unsupported filter type	nem támogatott szűrőtípus
+expected Fc <Hz> Hz Gain <dB> dB	expected Fc <Hz> Hz Gain <dB> dB	várt: Fc <Hz> Hz Gain <dB> dB
+invalid frequency or gain number	invalid frequency or gain number	érvénytelen frekvencia- vagy erősítésérték
+expected Q <number>	expected Q <number>	várt: Q <szám>
+peaking filter requires Q	peaking filter requires Q	a peaking szűrőhöz Q kell
+range: 20..20000 Hz, -24..24 dB, Q 0.1..10	range: 20..20000 Hz, -24..24 dB, Q 0.1..10	tartomány: 20..20000 Hz, -24..24 dB, Q 0.1..10
+more than 30 bands	more than 30 bands	több mint 30 sáv
+summed preamp outside -60..24 dB	summed preamp outside -60..24 dB	az összesített preamp -60..24 dB-en kívül van
+L/R preamp differ by more than 12 dB	L/R preamp differ by more than 12 dB	a B/J preamp több mint 12 dB-lel tér el
+out of memory	out of memory	elfogyott a memória
+cannot open file	cannot open file	a fájl nem nyitható meg
+file read failed	file read failed	a fájl olvasása sikertelen
+EQ for 3.5 mm	EQ for 3.5 mm	EQ 3,5 mm-hez
+EQ for 4.4 mm	EQ for 4.4 mm	EQ 4,4 mm-hez
+EQ for USB	EQ for USB	EQ USB-hez
+EQ for this Bluetooth device	EQ for this Bluetooth device	EQ ehhez a Bluetooth-eszközhöz
+Auto (44.1: %.1f / 48: %.1f)	Auto (44.1: %.1f / 48: %.1f)	Auto (44.1: %.1f / 48: %.1f)
+Folder missing or unavailable	Folder missing or unavailable	A mappa nem érhető el
+Out of memory; cannot list presets	Out of memory; cannot list presets	Elfogyott a memória; az előbeállítások nem listázhatók
+No presets found	No presets found	Nincs előbeállítás
+Name not allowed; preset kept	Name not allowed; preset kept	Név nem engedélyezett; megmarad
+Name taken; preset kept	Name taken; preset kept	Név foglalt; megmarad
+Rename failed; preset kept	Rename failed; preset kept	Átnevezés sikertelen; megmarad
+Renamed to %.100s	Renamed to %.100s	Átnevezve – %.100s
+Pop	Pop	Pop
+Rock	Rock	Rock
+Dance	Dance	Dance
+Blues	Blues	Blues
+Metal	Metal	Metal
+Vocal	Vocal	Ének
+Classical	Classical	Klasszikus
+Jazz	Jazz	Jazz
+Preset loaded; choose Apply to activate	Preset loaded; choose Apply to activate	Betöltve; alkalmazza
+Preset saved; active EQ unchanged	Preset saved; active EQ unchanged	Előbeállítás mentve; az aktív EQ változatlan
+Save failed; settings unchanged	Save failed; settings unchanged	Mentés sikertelen; nem változott
+Switch failed; EQ unchanged	Switch failed; EQ unchanged	Váltás sikertelen; nem változott
+Applied	Applied	Alkalmazva
+Apply failed; active EQ unchanged	Apply failed; active EQ unchanged	Az alkalmazás sikertelen; az aktív EQ változatlan
+Reset; choose Apply to activate	Reset; choose Apply to activate	Visszaállítva; alkalmazza
+Delete failed; preset kept	Delete failed; preset kept	Törlés sikertelen; megmarad
+Deleted %.100s; active EQ unchanged	Deleted %.100s; active EQ unchanged	%.100s törölve; az aktív EQ változatlan
+Line %u: %s	Line %u: %s	%u. sor: %s
+Cannot read preset; settings unchanged	Cannot read preset; settings unchanged	Az előbeállítás nem olvasható; a beállítások változatlanok
+Peaking	Peaking	Peaking
+Low shelf	Low shelf	Low shelf
+High shelf	High shelf	High shelf
+Apply changes	Apply changes	Módosítások alkalmazása
+Nothing to apply	Nothing to apply	Nincs mit alkalmazni
+Reset to defaults	Reset to defaults	Alapértékek visszaállítása
+Enabled	Enabled	Engedélyezve
+EQ per Output	EQ per Output	EQ kimenetenként
+Preamp	Preamp	Preamp
+Presets	Presets	Előbeállítások
+Band	Band	Sáv
+Channels	Channels	Csatornák
+Both	Both	Mindkettő
+Left	Left	Bal
+Right	Right	Jobb
+Type	Type	Típus
+Frequency	Frequency	Frekvencia
+Gain	Gain	Erősítés
+Band %d Q	Band %d Q	%d. sáv Q
+Band %d Frequency (Hz)	Band %d Frequency (Hz)	%d. sáv frekvenciája (Hz)
+Raise	Raise	Növelés
+Lower	Lower	Csökkentés
+Step	Step	Lépés
+Delete %.100s? Confirm	Delete %.100s? Confirm	%.100s törlése? Megerősítés
+Replace existing preset? Confirm	Replace existing preset? Confirm	Felülírja? Megerősítés
+Cancel replacement	Cancel replacement	Csere megszakítása
+Save as Manual %02d	Save as Manual %02d	Mentés – Manual %02d
+Stock presets	Stock presets	Gyári előbeállítások
+Import from SD /EQ	Import from SD /EQ	Importálás az SD /EQ mappából
+Save editor preset	Save editor preset	Szerkesztő előbeállítás mentése
+Rename a preset	Rename a preset	Előbeállítás átnevezése
+Delete a preset	Delete a preset	Előbeállítás törlése
+Previous page	Previous page	Előző oldal
+Next page	Next page	Következő oldal
+Band %d	Band %d	%d. sáv
+Band %d Gain	Band %d Gain	%d. sáv erősítése
+Presets %d/%d	Presets %d/%d	Előbeállítások %d/%d
+Save failed; EQ unchanged	Save failed; EQ unchanged	Mentés sikertelen; nem változott
+Advanced	Advanced	Haladó
+Enabled: On	Enabled: On	Engedélyezve: Be
+Enabled: Off	Enabled: Off	Engedélyezve: Ki
+Low	Low	Mély
+Mid	Mid	Közép
+High	High	Magas
+Simple	Simple	Egyszerű
+No photos	No photos	Nincs fotó
+All Photos	All Photos	Összes fotó
+Photos	Photos	Fotók
+Can't open this photo	Can't open this photo	Ez a fotó nem nyitható meg
+%d of %d  %s	%d of %d  %s	%d / %d  %s
+Could not save folder speed	Could not save folder speed	A mappa sebessége nem menthető
+Too long to play on the Q2: split it into parts	Too long to play on the Q2: split it into parts	Túl hosszú a Q2-n való lejátszáshoz: bontsa részekre
+Press again to restart	Press again to restart	Nyomja meg újra az újraindításhoz
+Could not save playlist	Could not save playlist	A lejátszási lista nem menthető
+Already in playlist	Already in playlist	Már a lejátszási listán van
+Added to Playlist	Added to Playlist	Hozzáadva a lejátszási listához
+Search songs	Search songs	Dalok keresése
+Editing: %s	Editing: %s	Szerkesztés: %s
+Add Songs: %s	Add Songs: %s	Dalok hozzáadása: %s
+Song Actions: %s	Song Actions: %s	Dalműveletek: %s
+Remove song?: %s	Remove song?: %s	Eltávolítja a dalt?: %s
+Add Songs	Add Songs	Dalok hozzáadása
+Move Up	Move Up	Feljebb
+Move Down	Move Down	Lejjebb
+Remove from Playlist	Remove from Playlist	Eltávolítás a lejátszási listáról
+Search: %s	Search: %s	Keresés: %s
+No songs match	No songs match	Nincs egyező dal
+Search for more songs	Search for more songs	További dalok keresése
+Delete Playlist?	Delete Playlist?	Törli a lejátszási listát?
+Delete	Delete	Törlés
+Playlist deleted	Playlist deleted	Lejátszási lista törölve
+Could not delete playlist	Could not delete playlist	A lejátszási lista nem törölhető
+Delete Playlist	Delete Playlist	Lejátszási lista törlése
+Edit Playlist	Edit Playlist	Lejátszási lista szerkesztése
+Queue unchanged	Queue unchanged	A várólista változatlan
+Deselect All	Deselect All	Kijelölés törlése
+Select All	Select All	Összes kijelölése
+Export %d Playlist	Export %d Playlist	%d lejátszási lista exportálása
+Export %d Playlists	Export %d Playlists	%d lejátszási lista exportálása
+Delete %d Playlist…	Delete %d Playlist…	%d lejátszási lista törlése…
+Delete %d Playlists…	Delete %d Playlists…	%d lejátszási lista törlése…
+%d Selected	%d Selected	%d kijelölve
+Select Playlists	Select Playlists	Lejátszási listák kijelölése
+Playlists	Playlists	Lejátszási listák
+No Playlists	No Playlists	Nincs lejátszási lista
+New Playlist…	New Playlist…	Új lejátszási lista…
+Select Playlists…	Select Playlists…	Lejátszási listák kijelölése…
+Import Playlists	Import Playlists	Lejátszási listák importálása
+Export	Export	Exportálás
+No other group	No other group	Nincs másik csoport
+Folder not found	Folder not found	A mappa nem található
+All Songs	All Songs	Összes dal
+Songs in Album	Songs in Album	Az album dalai
+Albums and Songs	Albums and Songs	Albumok és dalok
+Songs in Folder	Songs in Folder	A mappa dalai
+Folders	Folders	Mappák
+Folders and Songs	Folders and Songs	Mappák és dalok
+Play One Song	Play One Song	Egy dal lejátszása
+Play One Album	Play One Album	Egy album lejátszása
+Repeat Song	Repeat Song	Dal ismétlése
+Repeat Album	Repeat Album	Album ismétlése
+Repeat All	Repeat All	Összes ismétlése
+Play One Folder	Play One Folder	Egy mappa lejátszása
+Repeat Folder	Repeat Folder	Mappa ismétlése
+Album	Album	Album
+Folder	Folder	Mappa
+Repeat	Repeat	Ismétlés
+Group by	Group by	Csoportosítás
+Play Next	Play Next	Következőként
+Add to Queue	Add to Queue	Hozzáadás a várólistához
+Add to Favourites	Add to Favourites	Hozzáadás a kedvencekhez
+Remove from Favourites	Remove from Favourites	Eltávolítás a kedvencek közül
+Add to Playlist	Add to Playlist	Hozzáadás lejátszási listához
+Go to Album	Go to Album	Ugrás az albumhoz
+Go to Artist	Go to Artist	Ugrás az előadóhoz
+Next Album	Next Album	Következő album
+Previous Album	Previous Album	Előző album
+Rate	Rate	Értékelés
+Resume	Resume	Folytatás
+View Queue	View Queue	Várólista megtekintése
+Go to Folder	Go to Folder	Ugrás a mappához
+Rate Album	Rate Album	Album értékelése
+Group by: Folder	Group by: Folder	Csoportosítás: Mappa
+Group by: Album	Group by: Album	Csoportosítás: Album
+Next Folder	Next Folder	Következő mappa
+Previous Folder	Previous Folder	Előző mappa
+Wheel: Volume	Wheel: Volume	Tárcsa: Hangerő
+Wheel: Brightness	Wheel: Brightness	Tárcsa: Fényerő
+Could not save Favourites	Could not save Favourites	A kedvencek nem menthetők
+Added to Favourites	Added to Favourites	Hozzáadva a kedvencekhez
+Removed from Favourites	Removed from Favourites	Eltávolítva a kedvencek közül
+Stopped	Stopped	Leállítva
+Can't play: %s	Can't play: %s	Nem játszható le: %s
+Can't play this station	Can't play this station	Az adó nem játszható le
+Connecting…	Connecting…	Csatlakozás…
+Search is too long	Search is too long	A keresés túl hosszú
+Search stations	Search stations	Adók keresése
+Favourites	Favourites	Kedvencek
+Featured	Featured	Kiemelt
+Top Stations	Top Stations	Legnépszerűbb adók
+By Country	By Country	Ország szerint
+By Genre	By Genre	Műfaj szerint
+Countries	Countries	Országok
+Connecting to Wi-Fi…	Connecting to Wi-Fi…	Csatlakozás Wi-Fi-hez…
+Directory unavailable	Directory unavailable	A jegyzék nem érhető el
+No Wi-Fi	No Wi-Fi	Nincs Wi-Fi
+No stations	No stations	Nincs adó
+No favourites	No favourites	Nincs kedvenc
+Rating not saved	Rating not saved	Az értékelés nincs mentve
+Ratings are full	Ratings are full	Az értékelések megteltek
+Favourite not sent to the app	Favourite not sent to the app	A kedvenc nem lett elküldve az alkalmazásnak
+Unrated	Unrated	Nincs értékelve
+1 Heart	1 Heart	1 szív
+%d Hearts	%d Hearts	%d szív
+%d of 5	%d of 5	%d / 5
+Album changed	Album changed	Az album megváltozott
+Favourite not saved	Favourite not saved	A kedvenc nincs mentve
+This app has no favourites	This app has no favourites	Ennek az alkalmazásnak nincsenek kedvencei
+Top Rated	Top Rated	Legjobbra értékelt
+Loved	Loved	Kedvelt
+All Rated	All Rated	Összes értékelt
+Disliked	Disliked	Nem kedvelt
+No songs yet	No songs yet	Még nincs dal
+Hold the heart on Now Playing to rate	Hold the heart on Now Playing to rate	Értékeléshez tartsa nyomva a szívet a Most játszott képernyőn
+No rated albums yet	No rated albums yet	Még nincs értékelt album
+Upload failed, %d sent	Upload failed, %d sent	A feltöltés sikertelen, %d elküldve
+Scrobbles sent: %d	Scrobbles sent: %d	Elküldött scrobble-ök: %d
+Nothing to upload	Nothing to upload	Nincs mit feltölteni
+Uploading scrobbles	Uploading scrobbles	Scrobble-ök feltöltése
+Already uploading	Already uploading	Már folyamatban van a feltöltés
+Upload failed	Upload failed	A feltöltés sikertelen
+Connect to Wi-Fi first	Connect to Wi-Fi first	Előbb csatlakozzon Wi-Fi-hez
+Waiting for Spotify	Waiting for Spotify	Várakozás a Spotifyra
+Spotify isn't on the card	Spotify isn't on the card	A Spotify nincs a kártyán
+See the Q2 Pod guide to add it	See the Q2 Pod guide to add it	A hozzáadáshoz lásd a Q2 Pod útmutatóját
+Open Spotify on your phone	Open Spotify on your phone	Nyissa meg a Spotifyt a telefonján
+and choose Q2	and choose Q2	és válassza a Q2-t
+Spotify refused this account	Spotify refused this account	A Spotify elutasította ezt a fiókot
+Its tracks can't play on the Q2	Its tracks can't play on the Q2	A számai nem játszhatók le a Q2-n
+Playback didn't start	Playback didn't start	A lejátszás nem indult el
+Go back and try again	Go back and try again	Lépjen vissza, és próbálja újra
+Starting playback	Starting playback	Lejátszás indítása
+Update Spotify on the card	Update Spotify on the card	Frissítse a Spotifyt a kártyán
+See the Q2 Pod guide	See the Q2 Pod guide	Lásd a Q2 Pod útmutatóját
+Nothing playing	Nothing playing	Nincs lejátszás
+Choose music in Spotify	Choose music in Spotify	Válasszon zenét a Spotifyban
+Liked Songs	Liked Songs	Kedvelt dalok
+Queue	Queue	Várólista
+Playback Settings	Playback Settings	Lejátszási beállítások
+Account	Account	Fiók
+Downloaded Tracks	Downloaded Tracks	Letöltött számok
+Downloads	Downloads	Letöltések
+Tracks	Tracks	Számok
+Open Spotify on your phone and choose Q2	Open Spotify on your phone and choose Q2	Nyissa meg a Spotifyt a telefonján, és válassza a Q2-t
+Both on the same Wi-Fi	Both on the same Wi-Fi	Mindkettő ugyanazon a Wi-Fi-n
+to browse on the Q2	to browse on the Q2	a Q2-n való böngészéshez
+Downloaded Playlists	Downloaded Playlists	Letöltött lejátszási listák
+Download Progress	Download Progress	Letöltés előrehaladása
+Storage Management	Storage Management	Tárhelykezelés
+Download Status	Download Status	Letöltés állapota
+The latest download's progress	The latest download's progress	Az utolsó letöltés előrehaladása
+for saved playlists and download controls	for saved playlists and download controls	a mentett lejátszási listákhoz és a letöltésvezérlőkhöz
+Remove Playlists…	Remove Playlists…	Lejátszási listák eltávolítása…
+Remove Tracks…	Remove Tracks…	Számok eltávolítása…
+Keeps login and settings	Keeps login and settings	A bejelentkezés és a beállítások megmaradnak
+Track removal can make playlists incomplete	Track removal can make playlists incomplete	A számok eltávolítása hiányossá teheti a lejátszási listákat
+Pause	Pause	Szünet
+Cancel Download	Cancel Download	Letöltés megszakítása
+Retry Failed	Retry Failed	Sikertelenek újrapróbálása
+Update Download	Update Download	Letöltés frissítése
+Sign Out of Spotify?	Sign Out of Spotify?	Kijelentkezik a Spotifyból?
+Sign Out	Sign Out	Kijelentkezés
+Nothing here	Nothing here	Itt nincs semmi
+Selected	Selected	Kijelölve
+Press to select	Press to select	Nyomja meg a kijelöléshez
+All	All	Mind
+One	One	Egy
+Download Liked Songs	Download Liked Songs	Kedvelt dalok letöltése
+Download Playlist	Download Playlist	Lejátszási lista letöltése
+For offline listening	For offline listening	Offline hallgatáshoz
+Download Controls	Download Controls	Letöltésvezérlők
+Update, retry, pause, resume or cancel	Update, retry, pause, resume or cancel	Frissítés, újrapróba, szünet, folytatás vagy megszakítás
+Remove Selected…	Remove Selected…	Kijelöltek eltávolítása…
+Confirm the affected count	Confirm the affected count	Erősítse meg az érintett darabszámot
+Spotify isn't running	Spotify isn't running	A Spotify nem fut
+Spotify didn't answer	Spotify didn't answer	A Spotify nem válaszolt
+Search Spotify	Search Spotify	Keresés a Spotifyban
+Select Tracks	Select Tracks	Számok kijelölése
+Select at least one item	Select at least one item	Jelöljön ki legalább egy elemet
+Selection full. Remove these first	Selection full. Remove these first	A kijelölés megtelt. Előbb távolítsa el ezeket
+Boot logo must be a 320x375 JPEG	Boot logo must be a 320x375 JPEG	Az indítólogó JPEG legyen, 320x375
+Could not save boot logo	Could not save boot logo	Az indítólogó nem menthető
+Accent: Graphite	Accent: Graphite	Kiemelőszín: Grafit
+Accent: Crimson	Accent: Crimson	Kiemelőszín: Karmazsin
+Accent: Tidal	Accent: Tidal	Kiemelőszín: Tidal
+Accent: Champagne	Accent: Champagne	Kiemelőszín: Pezsgő
+Accent: Cobalt	Accent: Cobalt	Kiemelőszín: Kobalt
+Accent: Tangerine	Accent: Tangerine	Kiemelőszín: Mandarin
+Accent: Plum	Accent: Plum	Kiemelőszín: Szilva
+Accent: Ivory	Accent: Ivory	Kiemelőszín: Elefántcsont
+Accent: Green	Accent: Green	Kiemelőszín: Zöld
+Favorites	Favorites	Kedvencek
+Rated Albums	Rated Albums	Értékelt albumok
+Podcasts	Podcasts	Podcastok
+Audiobooks	Audiobooks	Hangoskönyvek
+Groovebox can't start from the card	Groovebox can't start from the card	A Groovebox nem indítható a kártyáról
+Groovebox is not on the card	Groovebox is not on the card	A Groovebox nincs a kártyán
+Play a Tidal album or playlist first	Play a Tidal album or playlist first	Előbb játsszon le egy Tidal-albumot vagy lejátszási listát
+Downloading %u of %u. Press to stop	Downloading %u of %u. Press to stop	Letöltés: %u / %u. Nyomja meg a leállításhoz
+Download Playing Songs	Download Playing Songs	Játszott dalok letöltése
+Tidal Cache full: %u of %u song saved	Tidal Cache full: %u of %u song saved	A Tidal-gyorsítótár megtelt: %u / %u dal mentve
+Tidal Cache full: %u of %u songs saved	Tidal Cache full: %u of %u songs saved	A Tidal-gyorsítótár megtelt: %u / %u dal mentve
+Downloaded %u of %u song	Downloaded %u of %u song	Letöltve: %u / %u dal
+Downloaded %u of %u songs	Downloaded %u of %u songs	Letöltve: %u / %u dal
+Nothing to play next	Nothing to play next	Nincs következő lejátszandó
+Queue changed	Queue changed	A várólista megváltozott
+Never	Never	Soha
+USB DAC Charging: %s	USB DAC Charging: %s	USB DAC töltése: %s
+Spectrum	Spectrum	Spektrum
+Oscilloscope	Oscilloscope	Oszcilloszkóp
+VU Meters	VU Meters	VU-méterek
+Halo	Halo	Halo
+Pulsar	Pulsar	Pulsar
+Contour	Contour	Kontúr
+More	More	Továbbiak
+A-B Repeat	A-B Repeat	A-B ismétlés
+Speed	Speed	Sebesség
+*Only for 48 kHz and below	*Only for 48 kHz and below	*Csak 48 kHz-ig
+No lyrics	No lyrics	Nincs dalszöveg
+Genre	Genre	Műfaj
+Size	Size	Méret
+Year	Year	Év
+Format	Format	Formátum
+Bit Depth	Bit Depth	Bitmélység
+Bit Rate	Bit Rate	Bitráta
+Sample Rate	Sample Rate	Mintavételi frekvencia
+Auto Scan	Auto Scan	Automatikus beolvasás
+Update Library Now	Update Library Now	Könyvtár frissítése most
+Scan Folders	Scan Folders	Mappák beolvasása
+OK	OK	OK
+Bluetooth	Bluetooth	Bluetooth
+Key Lock	Key Lock	Gombzár
+Low Gain	Low Gain	Alacsony erősítés
+USB Storage	USB Storage	USB-tároló
+Playback	Playback	Lejátszás
+Custom	Custom	Egyéni
+Reset	Reset	Visszaállítás
+Open this address in a browser:	Open this address in a browser:	Nyissa meg ezt a címet egy böngészőben:
+Downloaded	Downloaded	Letöltve
+Baidu Netdisk	Baidu Netdisk	Baidu Netdisk
+Sign In	Sign In	Bejelentkezés
+Scan with the Baidu app to sign in	Scan with the Baidu app to sign in	A bejelentkezéshez olvassa be a Baidu alkalmazással
+Baidu encryption protects your privacy	Baidu encryption protects your privacy	A Baidu titkosítása védi az adatait
+Bluetooth RF test: connect from a computer	Bluetooth RF test: connect from a computer	Bluetooth RF-teszt: csatlakozzon számítógépről
+Press Next to exit	Press Next to exit	A kilépéshez nyomja meg a Következőt
+Brightness Test	Brightness Test	Fényerőteszt
+Next	Next	Következő
+Bluetooth Test	Bluetooth Test	Bluetooth-teszt
+Down	Down	Le
+Up	Up	Fel
+Swipe Left	Swipe Left	Húzás balra
+Swipe Right	Swipe Right	Húzás jobbra
+Key Test	Key Test	Gombteszt
+Headphone Test	Headphone Test	Fejhallgatóteszt
+Plug in single-ended headphones	Plug in single-ended headphones	Csatlakoztasson aszimmetrikus fejhallgatót
+Play (left male, right female)	Play (left male, right female)	Lejátszás (balra férfihang, jobbra női hang)
+Bluetooth Receiver Test	Bluetooth Receiver Test	Bluetooth-vevőteszt
+Battery Test	Battery Test	Akkumulátorteszt
+Battery:	Battery:	Akku:
+Charging:	Charging:	Töltés:
+microSD Test	microSD Test	microSD-teszt
+Touch Test	Touch Test	Érintésteszt
+Wi-Fi Test	Wi-Fi Test	Wi-Fi-teszt
+Artist	Artist	Előadó
+Export Playlists	Export Playlists	Lejátszási listák exportálása
+Playlist	Playlist	Lejátszási lista
+0 songs	0 songs	0 dal
+System	System	Rendszer
+Rockbox	Rockbox	Rockbox
+Baker Island	Baker Island	Baker-sziget
+Midway	Midway	Midway
+Honolulu	Honolulu	Honolulu
+Anchorage	Anchorage	Anchorage
+Los Angeles	Los Angeles	Los Angeles
+Denver	Denver	Denver
+Mexico City	Mexico City	Mexikóváros
+New York	New York	New York
+Halifax	Halifax	Halifax
+St. John's	St. John's	St. John's
+Buenos Aires	Buenos Aires	Buenos Aires
+Azores	Azores	Azori-szigetek
+London	London	London
+Amsterdam	Amsterdam	Amszterdam
+Bucharest	Bucharest	Bukarest
+Kuwait	Kuwait	Kuvait
+Tehran	Tehran	Teherán
+Muscat	Muscat	Maszkat
+Kabul	Kabul	Kabul
+Karachi	Karachi	Karacsi
+Dhaka	Dhaka	Dakka
+Bangkok	Bangkok	Bangkok
+Shanghai	Shanghai	Sanghaj
+Tokyo	Tokyo	Tokió
+Adelaide	Adelaide	Adelaide
+Sydney	Sydney	Sydney
+Fiji	Fiji	Fidzsi
+Marquesas	Marquesas	Marquesas
+South Georgia	South Georgia	Dél-Georgia
+Colombo	Colombo	Colombo
+Kathmandu	Kathmandu	Katmandu
+Yangon	Yangon	Rangún
+Eucla	Eucla	Eucla
+L. Howe	L. Howe	L. Howe
+Noumea	Noumea	Nouméa
+Chatham	Chatham	Chatham
+Tongatapu	Tongatapu	Tongatapu
+Kiritimati	Kiritimati	Kiritimati
+Chicago	Chicago	Chicago
+Phoenix	Phoenix	Phoenix
+Kolkata	Kolkata	Kolkata
+Brisbane	Brisbane	Brisbane
+Auckland	Auckland	Auckland
+Status Bar	Status Bar	Állapotsor
+Minimal	Minimal	Minimális
+Modern	Modern	Modern
+Classic	Classic	Klasszikus
+Show Wordmark	Show Wordmark	Felirat megjelenítése
+Library on Home	Library on Home	Könyvtár a Kezdőlapon
+Row Preview	Row Preview	Sorelőnézet
+Row Art	Row Art	Sorborító
+Classic Blue	Classic Blue	Klasszikus kék

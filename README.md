@@ -24,6 +24,35 @@ It also carries an Arabic font, so Arabic, Persian and Urdu titles, artists, alb
 | ภาษาไทย | `lang/th.tsv` |
 | 繁體中文 | `lang/zh_HK.tsv` |
 | Українська | `lang/uk.tsv` |
+| Čeština | `lang/cs.tsv` |
+| Português (Brasil) | `lang/pt_BR.tsv` |
+| Português (Portugal) | `lang/pt_PT.tsv` |
+| Svenska | `lang/sv.tsv` |
+| Română | `lang/ro.tsv` |
+| Català | `lang/ca.tsv` |
+| Беларуская | `lang/be.tsv` |
+| Suomi | `lang/fi.tsv` |
+| Dansk | `lang/da.tsv` |
+| Nederlands | `lang/nl.tsv` |
+| Türkçe | `lang/tr.tsv` |
+| Magyar | `lang/hu.tsv` |
+| Lietuvių | `lang/lt.tsv` |
+| Slovenščina | `lang/sl.tsv` |
+| Valencià | `lang/ca_valencia.tsv` |
+| العربية | `lang/ar.tsv` |
+| Slovenčina | `lang/sk.tsv` |
+| Bosanski | `lang/bs.tsv` |
+| Tiếng Việt | `lang/vi.tsv` |
+| Norsk bokmål | `lang/nb.tsv` |
+| Bahasa Indonesia | `lang/id.tsv` |
+| Orangutan | `lang/ook.tsv` |
+
+Arabic reads right to left with its letters joined, in the same layout as every other language: Q2 Pod's pages aren't mirrored. Not here yet:
+
+- **Hebrew:** the pack's font has no Hebrew letters.
+- **Kazakh:** the Q2's font lacks ә, ғ, қ, ң, ө, ұ, ү and һ.
+
+Romanian is written with ş and ţ (cedilla), as the Q2's font has no ș and ț. Orangutan is every word as "Ook".
 
 ## A table
 

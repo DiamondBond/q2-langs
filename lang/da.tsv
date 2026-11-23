@@ -1,0 +1,1181 @@
+# Dansk
+History_record	History record	Historik
+about_cardcap	Card Capacity	Kortets kapacitet
+about_cardremain	Remaining	Ledig
+about_ipaddr	IP Address	IP-adresse
+about_model	Model	Model
+about_more	*Our sincere thanks go to the DiamondBond team and all its enthusiasts for their ingenuity, outstanding solutions, and generous contributions.	*Vores oprigtige tak går til DiamondBond-holdet og alle dets entusiaster for deres opfindsomhed, fremragende løsninger og generøse bidrag.
+about_sn	Serial Number	Serienummer
+about_version	Version	Version
+about_wifimac	Wi-Fi MAC	Wi-Fi-MAC
+album	Album	Album
+album	Album	Album
+albumsinger	Album artist	Albumkunstner
+allmusic	All Songs	Alle sange
+audio_settings	Audio settings	Lydindstillinger
+baidu_login	Log In	Log ind
+baidu_login_tips1	Please use Baidu Netdisk or Baidu App to scan the code to login	Brug Baidu Netdisk eller Baidu-appen til at scanne koden og logge ind
+baidu_login_tips2	Baidu encryption technology protects your privacy and security	Baidus kryptering beskytter dit privatliv og din sikkerhed
+baidu_loginout	Log Out	Log ud
+baidunet_floderinfo_failed	Failed to get file list	Fillisten kunne ikke hentes
+batch_addplaylist	Add to Playlist	Føj til afspilningsliste
+bt_adjvol	Bluetooth Headset Volume Control	Lydstyrke på Bluetooth-headset
+bt_compatiabledev	Compatible Device	Kompatibel enhed
+bt_name	Bluetooth Name	Bluetooth-navn
+bt_paireddev	Paired Device	Parret enhed
+bt_quality	Quality	Kvalitet
+bt_search	Scan now	Søg nu
+btcode_aac	AAC	AAC
+btcode_aptx	aptX	aptX
+btcode_aptxhd	aptX HD	aptX HD
+btcode_ldacauto	LDAC Connection (auto)	LDAC-forbindelse (auto)
+btcode_ldachq	LDAC HQ	LDAC HQ
+btcode_ldacst	LDAC Standard	LDAC Standard
+btcode_sbc	SBC	SBC
+btcode_sbchq	SBC HQ	SBC HQ
+custom_eq	Custom	Brugerdefineret
+display_backlight	Brightness	Lysstyrke
+display_lighttime	Screen Off Time	Skærm slukkes efter
+display_screenlock	Lock Screen	Låseskærm
+dsdmode_d2p	D2P	D2P
+dsdmode_dop	DOP	DOP
+dsdmode_native	Native	Nativ
+eq_blues	Blues	Blues
+eq_classical	Classical	Klassisk
+eq_club	Club	Club
+eq_custom1	Custom1	Brugerdefineret 1
+eq_custom2	Custom2	Brugerdefineret 2
+eq_custom3	Custom3	Brugerdefineret 3
+eq_dance	Dance	Dance
+eq_doublebass	Sub-bass	Subbas
+eq_jazz	Jazz	Jazz
+eq_metal	Metal	Metal
+eq_only48kmsg	EQ only for files below 48kHz.	EQ kun for filer under 48 kHz.
+eq_pop	Pop	Pop
+eq_reset	Reset	Nulstil
+eq_rock	Rock	Rock
+eq_vocal	Vocal	Vokal
+fav	My Fav	Mine favoritter
+filter_delayfast	Low Delay Fast Roll-off	Lav forsinkelse, hurtig udtoning
+filter_delayslow	Low Delay Slow Roll-off	Lav forsinkelse, langsom udtoning
+filter_fast	Fast Roll-off	Hurtig udtoning
+filter_slow	Slow Roll-off	Langsom udtoning
+frequentplay	Frequent	Ofte afspillet
+gain_high	High	Høj
+gain_low	Low	Lav
+genre	Genre	Genre
+genre_statistics	Total %d songs	%d sange i alt
+hr	Hi-Res	Hi-Res
+keyboard_keyword	Please enter keyword	Indtast søgeord
+keyboard_netname	Please enter network name	Indtast netværksnavn
+keyboard_password	Please enter password	Indtast adgangskode
+keylock_all	Lock Volume & Buttons	Lås lydstyrke og knapper
+keylock_info	Only effective when the screen is off	Kun aktiv, når skærmen er slukket
+keylock_info2	Effective on Lockscreen and when Screen Off	Aktiv på låseskærmen og når skærmen er slukket
+keylock_key	Lock Buttons Only	Lås kun knapper
+keylock_volume	Lock Volume Only	Lås kun lydstyrke
+lan_english	English	English
+lan_french	Français	Français
+lan_german	Deutsch	Deutsch
+lan_italian	Italiano	Italiano
+lan_japanese	日本語	日本語
+lan_korean	한국어	한국어
+lan_polish	Polski	Polski
+lan_russian	Русский	Русский
+lan_simplified	简体中文	简体中文
+lan_spanish	español	español
+lan_thai	ภาษาไทย	ภาษาไทย
+lan_traditional	繁體中文	繁體中文
+lan_ukrainian	Українська	Українська
+lighttime_15s	15s	15 s
+lighttime_1min	1min	1 min
+lighttime_2min	2min	2 min
+lighttime_30min	30min	30 min
+lighttime_30s	30s	30 s
+lighttime_5min	5min	5 min
+lighttime_lyricmode	Lyrics mode	Sangtekst-tilstand
+lighttime_off	Off	Fra
+list_baidu	Baidu Netdisk	Baidu Netdisk
+list_tidal	TIDAL	TIDAL
+local_album	Albums	Albummer
+local_allmusic	Local Songs	Lokale sange
+local_allsongs	Songs	Sange
+local_fav	My Fav	Mine favoritter
+local_frequentplay	Frequent	Ofte afspillet
+local_genre	Genres	Genrer
+local_hr	Hi-Res	Hi-Res
+local_playlist	Playlists	Afspilningslister
+local_recentadd	Recently Added	Senest tilføjet
+local_recentplay	Recent	Senest afspillet
+local_songer	Artists	Kunstnere
+local_upmusic	Update Library	Opdatér bibliotek
+login_out	Logout	Log ud
+memplay_location	Location	Placering
+memplay_off	Off	Fra
+memplay_track	Track	Nummer
+msg_actionnotsupport	Non-local songs,not currently supported	Ikke-lokale sange understøttes ikke i øjeblikket
+msg_actionscan	Scan music?	Scan musik?
+msg_add_task	Please enter the URL of the file you want to download	Indtast URL'en på den fil, du vil downloade
+msg_addfailed	Adding Failed	Tilføjelsen mislykkedes
+msg_addfavsuccess	Added To Fav	Føjet til favoritter
+msg_addplaylistsuccess	Added To Playlist	Føjet til afspilningsliste
+msg_autoshutdown	Shutdown	Sluk
+msg_btabnormal	Bluetooth abnormal	Bluetooth-fejl
+msg_btinit_run	Bluetooth Starting	Bluetooth starter
+msg_btreconnect	Reconnect Bluetooth?	Opret Bluetooth-forbindelse igen?
+msg_cardeject	Audio Disconnected	Lyd frakoblet
+msg_cardinsert	Audio Connected	Lyd tilsluttet
+msg_checkfw	Checking FW	Kontrollerer firmware
+msg_checkfwerr	FW. Check Error	Fejl i firmwarekontrol
+msg_closesynclink	Please close SyncLink	Luk SyncLink
+msg_confirmupdate	Confirm Update?	Bekræft opdatering?
+msg_connected	Connected	Tilsluttet
+msg_connecting	Connecting	Opretter forbindelse
+msg_delalbum	Delete Album?	Slet album?
+msg_delalbumfailed	Failed To Delete Album	Albummet kunne ikke slettes
+msg_delalbumsuccess	Album Deleted	Album slettet
+msg_delartist	Delete Artist?	Slet kunstner?
+msg_delartistsuccess	Artist Deleted	Kunstner slettet
+msg_delete_task	Are you sure you want to delete the download task?	Vil du slette downloaden?
+msg_deletesource	Also delete source file	Slet også kildefilen
+msg_delfile	Are you sure you want to delete this file?	Vil du slette denne fil?
+msg_delfile	Delete File?	Slet fil?
+msg_delfilefailed	Failed To Delete File	Filen kunne ikke slettes
+msg_delfilesuccess	File Deleted	Fil slettet
+msg_delgenre	Delete Genre?	Slet genre?
+msg_delgenresuccess	Genre Deleted	Genre slettet
+msg_delplaylist	Delete Playlist?	Slet afspilningsliste?
+msg_delplaylistfailed	Failed To Delete Playlist	Afspilningslisten kunne ikke slettes
+msg_delplaylistsuccess	Playlist Deleted	Afspilningsliste slettet
+msg_delsong	Delete Song?	Slet sang?
+msg_delsongfailed	Failed To Delete Song	Sangen kunne ikke slettes
+msg_delsongsuccess	Song Deleted	Sang slettet
+msg_disconnected	Disconnected	Afbrudt
+msg_disonnectbt	Please disconnect the bluetooth device	Afbryd Bluetooth-enheden
+msg_downloadpath	Download path is	Downloadmappen er
+msg_exist_task	The download task already exists	Downloaden findes allerede
+msg_exitairplay	Quit AirPlay?	Afslut AirPlay?
+msg_exportplaylist	Export Playlist?	Eksportér afspilningsliste?
+msg_exportsuccess	Export successful	Eksport gennemført
+msg_factorysuccess	Restore to factory settings succeeded	Fabriksindstillinger gendannet
+msg_favsuccess	Added To Fav	Føjet til favoritter
+msg_file_exist	The file already exists	Filen findes allerede
+msg_importplaylist	Import Playlists?	Importér afspilningslister?
+msg_importsuccess	Successfully imported	Import gennemført
+msg_initsetsuccess	All settings initialized successfully	Alle indstillinger er nulstillet
+msg_latestfw	Latest Fw. Installed	Nyeste firmware er installeret
+msg_linkerror	WiFi Connection Error	Wi-Fi-forbindelsesfejl
+msg_lowarn	Line Out sets max volume,continue?	Line Out indstiller maksimal lydstyrke. Fortsæt?
+msg_lowpower	Low Battery	Lavt batteri
+msg_namenull	The name can't be empty	Navnet må ikke være tomt
+msg_netnameerr	Network Must Be Named	Netværket skal have et navn
+msg_no	Cancel	Annuller
+msg_no_storage	Storage is full.Some songs couldn't be added.	Lageret er fuldt. Nogle sange kunne ikke tilføjes.
+msg_noheadset	Playback is disabled without headphones.Please insert headphones.	Afspilning er slået fra uden hovedtelefoner. Tilslut hovedtelefoner.
+msg_nosongs	No songs in this folder	Ingen sange i denne mappe
+msg_notalbuminfo	This file has no Album data	Filen har ingen albumdata
+msg_notfile	File Not Found	Filen blev ikke fundet
+msg_notfolder	Folder not found	Mappen blev ikke fundet
+msg_notfoundfw	Fw. Not Found	Firmware blev ikke fundet
+msg_notmemory	Memory is not enough	Ikke nok hukommelse
+msg_notmemory	Out of memory	Hukommelsen er opbrugt
+msg_notnetwork	Network Disconnected	Netværk afbrudt
+msg_nototg	No OTG Found	Ingen OTG fundet
+msg_notplaylist	Playlist Not Found	Afspilningslisten blev ikke fundet
+msg_notsongerinfo	This file has no Artist data	Filen har ingen kunstnerdata
+msg_notsonglist	No Song List	Ingen sangliste
+msg_notspecdir	Folder not specified	Ingen mappe angivet
+msg_notsupport	Not Supported	Understøttes ikke
+msg_notsupportdel	Can't be removed	Kan ikke fjernes
+msg_nottf	No TF Card Found	Intet hukommelseskort fundet
+msg_otgeject	OTG Disconnected	OTG afbrudt
+msg_otginfoerr	Failed To Get Version Info	Versionsoplysninger kunne ikke hentes
+msg_otginsert	OTG Connected	OTG tilsluttet
+msg_paircode	Bluetooth Code	Bluetooth-kode
+msg_paired	Paired	Parret
+msg_playlistexist	Playlist Already Exists	Afspilningslisten findes allerede
+msg_playlistfull	Could not create playlist	Afspilningslisten kunne ikke oprettes
+msg_poweroff	Shut Down?	Sluk?
+msg_resetdbsuccess	Reset completed	Nulstilling gennemført
+msg_restarting	Restarting	Genstarter
+msg_shortpasswd	8 Digits PIN At Least	Mindst 8 cifre i PIN
+msg_start_download_task	start the download task	Start download
+msg_stop_download_task	stop the download task	Stop download
+msg_testmode	Enter test mode?	Gå til testtilstand?
+msg_tfeject	TF Card Removed	Hukommelseskort fjernet
+msg_tfinsert	TF Card Inserted	Hukommelseskort isat
+msg_unpaired	Unpaired	Parring ophævet
+msg_unpairing	unpair?	Ophæv parring?
+msg_unsupportformat	Unsupported format	Formatet understøttes ikke
+msg_update	Confirmed	Bekræftet
+msg_wificancelsave	Delete Record?	Slet post?
+msg_wifidisconnect	Disconnect Now?	Afbryd nu?
+msg_yes	OK	OK
+navigation_all	All	Alle
+netservice_airplay	AirPlay	AirPlay
+netservice_dlna	DLNA	DLNA
+netservice_wifitrans	Wi-Fi File Transfer	Wi-Fi-filoverførsel
+no_search	No search results	Ingen søgeresultater
+not_allmusic	Currently no songs	Ingen sange endnu
+otgdownload_percent	FW Downloaded	Firmware downloadet
+outputway	Output Options	Udgangsindstillinger
+play_all	Play All	Afspil alle
+player_abrepeat	AB Repeat	A-B-gentagelse
+player_albuminfo	Look up Album	Slå album op
+player_bitdepth	Bit Depth	Bitdybde
+player_bitrate	Bitrate	Bitrate
+player_delete	Delete Song	Slet sang
+player_encoding	Encoding	Kodning
+player_era	Year	År
+player_filesize	File Size	Filstørrelse
+player_location	Location	Placering
+player_msgmul	*Affecting only files below 48khz	*Gælder kun filer under 48 kHz
+player_multiple	Multiple Speed	Afspilningshastighed
+player_nolyric	No Lyrics	Ingen sangtekst
+player_onlinesearch	Download Cover & Lyrics	Download cover og sangtekst
+player_playlist	Queue	Kø
+player_samplerate	Sample Rate	Samplingfrekvens
+player_songerinfo	Look up Artist	Slå kunstner op
+player_unknown	Unknown	Ukendt
+player_unknown	Unknown Artist	Ukendt kunstner
+playlist	Playlist	Afspilningsliste
+playlist_create	New playlist	Ny afspilningsliste
+playlist_export	Export playlist	Eksportér afspilningsliste
+playlist_import	Import playlist	Importér afspilningsliste
+playmode_listplay	List Play	Afspil liste
+playmode_repeatall	Repeat All	Gentag alle
+playmode_repeattrack	Repeat Track	Gentag nummer
+playmode_shuffle	Shuffle	Bland
+playset_balance	Channel Balance	Kanalbalance
+playset_bootvol	Default Volume	Standardlydstyrke
+playset_covermode	Enlarged Album Art	Stort albumcover
+playset_dsdoutput	DSD Output Mode	DSD-udgangstilstand
+playset_eq	EQ	EQ
+playset_filter	Digital Filters	Digitale filtre
+playset_foldercover	Folder Album Cover	Mappens albumcover
+playset_folderjump	Folder Skip	Spring mappe over
+playset_gain	Gain	Forstærkning
+playset_gapless	Gapless	Gapless
+playset_maxvol	Max Volume	Maks. lydstyrke
+playset_memplay	Memory Playback	Husk afspilning
+playset_noplay	Require Output (Beta)	Kræv udgang (beta)
+playset_playmode	Play Mode	Afspilningstilstand
+playset_replaygain	ReplayGain	ReplayGain
+playset_usbaudiovol	USB Audio Output	USB-lydudgang
+playset_volcover	Volume and Album Display	Visning af lydstyrke og album
+powerm_deep_off	Standby	Standby
+powerm_sleep	Sleep Timer	Sovetimer
+recentadd	Recently Added	Senest tilføjet
+recentplay	Recent	Senest afspillet
+rename	Rename	Omdøb
+renamesuccess	Successfully renamed	Omdøbt
+replaygain_track	Song	Sang
+reset_factory	Full Factory Reset	Fuld fabriksnulstilling
+reset_initdatabase	Reset Database	Nulstil database
+reset_initset	Reset Settings Only	Nulstil kun indstillinger
+scan_automatic	Automatic Update	Automatisk opdatering
+scan_now	Scan music now	Scan musik nu
+scan_now	Scan music now	Scan musik nu
+scan_spec	Scan specified folders	Scan bestemte mapper
+scan_spec	Scan specified folders	Scan bestemte mapper
+scan_startscan	Scan	Scan
+scan_updatefinish	Library Updated,%d Updated	Biblioteket er opdateret, %d opdateret
+scan_updating	Updating No.%d	Opdaterer nr. %d
+scover_cover	Cover	Cover
+scover_lyric	Lyrics	Sangtekst
+screenlock_about	Custom Lock Screen	Eget låseskærmsbillede
+screenlock_info1	1. Put the pictures in a folder named "lockscreenimage" at the top of the card.	1. Læg billederne i en mappe med navnet "lockscreenimage" øverst på kortet.
+screenlock_info2	2. PNG or JPG, exactly 375 x 320 pixels, under 1 MB each.	2. PNG eller JPG, præcis 375 x 320 pixel, under 1 MB hver.
+screenlock_info3	3. Up to 5 pictures.	3. Op til 5 billeder.
+screenlock_timeshow	Show Time	Vis klokkeslæt
+search_tips1	Search for music,artists,albums,genres	Søg efter musik, kunstnere, albummer, genrer
+search_track	Track	Nummer
+singerbyalbum	Sort by album artist	Sortér efter albumkunstner
+singerbysong	Sort by song artist	Sortér efter sangkunstner
+small_album	Albums	Albummer
+small_coverflow	Album Wall	Albumvæg
+small_folder	Folder	Mappe
+small_local	Local Songs	Lokale sange
+small_playing	Now Playing	Afspilles nu
+small_playset	Playback	Afspilning
+small_stream	Streaming	Streaming
+small_sysset	System	System
+songer	Artist	Kunstner
+sort_addtime	Time added	Tilføjet
+sort_alphabet	Alphabetical	Alfabetisk
+sort_filename	File name	Filnavn
+sort_format	File format	Filformat
+sort_time_asc	Time added (ascending)	Tilføjet (stigende)
+sort_time_desc	Time added (descending)	Tilføjet (faldende)
+standbyoff_10min	10min	10 min
+standbyoff_1min	1min	1 min
+standbyoff_3min	3min	3 min
+standbyoff_5min	5min	5 min
+standbyoff_deep	Auto-standby	Auto-standby
+standbyoff_deepinfo	After 5 minute of idle,device will go into standby mode.	Efter 5 minutters inaktivitet går enheden på standby.
+standbyoff_saver	Auto-shutdown	Automatisk slukning
+synclink_off	Off	Fra
+system_about	About	Om
+system_carmode	In-Vehicle Mode	Biltilstand
+system_display	Display	Skærm
+system_general	General	Generelt
+system_keylock	Buttons Lock	Knaplås
+system_keytone	Key Tone	Knaplyd
+system_language	Language	Sprog
+system_navshow	Show Navigation Bar	Vis navigationslinje
+system_netservice	Network	Netværk
+system_powermanager	Power	Strøm
+system_prove	Certification	Certificering
+system_reset	Reset Settings	Nulstil indstillinger
+system_sys	System	System
+system_time	Date & Time	Dato og tid
+system_update	System Update	Systemopdatering
+system_wheelmode	Wheel Function	Hjulfunktion
+system_wifiset	Wireless	Trådløst
+timedate_24h	24-Hour	24 timer
+timedate_auto	Automatic Time Set	Indstil tid automatisk
+timedate_manual	Set Time Manually	Indstil tid manuelt
+timezone_gmt+1	(GMT+01:00)Europe/Amsterdam	(GMT+01:00)Europe/Amsterdam
+timezone_gmt+10	(GMT+10:00)Australia/Sydney	(GMT+10:00)Australia/Sydney
+timezone_gmt+12	(GMT+12:00)Pacific/Fiji	(GMT+12:00)Pacific/Fiji
+timezone_gmt+2	(GMT+02:00)Europe/Bucharest	(GMT+02:00)Europe/Bucharest
+timezone_gmt+3	(GMT+03:00)Asia/Kuwait	(GMT+03:00)Asia/Kuwait
+timezone_gmt+3_30	(GMT+03:30)Asia/Tehran	(GMT+03:30)Asia/Tehran
+timezone_gmt+4	(GMT+04:00)Asia/Muscat	(GMT+04:00)Asia/Muscat
+timezone_gmt+4_30	(GMT+04:30)Asia/Kabul	(GMT+04:30)Asia/Kabul
+timezone_gmt+5	(GMT+05:00)Asia/Karachi	(GMT+05:00)Asia/Karachi
+timezone_gmt+6	(GMT+06:00)Asia/Almaty	(GMT+06:00)Asia/Almaty
+timezone_gmt+7	(GMT+07:00)Asia/Bangkok	(GMT+07:00)Asia/Bangkok
+timezone_gmt+8	(GMT+08:00)Asia/Shanghai	(GMT+08:00)Asia/Shanghai
+timezone_gmt+9	(GMT+09:00)Asia/Tokyo	(GMT+09:00)Asia/Tokyo
+timezone_gmt+9_30	(GMT+09:30)Australia/Adelaide	(GMT+09:30)Australia/Adelaide
+timezone_gmt-0	(GMT 00:00)Europe/London	(GMT 00:00)Europe/London
+timezone_gmt-1	(GMT-01:00)Atlantic/Azores	(GMT-01:00)Atlantic/Azores
+timezone_gmt-10	(GMT-10:00)Pacific/Honolulu	(GMT-10:00)Pacific/Honolulu
+timezone_gmt-11	(GMT-11:00)Pacific/Midway	(GMT-11:00)Pacific/Midway
+timezone_gmt-12	(GMT-12:00)Pacific/Kwajalein	(GMT-12:00)Pacific/Kwajalein
+timezone_gmt-3	(GMT-03:00)America/Argentina/Buenos_Aires	(GMT-03:00)America/Argentina/Buenos_Aires
+timezone_gmt-3_30	(GMT-03:30)America/St_Johns	(GMT-03:30)America/St_Johns
+timezone_gmt-4	(GMT-04:00)Canada/Atlantic	(GMT-04:00)Canada/Atlantic
+timezone_gmt-5	(GMT-05:00)America/New_York	(GMT-05:00)America/New_York
+timezone_gmt-6	(GMT-06:00)America/Mexico_City	(GMT-06:00)America/Mexico_City
+timezone_gmt-7	(GMT-07:00)America/Denver	(GMT-07:00)America/Denver
+timezone_gmt-8	(GMT-08:00)America/Tijuana	(GMT-08:00)America/Tijuana
+timezone_gmt-9	(GMT-09:00)America/Anchorage	(GMT-09:00)America/Anchorage
+timezone_select	Time Zone Selection	Valg af tidszone
+title_downloaded	Downloaded	Downloadet
+title_downloading	Downloading	Downloader
+title_more	More	Mere
+title_sort	List sort order	Sortering af liste
+update_online	Network update	Netværksopdatering
+update_tf	TF card update	Opdatering fra hukommelseskort
+usb_chargeswitch	USB DAC Charging	USB DAC-opladning
+usbmode_audio	USB AUDIO	USB-LYD
+usbmode_connect	USB Connected	USB tilsluttet
+usbmode_dac	USB DAC	USB DAC
+usbmode_disconnect	USB Disconnected	USB afbrudt
+usbmode_storge	USB Storage	USB-lager
+usbvol_adjust	Volume Variable	Variabel lydstyrke
+usbvol_fixed	Volume Fixed	Fast lydstyrke
+wheelmode_menu	Menu Mode	Menutilstand
+wheelmode_volume	Volume Mode	Lydstyrketilstand
+wifi_addnetwork	Add Network	Tilføj netværk
+wifi_choice	Select Network	Vælg netværk
+wifi_scan	Scanning	Søger
+wifiset_bt	Bluetooth	Bluetooth
+wifiset_synclink	SyncLink	SyncLink
+wifiset_wifi	Wi-Fi	Wi-Fi
+wifits_info1	Enter the following URL into your internet browser:	Indtast denne URL i din browser:
+Search	Search	Søg
+Streaming	Streaming	Streaming
+Library's Games	Library's Games	Bibliotek → Spil
+Library's Apps	Library's Apps	Bibliotek → Apps
+Network settings	Network settings	Netværksindstillinger
+Wait until the App Store finishes	Wait until the App Store finishes	Vent, til App Store er færdig
+It isn't on the card	It isn't on the card	Findes ikke på kortet
+It couldn't start	It couldn't start	Kunne ikke starte
+Stop %s	Stop %s	Stop %s
+Loading…	Loading…	Indlæser…
+More…	More…	Mere…
+Working…	Working…	Arbejder…
+Starting %s…	Starting %s…	Starter %s…
+Retry	Retry	Prøv igen
+Install it again in Library → App Store	Install it again in Library → App Store	Installér den igen under Bibliotek → App Store
+Cancel	Cancel	Annuller
+%s isn't running	%s isn't running	%s kører ikke
+%s didn't answer	%s didn't answer	%s svarede ikke
+Too long	Too long	For lang
+%s stopped	%s stopped	%s stoppet
+%s isn't on the card	%s isn't on the card	%s findes ikke på kortet
+Apps	Apps	Apps
+No apps	No apps	Ingen apps
+Not running	Not running	Kører ikke
+No code yet	No code yet	Ingen kode endnu
+Connect the Q2 to Wi-Fi	Connect the Q2 to Wi-Fi	Forbind Q2 til Wi-Fi
+Open it again	Open it again	Åbn den igen
+Wait a moment	Wait a moment	Vent et øjeblik
+Then come back here	Then come back here	Kom så tilbage hertil
+Scan with your phone's	Scan with your phone's	Scan med telefonens
+Scan with your	Scan with your	Scan med
+camera	camera	kamera
+phone's camera	phone's camera	telefonens kamera
+or open	or open	eller åbn
+PIN	PIN	PIN
+Couldn't import %s	Couldn't import %s	%s kunne ikke importeres
+Playlists updated	Playlists updated	Afspilningslister opdateret
+No memory card	No memory card	Intet hukommelseskort
+Games	Games	Spil
+%d update	%d update	%d opdatering
+%d updates	%d updates	%d opdateringer
+INSTALL	INSTALL	INSTALLÉR
+UPDATE	UPDATE	OPDATÉR
+INSTALLED	INSTALLED	INSTALLERET
+AM	AM	AM
+PM	PM	PM
+Jan	Jan	jan
+Feb	Feb	feb
+Mar	Mar	mar
+Apr	Apr	apr
+May	May	maj
+Jun	Jun	jun
+Jul	Jul	jul
+Aug	Aug	aug
+Sep	Sep	sep
+Oct	Oct	okt
+Nov	Nov	nov
+Dec	Dec	dec
+The card is in use over USB	The card is in use over USB	Kortet bruges via USB
+Storage unavailable	Storage unavailable	Lager ikke tilgængeligt
+The card is full	The card is full	Kortet er fuldt
+Couldn't save	Couldn't save	Kunne ikke gemme
+Saved to battery-log.txt	Saved to battery-log.txt	Gemt i battery-log.txt
+Battery History	Battery History	Batterihistorik
+Unplug to start	Unplug to start	Tag stikket ud for at starte
+Export Log	Export Log	Eksportér log
+Card theme turned off after a failed start	Card theme turned off after a failed start	Korttema slået fra efter mislykket start
+Card theme removed. Restart to finish	Card theme removed. Restart to finish	Korttema fjernet. Genstart for at afslutte
+Card theme file can't be used	Card theme file can't be used	Korttemafilen kan ikke bruges
+Card theme saved. Restart to apply	Card theme saved. Restart to apply	Korttema gemt. Genstart for at anvende
+Could not save card theme	Could not save card theme	Korttemaet kunne ikke gemmes
+Done	Done	Færdig
+space	space	mellemrum
+New Playlist	New Playlist	Ny afspilningsliste
+Playlist Name	Playlist Name	Navn på afspilningsliste
+Rename	Rename	Omdøb
+Songs	Songs	Sange
+Artists	Artists	Kunstnere
+Albums	Albums	Albummer
+Genres	Genres	Genrer
+Off	Off	Fra
+On	On	Til
+%d of %d songs	%d of %d songs	%d af %d sange
+Updating Library	Updating Library	Opdaterer bibliotek
+Connected	Connected	Tilsluttet
+Eject before disconnecting	Eject before disconnecting	Skub ud, før du afbryder
+%d:%02d AM	%d:%02d AM	%d:%02d AM
+%d:%02d PM	%d:%02d PM	%d:%02d PM
+Save	Save	Gem
+Sort: Album	Sort: Album	Sortering: Album
+Sort: Artist	Sort: Artist	Sortering: Kunstner
+Sort: Recently Added	Sort: Recently Added	Sortering: Senest tilføjet
+Sort: Most Played	Sort: Most Played	Sortering: Mest afspillede
+Sort: Random	Sort: Random	Sortering: Tilfældig
+Sort: Rating	Sort: Rating	Sortering: Vurdering
+Sort: Year	Sort: Year	Sortering: År
+%u song	%u song	%u sang
+%u songs	%u songs	%u sange
+All albums	All albums	Alle albummer
+Preparing artwork… %d/%d	Preparing artwork… %d/%d	Klargør cover… %d/%d
+Update Library first	Update Library first	Opdatér først biblioteket
+%u Song	%u Song	%u sang
+%u Songs	%u Songs	%u sange
+%u Album	%u Album	%u album
+%u Albums	%u Albums	%u albummer
+%u Game	%u Game	%u spil
+%u Games	%u Games	%u spil
+%u Service	%u Service	%u tjeneste
+%u Services	%u Services	%u tjenester
+%u.%u GB Free	%u.%u GB Free	%u,%u GB ledig
+Library	Library	Bibliotek
+Settings	Settings	Indstillinger
+Crossfade: %d s	Crossfade: %d s	Crossfade: %d s
+Crossfade: Off	Crossfade: Off	Crossfade: Fra
+Wheel Sensitivity: %d%%	Wheel Sensitivity: %d%%	Hjulfølsomhed: %d%%
+Resume Songs: %d min	Resume Songs: %d min	Genoptag sange: %d min
+Resume Songs: Off	Resume Songs: Off	Genoptag sange: Fra
+Night Shift: %dK	Night Shift: %dK	Night Shift: %dK
+Night Shift: Auto	Night Shift: Auto	Night Shift: Auto
+Night Shift: Off	Night Shift: Off	Night Shift: Fra
+Mono Audio	Mono Audio	Monolyd
+Swap L/R	Swap L/R	Byt V/H
+Crossfade needs Gapless	Crossfade needs Gapless	Crossfade kræver Gapless
+Auto	Auto	Auto
+Night Shift	Night Shift	Night Shift
+Resume Songs	Resume Songs	Genoptag sange
+Wheel Sensitivity	Wheel Sensitivity	Hjulfølsomhed
+Crossfade	Crossfade	Crossfade
+Measuring song lengths…	Measuring song lengths…	Måler sangenes længde…
+Sudoku	Sudoku	Sudoku
+Solitaire	Solitaire	Kabale
+Snake	Snake	Snake
+Paused	Paused	Sat på pause
+Continue	Continue	Fortsæt
+Quit	Quit	Afslut
+New best!	New best!	Ny rekord!
+Game over	Game over	Spillet er slut
+Centre: play again	Centre: play again	Midten: spil igen
+Play/Pause: resume	Play/Pause: resume	Afspil/Pause: fortsæt
+New game?	New game?	Nyt spil?
+Centre: yes   Return: no	Centre: yes   Return: no	Midten: ja   Tilbage: nej
+Solved!	Solved!	Løst!
+Play/Pause: new game	Play/Pause: new game	Afspil/Pause: nyt spil
+Score	Score	Point
+Best	Best	Bedste
+Level	Level	Niveau
+Centre	Centre	Midten
+You win!	You win!	Du vandt!
+Shuffle	Shuffle	Bland
+Era	Era	Årti
+Ratings	Ratings	Vurderinger
+Most Played	Most Played	Mest afspillede
+Long Songs	Long Songs	Lange sange
+App Store	App Store	App Store
+Upload Scrobbles	Upload Scrobbles	Upload scrobbles
+Tidal Downloads	Tidal Downloads	Tidal-downloads
+Internet Radio	Internet Radio	Internetradio
+Configuration	Configuration	Konfiguration
+Restart to apply?	Restart to apply?	Genstart for at anvende?
+Couldn't copy the language	Couldn't copy the language	Sproget kunne ikke kopieres
+Too many songs to shuffle	Too many songs to shuffle	For mange sange at blande
+Shuffle Songs	Shuffle Songs	Bland sange
+Shuffle Albums	Shuffle Albums	Bland albummer
+Shuffle Folders	Shuffle Folders	Bland mapper
+Albums and folders take a moment to shuffle	Albums and folders take a moment to shuffle	Albummer og mapper tager et øjeblik at blande
+No plays yet	No plays yet	Ingen afspilninger endnu
+%u play	%u play	%u afspilning
+%u plays	%u plays	%u afspilninger
+No downloads yet	No downloads yet	Ingen downloads endnu
+Clear All Downloads…	Clear All Downloads…	Ryd alle downloads…
+%u track	%u track	%u nummer
+%u tracks	%u tracks	%u numre
+Remove Downloads?	Remove Downloads?	Fjern downloads?
+Keeps settings	Keeps settings	Beholder indstillinger
+Remove	Remove	Fjern
+It isn't on the card any more	It isn't on the card any more	Findes ikke længere på kortet
+%02ds	%02ds	%02d'erne
+%ds	%ds	%d'erne
+Era unavailable	Era unavailable	Årti ikke tilgængeligt
+Album not found	Album not found	Albummet blev ikke fundet
+%u album	%u album	%u album
+%u albums	%u albums	%u albummer
+Play All	Play All	Afspil alle
+Every song, shuffled	Every song, shuffled	Alle sange, blandet
+No dated albums yet	No dated albums yet	Ingen daterede albummer endnu
+No songs over 10 minutes	No songs over 10 minutes	Ingen sange over 10 minutter
+Measuring songs… %d/%d	Measuring songs… %d/%d	Måler sange… %d/%d
+Measuring songs…	Measuring songs…	Måler sange…
+Release to search	Release to search	Slip for at søge
+Pull to search	Pull to search	Træk for at søge
+Sleep Timer	Sleep Timer	Sovetimer
+Lock Screen	Lock Screen	Låseskærm
+Accent	Accent	Accentfarve
+Everything	Everything	Alt
+Buttons only	Buttons only	Kun knapper
+Volume only	Volume only	Kun lydstyrke
+Wake: Single Press	Wake: Single Press	Vækning: Ét tryk
+Wake: Double Press	Wake: Double Press	Vækning: Dobbelt tryk
+Artist View: Grid	Artist View: Grid	Kunstnervisning: Gitter
+Artist View: Cover Flow	Artist View: Cover Flow	Kunstnervisning: Cover Flow
+Artist View: List	Artist View: List	Kunstnervisning: Liste
+Year Order: Newest First	Year Order: Newest First	Årsrækkefølge: Nyeste først
+Year Order: Oldest First	Year Order: Oldest First	Årsrækkefølge: Ældste først
+Artists: Artist	Artists: Artist	Kunstnere: Kunstner
+Artists: Album Artist	Artists: Album Artist	Kunstnere: Albumkunstner
+Resume on Connect: Off	Resume on Connect: Off	Genoptag ved tilslutning: Fra
+Resume on Connect: On	Resume on Connect: On	Genoptag ved tilslutning: Til
+Clock: Standard	Clock: Standard	Ur: Standard
+Clock: Large	Clock: Large	Ur: Stort
+Artist Album Order: Year	Artist Album Order: Year	Kunstnerens albummer: År
+Artist Album Order: A–Z	Artist Album Order: A–Z	Kunstnerens albummer: A–Å
+Volume Guard: Off	Volume Guard: Off	Lydstyrkebeskyttelse: Fra
+Volume Guard: On	Volume Guard: On	Lydstyrkebeskyttelse: Til
+Hold Return: Recent	Hold Return: Recent	Hold Tilbage: Senest afspillet
+Hold Return: Home	Hold Return: Home	Hold Tilbage: Hjem
+Standby Limit: Off	Standby Limit: Off	Standbygrænse: Fra
+Standby Limit: %u h	Standby Limit: %u h	Standbygrænse: %u t
+Refresh Cover Flow	Refresh Cover Flow	Opdatér Cover Flow
+Playlist View: List	Playlist View: List	Visning af afspilningslister: Liste
+Playlist View: Cover Flow	Playlist View: Cover Flow	Visning af afspilningslister: Cover Flow
+Update Notifications: Off	Update Notifications: Off	Opdateringsbeskeder: Fra
+Update Notifications: On	Update Notifications: On	Opdateringsbeskeder: Til
+Album View: List	Album View: List	Albumvisning: Liste
+Album View: Grid	Album View: Grid	Albumvisning: Gitter
+Charge Limit (%u%%)	Charge Limit (%u%%)	Opladningsgrænse (%u%%)
+Resume on Connect	Resume on Connect	Genoptag ved tilslutning
+Volume Guard	Volume Guard	Lydstyrkebeskyttelse
+Control Device Volume	Control Device Volume	Styr enhedens lydstyrke
+Key Tone	Key Tone	Knaplyd
+In-Vehicle Mode	In-Vehicle Mode	Biltilstand
+Smart Wi-Fi	Smart Wi-Fi	Smart Wi-Fi
+Enlarged Album Art	Enlarged Album Art	Stort albumcover
+Folder Album Cover	Folder Album Cover	Mappens albumcover
+Fast Navigation	Fast Navigation	Hurtig navigation
+Scan Song Durations	Scan Song Durations	Scan sangenes længde
+Position Bar	Position Bar	Positionslinje
+Hide Streaming	Hide Streaming	Skjul Streaming
+Hide Folder	Hide Folder	Skjul Mappe
+Hide Apps	Hide Apps	Skjul Apps
+Hide Games	Hide Games	Skjul Spil
+Hide App Store	Hide App Store	Skjul App Store
+Receive Audio	Receive Audio	Modtag lyd
+Log Failed Artwork	Log Failed Artwork	Log mislykkede covers
+Hide Duplicate Albums	Hide Duplicate Albums	Skjul dobbelte albummer
+Hide Duplicate Songs	Hide Duplicate Songs	Skjul dobbelte sange
+Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	Cover Flow genopbygger covers næste gang
+Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	Slå Bluetooth fra og til for at anvende
+Folder Root: %s	Folder Root: %s	Rodmappe: %s
+Folder Root: Card	Folder Root: Card	Rodmappe: Kort
+Library & Folders	Library & Folders	Bibliotek og mapper
+Press Centre to Change Mode	Press Centre to Change Mode	Tryk på Midten for at skifte tilstand
+Press Centre to Turn On or Off	Press Centre to Turn On or Off	Tryk på Midten for at slå til eller fra
+Press Centre When Finished	Press Centre When Finished	Tryk på Midten, når du er færdig
+OK to Disconnect	OK to Disconnect	Klar til frakobling
+Now Playing	Now Playing	Afspilles nu
+Cover Flow	Cover Flow	Cover Flow
+EQ	EQ	EQ
+Update Library	Update Library	Opdatér bibliotek
+Balance	Balance	Balance
+Home: Split	Home: Split	Hjem: Delt
+Home: Full	Home: Full	Hjem: Fuld
+Home: Carousel	Home: Carousel	Hjem: Karrusel
+Battery: Icon	Battery: Icon	Batteri: Ikon
+Battery: Percent	Battery: Percent	Batteri: Procent
+Battery: Icon + Percent	Battery: Icon + Percent	Batteri: Ikon + procent
+Battery: Percent Inside	Battery: Percent Inside	Batteri: Procent i ikon
+Light Mode: Off	Light Mode: Off	Lys tilstand: Fra
+Light Mode: On	Light Mode: On	Lys tilstand: Til
+Light Mode: Auto	Light Mode: Auto	Lys tilstand: Auto
+Accent: Card Theme	Accent: Card Theme	Accentfarve: Korttema
+Battery: Card Theme	Battery: Card Theme	Batteri: Korttema
+Light Mode: Card Theme	Light Mode: Card Theme	Lys tilstand: Korttema
+Accent: %s	Accent: %s	Accentfarve: %s
+Theme: %s	Theme: %s	Tema: %s
+Shortcut: None	Shortcut: None	Genvej: Ingen
+Shortcut: %s	Shortcut: %s	Genvej: %s
+Rounded Corners	Rounded Corners	Afrundede hjørner
+Smart Awake	Smart Awake	Smart Awake
+Centred Now Playing	Centred Now Playing	Afspilles nu centreret
+Click With Headphones	Click With Headphones	Klik med hovedtelefoner
+Single Press Scrub	Single Press Scrub	Spoling med enkelt tryk
+Time in Title	Time in Title	Tid i titel
+Set by the card theme	Set by the card theme	Indstillet af korttemaet
+Location	Location	Placering
+Unknown	Unknown	Ukendt
+Appearance	Appearance	Udseende
+Controls	Controls	Betjening
+Theme	Theme	Tema
+Boot to: Rockbox	Boot to: Rockbox	Start i: Rockbox
+Boot to: Q2 Pod	Boot to: Q2 Pod	Start i: Q2 Pod
+Rockbox is not on the card	Rockbox is not on the card	Rockbox findes ikke på kortet
+Could not save boot choice	Could not save boot choice	Startvalget kunne ikke gemmes
+No albums	No albums	Ingen albummer
+No artists	No artists	Ingen kunstnere
+No composers	No composers	Ingen komponister
+No genres	No genres	Ingen genrer
+Chapter %d	Chapter %d	Kapitel %d
+Chapters	Chapters	Kapitler
+Could not read chapters	Could not read chapters	Kapitler kunne ikke læses
+No embedded chapters	No embedded chapters	Ingen indlejrede kapitler
+Too long to read chapters on the Q2	Too long to read chapters on the Q2	For lang til at læse kapitler på Q2
+Loading chapters…	Loading chapters…	Indlæser kapitler…
+Spotify Cache: %s	Spotify Cache: %s	Spotify-cache: %s
+Tidal Cache: %s	Tidal Cache: %s	Tidal-cache: %s
+Erasing…	Erasing…	Sletter…
+Press again to erase login and cache	Press again to erase login and cache	Tryk igen for at slette login og cache
+Erase Spotify Data	Erase Spotify Data	Slet Spotify-data
+Could not save setting	Could not save setting	Indstillingen kunne ikke gemmes
+Streaming stopped	Streaming stopped	Streaming stoppet
+Wait for the one in progress	Wait for the one in progress	Vent på den igangværende
+Stop Streaming Services	Stop Streaming Services	Stop streamingtjenester
+No %s folder on the card	No %s folder on the card	Ingen %s-mappe på kortet
+CFW. Version	CFW. Version	CFW-version
+Update to %s	Update to %s	Opdatér til %s
+Latest firmware installed	Latest firmware installed	Nyeste firmware er installeret
+Can't reach GitHub	Can't reach GitHub	Kan ikke nå GitHub
+No update for this build	No update for this build	Ingen opdatering til denne build
+Can't write to the card	Can't write to the card	Kan ikke skrive til kortet
+Download cancelled	Download cancelled	Download annulleret
+GitHub is busy, try later	GitHub is busy, try later	GitHub er optaget, prøv senere
+The download was damaged, try again	The download was damaged, try again	Downloaden blev beskadiget, prøv igen
+Downloading %d%%	Downloading %d%%	Downloader %d%%
+Cancelling…	Cancelling…	Annullerer…
+Reconnecting…	Reconnecting…	Opretter forbindelse igen…
+Verifying…	Verifying…	Verificerer…
+Checking…	Checking…	Kontrollerer…
+Needs %u MB more space	Needs %u MB more space	Kræver %u MB mere plads
+Update downloaded: use TF card update	Update downloaded: use TF card update	Opdatering downloadet: brug Opdatering fra hukommelseskort
+Charge the battery first	Charge the battery first	Oplad først batteriet
+Can't start the download	Can't start the download	Downloaden kan ikke startes
+Downloading…	Downloading…	Downloader…
+Q2 Pod %s is out: System Update → Network update	Q2 Pod %s is out: System Update → Network update	Q2 Pod %s er udkommet: Systemopdatering → Netværksopdatering
+Downloading	Downloading	Downloader
+Unpacking…	Unpacking…	Pakker ud…
+Installing…	Installing…	Installerer…
+Removing…	Removing…	Fjerner…
+Connect to Wi-Fi to load the list	Connect to Wi-Fi to load the list	Opret Wi-Fi-forbindelse for at hente listen
+Checked just now	Checked just now	Kontrolleret lige nu
+Checked %u min ago	Checked %u min ago	Kontrolleret for %u min siden
+Checked %u h ago	Checked %u h ago	Kontrolleret for %u t siden
+Press again to remove	Press again to remove	Tryk igen for at fjerne
+Starts at power-on. Press again to install	Starts at power-on. Press again to install	Starter ved opstart. Tryk igen for at installere
+%d app can be updated	%d app can be updated	%d app kan opdateres
+%d apps can be updated	%d apps can be updated	%d apps kan opdateres
+All apps are up to date	All apps are up to date	Alle apps er opdaterede
+The download is not a usable app	The download is not a usable app	Downloaden er ikke en brugbar app
+Rockbox is ready. Find it on Home	Rockbox is ready. Find it on Home	Rockbox er klar. Find den på Hjem
+Rockbox Themes are ready in Rockbox's Theme Settings	Rockbox Themes are ready in Rockbox's Theme Settings	Rockbox-temaer er klare i Rockboxs temaindstillinger
+%s is ready in %s	%s is ready in %s	%s er klar i %s
+%s removed	%s removed	%s fjernet
+Spotify's login and cache erased	Spotify's login and cache erased	Spotify-login og -cache slettet
+Stopped checking for updates	Stopped checking for updates	Søgning efter opdateringer stoppet
+Install Rockbox first	Install Rockbox first	Installér først Rockbox
+Check for Updates	Check for Updates	Søg efter opdateringer
+%d of %d	%d of %d	%d af %d
+Album lyrics	Album lyrics	Albummets sangtekster
+LRCLIB stopped answering	LRCLIB stopped answering	LRCLIB svarer ikke længere
+Cancelled	Cancelled	Annulleret
+%d saved	%d saved	%d gemt
+%d not found	%d not found	%d ikke fundet
+%d already had lyrics	%d already had lyrics	%d havde allerede sangtekst
+%d failed	%d failed	%d mislykkedes
+Album lyrics: no songs on the card	Album lyrics: no songs on the card	Albummets sangtekster: ingen sange på kortet
+Can't reach LRCLIB	Can't reach LRCLIB	Kan ikke nå LRCLIB
+Download Album Lyrics	Download Album Lyrics	Download albummets sangtekster
+Downloading %d of %d	Downloading %d of %d	Downloader %d af %d
+No album songs on the card	No album songs on the card	Ingen albumsange på kortet
+file exceeds 16384 bytes	file exceeds 16384 bytes	filen er over 16384 byte
+line exceeds 512 bytes	line exceeds 512 bytes	linjen er over 512 byte
+embedded NUL	embedded NUL	indlejret NUL
+unsupported filter form	unsupported filter form	filterformen understøttes ikke
+expected Preamp: <gain> dB	expected Preamp: <gain> dB	forventede Preamp: <gain> dB
+preamp outside -60..24 dB or invalid number	preamp outside -60..24 dB or invalid number	preamp uden for -60..24 dB eller ugyldigt tal
+expected Channel: L, R or all	expected Channel: L, R or all	forventede Channel: L, R eller all
+only channels L, R and all are supported	only channels L, R and all are supported	kun kanalerne L, R og all understøttes
+unsupported command	unsupported command	kommandoen understøttes ikke
+invalid filter label	invalid filter label	ugyldig filteretiket
+expected Filter [number]:	expected Filter [number]:	forventede Filter [nummer]:
+expected ON or OFF	expected ON or OFF	forventede ON eller OFF
+unsupported filter type	unsupported filter type	filtertypen understøttes ikke
+expected Fc <Hz> Hz Gain <dB> dB	expected Fc <Hz> Hz Gain <dB> dB	forventede Fc <Hz> Hz Gain <dB> dB
+invalid frequency or gain number	invalid frequency or gain number	ugyldig frekvens eller gain
+expected Q <number>	expected Q <number>	forventede Q <tal>
+peaking filter requires Q	peaking filter requires Q	peaking-filter kræver Q
+range: 20..20000 Hz, -24..24 dB, Q 0.1..10	range: 20..20000 Hz, -24..24 dB, Q 0.1..10	område: 20..20000 Hz, -24..24 dB, Q 0.1..10
+more than 30 bands	more than 30 bands	mere end 30 bånd
+summed preamp outside -60..24 dB	summed preamp outside -60..24 dB	samlet preamp uden for -60..24 dB
+L/R preamp differ by more than 12 dB	L/R preamp differ by more than 12 dB	V/H-preamp afviger med over 12 dB
+out of memory	out of memory	ikke nok hukommelse
+cannot open file	cannot open file	kan ikke åbne filen
+file read failed	file read failed	filen kunne ikke læses
+EQ for 3.5 mm	EQ for 3.5 mm	EQ til 3,5 mm
+EQ for 4.4 mm	EQ for 4.4 mm	EQ til 4,4 mm
+EQ for USB	EQ for USB	EQ til USB
+EQ for this Bluetooth device	EQ for this Bluetooth device	EQ til denne Bluetooth-enhed
+Auto (44.1: %.1f / 48: %.1f)	Auto (44.1: %.1f / 48: %.1f)	Auto (44.1: %.1f / 48: %.1f)
+Folder missing or unavailable	Folder missing or unavailable	Mappe mangler eller utilgængelig
+Out of memory; cannot list presets	Out of memory; cannot list presets	Ikke nok hukommelse; kan ikke vise forudindstillinger
+No presets found	No presets found	Ingen forudindstillinger fundet
+Name not allowed; preset kept	Name not allowed; preset kept	Navnet er ikke tilladt; beholdt
+Name taken; preset kept	Name taken; preset kept	Navnet er optaget; beholdt
+Rename failed; preset kept	Rename failed; preset kept	Omdøbning mislykkedes; beholdt
+Renamed to %.100s	Renamed to %.100s	Omdøbt til %.100s
+Pop	Pop	Pop
+Rock	Rock	Rock
+Dance	Dance	Dance
+Blues	Blues	Blues
+Metal	Metal	Metal
+Vocal	Vocal	Vokal
+Classical	Classical	Klassisk
+Jazz	Jazz	Jazz
+Preset loaded; choose Apply to activate	Preset loaded; choose Apply to activate	Indlæst; vælg Anvend for at aktivere
+Preset saved; active EQ unchanged	Preset saved; active EQ unchanged	Gemt; aktiv EQ uændret
+Save failed; settings unchanged	Save failed; settings unchanged	Kunne ikke gemme; uændret
+Switch failed; EQ unchanged	Switch failed; EQ unchanged	Skift mislykkedes; EQ uændret
+Applied	Applied	Anvendt
+Apply failed; active EQ unchanged	Apply failed; active EQ unchanged	Mislykkedes; aktiv EQ uændret
+Reset; choose Apply to activate	Reset; choose Apply to activate	Nulstillet; vælg Anvend
+Delete failed; preset kept	Delete failed; preset kept	Sletning mislykkedes; beholdt
+Deleted %.100s; active EQ unchanged	Deleted %.100s; active EQ unchanged	%.100s slettet; aktiv EQ uændret
+Line %u: %s	Line %u: %s	Linje %u: %s
+Cannot read preset; settings unchanged	Cannot read preset; settings unchanged	Kan ikke læse; indstillinger uændret
+Peaking	Peaking	Peaking
+Low shelf	Low shelf	Low shelf
+High shelf	High shelf	High shelf
+Apply changes	Apply changes	Anvend ændringer
+Nothing to apply	Nothing to apply	Intet at anvende
+Reset to defaults	Reset to defaults	Nulstil til standard
+Enabled	Enabled	Aktiveret
+EQ per Output	EQ per Output	EQ pr. udgang
+Preamp	Preamp	Preamp
+Presets	Presets	Forudindstillinger
+Band	Band	Bånd
+Channels	Channels	Kanaler
+Both	Both	Begge
+Left	Left	Venstre
+Right	Right	Højre
+Type	Type	Type
+Frequency	Frequency	Frekvens
+Gain	Gain	Forstærkning
+Band %d Q	Band %d Q	Bånd %d Q
+Band %d Frequency (Hz)	Band %d Frequency (Hz)	Bånd %d frekvens (Hz)
+Raise	Raise	Hæv
+Lower	Lower	Sænk
+Step	Step	Trin
+Delete %.100s? Confirm	Delete %.100s? Confirm	Slet %.100s? Bekræft
+Replace existing preset? Confirm	Replace existing preset? Confirm	Erstat forudindstilling? Bekræft
+Cancel replacement	Cancel replacement	Annuller erstatning
+Save as Manual %02d	Save as Manual %02d	Gem som Manual %02d
+Stock presets	Stock presets	Standardforudindstillinger
+Import from SD /EQ	Import from SD /EQ	Importér fra SD /EQ
+Save editor preset	Save editor preset	Gem editor-forudindstilling
+Rename a preset	Rename a preset	Omdøb en forudindstilling
+Delete a preset	Delete a preset	Slet en forudindstilling
+Previous page	Previous page	Forrige side
+Next page	Next page	Næste side
+Band %d	Band %d	Bånd %d
+Band %d Gain	Band %d Gain	Bånd %d forstærkning
+Presets %d/%d	Presets %d/%d	Forudindstillinger %d/%d
+Save failed; EQ unchanged	Save failed; EQ unchanged	Kunne ikke gemme; EQ uændret
+Advanced	Advanced	Avanceret
+Enabled: On	Enabled: On	Aktiveret: Til
+Enabled: Off	Enabled: Off	Aktiveret: Fra
+Low	Low	Bas
+Mid	Mid	Mellemtone
+High	High	Diskant
+Simple	Simple	Enkel
+No photos	No photos	Ingen fotos
+All Photos	All Photos	Alle fotos
+Photos	Photos	Fotos
+Can't open this photo	Can't open this photo	Fotoet kan ikke åbnes
+%d of %d  %s	%d of %d  %s	%d af %d  %s
+Could not save folder speed	Could not save folder speed	Mappens hastighed kunne ikke gemmes
+Too long to play on the Q2: split it into parts	Too long to play on the Q2: split it into parts	For lang til afspilning på Q2: del den op i dele
+Press again to restart	Press again to restart	Tryk igen for at genstarte
+Could not save playlist	Could not save playlist	Afspilningslisten kunne ikke gemmes
+Already in playlist	Already in playlist	Allerede på afspilningslisten
+Added to Playlist	Added to Playlist	Føjet til afspilningsliste
+Search songs	Search songs	Søg efter sange
+Editing: %s	Editing: %s	Redigerer: %s
+Add Songs: %s	Add Songs: %s	Tilføj sange: %s
+Song Actions: %s	Song Actions: %s	Sanghandlinger: %s
+Remove song?: %s	Remove song?: %s	Fjern sang?: %s
+Add Songs	Add Songs	Tilføj sange
+Move Up	Move Up	Flyt op
+Move Down	Move Down	Flyt ned
+Remove from Playlist	Remove from Playlist	Fjern fra afspilningsliste
+Search: %s	Search: %s	Søg: %s
+No songs match	No songs match	Ingen matchende sange
+Search for more songs	Search for more songs	Søg efter flere sange
+Delete Playlist?	Delete Playlist?	Slet afspilningsliste?
+Delete	Delete	Slet
+Playlist deleted	Playlist deleted	Afspilningsliste slettet
+Could not delete playlist	Could not delete playlist	Afspilningslisten kunne ikke slettes
+Delete Playlist	Delete Playlist	Slet afspilningsliste
+Edit Playlist	Edit Playlist	Redigér afspilningsliste
+Queue unchanged	Queue unchanged	Køen er uændret
+Deselect All	Deselect All	Fravælg alle
+Select All	Select All	Vælg alle
+Export %d Playlist	Export %d Playlist	Eksportér %d afspilningsliste
+Export %d Playlists	Export %d Playlists	Eksportér %d afspilningslister
+Delete %d Playlist…	Delete %d Playlist…	Slet %d afspilningsliste…
+Delete %d Playlists…	Delete %d Playlists…	Slet %d afspilningslister…
+%d Selected	%d Selected	%d valgt
+Select Playlists	Select Playlists	Vælg afspilningslister
+Playlists	Playlists	Afspilningslister
+No Playlists	No Playlists	Ingen afspilningslister
+New Playlist…	New Playlist…	Ny afspilningsliste…
+Select Playlists…	Select Playlists…	Vælg afspilningslister…
+Import Playlists	Import Playlists	Importér afspilningslister
+Export	Export	Eksportér
+No other group	No other group	Ingen anden gruppe
+Folder not found	Folder not found	Mappen blev ikke fundet
+All Songs	All Songs	Alle sange
+Songs in Album	Songs in Album	Sange i album
+Albums and Songs	Albums and Songs	Albummer og sange
+Songs in Folder	Songs in Folder	Sange i mappe
+Folders	Folders	Mapper
+Folders and Songs	Folders and Songs	Mapper og sange
+Play One Song	Play One Song	Afspil én sang
+Play One Album	Play One Album	Afspil ét album
+Repeat Song	Repeat Song	Gentag sang
+Repeat Album	Repeat Album	Gentag album
+Repeat All	Repeat All	Gentag alle
+Play One Folder	Play One Folder	Afspil én mappe
+Repeat Folder	Repeat Folder	Gentag mappe
+Album	Album	Album
+Folder	Folder	Mappe
+Repeat	Repeat	Gentag
+Group by	Group by	Gruppér efter
+Play Next	Play Next	Afspil næste
+Add to Queue	Add to Queue	Føj til kø
+Add to Favourites	Add to Favourites	Føj til favoritter
+Remove from Favourites	Remove from Favourites	Fjern fra favoritter
+Add to Playlist	Add to Playlist	Føj til afspilningsliste
+Go to Album	Go to Album	Gå til album
+Go to Artist	Go to Artist	Gå til kunstner
+Next Album	Next Album	Næste album
+Previous Album	Previous Album	Forrige album
+Rate	Rate	Bedøm
+Resume	Resume	Genoptag
+View Queue	View Queue	Vis kø
+Go to Folder	Go to Folder	Gå til mappe
+Rate Album	Rate Album	Bedøm album
+Group by: Folder	Group by: Folder	Gruppér efter: Mappe
+Group by: Album	Group by: Album	Gruppér efter: Album
+Next Folder	Next Folder	Næste mappe
+Previous Folder	Previous Folder	Forrige mappe
+Wheel: Volume	Wheel: Volume	Hjul: Lydstyrke
+Wheel: Brightness	Wheel: Brightness	Hjul: Lysstyrke
+Could not save Favourites	Could not save Favourites	Favoritter kunne ikke gemmes
+Added to Favourites	Added to Favourites	Føjet til favoritter
+Removed from Favourites	Removed from Favourites	Fjernet fra favoritter
+Stopped	Stopped	Stoppet
+Can't play: %s	Can't play: %s	Kan ikke afspille: %s
+Can't play this station	Can't play this station	Kan ikke afspille denne station
+Connecting…	Connecting…	Opretter forbindelse…
+Search is too long	Search is too long	Søgningen er for lang
+Search stations	Search stations	Søg efter stationer
+Favourites	Favourites	Favoritter
+Featured	Featured	Udvalgte
+Top Stations	Top Stations	Topstationer
+By Country	By Country	Efter land
+By Genre	By Genre	Efter genre
+Countries	Countries	Lande
+Connecting to Wi-Fi…	Connecting to Wi-Fi…	Opretter forbindelse til Wi-Fi…
+Directory unavailable	Directory unavailable	Oversigten er ikke tilgængelig
+No Wi-Fi	No Wi-Fi	Intet Wi-Fi
+No stations	No stations	Ingen stationer
+No favourites	No favourites	Ingen favoritter
+Rating not saved	Rating not saved	Vurderingen blev ikke gemt
+Ratings are full	Ratings are full	Vurderingerne er fyldt op
+Favourite not sent to the app	Favourite not sent to the app	Favorit ikke sendt til appen
+Unrated	Unrated	Ikke vurderet
+1 Heart	1 Heart	1 hjerte
+%d Hearts	%d Hearts	%d hjerter
+%d of 5	%d of 5	%d af 5
+Album changed	Album changed	Albummet er ændret
+Favourite not saved	Favourite not saved	Favoritten blev ikke gemt
+This app has no favourites	This app has no favourites	Denne app har ingen favoritter
+Top Rated	Top Rated	Højest vurderede
+Loved	Loved	Elsket
+All Rated	All Rated	Alle vurderede
+Disliked	Disliked	Mislikte
+No songs yet	No songs yet	Ingen sange endnu
+Hold the heart on Now Playing to rate	Hold the heart on Now Playing to rate	Hold hjertet nede på Afspilles nu for at bedømme
+No rated albums yet	No rated albums yet	Ingen bedømte albummer endnu
+Upload failed, %d sent	Upload failed, %d sent	Upload mislykkedes, %d sendt
+Scrobbles sent: %d	Scrobbles sent: %d	Scrobbles sendt: %d
+Nothing to upload	Nothing to upload	Intet at uploade
+Uploading scrobbles	Uploading scrobbles	Uploader scrobbles
+Already uploading	Already uploading	Uploader allerede
+Upload failed	Upload failed	Upload mislykkedes
+Connect to Wi-Fi first	Connect to Wi-Fi first	Opret først Wi-Fi-forbindelse
+Waiting for Spotify	Waiting for Spotify	Venter på Spotify
+Spotify isn't on the card	Spotify isn't on the card	Spotify findes ikke på kortet
+See the Q2 Pod guide to add it	See the Q2 Pod guide to add it	Se Q2 Pod-vejledningen for at tilføje det
+Open Spotify on your phone	Open Spotify on your phone	Åbn Spotify på din telefon
+and choose Q2	and choose Q2	og vælg Q2
+Spotify refused this account	Spotify refused this account	Spotify afviste denne konto
+Its tracks can't play on the Q2	Its tracks can't play on the Q2	Dens numre kan ikke afspilles på Q2
+Playback didn't start	Playback didn't start	Afspilningen startede ikke
+Go back and try again	Go back and try again	Gå tilbage og prøv igen
+Starting playback	Starting playback	Starter afspilning
+Update Spotify on the card	Update Spotify on the card	Opdatér Spotify på kortet
+See the Q2 Pod guide	See the Q2 Pod guide	Se Q2 Pod-vejledningen
+Nothing playing	Nothing playing	Intet afspilles
+Choose music in Spotify	Choose music in Spotify	Vælg musik i Spotify
+Liked Songs	Liked Songs	Likede sange
+Queue	Queue	Kø
+Playback Settings	Playback Settings	Afspilningsindstillinger
+Account	Account	Konto
+Downloaded Tracks	Downloaded Tracks	Downloadede numre
+Downloads	Downloads	Downloads
+Tracks	Tracks	Numre
+Open Spotify on your phone and choose Q2	Open Spotify on your phone and choose Q2	Åbn Spotify på din telefon og vælg Q2
+Both on the same Wi-Fi	Both on the same Wi-Fi	Begge på samme Wi-Fi
+to browse on the Q2	to browse on the Q2	for at browse på Q2
+Downloaded Playlists	Downloaded Playlists	Downloadede afspilningslister
+Download Progress	Download Progress	Downloadforløb
+Storage Management	Storage Management	Lagerstyring
+Download Status	Download Status	Downloadstatus
+The latest download's progress	The latest download's progress	Seneste downloads forløb
+for saved playlists and download controls	for saved playlists and download controls	til gemte afspilningslister og downloadstyring
+Remove Playlists…	Remove Playlists…	Fjern afspilningslister…
+Remove Tracks…	Remove Tracks…	Fjern numre…
+Keeps login and settings	Keeps login and settings	Beholder login og indstillinger
+Track removal can make playlists incomplete	Track removal can make playlists incomplete	Fjernelse af numre kan gøre afspilningslister ufuldstændige
+Pause	Pause	Pause
+Cancel Download	Cancel Download	Annuller download
+Retry Failed	Retry Failed	Prøv mislykkede igen
+Update Download	Update Download	Opdatér download
+Sign Out of Spotify?	Sign Out of Spotify?	Log ud af Spotify?
+Sign Out	Sign Out	Log ud
+Nothing here	Nothing here	Intet her
+Selected	Selected	Valgt
+Press to select	Press to select	Tryk for at vælge
+All	All	Alle
+One	One	Én
+Download Liked Songs	Download Liked Songs	Download likede sange
+Download Playlist	Download Playlist	Download afspilningsliste
+For offline listening	For offline listening	Til lytning offline
+Download Controls	Download Controls	Downloadstyring
+Update, retry, pause, resume or cancel	Update, retry, pause, resume or cancel	Opdatér, prøv igen, sæt på pause, genoptag eller annuller
+Remove Selected…	Remove Selected…	Fjern valgte…
+Confirm the affected count	Confirm the affected count	Bekræft det berørte antal
+Spotify isn't running	Spotify isn't running	Spotify kører ikke
+Spotify didn't answer	Spotify didn't answer	Spotify svarede ikke
+Search Spotify	Search Spotify	Søg i Spotify
+Select Tracks	Select Tracks	Vælg numre
+Select at least one item	Select at least one item	Vælg mindst ét element
+Selection full. Remove these first	Selection full. Remove these first	Valget er fyldt. Fjern først disse
+Boot logo must be a 320x375 JPEG	Boot logo must be a 320x375 JPEG	Startlogoet skal være et JPEG på 320x375
+Could not save boot logo	Could not save boot logo	Startlogoet kunne ikke gemmes
+Accent: Graphite	Accent: Graphite	Accentfarve: Grafit
+Accent: Crimson	Accent: Crimson	Accentfarve: Karmosinrød
+Accent: Tidal	Accent: Tidal	Accentfarve: Tidal
+Accent: Champagne	Accent: Champagne	Accentfarve: Champagne
+Accent: Cobalt	Accent: Cobalt	Accentfarve: Kobolt
+Accent: Tangerine	Accent: Tangerine	Accentfarve: Mandarin
+Accent: Plum	Accent: Plum	Accentfarve: Blomme
+Accent: Ivory	Accent: Ivory	Accentfarve: Elfenben
+Accent: Green	Accent: Green	Accentfarve: Grøn
+Favorites	Favorites	Favoritter
+Rated Albums	Rated Albums	Bedømte albummer
+Podcasts	Podcasts	Podcasts
+Audiobooks	Audiobooks	Lydbøger
+Groovebox can't start from the card	Groovebox can't start from the card	Groovebox kan ikke starte fra kortet
+Groovebox is not on the card	Groovebox is not on the card	Groovebox findes ikke på kortet
+Play a Tidal album or playlist first	Play a Tidal album or playlist first	Afspil først et Tidal-album eller en afspilningsliste
+Downloading %u of %u. Press to stop	Downloading %u of %u. Press to stop	Downloader %u af %u. Tryk for at stoppe
+Download Playing Songs	Download Playing Songs	Download sange i afspilning
+Tidal Cache full: %u of %u song saved	Tidal Cache full: %u of %u song saved	Tidal-cache fuld: %u af %u sang gemt
+Tidal Cache full: %u of %u songs saved	Tidal Cache full: %u of %u songs saved	Tidal-cache fuld: %u af %u sange gemt
+Downloaded %u of %u song	Downloaded %u of %u song	Downloadet %u af %u sang
+Downloaded %u of %u songs	Downloaded %u of %u songs	Downloadet %u af %u sange
+Nothing to play next	Nothing to play next	Intet næste at afspille
+Queue changed	Queue changed	Køen er ændret
+Never	Never	Aldrig
+USB DAC Charging: %s	USB DAC Charging: %s	USB DAC-opladning: %s
+Spectrum	Spectrum	Spektrum
+Oscilloscope	Oscilloscope	Oscilloskop
+VU Meters	VU Meters	VU-målere
+Halo	Halo	Halo
+Pulsar	Pulsar	Pulsar
+Contour	Contour	Kontur
+More	More	Mere
+A-B Repeat	A-B Repeat	A-B-gentagelse
+Speed	Speed	Hastighed
+*Only for 48 kHz and below	*Only for 48 kHz and below	*Kun til og med 48 kHz
+No lyrics	No lyrics	Ingen sangtekst
+Genre	Genre	Genre
+Size	Size	Størrelse
+Year	Year	År
+Format	Format	Format
+Bit Depth	Bit Depth	Bitdybde
+Bit Rate	Bit Rate	Bitrate
+Sample Rate	Sample Rate	Samplingfrekvens
+Auto Scan	Auto Scan	Autoscan
+Update Library Now	Update Library Now	Opdatér bibliotek nu
+Scan Folders	Scan Folders	Scan mapper
+OK	OK	OK
+Bluetooth	Bluetooth	Bluetooth
+Key Lock	Key Lock	Knaplås
+Low Gain	Low Gain	Lav forstærkning
+USB Storage	USB Storage	USB-lager
+Playback	Playback	Afspilning
+Custom	Custom	Brugerdefineret
+Reset	Reset	Nulstil
+Open this address in a browser:	Open this address in a browser:	Åbn denne adresse i en browser:
+Downloaded	Downloaded	Downloadet
+Baidu Netdisk	Baidu Netdisk	Baidu Netdisk
+Sign In	Sign In	Log ind
+Scan with the Baidu app to sign in	Scan with the Baidu app to sign in	Scan med Baidu-appen for at logge ind
+Baidu encryption protects your privacy	Baidu encryption protects your privacy	Baidus kryptering beskytter dit privatliv
+Bluetooth RF test: connect from a computer	Bluetooth RF test: connect from a computer	Bluetooth RF-test: forbind fra en computer
+Press Next to exit	Press Next to exit	Tryk på Næste for at afslutte
+Brightness Test	Brightness Test	Lysstyrketest
+Next	Next	Næste
+Bluetooth Test	Bluetooth Test	Bluetooth-test
+Down	Down	Ned
+Up	Up	Op
+Swipe Left	Swipe Left	Stryg til venstre
+Swipe Right	Swipe Right	Stryg til højre
+Key Test	Key Test	Knaptest
+Headphone Test	Headphone Test	Hovedtelefontest
+Plug in single-ended headphones	Plug in single-ended headphones	Tilslut hovedtelefoner med usymmetrisk stik
+Play (left male, right female)	Play (left male, right female)	Afspil (mand venstre, kvinde højre)
+Bluetooth Receiver Test	Bluetooth Receiver Test	Test af Bluetooth-modtager
+Battery Test	Battery Test	Batteritest
+Battery:	Battery:	Batteri:
+Charging:	Charging:	Opladning:
+microSD Test	microSD Test	microSD-test
+Touch Test	Touch Test	Touchtest
+Wi-Fi Test	Wi-Fi Test	Wi-Fi-test
+Artist	Artist	Kunstner
+Export Playlists	Export Playlists	Eksportér afspilningslister
+Playlist	Playlist	Afspilningsliste
+0 songs	0 songs	0 sange
+System	System	System
+Rockbox	Rockbox	Rockbox
+Baker Island	Baker Island	Bakerøen
+Midway	Midway	Midway
+Honolulu	Honolulu	Honolulu
+Anchorage	Anchorage	Anchorage
+Los Angeles	Los Angeles	Los Angeles
+Denver	Denver	Denver
+Mexico City	Mexico City	Mexico City
+New York	New York	New York
+Halifax	Halifax	Halifax
+St. John's	St. John's	St. John's
+Buenos Aires	Buenos Aires	Buenos Aires
+Azores	Azores	Azorerne
+London	London	London
+Amsterdam	Amsterdam	Amsterdam
+Bucharest	Bucharest	Bukarest
+Kuwait	Kuwait	Kuwait
+Tehran	Tehran	Teheran
+Muscat	Muscat	Muscat
+Kabul	Kabul	Kabul
+Karachi	Karachi	Karachi
+Dhaka	Dhaka	Dhaka
+Bangkok	Bangkok	Bangkok
+Shanghai	Shanghai	Shanghai
+Tokyo	Tokyo	Tokyo
+Adelaide	Adelaide	Adelaide
+Sydney	Sydney	Sydney
+Fiji	Fiji	Fiji
+Marquesas	Marquesas	Marquesas
+South Georgia	South Georgia	Sydgeorgien
+Colombo	Colombo	Colombo
+Kathmandu	Kathmandu	Kathmandu
+Yangon	Yangon	Yangon
+Eucla	Eucla	Eucla
+L. Howe	L. Howe	L. Howe
+Noumea	Noumea	Nouméa
+Chatham	Chatham	Chatham
+Tongatapu	Tongatapu	Tongatapu
+Kiritimati	Kiritimati	Kiritimati
+Chicago	Chicago	Chicago
+Phoenix	Phoenix	Phoenix
+Kolkata	Kolkata	Kolkata
+Brisbane	Brisbane	Brisbane
+Auckland	Auckland	Auckland
+Status Bar	Status Bar	Statuslinje
+Minimal	Minimal	Minimal
+Modern	Modern	Moderne
+Classic	Classic	Klassisk
+Show Wordmark	Show Wordmark	Vis logo
+Library on Home	Library on Home	Bibliotek på Hjem
+Row Preview	Row Preview	Rækkeforhåndsvisning
+Row Art	Row Art	Rækkebillede
+Classic Blue	Classic Blue	Klassisk blå

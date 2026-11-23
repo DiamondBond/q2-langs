@@ -1,0 +1,1181 @@
+# Valencià
+History_record	History record	Historial
+about_cardcap	Card Capacity	Capacitat de la targeta
+about_cardremain	Remaining	Restant
+about_ipaddr	IP Address	Adreça IP
+about_model	Model	Model
+about_more	*Our sincere thanks go to the DiamondBond team and all its enthusiasts for their ingenuity, outstanding solutions, and generous contributions.	*Donem les gràcies de cor a l'equip de DiamondBond i a tots els seus aficionats pel seu enginy, les seues solucions excepcionals i les seues generoses contribucions.
+about_sn	Serial Number	Número de sèrie
+about_version	Version	Versió
+about_wifimac	Wi-Fi MAC	MAC Wi-Fi
+album	Album	Àlbum
+album	Album	Àlbum
+albumsinger	Album artist	Artista de l'àlbum
+allmusic	All Songs	Totes les cançons
+audio_settings	Audio settings	Configuració d'àudio
+baidu_login	Log In	Inicia la sessió
+baidu_login_tips1	Please use Baidu Netdisk or Baidu App to scan the code to login	Escaneja el codi amb Baidu Netdisk o l'app de Baidu per a iniciar la sessió
+baidu_login_tips2	Baidu encryption technology protects your privacy and security	El xifratge de Baidu protegeix la teua privadesa i seguretat
+baidu_loginout	Log Out	Tanca la sessió
+baidunet_floderinfo_failed	Failed to get file list	No s'ha pogut obtindre la llista d'arxius
+batch_addplaylist	Add to Playlist	Afig a una llista
+bt_adjvol	Bluetooth Headset Volume Control	Control de volum d'auriculars Bluetooth
+bt_compatiabledev	Compatible Device	Dispositiu compatible
+bt_name	Bluetooth Name	Nom de Bluetooth
+bt_paireddev	Paired Device	Dispositiu emparellat
+bt_quality	Quality	Qualitat
+bt_search	Scan now	Busca ara
+btcode_aac	AAC	AAC
+btcode_aptx	aptX	aptX
+btcode_aptxhd	aptX HD	aptX HD
+btcode_ldacauto	LDAC Connection (auto)	Connexió LDAC (auto)
+btcode_ldachq	LDAC HQ	LDAC HQ
+btcode_ldacst	LDAC Standard	LDAC estàndard
+btcode_sbc	SBC	SBC
+btcode_sbchq	SBC HQ	SBC HQ
+custom_eq	Custom	Personalitzat
+display_backlight	Brightness	Brillantor
+display_lighttime	Screen Off Time	Apagat de pantalla
+display_screenlock	Lock Screen	Pantalla de bloqueig
+dsdmode_d2p	D2P	D2P
+dsdmode_dop	DOP	DOP
+dsdmode_native	Native	Natiu
+eq_blues	Blues	Blues
+eq_classical	Classical	Clàssica
+eq_club	Club	Club
+eq_custom1	Custom1	Personal 1
+eq_custom2	Custom2	Personal 2
+eq_custom3	Custom3	Personal 3
+eq_dance	Dance	Dance
+eq_doublebass	Sub-bass	Subgraus
+eq_jazz	Jazz	Jazz
+eq_metal	Metal	Metal
+eq_only48kmsg	EQ only for files below 48kHz.	L'EQ només actua en arxius per davall de 48 kHz.
+eq_pop	Pop	Pop
+eq_reset	Reset	Restablix
+eq_rock	Rock	Rock
+eq_vocal	Vocal	Vocal
+fav	My Fav	Els meus favorits
+filter_delayfast	Low Delay Fast Roll-off	Roll-off ràpid, baixa latència
+filter_delayslow	Low Delay Slow Roll-off	Roll-off lent, baixa latència
+filter_fast	Fast Roll-off	Roll-off ràpid
+filter_slow	Slow Roll-off	Roll-off lent
+frequentplay	Frequent	Freqüents
+gain_high	High	Alta
+gain_low	Low	Baixa
+genre	Genre	Gènere
+genre_statistics	Total %d songs	Total: %d cançons
+hr	Hi-Res	Hi-Res
+keyboard_keyword	Please enter keyword	Introduïx una paraula clau
+keyboard_netname	Please enter network name	Introduïx el nom de la xarxa
+keyboard_password	Please enter password	Introduïx la contrasenya
+keylock_all	Lock Volume & Buttons	Bloqueja volum i botons
+keylock_info	Only effective when the screen is off	Només funciona amb la pantalla apagada
+keylock_info2	Effective on Lockscreen and when Screen Off	Funciona en la pantalla de bloqueig i amb la pantalla apagada
+keylock_key	Lock Buttons Only	Bloqueja només els botons
+keylock_volume	Lock Volume Only	Bloqueja només el volum
+lan_english	English	English
+lan_french	Français	Français
+lan_german	Deutsch	Deutsch
+lan_italian	Italiano	Italiano
+lan_japanese	日本語	日本語
+lan_korean	한국어	한국어
+lan_polish	Polski	Polski
+lan_russian	Русский	Русский
+lan_simplified	简体中文	简体中文
+lan_spanish	español	Español
+lan_thai	ภาษาไทย	ภาษาไทย
+lan_traditional	繁體中文	繁體中文
+lan_ukrainian	Українська	Українська
+lighttime_15s	15s	15 s
+lighttime_1min	1min	1 min
+lighttime_2min	2min	2 min
+lighttime_30min	30min	30 min
+lighttime_30s	30s	30 s
+lighttime_5min	5min	5 min
+lighttime_lyricmode	Lyrics mode	Mode lletres
+lighttime_off	Off	Desactivat
+list_baidu	Baidu Netdisk	Baidu Netdisk
+list_tidal	TIDAL	TIDAL
+local_album	Albums	Àlbums
+local_allmusic	Local Songs	Música local
+local_allsongs	Songs	Cançons
+local_fav	My Fav	Els meus favorits
+local_frequentplay	Frequent	Freqüents
+local_genre	Genres	Gèneres
+local_hr	Hi-Res	Hi-Res
+local_playlist	Playlists	Llistes
+local_recentadd	Recently Added	Afegit recentment
+local_recentplay	Recent	Recents
+local_songer	Artists	Artistes
+local_upmusic	Update Library	Actualitza la biblioteca
+login_out	Logout	Tanca la sessió
+memplay_location	Location	Ubicació
+memplay_off	Off	Desactivat
+memplay_track	Track	Pista
+msg_actionnotsupport	Non-local songs,not currently supported	No s'admeten cançons no locals
+msg_actionscan	Scan music?	Escanejar la música?
+msg_add_task	Please enter the URL of the file you want to download	Introduïx l'URL de l'arxiu que vols descarregar
+msg_addfailed	Adding Failed	No s'ha pogut afegir
+msg_addfavsuccess	Added To Fav	Afegit a favorits
+msg_addplaylistsuccess	Added To Playlist	Afegit a la llista
+msg_autoshutdown	Shutdown	Apagant
+msg_btabnormal	Bluetooth abnormal	Error de Bluetooth
+msg_btinit_run	Bluetooth Starting	Iniciant Bluetooth
+msg_btreconnect	Reconnect Bluetooth?	Tornar a connectar Bluetooth?
+msg_cardeject	Audio Disconnected	Àudio desconnectat
+msg_cardinsert	Audio Connected	Àudio connectat
+msg_checkfw	Checking FW	Buscant firmware
+msg_checkfwerr	FW. Check Error	Error en buscar el firmware
+msg_closesynclink	Please close SyncLink	Tanca SyncLink
+msg_confirmupdate	Confirm Update?	Confirmar l'actualització?
+msg_connected	Connected	Connectat
+msg_connecting	Connecting	Connectant
+msg_delalbum	Delete Album?	Eliminar l'àlbum?
+msg_delalbumfailed	Failed To Delete Album	No s'ha pogut eliminar l'àlbum
+msg_delalbumsuccess	Album Deleted	Àlbum eliminat
+msg_delartist	Delete Artist?	Eliminar l'artista?
+msg_delartistsuccess	Artist Deleted	Artista eliminat
+msg_delete_task	Are you sure you want to delete the download task?	Segur que vols eliminar la descàrrega?
+msg_deletesource	Also delete source file	Elimina també l'arxiu original
+msg_delfile	Are you sure you want to delete this file?	Segur que vols eliminar este arxiu?
+msg_delfile	Delete File?	Eliminar l'arxiu?
+msg_delfilefailed	Failed To Delete File	No s'ha pogut eliminar l'arxiu
+msg_delfilesuccess	File Deleted	Arxiu eliminat
+msg_delgenre	Delete Genre?	Eliminar el gènere?
+msg_delgenresuccess	Genre Deleted	Gènere eliminat
+msg_delplaylist	Delete Playlist?	Eliminar la llista?
+msg_delplaylistfailed	Failed To Delete Playlist	No s'ha pogut eliminar la llista
+msg_delplaylistsuccess	Playlist Deleted	Llista eliminada
+msg_delsong	Delete Song?	Eliminar la cançó?
+msg_delsongfailed	Failed To Delete Song	No s'ha pogut eliminar la cançó
+msg_delsongsuccess	Song Deleted	Cançó eliminada
+msg_disconnected	Disconnected	Desconnectat
+msg_disonnectbt	Please disconnect the bluetooth device	Desconnecta el dispositiu Bluetooth
+msg_downloadpath	Download path is	La ruta de descàrrega és
+msg_exist_task	The download task already exists	La descàrrega ja existix
+msg_exitairplay	Quit AirPlay?	Eixir d'AirPlay?
+msg_exportplaylist	Export Playlist?	Exportar la llista?
+msg_exportsuccess	Export successful	Exportació correcta
+msg_factorysuccess	Restore to factory settings succeeded	S'ha restaurat la configuració de fàbrica
+msg_favsuccess	Added To Fav	Afegit a favorits
+msg_file_exist	The file already exists	L'arxiu ja existix
+msg_importplaylist	Import Playlists?	Importar les llistes?
+msg_importsuccess	Successfully imported	Importat correctament
+msg_initsetsuccess	All settings initialized successfully	La configuració s'ha restablit correctament
+msg_latestfw	Latest Fw. Installed	Firmware actualitzat
+msg_linkerror	WiFi Connection Error	Error de connexió Wi-Fi
+msg_lowarn	Line Out sets max volume,continue?	L'eixida de línia fixa el volum al màxim. Continuar?
+msg_lowpower	Low Battery	Bateria baixa
+msg_namenull	The name can't be empty	El nom no pot estar buit
+msg_netnameerr	Network Must Be Named	La xarxa necessita un nom
+msg_no	Cancel	Cancel·la
+msg_no_storage	Storage is full.Some songs couldn't be added.	Emmagatzematge ple. No s'han pogut afegir algunes cançons.
+msg_noheadset	Playback is disabled without headphones.Please insert headphones.	La reproducció està desactivada sense auriculars. Connecta uns auriculars.
+msg_nosongs	No songs in this folder	No hi ha cançons en esta carpeta
+msg_notalbuminfo	This file has no Album data	Este arxiu no té dades d'àlbum
+msg_notfile	File Not Found	Arxiu no trobat
+msg_notfolder	Folder not found	Carpeta no trobada
+msg_notfoundfw	Fw. Not Found	Firmware no trobat
+msg_notmemory	Memory is not enough	Memòria insuficient
+msg_notmemory	Out of memory	Memòria insuficient
+msg_notnetwork	Network Disconnected	Xarxa desconnectada
+msg_nototg	No OTG Found	OTG no trobat
+msg_notplaylist	Playlist Not Found	Llista no trobada
+msg_notsongerinfo	This file has no Artist data	Este arxiu no té dades d'artista
+msg_notsonglist	No Song List	No hi ha llista de cançons
+msg_notspecdir	Folder not specified	Carpeta no especificada
+msg_notsupport	Not Supported	No compatible
+msg_notsupportdel	Can't be removed	No es pot eliminar
+msg_nottf	No TF Card Found	No hi ha targeta microSD
+msg_otgeject	OTG Disconnected	OTG desconnectat
+msg_otginfoerr	Failed To Get Version Info	No s'ha pogut obtindre la versió
+msg_otginsert	OTG Connected	OTG connectat
+msg_paircode	Bluetooth Code	Codi Bluetooth
+msg_paired	Paired	Emparellat
+msg_playlistexist	Playlist Already Exists	La llista ja existix
+msg_playlistfull	Could not create playlist	No s'ha pogut crear la llista
+msg_poweroff	Shut Down?	Apagar?
+msg_resetdbsuccess	Reset completed	Restabliment completat
+msg_restarting	Restarting	Reiniciant
+msg_shortpasswd	8 Digits PIN At Least	El PIN ha de tindre almenys 8 dígits
+msg_start_download_task	start the download task	Iniciar la descàrrega?
+msg_stop_download_task	stop the download task	Detindre la descàrrega?
+msg_testmode	Enter test mode?	Entrar en mode de prova?
+msg_tfeject	TF Card Removed	Targeta extreta
+msg_tfinsert	TF Card Inserted	Targeta inserida
+msg_unpaired	Unpaired	Desemparellat
+msg_unpairing	unpair?	Desemparellar?
+msg_unsupportformat	Unsupported format	Format no compatible
+msg_update	Confirmed	Confirmat
+msg_wificancelsave	Delete Record?	Eliminar el registre?
+msg_wifidisconnect	Disconnect Now?	Desconnectar ara?
+msg_yes	OK	D'acord
+navigation_all	All	Tot
+netservice_airplay	AirPlay	AirPlay
+netservice_dlna	DLNA	DLNA
+netservice_wifitrans	Wi-Fi File Transfer	Transferència d'arxius per Wi-Fi
+no_search	No search results	Sense resultats
+not_allmusic	Currently no songs	No hi ha cançons
+otgdownload_percent	FW Downloaded	Firmware descarregat
+outputway	Output Options	Opcions d'eixida
+play_all	Play All	Reproduïx-ho tot
+player_abrepeat	AB Repeat	Repetició A-B
+player_albuminfo	Look up Album	Busca l'àlbum
+player_bitdepth	Bit Depth	Profunditat de bits
+player_bitrate	Bitrate	Taxa de bits
+player_delete	Delete Song	Elimina la cançó
+player_encoding	Encoding	Codificació
+player_era	Year	Any
+player_filesize	File Size	Mida de l'arxiu
+player_location	Location	Ubicació
+player_msgmul	*Affecting only files below 48khz	*Només afecta els arxius per davall de 48 kHz
+player_multiple	Multiple Speed	Velocitat
+player_nolyric	No Lyrics	Sense lletra
+player_onlinesearch	Download Cover & Lyrics	Descarrega portada i lletra
+player_playlist	Queue	Cua
+player_samplerate	Sample Rate	Freqüència de mostreig
+player_songerinfo	Look up Artist	Busca l'artista
+player_unknown	Unknown	Desconegut
+player_unknown	Unknown Artist	Artista desconegut
+playlist	Playlist	Llista
+playlist_create	New playlist	Llista nova
+playlist_export	Export playlist	Exporta la llista
+playlist_import	Import playlist	Importa una llista
+playmode_listplay	List Play	En ordre
+playmode_repeatall	Repeat All	Repetix-ho tot
+playmode_repeattrack	Repeat Track	Repetix la pista
+playmode_shuffle	Shuffle	Aleatori
+playset_balance	Channel Balance	Balanç de canals
+playset_bootvol	Default Volume	Volum inicial
+playset_covermode	Enlarged Album Art	Portada ampliada
+playset_dsdoutput	DSD Output Mode	Mode d'eixida DSD
+playset_eq	EQ	EQ
+playset_filter	Digital Filters	Filtres digitals
+playset_foldercover	Folder Album Cover	Portada de carpeta
+playset_folderjump	Folder Skip	Salt de carpeta
+playset_gain	Gain	Guany
+playset_gapless	Gapless	Sense pauses
+playset_maxvol	Max Volume	Volum màxim
+playset_memplay	Memory Playback	Recorda la reproducció
+playset_noplay	Require Output (Beta)	Exigix eixida (beta)
+playset_playmode	Play Mode	Mode de reproducció
+playset_replaygain	ReplayGain	ReplayGain
+playset_usbaudiovol	USB Audio Output	Eixida d'àudio USB
+playset_volcover	Volume and Album Display	Volum i portada
+powerm_deep_off	Standby	En espera
+powerm_sleep	Sleep Timer	Temporitzador d'apagat
+recentadd	Recently Added	Afegit recentment
+recentplay	Recent	Recents
+rename	Rename	Canvia el nom
+renamesuccess	Successfully renamed	Nom canviat correctament
+replaygain_track	Song	Cançó
+reset_factory	Full Factory Reset	Restabliment total de fàbrica
+reset_initdatabase	Reset Database	Restablix la base de dades
+reset_initset	Reset Settings Only	Restablix només la configuració
+scan_automatic	Automatic Update	Actualització automàtica
+scan_now	Scan music now	Escaneja la música ara
+scan_now	Scan music now	Escaneja la música ara
+scan_spec	Scan specified folders	Escaneja carpetes concretes
+scan_spec	Scan specified folders	Escaneja carpetes concretes
+scan_startscan	Scan	Escaneja
+scan_updatefinish	Library Updated,%d Updated	Biblioteca actualitzada, %d actualitzats
+scan_updating	Updating No.%d	Actualitzant %d
+scover_cover	Cover	Portada
+scover_lyric	Lyrics	Lletra
+screenlock_about	Custom Lock Screen	Pantalla de bloqueig pròpia
+screenlock_info1	1. Put the pictures in a folder named "lockscreenimage" at the top of the card.	1. Posa les imatges en una carpeta anomenada "lockscreenimage" a l'arrel de la targeta.
+screenlock_info2	2. PNG or JPG, exactly 375 x 320 pixels, under 1 MB each.	2. PNG o JPG, d'exactament 375 x 320 píxels i menys d'1 MB cadascuna.
+screenlock_info3	3. Up to 5 pictures.	3. Fins a 5 imatges.
+screenlock_timeshow	Show Time	Mostra l'hora
+search_tips1	Search for music,artists,albums,genres	Busca música, artistes, àlbums i gèneres
+search_track	Track	Pista
+singerbyalbum	Sort by album artist	Ordena per artista de l'àlbum
+singerbysong	Sort by song artist	Ordena per artista de la cançó
+small_album	Albums	Àlbums
+small_coverflow	Album Wall	Mur d'àlbums
+small_folder	Folder	Carpetes
+small_local	Local Songs	Música local
+small_playing	Now Playing	Reproduint
+small_playset	Playback	Reproducció
+small_stream	Streaming	Streaming
+small_sysset	System	Sistema
+songer	Artist	Artista
+sort_addtime	Time added	Data d'afegiment
+sort_alphabet	Alphabetical	Alfabètic
+sort_filename	File name	Nom d'arxiu
+sort_format	File format	Format d'arxiu
+sort_time_asc	Time added (ascending)	Data d'afegiment (ascendent)
+sort_time_desc	Time added (descending)	Data d'afegiment (descendent)
+standbyoff_10min	10min	10 min
+standbyoff_1min	1min	1 min
+standbyoff_3min	3min	3 min
+standbyoff_5min	5min	5 min
+standbyoff_deep	Auto-standby	Espera automàtica
+standbyoff_deepinfo	After 5 minute of idle,device will go into standby mode.	Després de 5 minuts d'inactivitat, el dispositiu passa al mode d'espera.
+standbyoff_saver	Auto-shutdown	Apagat automàtic
+synclink_off	Off	Desactivat
+system_about	About	Quant a
+system_carmode	In-Vehicle Mode	Mode cotxe
+system_display	Display	Pantalla
+system_general	General	General
+system_keylock	Buttons Lock	Bloqueig de botons
+system_keytone	Key Tone	So de les tecles
+system_language	Language	Idioma
+system_navshow	Show Navigation Bar	Mostra la barra de navegació
+system_netservice	Network	Xarxa
+system_powermanager	Power	Energia
+system_prove	Certification	Certificació
+system_reset	Reset Settings	Restablix la configuració
+system_sys	System	Sistema
+system_time	Date & Time	Data i hora
+system_update	System Update	Actualització del sistema
+system_wheelmode	Wheel Function	Funció de la roda
+system_wifiset	Wireless	Sense fil
+timedate_24h	24-Hour	24 hores
+timedate_auto	Automatic Time Set	Hora automàtica
+timedate_manual	Set Time Manually	Ajusta l'hora manualment
+timezone_gmt+1	(GMT+01:00)Europe/Amsterdam	(GMT+01:00)Europe/Amsterdam
+timezone_gmt+10	(GMT+10:00)Australia/Sydney	(GMT+10:00)Australia/Sydney
+timezone_gmt+12	(GMT+12:00)Pacific/Fiji	(GMT+12:00)Pacific/Fiji
+timezone_gmt+2	(GMT+02:00)Europe/Bucharest	(GMT+02:00)Europe/Bucharest
+timezone_gmt+3	(GMT+03:00)Asia/Kuwait	(GMT+03:00)Asia/Kuwait
+timezone_gmt+3_30	(GMT+03:30)Asia/Tehran	(GMT+03:30)Asia/Tehran
+timezone_gmt+4	(GMT+04:00)Asia/Muscat	(GMT+04:00)Asia/Muscat
+timezone_gmt+4_30	(GMT+04:30)Asia/Kabul	(GMT+04:30)Asia/Kabul
+timezone_gmt+5	(GMT+05:00)Asia/Karachi	(GMT+05:00)Asia/Karachi
+timezone_gmt+6	(GMT+06:00)Asia/Almaty	(GMT+06:00)Asia/Almaty
+timezone_gmt+7	(GMT+07:00)Asia/Bangkok	(GMT+07:00)Asia/Bangkok
+timezone_gmt+8	(GMT+08:00)Asia/Shanghai	(GMT+08:00)Asia/Shanghai
+timezone_gmt+9	(GMT+09:00)Asia/Tokyo	(GMT+09:00)Asia/Tokyo
+timezone_gmt+9_30	(GMT+09:30)Australia/Adelaide	(GMT+09:30)Australia/Adelaide
+timezone_gmt-0	(GMT 00:00)Europe/London	(GMT 00:00)Europe/London
+timezone_gmt-1	(GMT-01:00)Atlantic/Azores	(GMT-01:00)Atlantic/Azores
+timezone_gmt-10	(GMT-10:00)Pacific/Honolulu	(GMT-10:00)Pacific/Honolulu
+timezone_gmt-11	(GMT-11:00)Pacific/Midway	(GMT-11:00)Pacific/Midway
+timezone_gmt-12	(GMT-12:00)Pacific/Kwajalein	(GMT-12:00)Pacific/Kwajalein
+timezone_gmt-3	(GMT-03:00)America/Argentina/Buenos_Aires	(GMT-03:00)America/Argentina/Buenos_Aires
+timezone_gmt-3_30	(GMT-03:30)America/St_Johns	(GMT-03:30)America/St_Johns
+timezone_gmt-4	(GMT-04:00)Canada/Atlantic	(GMT-04:00)Canada/Atlantic
+timezone_gmt-5	(GMT-05:00)America/New_York	(GMT-05:00)America/New_York
+timezone_gmt-6	(GMT-06:00)America/Mexico_City	(GMT-06:00)America/Mexico_City
+timezone_gmt-7	(GMT-07:00)America/Denver	(GMT-07:00)America/Denver
+timezone_gmt-8	(GMT-08:00)America/Tijuana	(GMT-08:00)America/Tijuana
+timezone_gmt-9	(GMT-09:00)America/Anchorage	(GMT-09:00)America/Anchorage
+timezone_select	Time Zone Selection	Selecció de zona horària
+title_downloaded	Downloaded	Descarregat
+title_downloading	Downloading	Descarregant
+title_more	More	Més
+title_sort	List sort order	Ordre de la llista
+update_online	Network update	Actualització per xarxa
+update_tf	TF card update	Actualització per targeta
+usb_chargeswitch	USB DAC Charging	Càrrega amb USB DAC
+usbmode_audio	USB AUDIO	Àudio USB
+usbmode_connect	USB Connected	USB connectat
+usbmode_dac	USB DAC	USB DAC
+usbmode_disconnect	USB Disconnected	USB desconnectat
+usbmode_storge	USB Storage	Emmagatzematge USB
+usbvol_adjust	Volume Variable	Volum variable
+usbvol_fixed	Volume Fixed	Volum fix
+wheelmode_menu	Menu Mode	Mode menú
+wheelmode_volume	Volume Mode	Mode volum
+wifi_addnetwork	Add Network	Afig una xarxa
+wifi_choice	Select Network	Tria una xarxa
+wifi_scan	Scanning	Buscant
+wifiset_bt	Bluetooth	Bluetooth
+wifiset_synclink	SyncLink	SyncLink
+wifiset_wifi	Wi-Fi	Wi-Fi
+wifits_info1	Enter the following URL into your internet browser:	Introduïx esta URL en el navegador d'Internet:
+Search	Search	Busca
+Streaming	Streaming	Streaming
+Library's Games	Library's Games	Jocs de la biblioteca
+Library's Apps	Library's Apps	Apps de la biblioteca
+Network settings	Network settings	Configuració de xarxa
+Wait until the App Store finishes	Wait until the App Store finishes	Espera que acabe l'App Store
+It isn't on the card	It isn't on the card	No està en la targeta
+It couldn't start	It couldn't start	No s'ha pogut iniciar
+Stop %s	Stop %s	Atura %s
+Loading…	Loading…	Carregant…
+More…	More…	Més…
+Working…	Working…	Treballant…
+Starting %s…	Starting %s…	Iniciant %s…
+Retry	Retry	Reintenta
+Install it again in Library → App Store	Install it again in Library → App Store	Torna a instal·lar-la a Biblioteca → App Store
+Cancel	Cancel	Cancel·la
+%s isn't running	%s isn't running	%s no s'està executant
+%s didn't answer	%s didn't answer	%s no ha respost
+Too long	Too long	Massa llarg
+%s stopped	%s stopped	%s s'ha aturat
+%s isn't on the card	%s isn't on the card	%s no està en la targeta
+Apps	Apps	Apps
+No apps	No apps	No hi ha apps
+Not running	Not running	No s'està executant
+No code yet	No code yet	Encara no hi ha codi
+Connect the Q2 to Wi-Fi	Connect the Q2 to Wi-Fi	Connecta la Q2 al Wi-Fi
+Open it again	Open it again	Obri-la una altra vegada
+Wait a moment	Wait a moment	Espera un moment
+Then come back here	Then come back here	Després torna ací
+Scan with your phone's	Scan with your phone's	Escaneja amb la càmera
+Scan with your	Scan with your	Escaneja amb
+camera	camera	del teu mòbil
+phone's camera	phone's camera	la càmera del teu mòbil
+or open	or open	o obri
+PIN	PIN	PIN
+Couldn't import %s	Couldn't import %s	No s'ha pogut importar %s
+Playlists updated	Playlists updated	Llistes actualitzades
+No memory card	No memory card	No hi ha targeta de memòria
+Games	Games	Jocs
+%d update	%d update	%d actualització
+%d updates	%d updates	%d actualitzacions
+INSTALL	INSTALL	INSTAL·LA
+UPDATE	UPDATE	ACTUALITZA
+INSTALLED	INSTALLED	INSTAL·LAT
+AM	AM	AM
+PM	PM	PM
+Jan	Jan	gen
+Feb	Feb	feb
+Mar	Mar	mar
+Apr	Apr	abr
+May	May	maig
+Jun	Jun	jun
+Jul	Jul	jul
+Aug	Aug	ag
+Sep	Sep	set
+Oct	Oct	oct
+Nov	Nov	nov
+Dec	Dec	des
+The card is in use over USB	The card is in use over USB	La targeta s'està usant per USB
+Storage unavailable	Storage unavailable	Emmagatzematge no disponible
+The card is full	The card is full	La targeta està plena
+Couldn't save	Couldn't save	No s'ha pogut guardar
+Saved to battery-log.txt	Saved to battery-log.txt	Guardat en battery-log.txt
+Battery History	Battery History	Historial de la bateria
+Unplug to start	Unplug to start	Desconnecta el cable
+Export Log	Export Log	Exporta el registre
+Card theme turned off after a failed start	Card theme turned off after a failed start	Tema de la targeta desactivat després d'un inici fallit
+Card theme removed. Restart to finish	Card theme removed. Restart to finish	Tema de la targeta eliminat. Reinicia per a acabar
+Card theme file can't be used	Card theme file can't be used	No es pot usar l'arxiu del tema de la targeta
+Card theme saved. Restart to apply	Card theme saved. Restart to apply	Tema de la targeta guardat. Reinicia per a aplicar-lo
+Could not save card theme	Could not save card theme	No s'ha pogut guardar el tema de la targeta
+Done	Done	Fet
+space	space	espai
+New Playlist	New Playlist	Llista nova
+Playlist Name	Playlist Name	Nom de la llista
+Rename	Rename	Canvia el nom
+Songs	Songs	Cançons
+Artists	Artists	Artistes
+Albums	Albums	Àlbums
+Genres	Genres	Gèneres
+Off	Off	Desactivat
+On	On	Activat
+%d of %d songs	%d of %d songs	%d de %d cançons
+Updating Library	Updating Library	Actualitzant la biblioteca
+Connected	Connected	Connectat
+Eject before disconnecting	Eject before disconnecting	Expulsa abans de desconnectar
+%d:%02d AM	%d:%02d AM	%d:%02d AM
+%d:%02d PM	%d:%02d PM	%d:%02d PM
+Save	Save	Guarda
+Sort: Album	Sort: Album	Ordre: Àlbum
+Sort: Artist	Sort: Artist	Ordre: Artista
+Sort: Recently Added	Sort: Recently Added	Ordre: Afegit recentment
+Sort: Most Played	Sort: Most Played	Ordre: Més reproduïdes
+Sort: Random	Sort: Random	Ordre: Aleatori
+Sort: Rating	Sort: Rating	Ordre: Valoració
+Sort: Year	Sort: Year	Ordre: Any
+%u song	%u song	%u cançó
+%u songs	%u songs	%u cançons
+All albums	All albums	Tots els àlbums
+Preparing artwork… %d/%d	Preparing artwork… %d/%d	Preparant portades… %d/%d
+Update Library first	Update Library first	Actualitza primer la biblioteca
+%u Song	%u Song	%u cançó
+%u Songs	%u Songs	%u cançons
+%u Album	%u Album	%u àlbum
+%u Albums	%u Albums	%u àlbums
+%u Game	%u Game	%u joc
+%u Games	%u Games	%u jocs
+%u Service	%u Service	%u servici
+%u Services	%u Services	%u servicis
+%u.%u GB Free	%u.%u GB Free	%u.%u GB lliures
+Library	Library	Biblioteca
+Settings	Settings	Configuració
+Crossfade: %d s	Crossfade: %d s	Fosa creuada: %d s
+Crossfade: Off	Crossfade: Off	Fosa creuada: Desactivada
+Wheel Sensitivity: %d%%	Wheel Sensitivity: %d%%	Sensibilitat de la roda: %d%%
+Resume Songs: %d min	Resume Songs: %d min	Reprén cançons: %d min
+Resume Songs: Off	Resume Songs: Off	Reprén cançons: Desactivat
+Night Shift: %dK	Night Shift: %dK	Llum nocturna: %dK
+Night Shift: Auto	Night Shift: Auto	Llum nocturna: Auto
+Night Shift: Off	Night Shift: Off	Llum nocturna: Desactivada
+Mono Audio	Mono Audio	Àudio mono
+Swap L/R	Swap L/R	Inverteix E/D
+Crossfade needs Gapless	Crossfade needs Gapless	Activa Sense pauses per a la fosa
+Auto	Auto	Auto
+Night Shift	Night Shift	Llum nocturna
+Resume Songs	Resume Songs	Reprén cançons
+Wheel Sensitivity	Wheel Sensitivity	Sensibilitat de la roda
+Crossfade	Crossfade	Fosa creuada
+Measuring song lengths…	Measuring song lengths…	Mesurant la durada de les cançons…
+Sudoku	Sudoku	Sudoku
+Solitaire	Solitaire	Solitari
+Snake	Snake	Snake
+Paused	Paused	En pausa
+Continue	Continue	Continua
+Quit	Quit	Ix
+New best!	New best!	Nou rècord!
+Game over	Game over	Fi del joc
+Centre: play again	Centre: play again	Centre: torna a jugar
+Play/Pause: resume	Play/Pause: resume	Reproducció/Pausa: reprén
+New game?	New game?	Partida nova?
+Centre: yes   Return: no	Centre: yes   Return: no	Centre: sí   Arrere: no
+Solved!	Solved!	Resolt!
+Play/Pause: new game	Play/Pause: new game	Reproducció/Pausa: partida nova
+Score	Score	Punts
+Best	Best	Rècord
+Level	Level	Nivell
+Centre	Centre	Centre
+You win!	You win!	Has guanyat!
+Shuffle	Shuffle	Aleatori
+Era	Era	Dècada
+Ratings	Ratings	Valoracions
+Most Played	Most Played	Més reproduïdes
+Long Songs	Long Songs	Cançons llargues
+App Store	App Store	App Store
+Upload Scrobbles	Upload Scrobbles	Envia els scrobbles
+Tidal Downloads	Tidal Downloads	Descàrregues de Tidal
+Internet Radio	Internet Radio	Ràdio per Internet
+Configuration	Configuration	Configuració
+Restart to apply?	Restart to apply?	Reiniciar per a aplicar-ho?
+Couldn't copy the language	Couldn't copy the language	No s'ha pogut copiar l'idioma
+Too many songs to shuffle	Too many songs to shuffle	Massa cançons per a mesclar
+Shuffle Songs	Shuffle Songs	Mescla les cançons
+Shuffle Albums	Shuffle Albums	Mescla els àlbums
+Shuffle Folders	Shuffle Folders	Mescla les carpetes
+Albums and folders take a moment to shuffle	Albums and folders take a moment to shuffle	Mesclar àlbums i carpetes tarda un moment
+No plays yet	No plays yet	Sense reproduccions
+%u play	%u play	%u reproducció
+%u plays	%u plays	%u reproduccions
+No downloads yet	No downloads yet	Encara no hi ha descàrregues
+Clear All Downloads…	Clear All Downloads…	Esborra totes les descàrregues…
+%u track	%u track	%u pista
+%u tracks	%u tracks	%u pistes
+Remove Downloads?	Remove Downloads?	Eliminar les descàrregues?
+Keeps settings	Keeps settings	Conserva la configuració
+Remove	Remove	Elimina
+It isn't on the card any more	It isn't on the card any more	Ja no està en la targeta
+%02ds	%02ds	Anys %02d
+%ds	%ds	Anys %d
+Era unavailable	Era unavailable	Dècada no disponible
+Album not found	Album not found	Àlbum no trobat
+%u album	%u album	%u àlbum
+%u albums	%u albums	%u àlbums
+Play All	Play All	Reproduïx-ho tot
+Every song, shuffled	Every song, shuffled	Totes les cançons, en aleatori
+No dated albums yet	No dated albums yet	Encara no hi ha àlbums amb any
+No songs over 10 minutes	No songs over 10 minutes	No hi ha cançons de més de 10 minuts
+Measuring songs… %d/%d	Measuring songs… %d/%d	Mesurant cançons… %d/%d
+Measuring songs…	Measuring songs…	Mesurant cançons…
+Release to search	Release to search	Solta per a buscar
+Pull to search	Pull to search	Arrossega per a buscar
+Sleep Timer	Sleep Timer	Temporitzador d'apagat
+Lock Screen	Lock Screen	Pantalla de bloqueig
+Accent	Accent	Accent
+Everything	Everything	Tot
+Buttons only	Buttons only	Només botons
+Volume only	Volume only	Només volum
+Wake: Single Press	Wake: Single Press	Despertar: Una pulsació
+Wake: Double Press	Wake: Double Press	Despertar: Pulsació doble
+Artist View: Grid	Artist View: Grid	Vista d'artistes: Quadrícula
+Artist View: Cover Flow	Artist View: Cover Flow	Vista d'artistes: Cover Flow
+Artist View: List	Artist View: List	Vista d'artistes: Llista
+Year Order: Newest First	Year Order: Newest First	Ordre per any: Més recents primer
+Year Order: Oldest First	Year Order: Oldest First	Ordre per any: Més antics primer
+Artists: Artist	Artists: Artist	Artistes: Artista
+Artists: Album Artist	Artists: Album Artist	Artistes: Artista de l'àlbum
+Resume on Connect: Off	Resume on Connect: Off	Reprén en connectar: Desactivat
+Resume on Connect: On	Resume on Connect: On	Reprén en connectar: Activat
+Clock: Standard	Clock: Standard	Rellotge: Estàndard
+Clock: Large	Clock: Large	Rellotge: Gran
+Artist Album Order: Year	Artist Album Order: Year	Ordre d'àlbums: Any
+Artist Album Order: A–Z	Artist Album Order: A–Z	Ordre d'àlbums: A–Z
+Volume Guard: Off	Volume Guard: Off	Protecció de volum: Desactivada
+Volume Guard: On	Volume Guard: On	Protecció de volum: Activada
+Hold Return: Recent	Hold Return: Recent	Mantín Arrere: Recents
+Hold Return: Home	Hold Return: Home	Mantín Arrere: Inici
+Standby Limit: Off	Standby Limit: Off	Límit en espera: Desactivat
+Standby Limit: %u h	Standby Limit: %u h	Límit en espera: %u h
+Refresh Cover Flow	Refresh Cover Flow	Actualitza Cover Flow
+Playlist View: List	Playlist View: List	Vista de llistes: Llista
+Playlist View: Cover Flow	Playlist View: Cover Flow	Vista de llistes: Cover Flow
+Update Notifications: Off	Update Notifications: Off	Avisos d'actualització: Desactivats
+Update Notifications: On	Update Notifications: On	Avisos d'actualització: Activats
+Album View: List	Album View: List	Vista d'àlbums: Llista
+Album View: Grid	Album View: Grid	Vista d'àlbums: Quadrícula
+Charge Limit (%u%%)	Charge Limit (%u%%)	Límit de càrrega (%u%%)
+Resume on Connect	Resume on Connect	Reprén en connectar
+Volume Guard	Volume Guard	Protecció de volum
+Control Device Volume	Control Device Volume	Controla el volum del dispositiu
+Key Tone	Key Tone	So de les tecles
+In-Vehicle Mode	In-Vehicle Mode	Mode cotxe
+Smart Wi-Fi	Smart Wi-Fi	Wi-Fi intel·ligent
+Enlarged Album Art	Enlarged Album Art	Portada ampliada
+Folder Album Cover	Folder Album Cover	Portada de carpeta
+Fast Navigation	Fast Navigation	Navegació ràpida
+Scan Song Durations	Scan Song Durations	Mesura la durada de les cançons
+Position Bar	Position Bar	Barra de posició
+Hide Streaming	Hide Streaming	Amaga Streaming
+Hide Folder	Hide Folder	Amaga Carpetes
+Hide Apps	Hide Apps	Amaga Apps
+Hide Games	Hide Games	Amaga Jocs
+Hide App Store	Hide App Store	Amaga App Store
+Receive Audio	Receive Audio	Rep àudio
+Log Failed Artwork	Log Failed Artwork	Registra les portades fallides
+Hide Duplicate Albums	Hide Duplicate Albums	Amaga els àlbums duplicats
+Hide Duplicate Songs	Hide Duplicate Songs	Amaga les cançons duplicades
+Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	Cover Flow tornarà a fer les portades la pròxima vegada
+Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	Apaga i encén Bluetooth per a aplicar-ho
+Folder Root: %s	Folder Root: %s	Carpeta arrel: %s
+Folder Root: Card	Folder Root: Card	Carpeta arrel: Targeta
+Library & Folders	Library & Folders	Biblioteca i carpetes
+Press Centre to Change Mode	Press Centre to Change Mode	Prem Centre per a canviar de mode
+Press Centre to Turn On or Off	Press Centre to Turn On or Off	Prem Centre per a activar o desactivar
+Press Centre When Finished	Press Centre When Finished	Prem Centre en acabar
+OK to Disconnect	OK to Disconnect	Ja pots desconnectar
+Now Playing	Now Playing	Reproduint
+Cover Flow	Cover Flow	Cover Flow
+EQ	EQ	EQ
+Update Library	Update Library	Actualitza la biblioteca
+Balance	Balance	Balanç
+Home: Split	Home: Split	Inici: Dividit
+Home: Full	Home: Full	Inici: Complet
+Home: Carousel	Home: Carousel	Inici: Carrusel
+Battery: Icon	Battery: Icon	Bateria: Icona
+Battery: Percent	Battery: Percent	Bateria: Percentatge
+Battery: Icon + Percent	Battery: Icon + Percent	Bateria: Icona + percentatge
+Battery: Percent Inside	Battery: Percent Inside	Bateria: Percentatge dins
+Light Mode: Off	Light Mode: Off	Mode clar: Desactivat
+Light Mode: On	Light Mode: On	Mode clar: Activat
+Light Mode: Auto	Light Mode: Auto	Mode clar: Auto
+Accent: Card Theme	Accent: Card Theme	Accent: Tema de la targeta
+Battery: Card Theme	Battery: Card Theme	Bateria: Tema de la targeta
+Light Mode: Card Theme	Light Mode: Card Theme	Mode clar: Tema de la targeta
+Accent: %s	Accent: %s	Accent: %s
+Theme: %s	Theme: %s	Tema: %s
+Shortcut: None	Shortcut: None	Drecera: Cap
+Shortcut: %s	Shortcut: %s	Drecera: %s
+Rounded Corners	Rounded Corners	Cantonades arredonides
+Smart Awake	Smart Awake	Pantalla activa
+Centred Now Playing	Centred Now Playing	Reproduint centrat
+Click With Headphones	Click With Headphones	Clic amb auriculars
+Single Press Scrub	Single Press Scrub	Avançar amb una pulsació
+Time in Title	Time in Title	Hora en el títol
+Set by the card theme	Set by the card theme	Definit pel tema de la targeta
+Location	Location	Ubicació
+Unknown	Unknown	Desconegut
+Appearance	Appearance	Aparença
+Controls	Controls	Controls
+Theme	Theme	Tema
+Boot to: Rockbox	Boot to: Rockbox	Arrancar en: Rockbox
+Boot to: Q2 Pod	Boot to: Q2 Pod	Arrancar en: Q2 Pod
+Rockbox is not on the card	Rockbox is not on the card	Rockbox no està en la targeta
+Could not save boot choice	Could not save boot choice	No s'ha pogut guardar l'opció d'arrancada
+No albums	No albums	No hi ha àlbums
+No artists	No artists	No hi ha artistes
+No composers	No composers	No hi ha compositors
+No genres	No genres	No hi ha gèneres
+Chapter %d	Chapter %d	Capítol %d
+Chapters	Chapters	Capítols
+Could not read chapters	Could not read chapters	No s'han pogut llegir els capítols
+No embedded chapters	No embedded chapters	No hi ha capítols incrustats
+Too long to read chapters on the Q2	Too long to read chapters on the Q2	Massa llarg per a llegir capítols en la Q2
+Loading chapters…	Loading chapters…	Carregant capítols…
+Spotify Cache: %s	Spotify Cache: %s	Memòria cau de Spotify: %s
+Tidal Cache: %s	Tidal Cache: %s	Memòria cau de Tidal: %s
+Erasing…	Erasing…	Esborrant…
+Press again to erase login and cache	Press again to erase login and cache	Prem una altra vegada per a esborrar l'accés i la caché
+Erase Spotify Data	Erase Spotify Data	Esborra les dades de Spotify
+Could not save setting	Could not save setting	No s'ha pogut guardar el valor
+Streaming stopped	Streaming stopped	Streaming detingut
+Wait for the one in progress	Wait for the one in progress	Espera que acabe el que està en curs
+Stop Streaming Services	Stop Streaming Services	Atura els servicis de streaming
+No %s folder on the card	No %s folder on the card	No hi ha carpeta %s en la targeta
+CFW. Version	CFW. Version	Versió CFW
+Update to %s	Update to %s	Actualitza a %s
+Latest firmware installed	Latest firmware installed	Ja tens l'últim firmware
+Can't reach GitHub	Can't reach GitHub	No es pot connectar amb GitHub
+No update for this build	No update for this build	No hi ha actualització per a esta versió
+Can't write to the card	Can't write to the card	No es pot escriure en la targeta
+Download cancelled	Download cancelled	Descàrrega cancel·lada
+GitHub is busy, try later	GitHub is busy, try later	GitHub està ocupat, torna-ho a provar més tard
+The download was damaged, try again	The download was damaged, try again	La descàrrega s'ha danyat, torna-ho a provar
+Downloading %d%%	Downloading %d%%	Descarregant %d%%
+Cancelling…	Cancelling…	Cancel·lant…
+Reconnecting…	Reconnecting…	Reconnectant…
+Verifying…	Verifying…	Verificant…
+Checking…	Checking…	Comprovant…
+Needs %u MB more space	Needs %u MB more space	Falten %u MB d'espai
+Update downloaded: use TF card update	Update downloaded: use TF card update	Actualització descarregada: usa Actualització per targeta
+Charge the battery first	Charge the battery first	Carrega primer la bateria
+Can't start the download	Can't start the download	No es pot iniciar la descàrrega
+Downloading…	Downloading…	Descarregant…
+Q2 Pod %s is out: System Update → Network update	Q2 Pod %s is out: System Update → Network update	Q2 Pod %s disponible: Actualització del sistema → Actualització per xarxa
+Downloading	Downloading	Descarregant
+Unpacking…	Unpacking…	Descomprimint…
+Installing…	Installing…	Instal·lant…
+Removing…	Removing…	Eliminant…
+Connect to Wi-Fi to load the list	Connect to Wi-Fi to load the list	Connecta't al Wi-Fi per a carregar la llista
+Checked just now	Checked just now	Comprovat ara mateix
+Checked %u min ago	Checked %u min ago	Comprovat fa %u min
+Checked %u h ago	Checked %u h ago	Comprovat fa %u h
+Press again to remove	Press again to remove	Prem una altra vegada per a eliminar
+Starts at power-on. Press again to install	Starts at power-on. Press again to install	S'inicia en encendre. Prem una altra vegada per a instal·lar
+%d app can be updated	%d app can be updated	Es pot actualitzar %d app
+%d apps can be updated	%d apps can be updated	Es poden actualitzar %d apps
+All apps are up to date	All apps are up to date	Totes les apps estan al dia
+The download is not a usable app	The download is not a usable app	La descàrrega no és una app utilitzable
+Rockbox is ready. Find it on Home	Rockbox is ready. Find it on Home	Rockbox està llest. Busca'l a Inici
+Rockbox Themes are ready in Rockbox's Theme Settings	Rockbox Themes are ready in Rockbox's Theme Settings	Els temes de Rockbox estan llestos en la seua configuració de temes
+%s is ready in %s	%s is ready in %s	%s està llest en %s
+%s removed	%s removed	%s eliminat
+Spotify's login and cache erased	Spotify's login and cache erased	S'han esborrat l'accés i la caché de Spotify
+Stopped checking for updates	Stopped checking for updates	Comprovació d'actualitzacions detinguda
+Install Rockbox first	Install Rockbox first	Instal·la primer Rockbox
+Check for Updates	Check for Updates	Busca actualitzacions
+%d of %d	%d of %d	%d de %d
+Album lyrics	Album lyrics	Lletres de l'àlbum
+LRCLIB stopped answering	LRCLIB stopped answering	LRCLIB ha deixat de respondre
+Cancelled	Cancelled	Cancel·lat
+%d saved	%d saved	%d guardades
+%d not found	%d not found	%d no trobades
+%d already had lyrics	%d already had lyrics	%d ja tenien lletra
+%d failed	%d failed	%d fallides
+Album lyrics: no songs on the card	Album lyrics: no songs on the card	Lletres de l'àlbum: no hi ha cançons en la targeta
+Can't reach LRCLIB	Can't reach LRCLIB	No es pot connectar amb LRCLIB
+Download Album Lyrics	Download Album Lyrics	Descarrega les lletres de l'àlbum
+Downloading %d of %d	Downloading %d of %d	Descarregant %d de %d
+No album songs on the card	No album songs on the card	No hi ha cançons de l'àlbum en la targeta
+file exceeds 16384 bytes	file exceeds 16384 bytes	l'arxiu supera 16384 bytes
+line exceeds 512 bytes	line exceeds 512 bytes	la línia supera 512 bytes
+embedded NUL	embedded NUL	NUL incrustat
+unsupported filter form	unsupported filter form	forma de filtre no compatible
+expected Preamp: <gain> dB	expected Preamp: <gain> dB	s'esperava Preamp: <gain> dB
+preamp outside -60..24 dB or invalid number	preamp outside -60..24 dB or invalid number	preamp fora de -60..24 dB o número no vàlid
+expected Channel: L, R or all	expected Channel: L, R or all	s'esperava Channel: L, R o all
+only channels L, R and all are supported	only channels L, R and all are supported	només s'admeten els canals L, R i all
+unsupported command	unsupported command	comandament no compatible
+invalid filter label	invalid filter label	etiqueta de filtre no vàlida
+expected Filter [number]:	expected Filter [number]:	s'esperava Filter [número]:
+expected ON or OFF	expected ON or OFF	s'esperava ON o OFF
+unsupported filter type	unsupported filter type	tipus de filtre no compatible
+expected Fc <Hz> Hz Gain <dB> dB	expected Fc <Hz> Hz Gain <dB> dB	s'esperava Fc <Hz> Hz Gain <dB> dB
+invalid frequency or gain number	invalid frequency or gain number	freqüència o guany no vàlids
+expected Q <number>	expected Q <number>	s'esperava Q <número>
+peaking filter requires Q	peaking filter requires Q	el filtre peaking requerix Q
+range: 20..20000 Hz, -24..24 dB, Q 0.1..10	range: 20..20000 Hz, -24..24 dB, Q 0.1..10	rang: 20..20000 Hz, -24..24 dB, Q 0.1..10
+more than 30 bands	more than 30 bands	més de 30 bandes
+summed preamp outside -60..24 dB	summed preamp outside -60..24 dB	preamp sumat fora de -60..24 dB
+L/R preamp differ by more than 12 dB	L/R preamp differ by more than 12 dB	el preamp E/D difereix en més de 12 dB
+out of memory	out of memory	sense memòria
+cannot open file	cannot open file	no es pot obrir l'arxiu
+file read failed	file read failed	error en llegir l'arxiu
+EQ for 3.5 mm	EQ for 3.5 mm	EQ per a 3,5 mm
+EQ for 4.4 mm	EQ for 4.4 mm	EQ per a 4,4 mm
+EQ for USB	EQ for USB	EQ per a USB
+EQ for this Bluetooth device	EQ for this Bluetooth device	EQ per a este Bluetooth
+Auto (44.1: %.1f / 48: %.1f)	Auto (44.1: %.1f / 48: %.1f)	Auto (44.1: %.1f / 48: %.1f)
+Folder missing or unavailable	Folder missing or unavailable	Carpeta absent o no disponible
+Out of memory; cannot list presets	Out of memory; cannot list presets	Sense memòria; no es poden llistar els predefinits
+No presets found	No presets found	No hi ha predefinits
+Name not allowed; preset kept	Name not allowed; preset kept	Nom no permés; predefinit igual
+Name taken; preset kept	Name taken; preset kept	Nom en ús; predefinit intacte
+Rename failed; preset kept	Rename failed; preset kept	Error en renomenar; intacte
+Renamed to %.100s	Renamed to %.100s	Nom canviat a %.100s
+Pop	Pop	Pop
+Rock	Rock	Rock
+Dance	Dance	Dance
+Blues	Blues	Blues
+Metal	Metal	Metal
+Vocal	Vocal	Vocal
+Classical	Classical	Clàssica
+Jazz	Jazz	Jazz
+Preset loaded; choose Apply to activate	Preset loaded; choose Apply to activate	Predefinit carregat; tria Aplica per a activar-lo
+Preset saved; active EQ unchanged	Preset saved; active EQ unchanged	Predefinit guardat; l'EQ actiu no canvia
+Save failed; settings unchanged	Save failed; settings unchanged	Error en guardar; sense canvis
+Switch failed; EQ unchanged	Switch failed; EQ unchanged	Error en canviar; l'EQ igual
+Applied	Applied	Aplicat
+Apply failed; active EQ unchanged	Apply failed; active EQ unchanged	No s'ha pogut aplicar; l'EQ no canvia
+Reset; choose Apply to activate	Reset; choose Apply to activate	Restablit; tria Aplica
+Delete failed; preset kept	Delete failed; preset kept	Error en eliminar; intacte
+Deleted %.100s; active EQ unchanged	Deleted %.100s; active EQ unchanged	Eliminat %.100s; l'EQ no canvia
+Line %u: %s	Line %u: %s	Línia %u: %s
+Cannot read preset; settings unchanged	Cannot read preset; settings unchanged	No es pot llegir el predefinit
+Peaking	Peaking	Campana
+Low shelf	Low shelf	Shelf de greus
+High shelf	High shelf	Shelf d'aguts
+Apply changes	Apply changes	Aplica els canvis
+Nothing to apply	Nothing to apply	Res per a aplicar
+Reset to defaults	Reset to defaults	Restablix els valors
+Enabled	Enabled	Activat
+EQ per Output	EQ per Output	EQ per eixida
+Preamp	Preamp	Preamp
+Presets	Presets	Predefinits
+Band	Band	Banda
+Channels	Channels	Canals
+Both	Both	Ambdós
+Left	Left	Esquerre
+Right	Right	Dret
+Type	Type	Tipus
+Frequency	Frequency	Freqüència
+Gain	Gain	Guany
+Band %d Q	Band %d Q	Q de la banda %d
+Band %d Frequency (Hz)	Band %d Frequency (Hz)	Freqüència de la banda %d (Hz)
+Raise	Raise	Puja
+Lower	Lower	Baixa
+Step	Step	Pas
+Delete %.100s? Confirm	Delete %.100s? Confirm	Eliminar %.100s? Confirma
+Replace existing preset? Confirm	Replace existing preset? Confirm	Reemplaçar? Confirma
+Cancel replacement	Cancel replacement	Cancel·la el reemplaçament
+Save as Manual %02d	Save as Manual %02d	Guarda com a Manual %02d
+Stock presets	Stock presets	Predefinits de sèrie
+Import from SD /EQ	Import from SD /EQ	Importa de SD /EQ
+Save editor preset	Save editor preset	Guarda el predefinit
+Rename a preset	Rename a preset	Canvia el nom d'un predefinit
+Delete a preset	Delete a preset	Elimina un predefinit
+Previous page	Previous page	Pàgina anterior
+Next page	Next page	Pàgina següent
+Band %d	Band %d	Banda %d
+Band %d Gain	Band %d Gain	Guany de la banda %d
+Presets %d/%d	Presets %d/%d	Predefinits %d/%d
+Save failed; EQ unchanged	Save failed; EQ unchanged	Error en guardar; l'EQ igual
+Advanced	Advanced	Avançat
+Enabled: On	Enabled: On	Activat: Sí
+Enabled: Off	Enabled: Off	Activat: No
+Low	Low	Greus
+Mid	Mid	Mitjans
+High	High	Aguts
+Simple	Simple	Simple
+No photos	No photos	No hi ha fotos
+All Photos	All Photos	Totes les fotos
+Photos	Photos	Fotos
+Can't open this photo	Can't open this photo	No es pot obrir esta foto
+%d of %d  %s	%d of %d  %s	%d de %d  %s
+Could not save folder speed	Could not save folder speed	No s'ha pogut guardar la velocitat de carpeta
+Too long to play on the Q2: split it into parts	Too long to play on the Q2: split it into parts	Massa llarg per a reproduir-lo en la Q2: divideix-lo en parts
+Press again to restart	Press again to restart	Prem una altra vegada per a reiniciar
+Could not save playlist	Could not save playlist	No s'ha pogut guardar la llista
+Already in playlist	Already in playlist	Ja està en la llista
+Added to Playlist	Added to Playlist	Afegit a la llista
+Search songs	Search songs	Busca cançons
+Editing: %s	Editing: %s	Editant: %s
+Add Songs: %s	Add Songs: %s	Afig cançons: %s
+Song Actions: %s	Song Actions: %s	Accions de la cançó: %s
+Remove song?: %s	Remove song?: %s	Eliminar la cançó?: %s
+Add Songs	Add Songs	Afig cançons
+Move Up	Move Up	Puja
+Move Down	Move Down	Baixa
+Remove from Playlist	Remove from Playlist	Elimina de la llista
+Search: %s	Search: %s	Cerca: %s
+No songs match	No songs match	No hi ha cançons coincidents
+Search for more songs	Search for more songs	Busca més cançons
+Delete Playlist?	Delete Playlist?	Eliminar la llista?
+Delete	Delete	Elimina
+Playlist deleted	Playlist deleted	Llista eliminada
+Could not delete playlist	Could not delete playlist	No s'ha pogut eliminar la llista
+Delete Playlist	Delete Playlist	Elimina la llista
+Edit Playlist	Edit Playlist	Edita la llista
+Queue unchanged	Queue unchanged	La cua no ha canviat
+Deselect All	Deselect All	Desselecciona-ho tot
+Select All	Select All	Selecciona-ho tot
+Export %d Playlist	Export %d Playlist	Exporta %d llista
+Export %d Playlists	Export %d Playlists	Exporta %d llistes
+Delete %d Playlist…	Delete %d Playlist…	Elimina %d llista…
+Delete %d Playlists…	Delete %d Playlists…	Elimina %d llistes…
+%d Selected	%d Selected	Seleccionades: %d
+Select Playlists	Select Playlists	Selecciona llistes
+Playlists	Playlists	Llistes
+No Playlists	No Playlists	No hi ha llistes
+New Playlist…	New Playlist…	Llista nova…
+Select Playlists…	Select Playlists…	Selecciona llistes…
+Import Playlists	Import Playlists	Importa llistes
+Export	Export	Exporta
+No other group	No other group	No hi ha cap altre grup
+Folder not found	Folder not found	Carpeta no trobada
+All Songs	All Songs	Totes les cançons
+Songs in Album	Songs in Album	Cançons de l'àlbum
+Albums and Songs	Albums and Songs	Àlbums i cançons
+Songs in Folder	Songs in Folder	Cançons de la carpeta
+Folders	Folders	Carpetes
+Folders and Songs	Folders and Songs	Carpetes i cançons
+Play One Song	Play One Song	Reproduïx una cançó
+Play One Album	Play One Album	Reproduïx un àlbum
+Repeat Song	Repeat Song	Repetix la cançó
+Repeat Album	Repeat Album	Repetix l'àlbum
+Repeat All	Repeat All	Repetix-ho tot
+Play One Folder	Play One Folder	Reproduïx una carpeta
+Repeat Folder	Repeat Folder	Repetix la carpeta
+Album	Album	Àlbum
+Folder	Folder	Carpeta
+Repeat	Repeat	Repetix
+Group by	Group by	Agrupa per
+Play Next	Play Next	Reproduïx a continuació
+Add to Queue	Add to Queue	Afig a la cua
+Add to Favourites	Add to Favourites	Afig a favorits
+Remove from Favourites	Remove from Favourites	Elimina de favorits
+Add to Playlist	Add to Playlist	Afig a una llista
+Go to Album	Go to Album	Ves a l'àlbum
+Go to Artist	Go to Artist	Ves a l'artista
+Next Album	Next Album	Àlbum següent
+Previous Album	Previous Album	Àlbum anterior
+Rate	Rate	Valora
+Resume	Resume	Reprén
+View Queue	View Queue	Mostra la cua
+Go to Folder	Go to Folder	Ves a la carpeta
+Rate Album	Rate Album	Valora l'àlbum
+Group by: Folder	Group by: Folder	Agrupa per: Carpeta
+Group by: Album	Group by: Album	Agrupa per: Àlbum
+Next Folder	Next Folder	Carpeta següent
+Previous Folder	Previous Folder	Carpeta anterior
+Wheel: Volume	Wheel: Volume	Roda: Volum
+Wheel: Brightness	Wheel: Brightness	Roda: Brillantor
+Could not save Favourites	Could not save Favourites	No s'han pogut guardar els favorits
+Added to Favourites	Added to Favourites	Afegit a favorits
+Removed from Favourites	Removed from Favourites	Eliminat de favorits
+Stopped	Stopped	Detingut
+Can't play: %s	Can't play: %s	No es pot reproduir: %s
+Can't play this station	Can't play this station	No es pot reproduir esta emissora
+Connecting…	Connecting…	Connectant…
+Search is too long	Search is too long	La cerca és massa llarga
+Search stations	Search stations	Busca emissores
+Favourites	Favourites	Favorits
+Featured	Featured	Destacades
+Top Stations	Top Stations	Emissores populars
+By Country	By Country	Per país
+By Genre	By Genre	Per gènere
+Countries	Countries	Països
+Connecting to Wi-Fi…	Connecting to Wi-Fi…	Connectant al Wi-Fi…
+Directory unavailable	Directory unavailable	Directori no disponible
+No Wi-Fi	No Wi-Fi	Sense Wi-Fi
+No stations	No stations	No hi ha emissores
+No favourites	No favourites	No hi ha favorits
+Rating not saved	Rating not saved	No s'ha guardat la valoració
+Ratings are full	Ratings are full	Les valoracions estan plenes
+Favourite not sent to the app	Favourite not sent to the app	Favorit no enviat a l'app
+Unrated	Unrated	Sense valorar
+1 Heart	1 Heart	1 cor
+%d Hearts	%d Hearts	%d cors
+%d of 5	%d of 5	%d de 5
+Album changed	Album changed	Àlbum canviat
+Favourite not saved	Favourite not saved	No s'ha guardat el favorit
+This app has no favourites	This app has no favourites	Esta app no té favorits
+Top Rated	Top Rated	Millor valorades
+Loved	Loved	Me n'encanten
+All Rated	All Rated	Totes les valorades
+Disliked	Disliked	No m'agraden
+No songs yet	No songs yet	Encara no hi ha cançons
+Hold the heart on Now Playing to rate	Hold the heart on Now Playing to rate	Mantín premut el cor en Reproduint per a valorar
+No rated albums yet	No rated albums yet	Encara no hi ha àlbums valorats
+Upload failed, %d sent	Upload failed, %d sent	Error en enviar, %d enviats
+Scrobbles sent: %d	Scrobbles sent: %d	Scrobbles enviats: %d
+Nothing to upload	Nothing to upload	Res per a enviar
+Uploading scrobbles	Uploading scrobbles	Enviant scrobbles
+Already uploading	Already uploading	Ja s'està enviant
+Upload failed	Upload failed	Error en enviar
+Connect to Wi-Fi first	Connect to Wi-Fi first	Connecta't primer al Wi-Fi
+Waiting for Spotify	Waiting for Spotify	Esperant Spotify
+Spotify isn't on the card	Spotify isn't on the card	Spotify no està en la targeta
+See the Q2 Pod guide to add it	See the Q2 Pod guide to add it	Consulta la guia de Q2 Pod per a afegir-lo
+Open Spotify on your phone	Open Spotify on your phone	Obri Spotify en el teu telèfon
+and choose Q2	and choose Q2	i tria Q2
+Spotify refused this account	Spotify refused this account	Spotify ha rebutjat este compte
+Its tracks can't play on the Q2	Its tracks can't play on the Q2	Les seues pistes no es poden reproduir en la Q2
+Playback didn't start	Playback didn't start	La reproducció no ha començat
+Go back and try again	Go back and try again	Torna arrere i prova-ho de nou
+Starting playback	Starting playback	Iniciant la reproducció
+Update Spotify on the card	Update Spotify on the card	Actualitza Spotify en la targeta
+See the Q2 Pod guide	See the Q2 Pod guide	Consulta la guia de Q2 Pod
+Nothing playing	Nothing playing	Res en reproducció
+Choose music in Spotify	Choose music in Spotify	Tria música en Spotify
+Liked Songs	Liked Songs	Cançons que t'agraden
+Queue	Queue	Cua
+Playback Settings	Playback Settings	Configuració de reproducció
+Account	Account	Compte
+Downloaded Tracks	Downloaded Tracks	Pistes descarregades
+Downloads	Downloads	Descàrregues
+Tracks	Tracks	Pistes
+Open Spotify on your phone and choose Q2	Open Spotify on your phone and choose Q2	Obri Spotify en el teu telèfon i tria Q2
+Both on the same Wi-Fi	Both on the same Wi-Fi	Ambdós en la mateixa xarxa Wi-Fi
+to browse on the Q2	to browse on the Q2	per a explorar en la Q2
+Downloaded Playlists	Downloaded Playlists	Llistes descarregades
+Download Progress	Download Progress	Progrés de la descàrrega
+Storage Management	Storage Management	Gestió de l'emmagatzematge
+Download Status	Download Status	Estat de la descàrrega
+The latest download's progress	The latest download's progress	Progrés de l'última descàrrega
+for saved playlists and download controls	for saved playlists and download controls	per a llistes guardades i controls de descàrrega
+Remove Playlists…	Remove Playlists…	Elimina llistes…
+Remove Tracks…	Remove Tracks…	Elimina pistes…
+Keeps login and settings	Keeps login and settings	Conserva l'accés i la configuració
+Track removal can make playlists incomplete	Track removal can make playlists incomplete	Eliminar pistes pot deixar llistes incompletes
+Pause	Pause	Pausa
+Cancel Download	Cancel Download	Cancel·la la descàrrega
+Retry Failed	Retry Failed	Reintenta les fallides
+Update Download	Update Download	Actualitza la descàrrega
+Sign Out of Spotify?	Sign Out of Spotify?	Tancar la sessió de Spotify?
+Sign Out	Sign Out	Tanca la sessió
+Nothing here	Nothing here	Res ací
+Selected	Selected	Seleccionat
+Press to select	Press to select	Prem per a seleccionar
+All	All	Tot
+One	One	Un
+Download Liked Songs	Download Liked Songs	Descarrega les cançons que t'agraden
+Download Playlist	Download Playlist	Descarrega la llista
+For offline listening	For offline listening	Per a escoltar sense connexió
+Download Controls	Download Controls	Controls de descàrrega
+Update, retry, pause, resume or cancel	Update, retry, pause, resume or cancel	Actualitza, reintenta, pausa, reprén o cancel·la
+Remove Selected…	Remove Selected…	Elimina la selecció…
+Confirm the affected count	Confirm the affected count	Confirma el nombre afectat
+Spotify isn't running	Spotify isn't running	Spotify no s'està executant
+Spotify didn't answer	Spotify didn't answer	Spotify no ha respost
+Search Spotify	Search Spotify	Busca en Spotify
+Select Tracks	Select Tracks	Selecciona pistes
+Select at least one item	Select at least one item	Selecciona almenys un element
+Selection full. Remove these first	Selection full. Remove these first	Selecció completa. Elimina'n primer alguns
+Boot logo must be a 320x375 JPEG	Boot logo must be a 320x375 JPEG	El logo d'arrancada ha de ser un JPEG de 320x375
+Could not save boot logo	Could not save boot logo	No s'ha pogut guardar el logo d'arrancada
+Accent: Graphite	Accent: Graphite	Accent: Grafit
+Accent: Crimson	Accent: Crimson	Accent: Carmesí
+Accent: Tidal	Accent: Tidal	Accent: Tidal
+Accent: Champagne	Accent: Champagne	Accent: Xampany
+Accent: Cobalt	Accent: Cobalt	Accent: Cobalt
+Accent: Tangerine	Accent: Tangerine	Accent: Mandarina
+Accent: Plum	Accent: Plum	Accent: Pruna
+Accent: Ivory	Accent: Ivory	Accent: Ivori
+Accent: Green	Accent: Green	Accent: Verd
+Favorites	Favorites	Favorits
+Rated Albums	Rated Albums	Àlbums valorats
+Podcasts	Podcasts	Podcasts
+Audiobooks	Audiobooks	Audiollibres
+Groovebox can't start from the card	Groovebox can't start from the card	Groovebox no pot iniciar-se des de la targeta
+Groovebox is not on the card	Groovebox is not on the card	Groovebox no està en la targeta
+Play a Tidal album or playlist first	Play a Tidal album or playlist first	Primer reprodueix un àlbum o llista de Tidal
+Downloading %u of %u. Press to stop	Downloading %u of %u. Press to stop	Descarregant %u de %u. Prem per a detindre
+Download Playing Songs	Download Playing Songs	Descarrega les cançons en reproducció
+Tidal Cache full: %u of %u song saved	Tidal Cache full: %u of %u song saved	Memòria cau de Tidal plena: %u de %u cançó guardada
+Tidal Cache full: %u of %u songs saved	Tidal Cache full: %u of %u songs saved	Memòria cau de Tidal plena: %u de %u cançons guardades
+Downloaded %u of %u song	Downloaded %u of %u song	Cançons descarregades: %u de %u
+Downloaded %u of %u songs	Downloaded %u of %u songs	Cançons descarregades: %u de %u
+Nothing to play next	Nothing to play next	Res per a reproduir a continuació
+Queue changed	Queue changed	La cua ha canviat
+Never	Never	Mai
+USB DAC Charging: %s	USB DAC Charging: %s	Càrrega amb USB DAC: %s
+Spectrum	Spectrum	Espectre
+Oscilloscope	Oscilloscope	Oscil·loscopi
+VU Meters	VU Meters	Vúmetres
+Halo	Halo	Halo
+Pulsar	Pulsar	Pulsar
+Contour	Contour	Contorn
+More	More	Més
+A-B Repeat	A-B Repeat	Repetició A-B
+Speed	Speed	Velocitat
+*Only for 48 kHz and below	*Only for 48 kHz and below	*Només fins a 48 kHz
+No lyrics	No lyrics	Sense lletra
+Genre	Genre	Gènere
+Size	Size	Mida
+Year	Year	Any
+Format	Format	Format
+Bit Depth	Bit Depth	Profunditat de bits
+Bit Rate	Bit Rate	Taxa de bits
+Sample Rate	Sample Rate	Freqüència de mostreig
+Auto Scan	Auto Scan	Escaneig automàtic
+Update Library Now	Update Library Now	Actualitza la biblioteca ara
+Scan Folders	Scan Folders	Escaneja carpetes
+OK	OK	D'acord
+Bluetooth	Bluetooth	Bluetooth
+Key Lock	Key Lock	Bloqueig de tecles
+Low Gain	Low Gain	Guany baix
+USB Storage	USB Storage	Emmagatzematge USB
+Playback	Playback	Reproducció
+Custom	Custom	Personalitzat
+Reset	Reset	Restablix
+Open this address in a browser:	Open this address in a browser:	Obri esta adreça en un navegador:
+Downloaded	Downloaded	Descarregat
+Baidu Netdisk	Baidu Netdisk	Baidu Netdisk
+Sign In	Sign In	Inicia la sessió
+Scan with the Baidu app to sign in	Scan with the Baidu app to sign in	Escaneja amb l'app de Baidu per a iniciar la sessió
+Baidu encryption protects your privacy	Baidu encryption protects your privacy	El xifratge de Baidu protegix la teua privadesa
+Bluetooth RF test: connect from a computer	Bluetooth RF test: connect from a computer	Prova de RF Bluetooth: connecta des d'un ordinador
+Press Next to exit	Press Next to exit	Prem Següent per a eixir
+Brightness Test	Brightness Test	Prova de brillantor
+Next	Next	Següent
+Bluetooth Test	Bluetooth Test	Prova de Bluetooth
+Down	Down	Avall
+Up	Up	Amunt
+Swipe Left	Swipe Left	Llisca cap a l'esquerra
+Swipe Right	Swipe Right	Llisca cap a la dreta
+Key Test	Key Test	Prova de tecles
+Headphone Test	Headphone Test	Prova d'auriculars
+Plug in single-ended headphones	Plug in single-ended headphones	Connecta uns auriculars asimètrics
+Play (left male, right female)	Play (left male, right female)	Reproduïx (home esq., dona dta.)
+Bluetooth Receiver Test	Bluetooth Receiver Test	Prova de receptor Bluetooth
+Battery Test	Battery Test	Prova de bateria
+Battery:	Battery:	Bateria:
+Charging:	Charging:	Càrrega:
+microSD Test	microSD Test	Prova de microSD
+Touch Test	Touch Test	Prova tàctil
+Wi-Fi Test	Wi-Fi Test	Prova de Wi-Fi
+Artist	Artist	Artista
+Export Playlists	Export Playlists	Exporta les llistes
+Playlist	Playlist	Llista
+0 songs	0 songs	0 cançons
+System	System	Sistema
+Rockbox	Rockbox	Rockbox
+Baker Island	Baker Island	Illa Baker
+Midway	Midway	Midway
+Honolulu	Honolulu	Honolulu
+Anchorage	Anchorage	Anchorage
+Los Angeles	Los Angeles	Los Angeles
+Denver	Denver	Denver
+Mexico City	Mexico City	Ciutat de Mèxic
+New York	New York	Nova York
+Halifax	Halifax	Halifax
+St. John's	St. John's	Sant Joan de Terranova
+Buenos Aires	Buenos Aires	Buenos Aires
+Azores	Azores	Açores
+London	London	Londres
+Amsterdam	Amsterdam	Amsterdam
+Bucharest	Bucharest	Bucarest
+Kuwait	Kuwait	Kuwait
+Tehran	Tehran	Teheran
+Muscat	Muscat	Mascat
+Kabul	Kabul	Kabul
+Karachi	Karachi	Karachi
+Dhaka	Dhaka	Dhaka
+Bangkok	Bangkok	Bangkok
+Shanghai	Shanghai	Xangai
+Tokyo	Tokyo	Tòquio
+Adelaide	Adelaide	Adelaida
+Sydney	Sydney	Sydney
+Fiji	Fiji	Fiji
+Marquesas	Marquesas	Marqueses
+South Georgia	South Georgia	Geòrgia del Sud
+Colombo	Colombo	Colombo
+Kathmandu	Kathmandu	Katmandú
+Yangon	Yangon	Yangon
+Eucla	Eucla	Eucla
+L. Howe	L. Howe	Lord Howe
+Noumea	Noumea	Noumea
+Chatham	Chatham	Chatham
+Tongatapu	Tongatapu	Tongatapu
+Kiritimati	Kiritimati	Kiritimati
+Chicago	Chicago	Chicago
+Phoenix	Phoenix	Phoenix
+Kolkata	Kolkata	Calcuta
+Brisbane	Brisbane	Brisbane
+Auckland	Auckland	Auckland
+Status Bar	Status Bar	Barra d'estat
+Minimal	Minimal	Mínim
+Modern	Modern	Modern
+Classic	Classic	Clàssic
+Show Wordmark	Show Wordmark	Mostra el logotip
+Library on Home	Library on Home	Biblioteca en Inici
+Row Preview	Row Preview	Vista prèvia de files
+Row Art	Row Art	Portades en files
+Classic Blue	Classic Blue	Blau clàssic

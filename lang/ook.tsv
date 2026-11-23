@@ -1,0 +1,1181 @@
+# Orangutan
+History_record	History record	Ook ook
+about_cardcap	Card Capacity	Ook Ook
+about_cardremain	Remaining	Ook
+about_ipaddr	IP Address	Ook Ook
+about_model	Model	Ook
+about_more	*Our sincere thanks go to the DiamondBond team and all its enthusiasts for their ingenuity, outstanding solutions, and generous contributions.	*Ook ook ook ook ook ook Ook ook ook ook ook ook ook ook ook, ook ook, ook ook ook.
+about_sn	Serial Number	Ook Ook
+about_version	Version	Ook
+about_wifimac	Wi-Fi MAC	Ook-Ook Ook
+album	Album	Ook
+album	Album	Ook
+albumsinger	Album artist	Ook ook
+allmusic	All Songs	Ook Ook
+audio_settings	Audio settings	Ook ook
+baidu_login	Log In	Ook Ook
+baidu_login_tips1	Please use Baidu Netdisk or Baidu App to scan the code to login	Ook ook Ook Ook ook Ook Ook ook ook ook ook ook ook
+baidu_login_tips2	Baidu encryption technology protects your privacy and security	Ook ook ook ook ook ook ook ook
+baidu_loginout	Log Out	Ook Ook
+baidunet_floderinfo_failed	Failed to get file list	Ook ook ook ook ook
+batch_addplaylist	Add to Playlist	Ook ook Ook
+bt_adjvol	Bluetooth Headset Volume Control	Ook Ook Ook Ook
+bt_compatiabledev	Compatible Device	Ook Ook
+bt_name	Bluetooth Name	Ook Ook
+bt_paireddev	Paired Device	Ook Ook
+bt_quality	Quality	Ook
+bt_search	Scan now	Ook ook
+btcode_aac	AAC	Ook
+btcode_aptx	aptX	ook
+btcode_aptxhd	aptX HD	ook Ook
+btcode_ldacauto	LDAC Connection (auto)	Ook Ook (ook)
+btcode_ldachq	LDAC HQ	Ook Ook
+btcode_ldacst	LDAC Standard	Ook Ook
+btcode_sbc	SBC	Ook
+btcode_sbchq	SBC HQ	Ook Ook
+custom_eq	Custom	Ook
+display_backlight	Brightness	Ook
+display_lighttime	Screen Off Time	Ook Ook Ook
+display_screenlock	Lock Screen	Ook Ook
+dsdmode_d2p	D2P	Ook2Ook
+dsdmode_dop	DOP	Ook
+dsdmode_native	Native	Ook
+eq_blues	Blues	Ook
+eq_classical	Classical	Ook
+eq_club	Club	Ook
+eq_custom1	Custom1	Ook1
+eq_custom2	Custom2	Ook2
+eq_custom3	Custom3	Ook3
+eq_dance	Dance	Ook
+eq_doublebass	Sub-bass	Ook-ook
+eq_jazz	Jazz	Ook
+eq_metal	Metal	Ook
+eq_only48kmsg	EQ only for files below 48kHz.	Ook ook ook ook ook 48ook.
+eq_pop	Pop	Ook
+eq_reset	Reset	Ook
+eq_rock	Rock	Ook
+eq_vocal	Vocal	Ook
+fav	My Fav	Ook Ook
+filter_delayfast	Low Delay Fast Roll-off	Ook Ook Ook Ook-ook
+filter_delayslow	Low Delay Slow Roll-off	Ook Ook Ook Ook-ook
+filter_fast	Fast Roll-off	Ook Ook-ook
+filter_slow	Slow Roll-off	Ook Ook-ook
+frequentplay	Frequent	Ook
+gain_high	High	Ook
+gain_low	Low	Ook
+genre	Genre	Ook
+genre_statistics	Total %d songs	Ook %d ook
+hr	Hi-Res	Ook-Ook
+keyboard_keyword	Please enter keyword	Ook ook ook
+keyboard_netname	Please enter network name	Ook ook ook ook
+keyboard_password	Please enter password	Ook ook ook
+keylock_all	Lock Volume & Buttons	Ook Ook & Ook
+keylock_info	Only effective when the screen is off	Ook ook ook ook ook ook ook
+keylock_info2	Effective on Lockscreen and when Screen Off	Ook ook Ook ook ook Ook Ook
+keylock_key	Lock Buttons Only	Ook Ook Ook
+keylock_volume	Lock Volume Only	Ook Ook Ook
+lan_english	English	Ook
+lan_french	Français	Ook
+lan_german	Deutsch	Ook
+lan_italian	Italiano	Ook
+lan_japanese	日本語	ook
+lan_korean	한국어	ook
+lan_polish	Polski	Ook
+lan_russian	Русский	Ook
+lan_simplified	简体中文	ook
+lan_spanish	español	ook
+lan_thai	ภาษาไทย	ook
+lan_traditional	繁體中文	ook
+lan_ukrainian	Українська	Ook
+lighttime_15s	15s	15ook
+lighttime_1min	1min	1ook
+lighttime_2min	2min	2ook
+lighttime_30min	30min	30ook
+lighttime_30s	30s	30ook
+lighttime_5min	5min	5ook
+lighttime_lyricmode	Lyrics mode	Ook ook
+lighttime_off	Off	Ook
+list_baidu	Baidu Netdisk	Ook Ook
+list_tidal	TIDAL	Ook
+local_album	Albums	Ook
+local_allmusic	Local Songs	Ook Ook
+local_allsongs	Songs	Ook
+local_fav	My Fav	Ook Ook
+local_frequentplay	Frequent	Ook
+local_genre	Genres	Ook
+local_hr	Hi-Res	Ook-Ook
+local_playlist	Playlists	Ook
+local_recentadd	Recently Added	Ook Ook
+local_recentplay	Recent	Ook
+local_songer	Artists	Ook
+local_upmusic	Update Library	Ook Ook
+login_out	Logout	Ook
+memplay_location	Location	Ook
+memplay_off	Off	Ook
+memplay_track	Track	Ook
+msg_actionnotsupport	Non-local songs,not currently supported	Ook-ook ook,ook ook ook
+msg_actionscan	Scan music?	Ook ook?
+msg_add_task	Please enter the URL of the file you want to download	Ook ook ook Ook ook ook ook ook ook ook ook
+msg_addfailed	Adding Failed	Ook Ook
+msg_addfavsuccess	Added To Fav	Ook Ook Ook
+msg_addplaylistsuccess	Added To Playlist	Ook Ook Ook
+msg_autoshutdown	Shutdown	Ook
+msg_btabnormal	Bluetooth abnormal	Ook ook
+msg_btinit_run	Bluetooth Starting	Ook Ook
+msg_btreconnect	Reconnect Bluetooth?	Ook Ook?
+msg_cardeject	Audio Disconnected	Ook Ook
+msg_cardinsert	Audio Connected	Ook Ook
+msg_checkfw	Checking FW	Ook Ook
+msg_checkfwerr	FW. Check Error	Ook. Ook Ook
+msg_closesynclink	Please close SyncLink	Ook ook Ook
+msg_confirmupdate	Confirm Update?	Ook Ook?
+msg_connected	Connected	Ook
+msg_connecting	Connecting	Ook
+msg_delalbum	Delete Album?	Ook Ook?
+msg_delalbumfailed	Failed To Delete Album	Ook Ook Ook Ook
+msg_delalbumsuccess	Album Deleted	Ook Ook
+msg_delartist	Delete Artist?	Ook Ook?
+msg_delartistsuccess	Artist Deleted	Ook Ook
+msg_delete_task	Are you sure you want to delete the download task?	Ook ook ook ook ook ook ook ook ook ook?
+msg_deletesource	Also delete source file	Ook ook ook ook
+msg_delfile	Are you sure you want to delete this file?	Ook ook ook ook ook ook ook ook ook?
+msg_delfile	Delete File?	Ook Ook?
+msg_delfilefailed	Failed To Delete File	Ook Ook Ook Ook
+msg_delfilesuccess	File Deleted	Ook Ook
+msg_delgenre	Delete Genre?	Ook Ook?
+msg_delgenresuccess	Genre Deleted	Ook Ook
+msg_delplaylist	Delete Playlist?	Ook Ook?
+msg_delplaylistfailed	Failed To Delete Playlist	Ook Ook Ook Ook
+msg_delplaylistsuccess	Playlist Deleted	Ook Ook
+msg_delsong	Delete Song?	Ook Ook?
+msg_delsongfailed	Failed To Delete Song	Ook Ook Ook Ook
+msg_delsongsuccess	Song Deleted	Ook Ook
+msg_disconnected	Disconnected	Ook
+msg_disonnectbt	Please disconnect the bluetooth device	Ook ook ook ook ook
+msg_downloadpath	Download path is	Ook ook ook
+msg_exist_task	The download task already exists	Ook ook ook ook ook
+msg_exitairplay	Quit AirPlay?	Ook Ook?
+msg_exportplaylist	Export Playlist?	Ook Ook?
+msg_exportsuccess	Export successful	Ook ook
+msg_factorysuccess	Restore to factory settings succeeded	Ook ook ook ook ook
+msg_favsuccess	Added To Fav	Ook Ook Ook
+msg_file_exist	The file already exists	Ook ook ook ook
+msg_importplaylist	Import Playlists?	Ook Ook?
+msg_importsuccess	Successfully imported	Ook ook
+msg_initsetsuccess	All settings initialized successfully	Ook ook ook ook
+msg_latestfw	Latest Fw. Installed	Ook Ook. Ook
+msg_linkerror	WiFi Connection Error	Ook Ook Ook
+msg_lowarn	Line Out sets max volume,continue?	Ook Ook ook ook ook,ook?
+msg_lowpower	Low Battery	Ook Ook
+msg_namenull	The name can't be empty	Ook ook ook'ook ook ook
+msg_netnameerr	Network Must Be Named	Ook Ook Ook Ook
+msg_no	Cancel	Ook
+msg_no_storage	Storage is full.Some songs couldn't be added.	Ook ook ook.Ook ook ook'ook ook ook.
+msg_noheadset	Playback is disabled without headphones.Please insert headphones.	Ook ook ook ook ook.Ook ook ook.
+msg_nosongs	No songs in this folder	Ook ook ook ook ook
+msg_notalbuminfo	This file has no Album data	Ook ook ook ook Ook ook
+msg_notfile	File Not Found	Ook Ook Ook
+msg_notfolder	Folder not found	Ook ook ook
+msg_notfoundfw	Fw. Not Found	Ook. Ook Ook
+msg_notmemory	Memory is not enough	Ook ook ook ook
+msg_notmemory	Out of memory	Ook ook ook
+msg_notnetwork	Network Disconnected	Ook Ook
+msg_nototg	No OTG Found	Ook Ook Ook
+msg_notplaylist	Playlist Not Found	Ook Ook Ook
+msg_notsongerinfo	This file has no Artist data	Ook ook ook ook Ook ook
+msg_notsonglist	No Song List	Ook Ook Ook
+msg_notspecdir	Folder not specified	Ook ook ook
+msg_notsupport	Not Supported	Ook Ook
+msg_notsupportdel	Can't be removed	Ook'ook ook ook
+msg_nottf	No TF Card Found	Ook Ook Ook Ook
+msg_otgeject	OTG Disconnected	Ook Ook
+msg_otginfoerr	Failed To Get Version Info	Ook Ook Ook Ook Ook
+msg_otginsert	OTG Connected	Ook Ook
+msg_paircode	Bluetooth Code	Ook Ook
+msg_paired	Paired	Ook
+msg_playlistexist	Playlist Already Exists	Ook Ook Ook
+msg_playlistfull	Could not create playlist	Ook ook ook ook
+msg_poweroff	Shut Down?	Ook Ook?
+msg_resetdbsuccess	Reset completed	Ook ook
+msg_restarting	Restarting	Ook
+msg_shortpasswd	8 Digits PIN At Least	8 Ook Ook Ook Ook
+msg_start_download_task	start the download task	ook ook ook ook
+msg_stop_download_task	stop the download task	ook ook ook ook
+msg_testmode	Enter test mode?	Ook ook ook?
+msg_tfeject	TF Card Removed	Ook Ook Ook
+msg_tfinsert	TF Card Inserted	Ook Ook Ook
+msg_unpaired	Unpaired	Ook
+msg_unpairing	unpair?	ook?
+msg_unsupportformat	Unsupported format	Ook ook
+msg_update	Confirmed	Ook
+msg_wificancelsave	Delete Record?	Ook Ook?
+msg_wifidisconnect	Disconnect Now?	Ook Ook?
+msg_yes	OK	Ook
+navigation_all	All	Ook
+netservice_airplay	AirPlay	Ook
+netservice_dlna	DLNA	Ook
+netservice_wifitrans	Wi-Fi File Transfer	Ook-Ook Ook Ook
+no_search	No search results	Ook ook ook
+not_allmusic	Currently no songs	Ook ook ook
+otgdownload_percent	FW Downloaded	Ook Ook
+outputway	Output Options	Ook Ook
+play_all	Play All	Ook Ook
+player_abrepeat	AB Repeat	Ook Ook
+player_albuminfo	Look up Album	Ook ook Ook
+player_bitdepth	Bit Depth	Ook Ook
+player_bitrate	Bitrate	Ook
+player_delete	Delete Song	Ook Ook
+player_encoding	Encoding	Ook
+player_era	Year	Ook
+player_filesize	File Size	Ook Ook
+player_location	Location	Ook
+player_msgmul	*Affecting only files below 48khz	*Ook ook ook ook 48ook
+player_multiple	Multiple Speed	Ook Ook
+player_nolyric	No Lyrics	Ook Ook
+player_onlinesearch	Download Cover & Lyrics	Ook Ook & Ook
+player_playlist	Queue	Ook
+player_samplerate	Sample Rate	Ook Ook
+player_songerinfo	Look up Artist	Ook ook Ook
+player_unknown	Unknown	Ook
+player_unknown	Unknown Artist	Ook Ook
+playlist	Playlist	Ook
+playlist_create	New playlist	Ook ook
+playlist_export	Export playlist	Ook ook
+playlist_import	Import playlist	Ook ook
+playmode_listplay	List Play	Ook Ook
+playmode_repeatall	Repeat All	Ook Ook
+playmode_repeattrack	Repeat Track	Ook Ook
+playmode_shuffle	Shuffle	Ook
+playset_balance	Channel Balance	Ook Ook
+playset_bootvol	Default Volume	Ook Ook
+playset_covermode	Enlarged Album Art	Ook Ook Ook
+playset_dsdoutput	DSD Output Mode	Ook Ook Ook
+playset_eq	EQ	Ook
+playset_filter	Digital Filters	Ook Ook
+playset_foldercover	Folder Album Cover	Ook Ook Ook
+playset_folderjump	Folder Skip	Ook Ook
+playset_gain	Gain	Ook
+playset_gapless	Gapless	Ook
+playset_maxvol	Max Volume	Ook Ook
+playset_memplay	Memory Playback	Ook Ook
+playset_noplay	Require Output (Beta)	Ook Ook (Ook)
+playset_playmode	Play Mode	Ook Ook
+playset_replaygain	ReplayGain	Ook
+playset_usbaudiovol	USB Audio Output	Ook Ook Ook
+playset_volcover	Volume and Album Display	Ook ook Ook Ook
+powerm_deep_off	Standby	Ook
+powerm_sleep	Sleep Timer	Ook Ook
+recentadd	Recently Added	Ook Ook
+recentplay	Recent	Ook
+rename	Rename	Ook
+renamesuccess	Successfully renamed	Ook ook
+replaygain_track	Song	Ook
+reset_factory	Full Factory Reset	Ook Ook Ook
+reset_initdatabase	Reset Database	Ook Ook
+reset_initset	Reset Settings Only	Ook Ook Ook
+scan_automatic	Automatic Update	Ook Ook
+scan_now	Scan music now	Ook ook ook
+scan_now	Scan music now	Ook ook ook
+scan_spec	Scan specified folders	Ook ook ook
+scan_spec	Scan specified folders	Ook ook ook
+scan_startscan	Scan	Ook
+scan_updatefinish	Library Updated,%d Updated	Ook Ook,%d Ook
+scan_updating	Updating No.%d	Ook Ook.%d
+scover_cover	Cover	Ook
+scover_lyric	Lyrics	Ook
+screenlock_about	Custom Lock Screen	Ook Ook Ook
+screenlock_info1	1. Put the pictures in a folder named "lockscreenimage" at the top of the card.	1. Ook ook ook ook ook ook ook "ook" ook ook ook ook ook ook.
+screenlock_info2	2. PNG or JPG, exactly 375 x 320 pixels, under 1 MB each.	2. Ook ook Ook, ook 375 ook 320 ook, ook 1 Ook ook.
+screenlock_info3	3. Up to 5 pictures.	3. Ook ook 5 ook.
+screenlock_timeshow	Show Time	Ook Ook
+search_tips1	Search for music,artists,albums,genres	Ook ook ook,ook,ook,ook
+search_track	Track	Ook
+singerbyalbum	Sort by album artist	Ook ook ook ook
+singerbysong	Sort by song artist	Ook ook ook ook
+small_album	Albums	Ook
+small_coverflow	Album Wall	Ook Ook
+small_folder	Folder	Ook
+small_local	Local Songs	Ook Ook
+small_playing	Now Playing	Ook Ook
+small_playset	Playback	Ook
+small_stream	Streaming	Ook
+small_sysset	System	Ook
+songer	Artist	Ook
+sort_addtime	Time added	Ook ook
+sort_alphabet	Alphabetical	Ook
+sort_filename	File name	Ook ook
+sort_format	File format	Ook ook
+sort_time_asc	Time added (ascending)	Ook ook (ook)
+sort_time_desc	Time added (descending)	Ook ook (ook)
+standbyoff_10min	10min	10ook
+standbyoff_1min	1min	1ook
+standbyoff_3min	3min	3ook
+standbyoff_5min	5min	5ook
+standbyoff_deep	Auto-standby	Ook-ook
+standbyoff_deepinfo	After 5 minute of idle,device will go into standby mode.	Ook 5 ook ook ook,ook ook ook ook ook ook.
+standbyoff_saver	Auto-shutdown	Ook-ook
+synclink_off	Off	Ook
+system_about	About	Ook
+system_carmode	In-Vehicle Mode	Ook-Ook Ook
+system_display	Display	Ook
+system_general	General	Ook
+system_keylock	Buttons Lock	Ook Ook
+system_keytone	Key Tone	Ook Ook
+system_language	Language	Ook
+system_navshow	Show Navigation Bar	Ook Ook Ook
+system_netservice	Network	Ook
+system_powermanager	Power	Ook
+system_prove	Certification	Ook
+system_reset	Reset Settings	Ook Ook
+system_sys	System	Ook
+system_time	Date & Time	Ook & Ook
+system_update	System Update	Ook Ook
+system_wheelmode	Wheel Function	Ook Ook
+system_wifiset	Wireless	Ook
+timedate_24h	24-Hour	24-Ook
+timedate_auto	Automatic Time Set	Ook Ook Ook
+timedate_manual	Set Time Manually	Ook Ook Ook
+timezone_gmt+1	(GMT+01:00)Europe/Amsterdam	(Ook+01:00)Ook/Ook
+timezone_gmt+10	(GMT+10:00)Australia/Sydney	(Ook+10:00)Ook/Ook
+timezone_gmt+12	(GMT+12:00)Pacific/Fiji	(Ook+12:00)Ook/Ook
+timezone_gmt+2	(GMT+02:00)Europe/Bucharest	(Ook+02:00)Ook/Ook
+timezone_gmt+3	(GMT+03:00)Asia/Kuwait	(Ook+03:00)Ook/Ook
+timezone_gmt+3_30	(GMT+03:30)Asia/Tehran	(Ook+03:30)Ook/Ook
+timezone_gmt+4	(GMT+04:00)Asia/Muscat	(Ook+04:00)Ook/Ook
+timezone_gmt+4_30	(GMT+04:30)Asia/Kabul	(Ook+04:30)Ook/Ook
+timezone_gmt+5	(GMT+05:00)Asia/Karachi	(Ook+05:00)Ook/Ook
+timezone_gmt+6	(GMT+06:00)Asia/Almaty	(Ook+06:00)Ook/Ook
+timezone_gmt+7	(GMT+07:00)Asia/Bangkok	(Ook+07:00)Ook/Ook
+timezone_gmt+8	(GMT+08:00)Asia/Shanghai	(Ook+08:00)Ook/Ook
+timezone_gmt+9	(GMT+09:00)Asia/Tokyo	(Ook+09:00)Ook/Ook
+timezone_gmt+9_30	(GMT+09:30)Australia/Adelaide	(Ook+09:30)Ook/Ook
+timezone_gmt-0	(GMT 00:00)Europe/London	(Ook 00:00)Ook/Ook
+timezone_gmt-1	(GMT-01:00)Atlantic/Azores	(Ook-01:00)Ook/Ook
+timezone_gmt-10	(GMT-10:00)Pacific/Honolulu	(Ook-10:00)Ook/Ook
+timezone_gmt-11	(GMT-11:00)Pacific/Midway	(Ook-11:00)Ook/Ook
+timezone_gmt-12	(GMT-12:00)Pacific/Kwajalein	(Ook-12:00)Ook/Ook
+timezone_gmt-3	(GMT-03:00)America/Argentina/Buenos_Aires	(Ook-03:00)Ook/Ook/Ook_Ook
+timezone_gmt-3_30	(GMT-03:30)America/St_Johns	(Ook-03:30)Ook/Ook_Ook
+timezone_gmt-4	(GMT-04:00)Canada/Atlantic	(Ook-04:00)Ook/Ook
+timezone_gmt-5	(GMT-05:00)America/New_York	(Ook-05:00)Ook/Ook_Ook
+timezone_gmt-6	(GMT-06:00)America/Mexico_City	(Ook-06:00)Ook/Ook_Ook
+timezone_gmt-7	(GMT-07:00)America/Denver	(Ook-07:00)Ook/Ook
+timezone_gmt-8	(GMT-08:00)America/Tijuana	(Ook-08:00)Ook/Ook
+timezone_gmt-9	(GMT-09:00)America/Anchorage	(Ook-09:00)Ook/Ook
+timezone_select	Time Zone Selection	Ook Ook Ook
+title_downloaded	Downloaded	Ook
+title_downloading	Downloading	Ook
+title_more	More	Ook
+title_sort	List sort order	Ook ook ook
+update_online	Network update	Ook ook
+update_tf	TF card update	Ook ook ook
+usb_chargeswitch	USB DAC Charging	Ook Ook Ook
+usbmode_audio	USB AUDIO	Ook Ook
+usbmode_connect	USB Connected	Ook Ook
+usbmode_dac	USB DAC	Ook Ook
+usbmode_disconnect	USB Disconnected	Ook Ook
+usbmode_storge	USB Storage	Ook Ook
+usbvol_adjust	Volume Variable	Ook Ook
+usbvol_fixed	Volume Fixed	Ook Ook
+wheelmode_menu	Menu Mode	Ook Ook
+wheelmode_volume	Volume Mode	Ook Ook
+wifi_addnetwork	Add Network	Ook Ook
+wifi_choice	Select Network	Ook Ook
+wifi_scan	Scanning	Ook
+wifiset_bt	Bluetooth	Ook
+wifiset_synclink	SyncLink	Ook
+wifiset_wifi	Wi-Fi	Ook-Ook
+wifits_info1	Enter the following URL into your internet browser:	Ook ook ook Ook ook ook ook ook:
+Search	Search	Ook
+Streaming	Streaming	Ook
+Library's Games	Library's Games	Ook'ook Ook
+Library's Apps	Library's Apps	Ook'ook Ook
+Network settings	Network settings	Ook ook
+Wait until the App Store finishes	Wait until the App Store finishes	Ook ook ook Ook Ook ook
+It isn't on the card	It isn't on the card	Ook ook'ook ook ook ook
+It couldn't start	It couldn't start	Ook ook'ook ook
+Stop %s	Stop %s	Ook %s
+Loading…	Loading…	Ook…
+More…	More…	Ook…
+Working…	Working…	Ook…
+Starting %s…	Starting %s…	Ook %s…
+Retry	Retry	Ook
+Install it again in Library → App Store	Install it again in Library → App Store	Ook ook ook ook Ook → Ook Ook
+Cancel	Cancel	Ook
+%s isn't running	%s isn't running	%s ook'ook ook
+%s didn't answer	%s didn't answer	%s ook'ook ook
+Too long	Too long	Ook ook
+%s stopped	%s stopped	%s ook
+%s isn't on the card	%s isn't on the card	%s ook'ook ook ook ook
+Apps	Apps	Ook
+No apps	No apps	Ook ook
+Not running	Not running	Ook ook
+No code yet	No code yet	Ook ook ook
+Connect the Q2 to Wi-Fi	Connect the Q2 to Wi-Fi	Ook ook Ook2 ook Ook-Ook
+Open it again	Open it again	Ook ook ook
+Wait a moment	Wait a moment	Ook ook ook
+Then come back here	Then come back here	Ook ook ook ook
+Scan with your phone's	Scan with your phone's	Ook ook ook ook'ook
+Scan with your	Scan with your	Ook ook ook
+camera	camera	ook
+phone's camera	phone's camera	ook'ook ook
+or open	or open	ook ook
+PIN	PIN	Ook
+Couldn't import %s	Couldn't import %s	Ook'ook ook %s
+Playlists updated	Playlists updated	Ook ook
+No memory card	No memory card	Ook ook ook
+Games	Games	Ook
+%d update	%d update	%d ook
+%d updates	%d updates	%d ook
+INSTALL	INSTALL	Ook
+UPDATE	UPDATE	Ook
+INSTALLED	INSTALLED	Ook
+AM	AM	Ook
+PM	PM	Ook
+Jan	Jan	Ook
+Feb	Feb	Ook
+Mar	Mar	Ook
+Apr	Apr	Ook
+May	May	Ook
+Jun	Jun	Ook
+Jul	Jul	Ook
+Aug	Aug	Ook
+Sep	Sep	Ook
+Oct	Oct	Ook
+Nov	Nov	Ook
+Dec	Dec	Ook
+The card is in use over USB	The card is in use over USB	Ook ook ook ook ook ook Ook
+Storage unavailable	Storage unavailable	Ook ook
+The card is full	The card is full	Ook ook ook ook
+Couldn't save	Couldn't save	Ook'ook ook
+Saved to battery-log.txt	Saved to battery-log.txt	Ook ook ook-ook.ook
+Battery History	Battery History	Ook Ook
+Unplug to start	Unplug to start	Ook ook ook
+Export Log	Export Log	Ook Ook
+Card theme turned off after a failed start	Card theme turned off after a failed start	Ook ook ook ook ook ook ook ook
+Card theme removed. Restart to finish	Card theme removed. Restart to finish	Ook ook ook. Ook ook ook
+Card theme file can't be used	Card theme file can't be used	Ook ook ook ook'ook ook ook
+Card theme saved. Restart to apply	Card theme saved. Restart to apply	Ook ook ook. Ook ook ook
+Could not save card theme	Could not save card theme	Ook ook ook ook ook
+Done	Done	Ook
+space	space	ook
+New Playlist	New Playlist	Ook Ook
+Playlist Name	Playlist Name	Ook Ook
+Rename	Rename	Ook
+Songs	Songs	Ook
+Artists	Artists	Ook
+Albums	Albums	Ook
+Genres	Genres	Ook
+Off	Off	Ook
+On	On	Ook
+%d of %d songs	%d of %d songs	%d ook %d ook
+Updating Library	Updating Library	Ook Ook
+Connected	Connected	Ook
+Eject before disconnecting	Eject before disconnecting	Ook ook ook
+%d:%02d AM	%d:%02d AM	%d:%02d Ook
+%d:%02d PM	%d:%02d PM	%d:%02d Ook
+Save	Save	Ook
+Sort: Album	Sort: Album	Ook: Ook
+Sort: Artist	Sort: Artist	Ook: Ook
+Sort: Recently Added	Sort: Recently Added	Ook: Ook Ook
+Sort: Most Played	Sort: Most Played	Ook: Ook Ook
+Sort: Random	Sort: Random	Ook: Ook
+Sort: Rating	Sort: Rating	Ook: Ook
+Sort: Year	Sort: Year	Ook: Ook
+%u song	%u song	%u ook
+%u songs	%u songs	%u ook
+All albums	All albums	Ook ook
+Preparing artwork… %d/%d	Preparing artwork… %d/%d	Ook ook… %d/%d
+Update Library first	Update Library first	Ook Ook ook
+%u Song	%u Song	%u Ook
+%u Songs	%u Songs	%u Ook
+%u Album	%u Album	%u Ook
+%u Albums	%u Albums	%u Ook
+%u Game	%u Game	%u Ook
+%u Games	%u Games	%u Ook
+%u Service	%u Service	%u Ook
+%u Services	%u Services	%u Ook
+%u.%u GB Free	%u.%u GB Free	%u.%u Ook Ook
+Library	Library	Ook
+Settings	Settings	Ook
+Crossfade: %d s	Crossfade: %d s	Ook: %d ook
+Crossfade: Off	Crossfade: Off	Ook: Ook
+Wheel Sensitivity: %d%%	Wheel Sensitivity: %d%%	Ook Ook: %d%%
+Resume Songs: %d min	Resume Songs: %d min	Ook Ook: %d ook
+Resume Songs: Off	Resume Songs: Off	Ook Ook: Ook
+Night Shift: %dK	Night Shift: %dK	Ook Ook: %dOok
+Night Shift: Auto	Night Shift: Auto	Ook Ook: Ook
+Night Shift: Off	Night Shift: Off	Ook Ook: Ook
+Mono Audio	Mono Audio	Ook Ook
+Swap L/R	Swap L/R	Ook Ook/Ook
+Crossfade needs Gapless	Crossfade needs Gapless	Ook ook Ook
+Auto	Auto	Ook
+Night Shift	Night Shift	Ook Ook
+Resume Songs	Resume Songs	Ook Ook
+Wheel Sensitivity	Wheel Sensitivity	Ook Ook
+Crossfade	Crossfade	Ook
+Measuring song lengths…	Measuring song lengths…	Ook ook ook…
+Sudoku	Sudoku	Ook
+Solitaire	Solitaire	Ook
+Snake	Snake	Ook
+Paused	Paused	Ook
+Continue	Continue	Ook
+Quit	Quit	Ook
+New best!	New best!	Ook ook!
+Game over	Game over	Ook ook
+Centre: play again	Centre: play again	Ook: ook ook
+Play/Pause: resume	Play/Pause: resume	Ook/Ook: ook
+New game?	New game?	Ook ook?
+Centre: yes   Return: no	Centre: yes   Return: no	Ook: ook   Ook: ook
+Solved!	Solved!	Ook!
+Play/Pause: new game	Play/Pause: new game	Ook/Ook: ook ook
+Score	Score	Ook
+Best	Best	Ook
+Level	Level	Ook
+Centre	Centre	Ook
+You win!	You win!	Ook ook!
+Shuffle	Shuffle	Ook
+Era	Era	Ook
+Ratings	Ratings	Ook
+Most Played	Most Played	Ook Ook
+Long Songs	Long Songs	Ook Ook
+App Store	App Store	Ook Ook
+Upload Scrobbles	Upload Scrobbles	Ook Ook
+Tidal Downloads	Tidal Downloads	Ook Ook
+Internet Radio	Internet Radio	Ook Ook
+Configuration	Configuration	Ook
+Restart to apply?	Restart to apply?	Ook ook ook?
+Couldn't copy the language	Couldn't copy the language	Ook'ook ook ook ook
+Too many songs to shuffle	Too many songs to shuffle	Ook ook ook ook ook
+Shuffle Songs	Shuffle Songs	Ook Ook
+Shuffle Albums	Shuffle Albums	Ook Ook
+Shuffle Folders	Shuffle Folders	Ook Ook
+Albums and folders take a moment to shuffle	Albums and folders take a moment to shuffle	Ook ook ook ook ook ook ook ook
+No plays yet	No plays yet	Ook ook ook
+%u play	%u play	%u ook
+%u plays	%u plays	%u ook
+No downloads yet	No downloads yet	Ook ook ook
+Clear All Downloads…	Clear All Downloads…	Ook Ook Ook…
+%u track	%u track	%u ook
+%u tracks	%u tracks	%u ook
+Remove Downloads?	Remove Downloads?	Ook Ook?
+Keeps settings	Keeps settings	Ook ook
+Remove	Remove	Ook
+It isn't on the card any more	It isn't on the card any more	Ook ook'ook ook ook ook ook ook
+%02ds	%02ds	%02dook
+%ds	%ds	%dook
+Era unavailable	Era unavailable	Ook ook
+Album not found	Album not found	Ook ook ook
+%u album	%u album	%u ook
+%u albums	%u albums	%u ook
+Play All	Play All	Ook Ook
+Every song, shuffled	Every song, shuffled	Ook ook, ook
+No dated albums yet	No dated albums yet	Ook ook ook ook
+No songs over 10 minutes	No songs over 10 minutes	Ook ook ook 10 ook
+Measuring songs… %d/%d	Measuring songs… %d/%d	Ook ook… %d/%d
+Measuring songs…	Measuring songs…	Ook ook…
+Release to search	Release to search	Ook ook ook
+Pull to search	Pull to search	Ook ook ook
+Sleep Timer	Sleep Timer	Ook Ook
+Lock Screen	Lock Screen	Ook Ook
+Accent	Accent	Ook
+Everything	Everything	Ook
+Buttons only	Buttons only	Ook ook
+Volume only	Volume only	Ook ook
+Wake: Single Press	Wake: Single Press	Ook: Ook Ook
+Wake: Double Press	Wake: Double Press	Ook: Ook Ook
+Artist View: Grid	Artist View: Grid	Ook Ook: Ook
+Artist View: Cover Flow	Artist View: Cover Flow	Ook Ook: Ook Ook
+Artist View: List	Artist View: List	Ook Ook: Ook
+Year Order: Newest First	Year Order: Newest First	Ook Ook: Ook Ook
+Year Order: Oldest First	Year Order: Oldest First	Ook Ook: Ook Ook
+Artists: Artist	Artists: Artist	Ook: Ook
+Artists: Album Artist	Artists: Album Artist	Ook: Ook Ook
+Resume on Connect: Off	Resume on Connect: Off	Ook ook Ook: Ook
+Resume on Connect: On	Resume on Connect: On	Ook ook Ook: Ook
+Clock: Standard	Clock: Standard	Ook: Ook
+Clock: Large	Clock: Large	Ook: Ook
+Artist Album Order: Year	Artist Album Order: Year	Ook Ook Ook: Ook
+Artist Album Order: A–Z	Artist Album Order: A–Z	Ook Ook Ook: Ook–Ook
+Volume Guard: Off	Volume Guard: Off	Ook Ook: Ook
+Volume Guard: On	Volume Guard: On	Ook Ook: Ook
+Hold Return: Recent	Hold Return: Recent	Ook Ook: Ook
+Hold Return: Home	Hold Return: Home	Ook Ook: Ook
+Standby Limit: Off	Standby Limit: Off	Ook Ook: Ook
+Standby Limit: %u h	Standby Limit: %u h	Ook Ook: %u ook
+Refresh Cover Flow	Refresh Cover Flow	Ook Ook Ook
+Playlist View: List	Playlist View: List	Ook Ook: Ook
+Playlist View: Cover Flow	Playlist View: Cover Flow	Ook Ook: Ook Ook
+Update Notifications: Off	Update Notifications: Off	Ook Ook: Ook
+Update Notifications: On	Update Notifications: On	Ook Ook: Ook
+Album View: List	Album View: List	Ook Ook: Ook
+Album View: Grid	Album View: Grid	Ook Ook: Ook
+Charge Limit (%u%%)	Charge Limit (%u%%)	Ook Ook (%u%%)
+Resume on Connect	Resume on Connect	Ook ook Ook
+Volume Guard	Volume Guard	Ook Ook
+Control Device Volume	Control Device Volume	Ook Ook Ook
+Key Tone	Key Tone	Ook Ook
+In-Vehicle Mode	In-Vehicle Mode	Ook-Ook Ook
+Smart Wi-Fi	Smart Wi-Fi	Ook Ook-Ook
+Enlarged Album Art	Enlarged Album Art	Ook Ook Ook
+Folder Album Cover	Folder Album Cover	Ook Ook Ook
+Fast Navigation	Fast Navigation	Ook Ook
+Scan Song Durations	Scan Song Durations	Ook Ook Ook
+Position Bar	Position Bar	Ook Ook
+Hide Streaming	Hide Streaming	Ook Ook
+Hide Folder	Hide Folder	Ook Ook
+Hide Apps	Hide Apps	Ook Ook
+Hide Games	Hide Games	Ook Ook
+Hide App Store	Hide App Store	Ook Ook Ook
+Receive Audio	Receive Audio	Ook Ook
+Log Failed Artwork	Log Failed Artwork	Ook Ook Ook
+Hide Duplicate Albums	Hide Duplicate Albums	Ook Ook Ook
+Hide Duplicate Songs	Hide Duplicate Songs	Ook Ook Ook
+Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	Ook Ook ook ook ook ook
+Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	Ook Ook ook ook ook ook ook
+Folder Root: %s	Folder Root: %s	Ook Ook: %s
+Folder Root: Card	Folder Root: Card	Ook Ook: Ook
+Library & Folders	Library & Folders	Ook & Ook
+Press Centre to Change Mode	Press Centre to Change Mode	Ook Ook ook Ook Ook
+Press Centre to Turn On or Off	Press Centre to Turn On or Off	Ook Ook ook Ook Ook ook Ook
+Press Centre When Finished	Press Centre When Finished	Ook Ook Ook Ook
+OK to Disconnect	OK to Disconnect	Ook ook Ook
+Now Playing	Now Playing	Ook Ook
+Cover Flow	Cover Flow	Ook Ook
+EQ	EQ	Ook
+Update Library	Update Library	Ook Ook
+Balance	Balance	Ook
+Home: Split	Home: Split	Ook: Ook
+Home: Full	Home: Full	Ook: Ook
+Home: Carousel	Home: Carousel	Ook: Ook
+Battery: Icon	Battery: Icon	Ook: Ook
+Battery: Percent	Battery: Percent	Ook: Ook
+Battery: Icon + Percent	Battery: Icon + Percent	Ook: Ook + Ook
+Battery: Percent Inside	Battery: Percent Inside	Ook: Ook Ook
+Light Mode: Off	Light Mode: Off	Ook Ook: Ook
+Light Mode: On	Light Mode: On	Ook Ook: Ook
+Light Mode: Auto	Light Mode: Auto	Ook Ook: Ook
+Accent: Card Theme	Accent: Card Theme	Ook: Ook Ook
+Battery: Card Theme	Battery: Card Theme	Ook: Ook Ook
+Light Mode: Card Theme	Light Mode: Card Theme	Ook Ook: Ook Ook
+Accent: %s	Accent: %s	Ook: %s
+Theme: %s	Theme: %s	Ook: %s
+Shortcut: None	Shortcut: None	Ook: Ook
+Shortcut: %s	Shortcut: %s	Ook: %s
+Rounded Corners	Rounded Corners	Ook Ook
+Smart Awake	Smart Awake	Ook Ook
+Centred Now Playing	Centred Now Playing	Ook Ook Ook
+Click With Headphones	Click With Headphones	Ook Ook Ook
+Single Press Scrub	Single Press Scrub	Ook Ook Ook
+Time in Title	Time in Title	Ook ook Ook
+Set by the card theme	Set by the card theme	Ook ook ook ook ook
+Location	Location	Ook
+Unknown	Unknown	Ook
+Appearance	Appearance	Ook
+Controls	Controls	Ook
+Theme	Theme	Ook
+Boot to: Rockbox	Boot to: Rockbox	Ook ook: Ook
+Boot to: Q2 Pod	Boot to: Q2 Pod	Ook ook: Ook2 Ook
+Rockbox is not on the card	Rockbox is not on the card	Ook ook ook ook ook ook
+Could not save boot choice	Could not save boot choice	Ook ook ook ook ook
+No albums	No albums	Ook ook
+No artists	No artists	Ook ook
+No composers	No composers	Ook ook
+No genres	No genres	Ook ook
+Chapter %d	Chapter %d	Ook %d
+Chapters	Chapters	Ook
+Could not read chapters	Could not read chapters	Ook ook ook ook
+No embedded chapters	No embedded chapters	Ook ook ook
+Too long to read chapters on the Q2	Too long to read chapters on the Q2	Ook ook ook ook ook ook ook Ook2
+Loading chapters…	Loading chapters…	Ook ook…
+Spotify Cache: %s	Spotify Cache: %s	Ook Ook: %s
+Tidal Cache: %s	Tidal Cache: %s	Ook Ook: %s
+Erasing…	Erasing…	Ook…
+Press again to erase login and cache	Press again to erase login and cache	Ook ook ook ook ook ook ook
+Erase Spotify Data	Erase Spotify Data	Ook Ook Ook
+Could not save setting	Could not save setting	Ook ook ook ook
+Streaming stopped	Streaming stopped	Ook ook
+Wait for the one in progress	Wait for the one in progress	Ook ook ook ook ook ook
+Stop Streaming Services	Stop Streaming Services	Ook Ook Ook
+No %s folder on the card	No %s folder on the card	Ook %s ook ook ook ook
+CFW. Version	CFW. Version	Ook. Ook
+Update to %s	Update to %s	Ook ook %s
+Latest firmware installed	Latest firmware installed	Ook ook ook
+Can't reach GitHub	Can't reach GitHub	Ook'ook ook Ook
+No update for this build	No update for this build	Ook ook ook ook ook
+Can't write to the card	Can't write to the card	Ook'ook ook ook ook ook
+Download cancelled	Download cancelled	Ook ook
+GitHub is busy, try later	GitHub is busy, try later	Ook ook ook, ook ook
+The download was damaged, try again	The download was damaged, try again	Ook ook ook ook, ook ook
+Downloading %d%%	Downloading %d%%	Ook %d%%
+Cancelling…	Cancelling…	Ook…
+Reconnecting…	Reconnecting…	Ook…
+Verifying…	Verifying…	Ook…
+Checking…	Checking…	Ook…
+Needs %u MB more space	Needs %u MB more space	Ook %u Ook ook ook
+Update downloaded: use TF card update	Update downloaded: use TF card update	Ook ook: ook Ook ook ook
+Charge the battery first	Charge the battery first	Ook ook ook ook
+Can't start the download	Can't start the download	Ook'ook ook ook ook
+Downloading…	Downloading…	Ook…
+Q2 Pod %s is out: System Update → Network update	Q2 Pod %s is out: System Update → Network update	Ook2 Ook %s ook ook: Ook Ook → Ook ook
+Downloading	Downloading	Ook
+Unpacking…	Unpacking…	Ook…
+Installing…	Installing…	Ook…
+Removing…	Removing…	Ook…
+Connect to Wi-Fi to load the list	Connect to Wi-Fi to load the list	Ook ook Ook-Ook ook ook ook ook
+Checked just now	Checked just now	Ook ook ook
+Checked %u min ago	Checked %u min ago	Ook %u ook ook
+Checked %u h ago	Checked %u h ago	Ook %u ook ook
+Press again to remove	Press again to remove	Ook ook ook ook
+Starts at power-on. Press again to install	Starts at power-on. Press again to install	Ook ook ook-ook. Ook ook ook ook
+%d app can be updated	%d app can be updated	%d ook ook ook ook
+%d apps can be updated	%d apps can be updated	%d ook ook ook ook
+All apps are up to date	All apps are up to date	Ook ook ook ook ook ook
+The download is not a usable app	The download is not a usable app	Ook ook ook ook ook ook ook
+Rockbox is ready. Find it on Home	Rockbox is ready. Find it on Home	Ook ook ook. Ook ook ook Ook
+Rockbox Themes are ready in Rockbox's Theme Settings	Rockbox Themes are ready in Rockbox's Theme Settings	Ook Ook ook ook ook Ook'ook Ook Ook
+%s is ready in %s	%s is ready in %s	%s ook ook ook %s
+%s removed	%s removed	%s ook
+Spotify's login and cache erased	Spotify's login and cache erased	Ook'ook ook ook ook ook
+Stopped checking for updates	Stopped checking for updates	Ook ook ook ook
+Install Rockbox first	Install Rockbox first	Ook Ook ook
+Check for Updates	Check for Updates	Ook ook Ook
+%d of %d	%d of %d	%d ook %d
+Album lyrics	Album lyrics	Ook ook
+LRCLIB stopped answering	LRCLIB stopped answering	Ook ook ook
+Cancelled	Cancelled	Ook
+%d saved	%d saved	%d ook
+%d not found	%d not found	%d ook ook
+%d already had lyrics	%d already had lyrics	%d ook ook ook
+%d failed	%d failed	%d ook
+Album lyrics: no songs on the card	Album lyrics: no songs on the card	Ook ook: ook ook ook ook ook
+Can't reach LRCLIB	Can't reach LRCLIB	Ook'ook ook Ook
+Download Album Lyrics	Download Album Lyrics	Ook Ook Ook
+Downloading %d of %d	Downloading %d of %d	Ook %d ook %d
+No album songs on the card	No album songs on the card	Ook ook ook ook ook ook
+file exceeds 16384 bytes	file exceeds 16384 bytes	ook ook 16384 ook
+line exceeds 512 bytes	line exceeds 512 bytes	ook ook 512 ook
+embedded NUL	embedded NUL	ook Ook
+unsupported filter form	unsupported filter form	ook ook ook
+expected Preamp: <gain> dB	expected Preamp: <gain> dB	ook Ook: <ook> ook
+preamp outside -60..24 dB or invalid number	preamp outside -60..24 dB or invalid number	ook ook -60..24 ook ook ook ook
+expected Channel: L, R or all	expected Channel: L, R or all	ook Ook: Ook, Ook ook ook
+only channels L, R and all are supported	only channels L, R and all are supported	ook ook Ook, Ook ook ook ook ook
+unsupported command	unsupported command	ook ook
+invalid filter label	invalid filter label	ook ook ook
+expected Filter [number]:	expected Filter [number]:	ook Ook [ook]:
+expected ON or OFF	expected ON or OFF	ook Ook ook Ook
+unsupported filter type	unsupported filter type	ook ook ook
+expected Fc <Hz> Hz Gain <dB> dB	expected Fc <Hz> Hz Gain <dB> dB	ook Ook <Ook> Ook Ook <ook> ook
+invalid frequency or gain number	invalid frequency or gain number	ook ook ook ook ook
+expected Q <number>	expected Q <number>	ook Ook <ook>
+peaking filter requires Q	peaking filter requires Q	ook ook ook Ook
+range: 20..20000 Hz, -24..24 dB, Q 0.1..10	range: 20..20000 Hz, -24..24 dB, Q 0.1..10	ook: 20..20000 Ook, -24..24 ook, Ook 0.1..10
+more than 30 bands	more than 30 bands	ook ook 30 ook
+summed preamp outside -60..24 dB	summed preamp outside -60..24 dB	ook ook ook -60..24 ook
+L/R preamp differ by more than 12 dB	L/R preamp differ by more than 12 dB	Ook/Ook ook ook ook ook ook 12 ook
+out of memory	out of memory	ook ook ook
+cannot open file	cannot open file	ook ook ook
+file read failed	file read failed	ook ook ook
+EQ for 3.5 mm	EQ for 3.5 mm	Ook ook 3.5 ook
+EQ for 4.4 mm	EQ for 4.4 mm	Ook ook 4.4 ook
+EQ for USB	EQ for USB	Ook ook Ook
+EQ for this Bluetooth device	EQ for this Bluetooth device	Ook ook ook Ook ook
+Auto (44.1: %.1f / 48: %.1f)	Auto (44.1: %.1f / 48: %.1f)	Ook (44.1: %.1f / 48: %.1f)
+Folder missing or unavailable	Folder missing or unavailable	Ook ook ook ook
+Out of memory; cannot list presets	Out of memory; cannot list presets	Ook ook ook; ook ook ook
+No presets found	No presets found	Ook ook ook
+Name not allowed; preset kept	Name not allowed; preset kept	Ook ook ook; ook ook
+Name taken; preset kept	Name taken; preset kept	Ook ook; ook ook
+Rename failed; preset kept	Rename failed; preset kept	Ook ook; ook ook
+Renamed to %.100s	Renamed to %.100s	Ook ook %.100s
+Pop	Pop	Ook
+Rock	Rock	Ook
+Dance	Dance	Ook
+Blues	Blues	Ook
+Metal	Metal	Ook
+Vocal	Vocal	Ook
+Classical	Classical	Ook
+Jazz	Jazz	Ook
+Preset loaded; choose Apply to activate	Preset loaded; choose Apply to activate	Ook ook; ook Ook ook ook
+Preset saved; active EQ unchanged	Preset saved; active EQ unchanged	Ook ook; ook Ook ook
+Save failed; settings unchanged	Save failed; settings unchanged	Ook ook; ook ook
+Switch failed; EQ unchanged	Switch failed; EQ unchanged	Ook ook; Ook ook
+Applied	Applied	Ook
+Apply failed; active EQ unchanged	Apply failed; active EQ unchanged	Ook ook; ook Ook ook
+Reset; choose Apply to activate	Reset; choose Apply to activate	Ook; ook Ook ook ook
+Delete failed; preset kept	Delete failed; preset kept	Ook ook; ook ook
+Deleted %.100s; active EQ unchanged	Deleted %.100s; active EQ unchanged	Ook %.100s; ook Ook ook
+Line %u: %s	Line %u: %s	Ook %u: %s
+Cannot read preset; settings unchanged	Cannot read preset; settings unchanged	Ook ook ook; ook ook
+Peaking	Peaking	Ook
+Low shelf	Low shelf	Ook ook
+High shelf	High shelf	Ook ook
+Apply changes	Apply changes	Ook ook
+Nothing to apply	Nothing to apply	Ook ook ook
+Reset to defaults	Reset to defaults	Ook ook ook
+Enabled	Enabled	Ook
+EQ per Output	EQ per Output	Ook ook Ook
+Preamp	Preamp	Ook
+Presets	Presets	Ook
+Band	Band	Ook
+Channels	Channels	Ook
+Both	Both	Ook
+Left	Left	Ook
+Right	Right	Ook
+Type	Type	Ook
+Frequency	Frequency	Ook
+Gain	Gain	Ook
+Band %d Q	Band %d Q	Ook %d Ook
+Band %d Frequency (Hz)	Band %d Frequency (Hz)	Ook %d Ook (Ook)
+Raise	Raise	Ook
+Lower	Lower	Ook
+Step	Step	Ook
+Delete %.100s? Confirm	Delete %.100s? Confirm	Ook %.100s? Ook
+Replace existing preset? Confirm	Replace existing preset? Confirm	Ook ook ook? Ook
+Cancel replacement	Cancel replacement	Ook ook
+Save as Manual %02d	Save as Manual %02d	Ook ook Ook %02d
+Stock presets	Stock presets	Ook ook
+Import from SD /EQ	Import from SD /EQ	Ook ook Ook /Ook
+Save editor preset	Save editor preset	Ook ook ook
+Rename a preset	Rename a preset	Ook ook ook
+Delete a preset	Delete a preset	Ook ook ook
+Previous page	Previous page	Ook ook
+Next page	Next page	Ook ook
+Band %d	Band %d	Ook %d
+Band %d Gain	Band %d Gain	Ook %d Ook
+Presets %d/%d	Presets %d/%d	Ook %d/%d
+Save failed; EQ unchanged	Save failed; EQ unchanged	Ook ook; Ook ook
+Advanced	Advanced	Ook
+Enabled: On	Enabled: On	Ook: Ook
+Enabled: Off	Enabled: Off	Ook: Ook
+Low	Low	Ook
+Mid	Mid	Ook
+High	High	Ook
+Simple	Simple	Ook
+No photos	No photos	Ook ook
+All Photos	All Photos	Ook Ook
+Photos	Photos	Ook
+Can't open this photo	Can't open this photo	Ook'ook ook ook ook
+%d of %d  %s	%d of %d  %s	%d ook %d  %s
+Could not save folder speed	Could not save folder speed	Ook ook ook ook ook
+Too long to play on the Q2: split it into parts	Too long to play on the Q2: split it into parts	Ook ook ook ook ook ook Ook2: ook ook ook ook
+Press again to restart	Press again to restart	Ook ook ook ook
+Could not save playlist	Could not save playlist	Ook ook ook ook
+Already in playlist	Already in playlist	Ook ook ook
+Added to Playlist	Added to Playlist	Ook ook Ook
+Search songs	Search songs	Ook ook
+Editing: %s	Editing: %s	Ook: %s
+Add Songs: %s	Add Songs: %s	Ook Ook: %s
+Song Actions: %s	Song Actions: %s	Ook Ook: %s
+Remove song?: %s	Remove song?: %s	Ook ook?: %s
+Add Songs	Add Songs	Ook Ook
+Move Up	Move Up	Ook Ook
+Move Down	Move Down	Ook Ook
+Remove from Playlist	Remove from Playlist	Ook ook Ook
+Search: %s	Search: %s	Ook: %s
+No songs match	No songs match	Ook ook ook
+Search for more songs	Search for more songs	Ook ook ook ook
+Delete Playlist?	Delete Playlist?	Ook Ook?
+Delete	Delete	Ook
+Playlist deleted	Playlist deleted	Ook ook
+Could not delete playlist	Could not delete playlist	Ook ook ook ook
+Delete Playlist	Delete Playlist	Ook Ook
+Edit Playlist	Edit Playlist	Ook Ook
+Queue unchanged	Queue unchanged	Ook ook
+Deselect All	Deselect All	Ook Ook
+Select All	Select All	Ook Ook
+Export %d Playlist	Export %d Playlist	Ook %d Ook
+Export %d Playlists	Export %d Playlists	Ook %d Ook
+Delete %d Playlist…	Delete %d Playlist…	Ook %d Ook…
+Delete %d Playlists…	Delete %d Playlists…	Ook %d Ook…
+%d Selected	%d Selected	%d Ook
+Select Playlists	Select Playlists	Ook Ook
+Playlists	Playlists	Ook
+No Playlists	No Playlists	Ook Ook
+New Playlist…	New Playlist…	Ook Ook…
+Select Playlists…	Select Playlists…	Ook Ook…
+Import Playlists	Import Playlists	Ook Ook
+Export	Export	Ook
+No other group	No other group	Ook ook ook
+Folder not found	Folder not found	Ook ook ook
+All Songs	All Songs	Ook Ook
+Songs in Album	Songs in Album	Ook ook Ook
+Albums and Songs	Albums and Songs	Ook ook Ook
+Songs in Folder	Songs in Folder	Ook ook Ook
+Folders	Folders	Ook
+Folders and Songs	Folders and Songs	Ook ook Ook
+Play One Song	Play One Song	Ook Ook Ook
+Play One Album	Play One Album	Ook Ook Ook
+Repeat Song	Repeat Song	Ook Ook
+Repeat Album	Repeat Album	Ook Ook
+Repeat All	Repeat All	Ook Ook
+Play One Folder	Play One Folder	Ook Ook Ook
+Repeat Folder	Repeat Folder	Ook Ook
+Album	Album	Ook
+Folder	Folder	Ook
+Repeat	Repeat	Ook
+Group by	Group by	Ook ook
+Play Next	Play Next	Ook Ook
+Add to Queue	Add to Queue	Ook ook Ook
+Add to Favourites	Add to Favourites	Ook ook Ook
+Remove from Favourites	Remove from Favourites	Ook ook Ook
+Add to Playlist	Add to Playlist	Ook ook Ook
+Go to Album	Go to Album	Ook ook Ook
+Go to Artist	Go to Artist	Ook ook Ook
+Next Album	Next Album	Ook Ook
+Previous Album	Previous Album	Ook Ook
+Rate	Rate	Ook
+Resume	Resume	Ook
+View Queue	View Queue	Ook Ook
+Go to Folder	Go to Folder	Ook ook Ook
+Rate Album	Rate Album	Ook Ook
+Group by: Folder	Group by: Folder	Ook ook: Ook
+Group by: Album	Group by: Album	Ook ook: Ook
+Next Folder	Next Folder	Ook Ook
+Previous Folder	Previous Folder	Ook Ook
+Wheel: Volume	Wheel: Volume	Ook: Ook
+Wheel: Brightness	Wheel: Brightness	Ook: Ook
+Could not save Favourites	Could not save Favourites	Ook ook ook Ook
+Added to Favourites	Added to Favourites	Ook ook Ook
+Removed from Favourites	Removed from Favourites	Ook ook Ook
+Stopped	Stopped	Ook
+Can't play: %s	Can't play: %s	Ook'ook ook: %s
+Can't play this station	Can't play this station	Ook'ook ook ook ook
+Connecting…	Connecting…	Ook…
+Search is too long	Search is too long	Ook ook ook ook
+Search stations	Search stations	Ook ook
+Favourites	Favourites	Ook
+Featured	Featured	Ook
+Top Stations	Top Stations	Ook Ook
+By Country	By Country	Ook Ook
+By Genre	By Genre	Ook Ook
+Countries	Countries	Ook
+Connecting to Wi-Fi…	Connecting to Wi-Fi…	Ook ook Ook-Ook…
+Directory unavailable	Directory unavailable	Ook ook
+No Wi-Fi	No Wi-Fi	Ook Ook-Ook
+No stations	No stations	Ook ook
+No favourites	No favourites	Ook ook
+Rating not saved	Rating not saved	Ook ook ook
+Ratings are full	Ratings are full	Ook ook ook
+Favourite not sent to the app	Favourite not sent to the app	Ook ook ook ook ook ook
+Unrated	Unrated	Ook
+1 Heart	1 Heart	1 Ook
+%d Hearts	%d Hearts	%d Ook
+%d of 5	%d of 5	%d ook 5
+Album changed	Album changed	Ook ook
+Favourite not saved	Favourite not saved	Ook ook ook
+This app has no favourites	This app has no favourites	Ook ook ook ook ook
+Top Rated	Top Rated	Ook Ook
+Loved	Loved	Ook
+All Rated	All Rated	Ook Ook
+Disliked	Disliked	Ook
+No songs yet	No songs yet	Ook ook ook
+Hold the heart on Now Playing to rate	Hold the heart on Now Playing to rate	Ook ook ook ook Ook Ook ook ook
+No rated albums yet	No rated albums yet	Ook ook ook ook
+Upload failed, %d sent	Upload failed, %d sent	Ook ook, %d ook
+Scrobbles sent: %d	Scrobbles sent: %d	Ook ook: %d
+Nothing to upload	Nothing to upload	Ook ook ook
+Uploading scrobbles	Uploading scrobbles	Ook ook
+Already uploading	Already uploading	Ook ook
+Upload failed	Upload failed	Ook ook
+Connect to Wi-Fi first	Connect to Wi-Fi first	Ook ook Ook-Ook ook
+Waiting for Spotify	Waiting for Spotify	Ook ook Ook
+Spotify isn't on the card	Spotify isn't on the card	Ook ook'ook ook ook ook
+See the Q2 Pod guide to add it	See the Q2 Pod guide to add it	Ook ook Ook2 Ook ook ook ook ook
+Open Spotify on your phone	Open Spotify on your phone	Ook Ook ook ook ook
+and choose Q2	and choose Q2	ook ook Ook2
+Spotify refused this account	Spotify refused this account	Ook ook ook ook
+Its tracks can't play on the Q2	Its tracks can't play on the Q2	Ook ook ook'ook ook ook ook Ook2
+Playback didn't start	Playback didn't start	Ook ook'ook ook
+Go back and try again	Go back and try again	Ook ook ook ook ook
+Starting playback	Starting playback	Ook ook
+Update Spotify on the card	Update Spotify on the card	Ook Ook ook ook ook
+See the Q2 Pod guide	See the Q2 Pod guide	Ook ook Ook2 Ook ook
+Nothing playing	Nothing playing	Ook ook
+Choose music in Spotify	Choose music in Spotify	Ook ook ook Ook
+Liked Songs	Liked Songs	Ook Ook
+Queue	Queue	Ook
+Playback Settings	Playback Settings	Ook Ook
+Account	Account	Ook
+Downloaded Tracks	Downloaded Tracks	Ook Ook
+Downloads	Downloads	Ook
+Tracks	Tracks	Ook
+Open Spotify on your phone and choose Q2	Open Spotify on your phone and choose Q2	Ook Ook ook ook ook ook ook Ook2
+Both on the same Wi-Fi	Both on the same Wi-Fi	Ook ook ook ook Ook-Ook
+to browse on the Q2	to browse on the Q2	ook ook ook ook Ook2
+Downloaded Playlists	Downloaded Playlists	Ook Ook
+Download Progress	Download Progress	Ook Ook
+Storage Management	Storage Management	Ook Ook
+Download Status	Download Status	Ook Ook
+The latest download's progress	The latest download's progress	Ook ook ook'ook ook
+for saved playlists and download controls	for saved playlists and download controls	ook ook ook ook ook ook
+Remove Playlists…	Remove Playlists…	Ook Ook…
+Remove Tracks…	Remove Tracks…	Ook Ook…
+Keeps login and settings	Keeps login and settings	Ook ook ook ook
+Track removal can make playlists incomplete	Track removal can make playlists incomplete	Ook ook ook ook ook ook
+Pause	Pause	Ook
+Cancel Download	Cancel Download	Ook Ook
+Retry Failed	Retry Failed	Ook Ook
+Update Download	Update Download	Ook Ook
+Sign Out of Spotify?	Sign Out of Spotify?	Ook Ook ook Ook?
+Sign Out	Sign Out	Ook Ook
+Nothing here	Nothing here	Ook ook
+Selected	Selected	Ook
+Press to select	Press to select	Ook ook ook
+All	All	Ook
+One	One	Ook
+Download Liked Songs	Download Liked Songs	Ook Ook Ook
+Download Playlist	Download Playlist	Ook Ook
+For offline listening	For offline listening	Ook ook ook
+Download Controls	Download Controls	Ook Ook
+Update, retry, pause, resume or cancel	Update, retry, pause, resume or cancel	Ook, ook, ook, ook ook ook
+Remove Selected…	Remove Selected…	Ook Ook…
+Confirm the affected count	Confirm the affected count	Ook ook ook ook
+Spotify isn't running	Spotify isn't running	Ook ook'ook ook
+Spotify didn't answer	Spotify didn't answer	Ook ook'ook ook
+Search Spotify	Search Spotify	Ook Ook
+Select Tracks	Select Tracks	Ook Ook
+Select at least one item	Select at least one item	Ook ook ook ook ook
+Selection full. Remove these first	Selection full. Remove these first	Ook ook. Ook ook ook
+Boot logo must be a 320x375 JPEG	Boot logo must be a 320x375 JPEG	Ook ook ook ook ook 320ook375 Ook
+Could not save boot logo	Could not save boot logo	Ook ook ook ook ook
+Accent: Graphite	Accent: Graphite	Ook: Ook
+Accent: Crimson	Accent: Crimson	Ook: Ook
+Accent: Tidal	Accent: Tidal	Ook: Ook
+Accent: Champagne	Accent: Champagne	Ook: Ook
+Accent: Cobalt	Accent: Cobalt	Ook: Ook
+Accent: Tangerine	Accent: Tangerine	Ook: Ook
+Accent: Plum	Accent: Plum	Ook: Ook
+Accent: Ivory	Accent: Ivory	Ook: Ook
+Accent: Green	Accent: Green	Ook: Ook
+Favorites	Favorites	Ook
+Rated Albums	Rated Albums	Ook Ook
+Podcasts	Podcasts	Ook
+Audiobooks	Audiobooks	Ook
+Groovebox can't start from the card	Groovebox can't start from the card	Ook ook'ook ook ook ook ook
+Groovebox is not on the card	Groovebox is not on the card	Ook ook ook ook ook ook
+Play a Tidal album or playlist first	Play a Tidal album or playlist first	Ook ook Ook ook ook ook ook
+Downloading %u of %u. Press to stop	Downloading %u of %u. Press to stop	Ook %u ook %u. Ook ook ook
+Download Playing Songs	Download Playing Songs	Ook Ook Ook
+Tidal Cache full: %u of %u song saved	Tidal Cache full: %u of %u song saved	Ook Ook ook: %u ook %u ook ook
+Tidal Cache full: %u of %u songs saved	Tidal Cache full: %u of %u songs saved	Ook Ook ook: %u ook %u ook ook
+Downloaded %u of %u song	Downloaded %u of %u song	Ook %u ook %u ook
+Downloaded %u of %u songs	Downloaded %u of %u songs	Ook %u ook %u ook
+Nothing to play next	Nothing to play next	Ook ook ook ook
+Queue changed	Queue changed	Ook ook
+Never	Never	Ook
+USB DAC Charging: %s	USB DAC Charging: %s	Ook Ook Ook: %s
+Spectrum	Spectrum	Ook
+Oscilloscope	Oscilloscope	Ook
+VU Meters	VU Meters	Ook Ook
+Halo	Halo	Ook
+Pulsar	Pulsar	Ook
+Contour	Contour	Ook
+More	More	Ook
+A-B Repeat	A-B Repeat	Ook-Ook Ook
+Speed	Speed	Ook
+*Only for 48 kHz and below	*Only for 48 kHz and below	*Ook ook 48 ook ook ook
+No lyrics	No lyrics	Ook ook
+Genre	Genre	Ook
+Size	Size	Ook
+Year	Year	Ook
+Format	Format	Ook
+Bit Depth	Bit Depth	Ook Ook
+Bit Rate	Bit Rate	Ook Ook
+Sample Rate	Sample Rate	Ook Ook
+Auto Scan	Auto Scan	Ook Ook
+Update Library Now	Update Library Now	Ook Ook Ook
+Scan Folders	Scan Folders	Ook Ook
+OK	OK	Ook
+Bluetooth	Bluetooth	Ook
+Key Lock	Key Lock	Ook Ook
+Low Gain	Low Gain	Ook Ook
+USB Storage	USB Storage	Ook Ook
+Playback	Playback	Ook
+Custom	Custom	Ook
+Reset	Reset	Ook
+Open this address in a browser:	Open this address in a browser:	Ook ook ook ook ook ook:
+Downloaded	Downloaded	Ook
+Baidu Netdisk	Baidu Netdisk	Ook Ook
+Sign In	Sign In	Ook Ook
+Scan with the Baidu app to sign in	Scan with the Baidu app to sign in	Ook ook ook Ook ook ook ook ook
+Baidu encryption protects your privacy	Baidu encryption protects your privacy	Ook ook ook ook ook
+Bluetooth RF test: connect from a computer	Bluetooth RF test: connect from a computer	Ook Ook ook: ook ook ook ook
+Press Next to exit	Press Next to exit	Ook Ook ook ook
+Brightness Test	Brightness Test	Ook Ook
+Next	Next	Ook
+Bluetooth Test	Bluetooth Test	Ook Ook
+Down	Down	Ook
+Up	Up	Ook
+Swipe Left	Swipe Left	Ook Ook
+Swipe Right	Swipe Right	Ook Ook
+Key Test	Key Test	Ook Ook
+Headphone Test	Headphone Test	Ook Ook
+Plug in single-ended headphones	Plug in single-ended headphones	Ook ook ook-ook ook
+Play (left male, right female)	Play (left male, right female)	Ook (ook ook, ook ook)
+Bluetooth Receiver Test	Bluetooth Receiver Test	Ook Ook Ook
+Battery Test	Battery Test	Ook Ook
+Battery:	Battery:	Ook:
+Charging:	Charging:	Ook:
+microSD Test	microSD Test	ook Ook
+Touch Test	Touch Test	Ook Ook
+Wi-Fi Test	Wi-Fi Test	Ook-Ook Ook
+Artist	Artist	Ook
+Export Playlists	Export Playlists	Ook Ook
+Playlist	Playlist	Ook
+0 songs	0 songs	0 ook
+System	System	Ook
+Rockbox	Rockbox	Ook
+Baker Island	Baker Island	Ook Ook
+Midway	Midway	Ook
+Honolulu	Honolulu	Ook
+Anchorage	Anchorage	Ook
+Los Angeles	Los Angeles	Ook Ook
+Denver	Denver	Ook
+Mexico City	Mexico City	Ook Ook
+New York	New York	Ook Ook
+Halifax	Halifax	Ook
+St. John's	St. John's	Ook. Ook'ook
+Buenos Aires	Buenos Aires	Ook Ook
+Azores	Azores	Ook
+London	London	Ook
+Amsterdam	Amsterdam	Ook
+Bucharest	Bucharest	Ook
+Kuwait	Kuwait	Ook
+Tehran	Tehran	Ook
+Muscat	Muscat	Ook
+Kabul	Kabul	Ook
+Karachi	Karachi	Ook
+Dhaka	Dhaka	Ook
+Bangkok	Bangkok	Ook
+Shanghai	Shanghai	Ook
+Tokyo	Tokyo	Ook
+Adelaide	Adelaide	Ook
+Sydney	Sydney	Ook
+Fiji	Fiji	Ook
+Marquesas	Marquesas	Ook
+South Georgia	South Georgia	Ook Ook
+Colombo	Colombo	Ook
+Kathmandu	Kathmandu	Ook
+Yangon	Yangon	Ook
+Eucla	Eucla	Ook
+L. Howe	L. Howe	Ook. Ook
+Noumea	Noumea	Ook
+Chatham	Chatham	Ook
+Tongatapu	Tongatapu	Ook
+Kiritimati	Kiritimati	Ook
+Chicago	Chicago	Ook
+Phoenix	Phoenix	Ook
+Kolkata	Kolkata	Ook
+Brisbane	Brisbane	Ook
+Auckland	Auckland	Ook
+Status Bar	Status Bar	Ook Ook
+Minimal	Minimal	Ook
+Modern	Modern	Ook
+Classic	Classic	Ook
+Show Wordmark	Show Wordmark	Ook Ook
+Library on Home	Library on Home	Ook ook Ook
+Row Preview	Row Preview	Ook Ook
+Row Art	Row Art	Ook Ook
+Classic Blue	Classic Blue	Ook Ook

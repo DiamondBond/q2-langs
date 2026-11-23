@@ -1,0 +1,1181 @@
+# Беларуская
+History_record	History record	Гісторыя
+about_cardcap	Card Capacity	Ёмістасць карты
+about_cardremain	Remaining	Засталося
+about_ipaddr	IP Address	IP-адрас
+about_model	Model	Мадэль
+about_more	*Our sincere thanks go to the DiamondBond team and all its enthusiasts for their ingenuity, outstanding solutions, and generous contributions.	*Шчыра дзякуем камандзе DiamondBond і ўсім яе энтузіястам за вынаходлівасць, выдатныя рашэнні і шчодры ўклад.
+about_sn	Serial Number	Серыйны нумар
+about_version	Version	Версія
+about_wifimac	Wi-Fi MAC	MAC-адрас Wi-Fi
+album	Album	Альбом
+album	Album	Альбом
+albumsinger	Album artist	Выканаўца альбома
+allmusic	All Songs	Усе песні
+audio_settings	Audio settings	Налады гуку
+baidu_login	Log In	Увайсці
+baidu_login_tips1	Please use Baidu Netdisk or Baidu App to scan the code to login	Адскануйце код у Baidu Netdisk або праграме Baidu, каб увайсці
+baidu_login_tips2	Baidu encryption technology protects your privacy and security	Шыфраванне Baidu абараняе вашу прыватнасць і бяспеку
+baidu_loginout	Log Out	Выйсці
+baidunet_floderinfo_failed	Failed to get file list	Не ўдалося атрымаць спіс файлаў
+batch_addplaylist	Add to Playlist	Дадаць у плэйліст
+bt_adjvol	Bluetooth Headset Volume Control	Гучнасць Bluetooth-гарнітуры
+bt_compatiabledev	Compatible Device	Сумяшчальная прылада
+bt_name	Bluetooth Name	Імя Bluetooth
+bt_paireddev	Paired Device	Спалучаная прылада
+bt_quality	Quality	Якасць
+bt_search	Scan now	Шукаць зараз
+btcode_aac	AAC	AAC
+btcode_aptx	aptX	aptX
+btcode_aptxhd	aptX HD	aptX HD
+btcode_ldacauto	LDAC Connection (auto)	Злучэнне LDAC (аўто)
+btcode_ldachq	LDAC HQ	LDAC HQ
+btcode_ldacst	LDAC Standard	LDAC стандарт
+btcode_sbc	SBC	SBC
+btcode_sbchq	SBC HQ	SBC HQ
+custom_eq	Custom	Свой
+display_backlight	Brightness	Яркасць
+display_lighttime	Screen Off Time	Выключэнне экрана
+display_screenlock	Lock Screen	Экран блакіроўкі
+dsdmode_d2p	D2P	D2P
+dsdmode_dop	DOP	DOP
+dsdmode_native	Native	Native
+eq_blues	Blues	Блюз
+eq_classical	Classical	Класіка
+eq_club	Club	Клуб
+eq_custom1	Custom1	Свой 1
+eq_custom2	Custom2	Свой 2
+eq_custom3	Custom3	Свой 3
+eq_dance	Dance	Танцы
+eq_doublebass	Sub-bass	Саббас
+eq_jazz	Jazz	Джаз
+eq_metal	Metal	Метал
+eq_only48kmsg	EQ only for files below 48kHz.	Эквалайзер толькі для файлаў ніжэй за 48 кГц.
+eq_pop	Pop	Поп
+eq_reset	Reset	Скінуць
+eq_rock	Rock	Рок
+eq_vocal	Vocal	Вакал
+fav	My Fav	Абранае
+filter_delayfast	Low Delay Fast Roll-off	Хуткі спад, малая затрымка
+filter_delayslow	Low Delay Slow Roll-off	Павольны спад, малая затрымка
+filter_fast	Fast Roll-off	Хуткі спад
+filter_slow	Slow Roll-off	Павольны спад
+frequentplay	Frequent	Частыя
+gain_high	High	Высокае
+gain_low	Low	Нізкае
+genre	Genre	Жанр
+genre_statistics	Total %d songs	Усяго песень: %d
+hr	Hi-Res	Hi-Res
+keyboard_keyword	Please enter keyword	Увядзіце ключавое слова
+keyboard_netname	Please enter network name	Увядзіце назву сеткі
+keyboard_password	Please enter password	Увядзіце пароль
+keylock_all	Lock Volume & Buttons	Блакаваць гучнасць і кнопкі
+keylock_info	Only effective when the screen is off	Дзейнічае толькі пры выключаным экране
+keylock_info2	Effective on Lockscreen and when Screen Off	Дзейнічае на экране блакіроўкі і пры выключаным экране
+keylock_key	Lock Buttons Only	Блакаваць толькі кнопкі
+keylock_volume	Lock Volume Only	Блакаваць толькі гучнасць
+lan_english	English	English
+lan_french	Français	Français
+lan_german	Deutsch	Deutsch
+lan_italian	Italiano	Italiano
+lan_japanese	日本語	日本語
+lan_korean	한국어	한국어
+lan_polish	Polski	Polski
+lan_russian	Русский	Русский
+lan_simplified	简体中文	简体中文
+lan_spanish	español	español
+lan_thai	ภาษาไทย	ภาษาไทย
+lan_traditional	繁體中文	繁體中文
+lan_ukrainian	Українська	Українська
+lighttime_15s	15s	15 с
+lighttime_1min	1min	1 хв
+lighttime_2min	2min	2 хв
+lighttime_30min	30min	30 хв
+lighttime_30s	30s	30 с
+lighttime_5min	5min	5 хв
+lighttime_lyricmode	Lyrics mode	Рэжым тэкстаў
+lighttime_off	Off	Выкл.
+list_baidu	Baidu Netdisk	Baidu Netdisk
+list_tidal	TIDAL	TIDAL
+local_album	Albums	Альбомы
+local_allmusic	Local Songs	Лакальныя песні
+local_allsongs	Songs	Песні
+local_fav	My Fav	Абранае
+local_frequentplay	Frequent	Частыя
+local_genre	Genres	Жанры
+local_hr	Hi-Res	Hi-Res
+local_playlist	Playlists	Плэйлісты
+local_recentadd	Recently Added	Нядаўна дададзеныя
+local_recentplay	Recent	Нядаўнія
+local_songer	Artists	Выканаўцы
+local_upmusic	Update Library	Абнавіць медыятэку
+login_out	Logout	Выйсці
+memplay_location	Location	Месцазнаходжанне
+memplay_off	Off	Выкл.
+memplay_track	Track	Трэк
+msg_actionnotsupport	Non-local songs,not currently supported	Нелакальныя песні пакуль не падтрымліваюцца
+msg_actionscan	Scan music?	Сканаваць музыку?
+msg_add_task	Please enter the URL of the file you want to download	Увядзіце URL файла для спампоўвання
+msg_addfailed	Adding Failed	Не ўдалося дадаць
+msg_addfavsuccess	Added To Fav	Дададзена ў абранае
+msg_addplaylistsuccess	Added To Playlist	Дададзена ў плэйліст
+msg_autoshutdown	Shutdown	Выключэнне
+msg_btabnormal	Bluetooth abnormal	Збой Bluetooth
+msg_btinit_run	Bluetooth Starting	Запуск Bluetooth
+msg_btreconnect	Reconnect Bluetooth?	Перападключыць Bluetooth?
+msg_cardeject	Audio Disconnected	Аўдыяпрылада адключана
+msg_cardinsert	Audio Connected	Аўдыяпрылада падключана
+msg_checkfw	Checking FW	Праверка прашыўкі
+msg_checkfwerr	FW. Check Error	Памылка праверкі прашыўкі
+msg_closesynclink	Please close SyncLink	Закрыйце SyncLink
+msg_confirmupdate	Confirm Update?	Пацвердзіць абнаўленне?
+msg_connected	Connected	Падключана
+msg_connecting	Connecting	Падключэнне
+msg_delalbum	Delete Album?	Выдаліць альбом?
+msg_delalbumfailed	Failed To Delete Album	Не ўдалося выдаліць альбом
+msg_delalbumsuccess	Album Deleted	Альбом выдалены
+msg_delartist	Delete Artist?	Выдаліць выканаўцу?
+msg_delartistsuccess	Artist Deleted	Выканаўца выдалены
+msg_delete_task	Are you sure you want to delete the download task?	Сапраўды выдаліць заданне на спампоўванне?
+msg_deletesource	Also delete source file	Выдаліць таксама зыходны файл
+msg_delfile	Are you sure you want to delete this file?	Сапраўды выдаліць гэты файл?
+msg_delfile	Delete File?	Выдаліць файл?
+msg_delfilefailed	Failed To Delete File	Не ўдалося выдаліць файл
+msg_delfilesuccess	File Deleted	Файл выдалены
+msg_delgenre	Delete Genre?	Выдаліць жанр?
+msg_delgenresuccess	Genre Deleted	Жанр выдалены
+msg_delplaylist	Delete Playlist?	Выдаліць плэйліст?
+msg_delplaylistfailed	Failed To Delete Playlist	Не ўдалося выдаліць плэйліст
+msg_delplaylistsuccess	Playlist Deleted	Плэйліст выдалены
+msg_delsong	Delete Song?	Выдаліць песню?
+msg_delsongfailed	Failed To Delete Song	Не ўдалося выдаліць песню
+msg_delsongsuccess	Song Deleted	Песня выдалена
+msg_disconnected	Disconnected	Адключана
+msg_disonnectbt	Please disconnect the bluetooth device	Адключыце прыладу Bluetooth
+msg_downloadpath	Download path is	Шлях спампоўвання:
+msg_exist_task	The download task already exists	Такое заданне на спампоўванне ўжо існуе
+msg_exitairplay	Quit AirPlay?	Выйсці з AirPlay?
+msg_exportplaylist	Export Playlist?	Экспартаваць плэйліст?
+msg_exportsuccess	Export successful	Экспарт выкананы
+msg_factorysuccess	Restore to factory settings succeeded	Заводскія налады адноўлены
+msg_favsuccess	Added To Fav	Дададзена ў абранае
+msg_file_exist	The file already exists	Файл ужо існуе
+msg_importplaylist	Import Playlists?	Імпартаваць плэйлісты?
+msg_importsuccess	Successfully imported	Імпарт выкананы
+msg_initsetsuccess	All settings initialized successfully	Усе налады скінуты
+msg_latestfw	Latest Fw. Installed	Усталявана апошняя прашыўка
+msg_linkerror	WiFi Connection Error	Памылка падключэння да Wi-Fi
+msg_lowarn	Line Out sets max volume,continue?	Line Out задае максімальную гучнасць. Працягнуць?
+msg_lowpower	Low Battery	Нізкі зарад
+msg_namenull	The name can't be empty	Назва не можа быць пустой
+msg_netnameerr	Network Must Be Named	Патрэбна назва сеткі
+msg_no	Cancel	Скасаваць
+msg_no_storage	Storage is full.Some songs couldn't be added.	Сховішча запоўнена. Не ўсе песні ўдалося дадаць.
+msg_noheadset	Playback is disabled without headphones.Please insert headphones.	Без навушнікаў прайграванне выключана. Падключыце навушнікі.
+msg_nosongs	No songs in this folder	У гэтай папцы няма песень
+msg_notalbuminfo	This file has no Album data	У гэтым файле няма даных пра альбом
+msg_notfile	File Not Found	Файл не знойдены
+msg_notfolder	Folder not found	Папка не знойдзена
+msg_notfoundfw	Fw. Not Found	Прашыўка не знойдзена
+msg_notmemory	Memory is not enough	Не хапае памяці
+msg_notmemory	Out of memory	Памяць вычарпана
+msg_notnetwork	Network Disconnected	Сетка адключана
+msg_nototg	No OTG Found	OTG не знойдзены
+msg_notplaylist	Playlist Not Found	Плэйліст не знойдзены
+msg_notsongerinfo	This file has no Artist data	У гэтым файле няма даных пра выканаўцу
+msg_notsonglist	No Song List	Няма спісу песень
+msg_notspecdir	Folder not specified	Папка не паказана
+msg_notsupport	Not Supported	Не падтрымліваецца
+msg_notsupportdel	Can't be removed	Нельга выдаліць
+msg_nottf	No TF Card Found	Карта TF не знойдзена
+msg_otgeject	OTG Disconnected	OTG адключаны
+msg_otginfoerr	Failed To Get Version Info	Не ўдалося атрымаць звесткі пра версію
+msg_otginsert	OTG Connected	OTG падключаны
+msg_paircode	Bluetooth Code	Код Bluetooth
+msg_paired	Paired	Спалучана
+msg_playlistexist	Playlist Already Exists	Плэйліст ужо існуе
+msg_playlistfull	Could not create playlist	Не ўдалося стварыць плэйліст
+msg_poweroff	Shut Down?	Выключыць?
+msg_resetdbsuccess	Reset completed	Скід завершаны
+msg_restarting	Restarting	Перазапуск
+msg_shortpasswd	8 Digits PIN At Least	PIN-код: не менш за 8 цыфр
+msg_start_download_task	start the download task	Пачаць спампоўванне?
+msg_stop_download_task	stop the download task	Спыніць спампоўванне?
+msg_testmode	Enter test mode?	Увайсці ў тэставы рэжым?
+msg_tfeject	TF Card Removed	Карта TF вынята
+msg_tfinsert	TF Card Inserted	Карта TF устаўлена
+msg_unpaired	Unpaired	Не спалучана
+msg_unpairing	unpair?	Разарваць пару?
+msg_unsupportformat	Unsupported format	Фармат не падтрымліваецца
+msg_update	Confirmed	Пацверджана
+msg_wificancelsave	Delete Record?	Выдаліць запіс?
+msg_wifidisconnect	Disconnect Now?	Адключыцца зараз?
+msg_yes	OK	ОК
+navigation_all	All	Усе
+netservice_airplay	AirPlay	AirPlay
+netservice_dlna	DLNA	DLNA
+netservice_wifitrans	Wi-Fi File Transfer	Перадача файлаў праз Wi-Fi
+no_search	No search results	Нічога не знойдзена
+not_allmusic	Currently no songs	Песень пакуль няма
+otgdownload_percent	FW Downloaded	Прашыўка спампаваная
+outputway	Output Options	Параметры выхаду
+play_all	Play All	Іграць усё
+player_abrepeat	AB Repeat	Паўтор A–B
+player_albuminfo	Look up Album	Знайсці альбом
+player_bitdepth	Bit Depth	Разраднасць
+player_bitrate	Bitrate	Бітрэйт
+player_delete	Delete Song	Выдаліць песню
+player_encoding	Encoding	Кадзіраванне
+player_era	Year	Год
+player_filesize	File Size	Памер файла
+player_location	Location	Месцазнаходжанне
+player_msgmul	*Affecting only files below 48khz	*Толькі для файлаў ніжэй за 48 кГц
+player_multiple	Multiple Speed	Хуткасць прайгравання
+player_nolyric	No Lyrics	Няма тэксту
+player_onlinesearch	Download Cover & Lyrics	Спампаваць вокладку і тэкст
+player_playlist	Queue	Чарга
+player_samplerate	Sample Rate	Частата дыскрэтызацыі
+player_songerinfo	Look up Artist	Знайсці выканаўцу
+player_unknown	Unknown	Невядома
+player_unknown	Unknown Artist	Невядомы выканаўца
+playlist	Playlist	Плэйліст
+playlist_create	New playlist	Новы плэйліст
+playlist_export	Export playlist	Экспарт плэйліста
+playlist_import	Import playlist	Імпарт плэйліста
+playmode_listplay	List Play	Па спісе
+playmode_repeatall	Repeat All	Паўтор усіх
+playmode_repeattrack	Repeat Track	Паўтор трэка
+playmode_shuffle	Shuffle	Перамяшаць
+playset_balance	Channel Balance	Баланс каналаў
+playset_bootvol	Default Volume	Гучнасць па змаўчанні
+playset_covermode	Enlarged Album Art	Павялічаная вокладка
+playset_dsdoutput	DSD Output Mode	Рэжым вываду DSD
+playset_eq	EQ	Эквалайзер
+playset_filter	Digital Filters	Лічбавыя фільтры
+playset_foldercover	Folder Album Cover	Вокладка папкі
+playset_folderjump	Folder Skip	Пераход па папках
+playset_gain	Gain	Узмацненне
+playset_gapless	Gapless	Без пауз
+playset_maxvol	Max Volume	Макс. гучнасць
+playset_memplay	Memory Playback	Запамінаць пазіцыю
+playset_noplay	Require Output (Beta)	Патрабаваць выхад (бэта)
+playset_playmode	Play Mode	Рэжым прайгравання
+playset_replaygain	ReplayGain	ReplayGain
+playset_usbaudiovol	USB Audio Output	Вывад гуку праз USB
+playset_volcover	Volume and Album Display	Гучнасць і вокладка
+powerm_deep_off	Standby	Чаканне
+powerm_sleep	Sleep Timer	Таймер сну
+recentadd	Recently Added	Нядаўна дададзеныя
+recentplay	Recent	Нядаўнія
+rename	Rename	Перайменаваць
+renamesuccess	Successfully renamed	Перайменавана
+replaygain_track	Song	Песня
+reset_factory	Full Factory Reset	Поўны скід
+reset_initdatabase	Reset Database	Скінуць базу даных
+reset_initset	Reset Settings Only	Скінуць толькі налады
+scan_automatic	Automatic Update	Аўтаабнаўленне
+scan_now	Scan music now	Сканаваць зараз
+scan_now	Scan music now	Сканаваць зараз
+scan_spec	Scan specified folders	Сканаваць выбраныя папкі
+scan_spec	Scan specified folders	Сканаваць выбраныя папкі
+scan_startscan	Scan	Сканаваць
+scan_updatefinish	Library Updated,%d Updated	Медыятэка абноўлена, змененая: %d
+scan_updating	Updating No.%d	Абнаўленне %d
+scover_cover	Cover	Вокладка
+scover_lyric	Lyrics	Тэкст
+screenlock_about	Custom Lock Screen	Свой экран блакіроўкі
+screenlock_info1	1. Put the pictures in a folder named "lockscreenimage" at the top of the card.	1. Пакладзіце малюнкі ў папку «lockscreenimage» у корані карты.
+screenlock_info2	2. PNG or JPG, exactly 375 x 320 pixels, under 1 MB each.	2. PNG або JPG, роўна 375 x 320 пікселяў, кожны да 1 МБ.
+screenlock_info3	3. Up to 5 pictures.	3. Не болей за 5 малюнкаў.
+screenlock_timeshow	Show Time	Паказваць час
+search_tips1	Search for music,artists,albums,genres	Пошук песень, выканаўцаў, альбомаў, жанраў
+search_track	Track	Трэк
+singerbyalbum	Sort by album artist	Сартаваць паводле выканаўцы альбома
+singerbysong	Sort by song artist	Сартаваць паводле выканаўцы песні
+small_album	Albums	Альбомы
+small_coverflow	Album Wall	Сцяна альбомаў
+small_folder	Folder	Папкі
+small_local	Local Songs	Лакальныя песні
+small_playing	Now Playing	Зараз іграе
+small_playset	Playback	Прайграванне
+small_stream	Streaming	Стрымінг
+small_sysset	System	Сістэма
+songer	Artist	Выканаўца
+sort_addtime	Time added	Дата дадання
+sort_alphabet	Alphabetical	Па алфавіце
+sort_filename	File name	Імя файла
+sort_format	File format	Фармат файла
+sort_time_asc	Time added (ascending)	Дата дадання (па ўзрастанні)
+sort_time_desc	Time added (descending)	Дата дадання (па спадзе)
+standbyoff_10min	10min	10 хв
+standbyoff_1min	1min	1 хв
+standbyoff_3min	3min	3 хв
+standbyoff_5min	5min	5 хв
+standbyoff_deep	Auto-standby	Аўтачаканне
+standbyoff_deepinfo	After 5 minute of idle,device will go into standby mode.	Пасля 5 хвілін бяздзейнасці прылада перайдзе ў рэжым чакання.
+standbyoff_saver	Auto-shutdown	Аўтавыключэнне
+synclink_off	Off	Выкл.
+system_about	About	Пра прайгравальнік
+system_carmode	In-Vehicle Mode	Аўтамабільны рэжым
+system_display	Display	Дысплей
+system_general	General	Агульныя
+system_keylock	Buttons Lock	Блакіроўка кнопак
+system_keytone	Key Tone	Гук кнопак
+system_language	Language	Мова
+system_navshow	Show Navigation Bar	Паказваць панэль навігацыі
+system_netservice	Network	Сетка
+system_powermanager	Power	Сілкаванне
+system_prove	Certification	Сертыфікацыя
+system_reset	Reset Settings	Скід налад
+system_sys	System	Сістэма
+system_time	Date & Time	Дата і час
+system_update	System Update	Абнаўленне сістэмы
+system_wheelmode	Wheel Function	Функцыя колца
+system_wifiset	Wireless	Бесправадныя сеткі
+timedate_24h	24-Hour	24-гадзінны фармат
+timedate_auto	Automatic Time Set	Аўтаматычная ўстаноўка часу
+timedate_manual	Set Time Manually	Усталяваць час уручную
+timezone_gmt+1	(GMT+01:00)Europe/Amsterdam	(GMT+01:00)Амстэрдам
+timezone_gmt+10	(GMT+10:00)Australia/Sydney	(GMT+10:00)Сідней
+timezone_gmt+12	(GMT+12:00)Pacific/Fiji	(GMT+12:00)Фіджы
+timezone_gmt+2	(GMT+02:00)Europe/Bucharest	(GMT+02:00)Бухарэст
+timezone_gmt+3	(GMT+03:00)Asia/Kuwait	(GMT+03:00)Кувейт
+timezone_gmt+3_30	(GMT+03:30)Asia/Tehran	(GMT+03:30)Тэгеран
+timezone_gmt+4	(GMT+04:00)Asia/Muscat	(GMT+04:00)Маскат
+timezone_gmt+4_30	(GMT+04:30)Asia/Kabul	(GMT+04:30)Кабул
+timezone_gmt+5	(GMT+05:00)Asia/Karachi	(GMT+05:00)Карачы
+timezone_gmt+6	(GMT+06:00)Asia/Almaty	(GMT+06:00)Алматы
+timezone_gmt+7	(GMT+07:00)Asia/Bangkok	(GMT+07:00)Бангкок
+timezone_gmt+8	(GMT+08:00)Asia/Shanghai	(GMT+08:00)Шанхай
+timezone_gmt+9	(GMT+09:00)Asia/Tokyo	(GMT+09:00)Токіо
+timezone_gmt+9_30	(GMT+09:30)Australia/Adelaide	(GMT+09:30)Адэлаіда
+timezone_gmt-0	(GMT 00:00)Europe/London	(GMT 00:00)Лондан
+timezone_gmt-1	(GMT-01:00)Atlantic/Azores	(GMT-01:00)Азорскія а-вы
+timezone_gmt-10	(GMT-10:00)Pacific/Honolulu	(GMT-10:00)Ганалулу
+timezone_gmt-11	(GMT-11:00)Pacific/Midway	(GMT-11:00)Мідуэй
+timezone_gmt-12	(GMT-12:00)Pacific/Kwajalein	(GMT-12:00)Кваджалейн
+timezone_gmt-3	(GMT-03:00)America/Argentina/Buenos_Aires	(GMT-03:00)Буэнас-Айрэс
+timezone_gmt-3_30	(GMT-03:30)America/St_Johns	(GMT-03:30)Сент-Джонс
+timezone_gmt-4	(GMT-04:00)Canada/Atlantic	(GMT-04:00)Канада, Атлантыка
+timezone_gmt-5	(GMT-05:00)America/New_York	(GMT-05:00)Нью-Ёрк
+timezone_gmt-6	(GMT-06:00)America/Mexico_City	(GMT-06:00)Мехіка
+timezone_gmt-7	(GMT-07:00)America/Denver	(GMT-07:00)Дэнвер
+timezone_gmt-8	(GMT-08:00)America/Tijuana	(GMT-08:00)Тыхуана
+timezone_gmt-9	(GMT-09:00)America/Anchorage	(GMT-09:00)Анкарыдж
+timezone_select	Time Zone Selection	Часавы пояс
+title_downloaded	Downloaded	Спампавана
+title_downloading	Downloading	Спампоўванне
+title_more	More	Яшчэ
+title_sort	List sort order	Парадак сартавання
+update_online	Network update	Абнаўленне па сетцы
+update_tf	TF card update	Абнаўленне з карты TF
+usb_chargeswitch	USB DAC Charging	Зарадка ў рэжыме USB DAC
+usbmode_audio	USB AUDIO	USB-аўдыя
+usbmode_connect	USB Connected	USB падключаны
+usbmode_dac	USB DAC	USB DAC
+usbmode_disconnect	USB Disconnected	USB адключаны
+usbmode_storge	USB Storage	USB-назапашвальнік
+usbvol_adjust	Volume Variable	Гучнасць рэгулюецца
+usbvol_fixed	Volume Fixed	Гучнасць фіксаваная
+wheelmode_menu	Menu Mode	Рэжым меню
+wheelmode_volume	Volume Mode	Рэжым гучнасці
+wifi_addnetwork	Add Network	Дадаць сетку
+wifi_choice	Select Network	Выбраць сетку
+wifi_scan	Scanning	Пошук
+wifiset_bt	Bluetooth	Bluetooth
+wifiset_synclink	SyncLink	SyncLink
+wifiset_wifi	Wi-Fi	Wi-Fi
+wifits_info1	Enter the following URL into your internet browser:	Увядзіце гэты URL у браўзеры:
+Search	Search	Пошук
+Streaming	Streaming	Стрымінг
+Library's Games	Library's Games	Медыятэка → Гульні
+Library's Apps	Library's Apps	Медыятэка → Праграмы
+Network settings	Network settings	Налады сеткі
+Wait until the App Store finishes	Wait until the App Store finishes	Дачакайцеся завяршэння App Store
+It isn't on the card	It isn't on the card	Яго няма на карце
+It couldn't start	It couldn't start	Не ўдалося запусціць
+Stop %s	Stop %s	Спыніць %s
+Loading…	Loading…	Загрузка…
+More…	More…	Яшчэ…
+Working…	Working…	Выконваецца…
+Starting %s…	Starting %s…	Запуск %s…
+Retry	Retry	Паўтарыць
+Install it again in Library → App Store	Install it again in Library → App Store	Усталюйце яго зноў: Медыятэка → App Store
+Cancel	Cancel	Скасаваць
+%s isn't running	%s isn't running	%s не запушчана
+%s didn't answer	%s didn't answer	%s не адказвае
+Too long	Too long	Занадта доўгі запыт
+%s stopped	%s stopped	%s спынена
+%s isn't on the card	%s isn't on the card	%s няма на карце
+Apps	Apps	Праграмы
+No apps	No apps	Няма праграм
+Not running	Not running	Не запушчана
+No code yet	No code yet	Кода пакуль няма
+Connect the Q2 to Wi-Fi	Connect the Q2 to Wi-Fi	Падключыце Q2 да Wi-Fi
+Open it again	Open it again	Адкрыйце яго зноў
+Wait a moment	Wait a moment	Крыху пачакайце
+Then come back here	Then come back here	Потым вярніцеся сюды
+Scan with your phone's	Scan with your phone's	Навядзіце камеру
+Scan with your	Scan with your	Навядзіце камеру
+camera	camera	тэлефона
+phone's camera	phone's camera	тэлефона
+or open	or open	або адкрыйце
+PIN	PIN	PIN
+Couldn't import %s	Couldn't import %s	Не ўдалося імпартаваць %s
+Playlists updated	Playlists updated	Плэйлісты абноўлены
+No memory card	No memory card	Няма карты памяці
+Games	Games	Гульні
+%d update	%d update	%d абнаўленне
+%d updates	%d updates	Абнаўленняў: %d
+INSTALL	INSTALL	УСТАЛЯВАЦЬ
+UPDATE	UPDATE	АБНАВІЦЬ
+INSTALLED	INSTALLED	УСТАЛЯВАНА
+AM	AM	дп
+PM	PM	пп
+Jan	Jan	сту
+Feb	Feb	лют
+Mar	Mar	сак
+Apr	Apr	кра
+May	May	мая
+Jun	Jun	чэр
+Jul	Jul	ліп
+Aug	Aug	жні
+Sep	Sep	вер
+Oct	Oct	кас
+Nov	Nov	ліс
+Dec	Dec	сне
+The card is in use over USB	The card is in use over USB	Карта выкарыстоўваецца праз USB
+Storage unavailable	Storage unavailable	Сховішча недаступнае
+The card is full	The card is full	Карта запоўнена
+Couldn't save	Couldn't save	Не ўдалося захаваць
+Saved to battery-log.txt	Saved to battery-log.txt	Захавана ў battery-log.txt
+Battery History	Battery History	Гісторыя батарэі
+Unplug to start	Unplug to start	Адключыце зарадку, каб пачаць
+Export Log	Export Log	Экспартаваць журнал
+Card theme turned off after a failed start	Card theme turned off after a failed start	Тэму з карты выключана пасля няўдалага запуску
+Card theme removed. Restart to finish	Card theme removed. Restart to finish	Тэму з карты выдалена. Перазапусціце, каб завяршыць
+Card theme file can't be used	Card theme file can't be used	Не ўдаецца выкарыстаць файл тэмы з карты
+Card theme saved. Restart to apply	Card theme saved. Restart to apply	Тэму з карты захавана. Перазапусціце, каб ужыць
+Could not save card theme	Could not save card theme	Не ўдалося захаваць тэму з карты
+Done	Done	Гатова
+space	space	прабел
+New Playlist	New Playlist	Новы плэйліст
+Playlist Name	Playlist Name	Назва плэйліста
+Rename	Rename	Перайменаваць
+Songs	Songs	Песні
+Artists	Artists	Выканаўцы
+Albums	Albums	Альбомы
+Genres	Genres	Жанры
+Off	Off	Выкл.
+On	On	Укл.
+%d of %d songs	%d of %d songs	%d з %d песень
+Updating Library	Updating Library	Абнаўленне медыятэкі
+Connected	Connected	Падключана
+Eject before disconnecting	Eject before disconnecting	Выміце перад адключэннем
+%d:%02d AM	%d:%02d AM	%d:%02d дп
+%d:%02d PM	%d:%02d PM	%d:%02d пп
+Save	Save	Захаваць
+Sort: Album	Sort: Album	Сартаванне: Альбом
+Sort: Artist	Sort: Artist	Сартаванне: Выканаўца
+Sort: Recently Added	Sort: Recently Added	Сартаванне: Нядаўна дададзеныя
+Sort: Most Played	Sort: Most Played	Сартаванне: Часта праслуханыя
+Sort: Random	Sort: Random	Сартаванне: Выпадкова
+Sort: Rating	Sort: Rating	Сартаванне: Рэйтынг
+Sort: Year	Sort: Year	Сартаванне: Год
+%u song	%u song	%u песня
+%u songs	%u songs	Песень: %u
+All albums	All albums	Усе альбомы
+Preparing artwork… %d/%d	Preparing artwork… %d/%d	Падрыхтоўка вокладак… %d/%d
+Update Library first	Update Library first	Спачатку абнавіце медыятэку
+%u Song	%u Song	%u песня
+%u Songs	%u Songs	Песень: %u
+%u Album	%u Album	%u альбом
+%u Albums	%u Albums	Альбомаў: %u
+%u Game	%u Game	%u гульня
+%u Games	%u Games	Гульняў: %u
+%u Service	%u Service	%u сэрвіс
+%u Services	%u Services	Сэрвісаў: %u
+%u.%u GB Free	%u.%u GB Free	Вольна %u.%u ГБ
+Library	Library	Медыятэка
+Settings	Settings	Налады
+Crossfade: %d s	Crossfade: %d s	Кросфейд: %d с
+Crossfade: Off	Crossfade: Off	Кросфейд: Выкл.
+Wheel Sensitivity: %d%%	Wheel Sensitivity: %d%%	Адчувальнасць колца: %d%%
+Resume Songs: %d min	Resume Songs: %d min	Працяг песень: %d хв
+Resume Songs: Off	Resume Songs: Off	Працяг песень: Выкл.
+Night Shift: %dK	Night Shift: %dK	Night Shift: %dK
+Night Shift: Auto	Night Shift: Auto	Night Shift: Аўто
+Night Shift: Off	Night Shift: Off	Night Shift: Выкл.
+Mono Audio	Mono Audio	Монагук
+Swap L/R	Swap L/R	Памяняць L/R
+Crossfade needs Gapless	Crossfade needs Gapless	Кросфейду патрэбны рэжым «Без пауз»
+Auto	Auto	Аўто
+Night Shift	Night Shift	Night Shift
+Resume Songs	Resume Songs	Працяг песень
+Wheel Sensitivity	Wheel Sensitivity	Адчувальнасць колца
+Crossfade	Crossfade	Кросфейд
+Measuring song lengths…	Measuring song lengths…	Вымярэнне працягласці песень…
+Sudoku	Sudoku	Судоку
+Solitaire	Solitaire	Пасьянс
+Snake	Snake	Змейка
+Paused	Paused	Паўза
+Continue	Continue	Працягнуць
+Quit	Quit	Выйсці
+New best!	New best!	Новы рэкорд!
+Game over	Game over	Гульня скончана
+Centre: play again	Centre: play again	Цэнтр: гуляць зноў
+Play/Pause: resume	Play/Pause: resume	Play/Pause: працягнуць
+New game?	New game?	Новая гульня?
+Centre: yes   Return: no	Centre: yes   Return: no	Цэнтр: так   Назад: не
+Solved!	Solved!	Вырашана!
+Play/Pause: new game	Play/Pause: new game	Play/Pause: новая гульня
+Score	Score	Лік
+Best	Best	Рэкорд
+Level	Level	Узровень
+Centre	Centre	Цэнтр
+You win!	You win!	Вы перамаглі!
+Shuffle	Shuffle	Перамяшаць
+Era	Era	Эпоха
+Ratings	Ratings	Рэйтынгі
+Most Played	Most Played	Часта праслуханыя
+Long Songs	Long Songs	Доўгія песні
+App Store	App Store	App Store
+Upload Scrobbles	Upload Scrobbles	Адправіць скроблы
+Tidal Downloads	Tidal Downloads	Спампоўкі Tidal
+Internet Radio	Internet Radio	Інтэрнэт-радыё
+Configuration	Configuration	Канфігурацыя
+Restart to apply?	Restart to apply?	Перазапусціць, каб ужыць?
+Couldn't copy the language	Couldn't copy the language	Не ўдалося скапіяваць мову
+Too many songs to shuffle	Too many songs to shuffle	Занадта шмат песень для перамешвання
+Shuffle Songs	Shuffle Songs	Перамяшаць песні
+Shuffle Albums	Shuffle Albums	Перамяшаць альбомы
+Shuffle Folders	Shuffle Folders	Перамяшаць папкі
+Albums and folders take a moment to shuffle	Albums and folders take a moment to shuffle	Альбомы і папкі перамешваюцца не адразу
+No plays yet	No plays yet	Праслухоўванняў пакуль няма
+%u play	%u play	%u праслухоўванне
+%u plays	%u plays	Праслухоўванняў: %u
+No downloads yet	No downloads yet	Спамповак пакуль няма
+Clear All Downloads…	Clear All Downloads…	Выдаліць усе спампоўкі…
+%u track	%u track	%u трэк
+%u tracks	%u tracks	Трэкаў: %u
+Remove Downloads?	Remove Downloads?	Выдаліць спампоўкі?
+Keeps settings	Keeps settings	Налады захаваюцца
+Remove	Remove	Выдаліць
+It isn't on the card any more	It isn't on the card any more	Яго больш няма на карце
+%02ds	%02ds	%02d-я
+%ds	%ds	%d-я
+Era unavailable	Era unavailable	Эпохі недаступныя
+Album not found	Album not found	Альбом не знойдзены
+%u album	%u album	%u альбом
+%u albums	%u albums	Альбомаў: %u
+Play All	Play All	Іграць усё
+Every song, shuffled	Every song, shuffled	Усе песні ў выпадковым парадку
+No dated albums yet	No dated albums yet	Альбомаў з датай пакуль няма
+No songs over 10 minutes	No songs over 10 minutes	Няма песень даўжэй за 10 хвілін
+Measuring songs… %d/%d	Measuring songs… %d/%d	Вымярэнне песень… %d/%d
+Measuring songs…	Measuring songs…	Вымярэнне песень…
+Release to search	Release to search	Адпусціце для пошуку
+Pull to search	Pull to search	Пацягніце для пошуку
+Sleep Timer	Sleep Timer	Таймер сну
+Lock Screen	Lock Screen	Экран блакіроўкі
+Accent	Accent	Акцэнт
+Everything	Everything	Усё
+Buttons only	Buttons only	Толькі кнопкі
+Volume only	Volume only	Толькі гучнасць
+Wake: Single Press	Wake: Single Press	Абуджэнне: адно націсканне
+Wake: Double Press	Wake: Double Press	Абуджэнне: двойчы націснуць
+Artist View: Grid	Artist View: Grid	Выгляд выканаўцаў: Сетка
+Artist View: Cover Flow	Artist View: Cover Flow	Выгляд выканаўцаў: Cover Flow
+Artist View: List	Artist View: List	Выгляд выканаўцаў: Спіс
+Year Order: Newest First	Year Order: Newest First	Парадак па гадах: спачатку новыя
+Year Order: Oldest First	Year Order: Oldest First	Парадак па гадах: спачатку старыя
+Artists: Artist	Artists: Artist	Выканаўцы: Выканаўца
+Artists: Album Artist	Artists: Album Artist	Выканаўцы: Выканаўца альбома
+Resume on Connect: Off	Resume on Connect: Off	Працяг пры падключэнні: Выкл.
+Resume on Connect: On	Resume on Connect: On	Працяг пры падключэнні: Укл.
+Clock: Standard	Clock: Standard	Гадзіннік: Звычайны
+Clock: Large	Clock: Large	Гадзіннік: Вялікі
+Artist Album Order: Year	Artist Album Order: Year	Парадак альбомаў выканаўцы: Год
+Artist Album Order: A–Z	Artist Album Order: A–Z	Парадак альбомаў выканаўцы: А–Я
+Volume Guard: Off	Volume Guard: Off	Абарона гучнасці: Выкл.
+Volume Guard: On	Volume Guard: On	Абарона гучнасці: Укл.
+Hold Return: Recent	Hold Return: Recent	Утрыманне «Назад»: Нядаўнія
+Hold Return: Home	Hold Return: Home	Утрыманне «Назад»: Галоўная
+Standby Limit: Off	Standby Limit: Off	Ліміт чакання: Выкл.
+Standby Limit: %u h	Standby Limit: %u h	Ліміт чакання: %u гадз
+Refresh Cover Flow	Refresh Cover Flow	Абнавіць Cover Flow
+Playlist View: List	Playlist View: List	Выгляд плэйлістоў: Спіс
+Playlist View: Cover Flow	Playlist View: Cover Flow	Выгляд плэйлістоў: Cover Flow
+Update Notifications: Off	Update Notifications: Off	Апавяшчэнні пра абнаўленні: Выкл.
+Update Notifications: On	Update Notifications: On	Апавяшчэнні пра абнаўленні: Укл.
+Album View: List	Album View: List	Выгляд альбомаў: Спіс
+Album View: Grid	Album View: Grid	Выгляд альбомаў: Сетка
+Charge Limit (%u%%)	Charge Limit (%u%%)	Ліміт зараду (%u%%)
+Resume on Connect	Resume on Connect	Працяг пры падключэнні
+Volume Guard	Volume Guard	Абарона гучнасці
+Control Device Volume	Control Device Volume	Кіраваць гучнасцю прылады
+Key Tone	Key Tone	Гук кнопак
+In-Vehicle Mode	In-Vehicle Mode	Аўтамабільны рэжым
+Smart Wi-Fi	Smart Wi-Fi	Smart Wi-Fi
+Enlarged Album Art	Enlarged Album Art	Павялічаная вокладка
+Folder Album Cover	Folder Album Cover	Вокладка папкі
+Fast Navigation	Fast Navigation	Хуткая навігацыя
+Scan Song Durations	Scan Song Durations	Вымераць працягласць песень
+Position Bar	Position Bar	Паласа пазіцыі
+Hide Streaming	Hide Streaming	Схаваць «Стрымінг»
+Hide Folder	Hide Folder	Схаваць «Папкі»
+Hide Apps	Hide Apps	Схаваць «Праграмы»
+Hide Games	Hide Games	Схаваць «Гульні»
+Hide App Store	Hide App Store	Схаваць App Store
+Receive Audio	Receive Audio	Прыём гуку
+Log Failed Artwork	Log Failed Artwork	Журнал збояў вокладак
+Hide Duplicate Albums	Hide Duplicate Albums	Схаваць дублікаты альбомаў
+Hide Duplicate Songs	Hide Duplicate Songs	Схаваць дублікаты песень
+Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	Cover Flow перабудуе вокладкі наступным разам
+Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	Выключыце і ўключыце Bluetooth, каб ужыць
+Folder Root: %s	Folder Root: %s	Корань папак: %s
+Folder Root: Card	Folder Root: Card	Корань папак: Карта
+Library & Folders	Library & Folders	Медыятэка і папкі
+Press Centre to Change Mode	Press Centre to Change Mode	Націсніце Цэнтр, каб змяніць рэжым
+Press Centre to Turn On or Off	Press Centre to Turn On or Off	Націсніце Цэнтр, каб уключыць або выключыць
+Press Centre When Finished	Press Centre When Finished	Скончыўшы, націсніце Цэнтр
+OK to Disconnect	OK to Disconnect	Можна адключаць
+Now Playing	Now Playing	Зараз іграе
+Cover Flow	Cover Flow	Cover Flow
+EQ	EQ	Эквалайзер
+Update Library	Update Library	Абнавіць медыятэку
+Balance	Balance	Баланс
+Home: Split	Home: Split	Галоўная: Падзеленая
+Home: Full	Home: Full	Галоўная: Поўная
+Home: Carousel	Home: Carousel	Галоўная: Карусель
+Battery: Icon	Battery: Icon	Батарэя: Значок
+Battery: Percent	Battery: Percent	Батарэя: Працэнты
+Battery: Icon + Percent	Battery: Icon + Percent	Батарэя: Значок + працэнты
+Battery: Percent Inside	Battery: Percent Inside	Батарэя: Працэнты ўнутры
+Light Mode: Off	Light Mode: Off	Светлы рэжым: Выкл.
+Light Mode: On	Light Mode: On	Светлы рэжым: Укл.
+Light Mode: Auto	Light Mode: Auto	Светлы рэжым: Аўто
+Accent: Card Theme	Accent: Card Theme	Акцэнт: Тэма з карты
+Battery: Card Theme	Battery: Card Theme	Батарэя: Тэма з карты
+Light Mode: Card Theme	Light Mode: Card Theme	Светлы рэжым: Тэма з карты
+Accent: %s	Accent: %s	Акцэнт: %s
+Theme: %s	Theme: %s	Тэма: %s
+Shortcut: None	Shortcut: None	Ярлык: Няма
+Shortcut: %s	Shortcut: %s	Ярлык: %s
+Rounded Corners	Rounded Corners	Закругленыя вуглы
+Smart Awake	Smart Awake	Не гасіць экран
+Centred Now Playing	Centred Now Playing	Зараз іграе па цэнтры
+Click With Headphones	Click With Headphones	Націск з навушнікамі
+Single Press Scrub	Single Press Scrub	Перамотка адным націскам
+Time in Title	Time in Title	Час у загалоўку
+Set by the card theme	Set by the card theme	Задана тэмай з карты
+Location	Location	Месцазнаходжанне
+Unknown	Unknown	Невядома
+Appearance	Appearance	Знешні выгляд
+Controls	Controls	Кіраванне
+Theme	Theme	Тэма
+Boot to: Rockbox	Boot to: Rockbox	Загрузка: Rockbox
+Boot to: Q2 Pod	Boot to: Q2 Pod	Загрузка: Q2 Pod
+Rockbox is not on the card	Rockbox is not on the card	Rockbox няма на карце
+Could not save boot choice	Could not save boot choice	Не ўдалося захаваць выбар загрузкі
+No albums	No albums	Няма альбомаў
+No artists	No artists	Няма выканаўцаў
+No composers	No composers	Няма кампазітараў
+No genres	No genres	Няма жанраў
+Chapter %d	Chapter %d	Раздзел %d
+Chapters	Chapters	Раздзелы
+Could not read chapters	Could not read chapters	Не ўдалося прачытаць раздзелы
+No embedded chapters	No embedded chapters	Убудаваных раздзелаў няма
+Too long to read chapters on the Q2	Too long to read chapters on the Q2	Занадта доўгі файл для чытання раздзелаў на Q2
+Loading chapters…	Loading chapters…	Загрузка раздзелаў…
+Spotify Cache: %s	Spotify Cache: %s	Кэш Spotify: %s
+Tidal Cache: %s	Tidal Cache: %s	Кэш Tidal: %s
+Erasing…	Erasing…	Сціранне…
+Press again to erase login and cache	Press again to erase login and cache	Націсніце яшчэ раз, каб сцерці ўваход і кэш
+Erase Spotify Data	Erase Spotify Data	Сцерці даныя Spotify
+Could not save setting	Could not save setting	Не ўдалося захаваць наладу
+Streaming stopped	Streaming stopped	Стрымінг спынены
+Wait for the one in progress	Wait for the one in progress	Дачакайцеся бягучай аперацыі
+Stop Streaming Services	Stop Streaming Services	Спыніць стрымінгавыя сэрвісы
+No %s folder on the card	No %s folder on the card	На карце няма папкі %s
+CFW. Version	CFW. Version	Версія CFW
+Update to %s	Update to %s	Абнавіць да %s
+Latest firmware installed	Latest firmware installed	Усталявана апошняя прашыўка
+Can't reach GitHub	Can't reach GitHub	GitHub недаступны
+No update for this build	No update for this build	Для гэтай зборкі абнаўлення няма
+Can't write to the card	Can't write to the card	Не ўдаецца запісаць на карту
+Download cancelled	Download cancelled	Спампоўванне скасавана
+GitHub is busy, try later	GitHub is busy, try later	GitHub заняты, паспрабуйце пазней
+The download was damaged, try again	The download was damaged, try again	Спампоўванне пашкоджана, паспрабуйце яшчэ раз
+Downloading %d%%	Downloading %d%%	Спампоўванне %d%%
+Cancelling…	Cancelling…	Скасаванне…
+Reconnecting…	Reconnecting…	Паўторнае падключэнне…
+Verifying…	Verifying…	Праверка цэласнасці…
+Checking…	Checking…	Праверка…
+Needs %u MB more space	Needs %u MB more space	Патрэбна яшчэ %u МБ месца
+Update downloaded: use TF card update	Update downloaded: use TF card update	Абнаўленне спампавана: скарыстайцеся абнаўленнем з карты TF
+Charge the battery first	Charge the battery first	Спачатку зарадзіце батарэю
+Can't start the download	Can't start the download	Не ўдаецца пачаць спампоўванне
+Downloading…	Downloading…	Спампоўванне…
+Q2 Pod %s is out: System Update → Network update	Q2 Pod %s is out: System Update → Network update	Выйшаў Q2 Pod %s: Абнаўленне сістэмы → Абнаўленне па сетцы
+Downloading	Downloading	Спампоўванне
+Unpacking…	Unpacking…	Распакоўка…
+Installing…	Installing…	Усталёўка…
+Removing…	Removing…	Выдаленне…
+Connect to Wi-Fi to load the list	Connect to Wi-Fi to load the list	Падключыцеся да Wi-Fi, каб загрузіць спіс
+Checked just now	Checked just now	Праверана толькі што
+Checked %u min ago	Checked %u min ago	Праверана %u хв таму
+Checked %u h ago	Checked %u h ago	Праверана %u гадз таму
+Press again to remove	Press again to remove	Націсніце яшчэ раз, каб выдаліць
+Starts at power-on. Press again to install	Starts at power-on. Press again to install	Запускаецца пры ўключэнні. Яшчэ раз — усталяваць
+%d app can be updated	%d app can be updated	Можна абнавіць %d праграму
+%d apps can be updated	%d apps can be updated	Праграм для абнаўлення: %d
+All apps are up to date	All apps are up to date	Усе праграмы абноўлены
+The download is not a usable app	The download is not a usable app	Спампаванае не з'яўляецца праграмай
+Rockbox is ready. Find it on Home	Rockbox is ready. Find it on Home	Rockbox гатовы. Ён на галоўным экране
+Rockbox Themes are ready in Rockbox's Theme Settings	Rockbox Themes are ready in Rockbox's Theme Settings	Тэмы Rockbox гатовыя ў наладах тэм Rockbox
+%s is ready in %s	%s is ready in %s	Гатова: %s (%s)
+%s removed	%s removed	Выдалена: %s
+Spotify's login and cache erased	Spotify's login and cache erased	Уваход і кэш Spotify сцёртыя
+Stopped checking for updates	Stopped checking for updates	Праверку абнаўленняў спынена
+Install Rockbox first	Install Rockbox first	Спачатку ўсталюйце Rockbox
+Check for Updates	Check for Updates	Праверыць абнаўленні
+%d of %d	%d of %d	%d з %d
+Album lyrics	Album lyrics	Тэксты альбома
+LRCLIB stopped answering	LRCLIB stopped answering	LRCLIB перастаў адказваць
+Cancelled	Cancelled	Скасавана
+%d saved	%d saved	Захавана: %d
+%d not found	%d not found	Не знойдзена: %d
+%d already had lyrics	%d already had lyrics	Ужо з тэкстам: %d
+%d failed	%d failed	Памылак: %d
+Album lyrics: no songs on the card	Album lyrics: no songs on the card	Тэксты альбома: на карце няма песень
+Can't reach LRCLIB	Can't reach LRCLIB	LRCLIB недаступны
+Download Album Lyrics	Download Album Lyrics	Спампаваць тэксты альбома
+Downloading %d of %d	Downloading %d of %d	Спампоўванне %d з %d
+No album songs on the card	No album songs on the card	На карце няма песень альбома
+file exceeds 16384 bytes	file exceeds 16384 bytes	файл большы за 16384 байты
+line exceeds 512 bytes	line exceeds 512 bytes	радок даўжэйшы за 512 байтаў
+embedded NUL	embedded NUL	у файле нулявы байт
+unsupported filter form	unsupported filter form	непадтрымліваная форма фільтра
+expected Preamp: <gain> dB	expected Preamp: <gain> dB	чакалася Preamp: <gain> dB
+preamp outside -60..24 dB or invalid number	preamp outside -60..24 dB or invalid number	папярэдняе ўзмацненне па-за -60..24 дБ або няправільны лік
+expected Channel: L, R or all	expected Channel: L, R or all	чакалася Channel: L, R або all
+only channels L, R and all are supported	only channels L, R and all are supported	падтрымліваюцца толькі каналы L, R і all
+unsupported command	unsupported command	непадтрымліваная каманда
+invalid filter label	invalid filter label	няправільная метка фільтра
+expected Filter [number]:	expected Filter [number]:	чакалася Filter [number]:
+expected ON or OFF	expected ON or OFF	чакалася ON або OFF
+unsupported filter type	unsupported filter type	непадтрымліваны тып фільтра
+expected Fc <Hz> Hz Gain <dB> dB	expected Fc <Hz> Hz Gain <dB> dB	чакалася Fc <Hz> Hz Gain <dB> dB
+invalid frequency or gain number	invalid frequency or gain number	няправільнае значэнне частаты або ўзмацнення
+expected Q <number>	expected Q <number>	чакалася Q <number>
+peaking filter requires Q	peaking filter requires Q	пікавому фільтру патрэбны Q
+range: 20..20000 Hz, -24..24 dB, Q 0.1..10	range: 20..20000 Hz, -24..24 dB, Q 0.1..10	дыяпазон: 20..20000 Гц, -24..24 дБ, Q 0.1..10
+more than 30 bands	more than 30 bands	больш за 30 палос
+summed preamp outside -60..24 dB	summed preamp outside -60..24 dB	сумарнае папярэдняе ўзмацненне па-за -60..24 дБ
+L/R preamp differ by more than 12 dB	L/R preamp differ by more than 12 dB	папярэдняе ўзмацненне L/R адрозніваецца больш чым на 12 дБ
+out of memory	out of memory	не хапае памяці
+cannot open file	cannot open file	не ўдаецца адкрыць файл
+file read failed	file read failed	памылка чытання файла
+EQ for 3.5 mm	EQ for 3.5 mm	Эквалайзер для 3,5 мм
+EQ for 4.4 mm	EQ for 4.4 mm	Эквалайзер для 4,4 мм
+EQ for USB	EQ for USB	Эквалайзер для USB
+EQ for this Bluetooth device	EQ for this Bluetooth device	Эквалайзер для гэтага Bluetooth
+Auto (44.1: %.1f / 48: %.1f)	Auto (44.1: %.1f / 48: %.1f)	Аўто (44,1 – %.1f, 48 – %.1f)
+Folder missing or unavailable	Folder missing or unavailable	Папкі няма або яна недаступная
+Out of memory; cannot list presets	Out of memory; cannot list presets	Не хапае памяці, спіс прэсетаў недаступны
+No presets found	No presets found	Прэсетаў не знойдзена
+Name not allowed; preset kept	Name not allowed; preset kept	Недапушчальнае імя
+Name taken; preset kept	Name taken; preset kept	Імя занятае, прэсет не змяніўся
+Rename failed; preset kept	Rename failed; preset kept	Не ўдалося перайменаваць прэсет
+Renamed to %.100s	Renamed to %.100s	Перайменавана ў %.100s
+Pop	Pop	Поп
+Rock	Rock	Рок
+Dance	Dance	Танцы
+Blues	Blues	Блюз
+Metal	Metal	Метал
+Vocal	Vocal	Вакал
+Classical	Classical	Класіка
+Jazz	Jazz	Джаз
+Preset loaded; choose Apply to activate	Preset loaded; choose Apply to activate	Прэсет загружаны, выберыце «Ужыць»
+Preset saved; active EQ unchanged	Preset saved; active EQ unchanged	Прэсет захаваны, бягучы эквалайзер не змяніўся
+Save failed; settings unchanged	Save failed; settings unchanged	Не ўдалося захаваць налады
+Switch failed; EQ unchanged	Switch failed; EQ unchanged	Не ўдалося пераключыць EQ
+Applied	Applied	Ужыта
+Apply failed; active EQ unchanged	Apply failed; active EQ unchanged	Не ўдалося ўжыць, эквалайзер не змяніўся
+Reset; choose Apply to activate	Reset; choose Apply to activate	Скінута, выберыце «Ужыць»
+Delete failed; preset kept	Delete failed; preset kept	Не ўдалося выдаліць прэсет
+Deleted %.100s; active EQ unchanged	Deleted %.100s; active EQ unchanged	Выдалена %.100s, бягучы эквалайзер не змяніўся
+Line %u: %s	Line %u: %s	Радок %u: %s
+Cannot read preset; settings unchanged	Cannot read preset; settings unchanged	Не ўдалося прачытаць прэсет, налады не змяніліся
+Peaking	Peaking	Пікавы
+Low shelf	Low shelf	Паліца НЧ
+High shelf	High shelf	Паліца ВЧ
+Apply changes	Apply changes	Ужыць змены
+Nothing to apply	Nothing to apply	Няма чаго ўжываць
+Reset to defaults	Reset to defaults	Скінуць да стандартных
+Enabled	Enabled	Уключана
+EQ per Output	EQ per Output	Эквалайзер па выхадах
+Preamp	Preamp	Папяр. узмацненне
+Presets	Presets	Прэсеты
+Band	Band	Паласа
+Channels	Channels	Каналы
+Both	Both	Абодва
+Left	Left	Левы
+Right	Right	Правы
+Type	Type	Тып
+Frequency	Frequency	Частата
+Gain	Gain	Узмацненне
+Band %d Q	Band %d Q	Q паласы %d
+Band %d Frequency (Hz)	Band %d Frequency (Hz)	Частата паласы %d (Гц)
+Raise	Raise	Павысіць
+Lower	Lower	Панізіць
+Step	Step	Крок
+Delete %.100s? Confirm	Delete %.100s? Confirm	Выдаліць %.100s? Пацвердзіце
+Replace existing preset? Confirm	Replace existing preset? Confirm	Замяніць прэсет? Пацвердзіце
+Cancel replacement	Cancel replacement	Скасаваць замену
+Save as Manual %02d	Save as Manual %02d	Захаваць як Manual %02d
+Stock presets	Stock presets	Стандартныя прэсеты
+Import from SD /EQ	Import from SD /EQ	Імпарт з SD /EQ
+Save editor preset	Save editor preset	Захаваць прэсет рэдактара
+Rename a preset	Rename a preset	Перайменаваць прэсет
+Delete a preset	Delete a preset	Выдаліць прэсет
+Previous page	Previous page	Папярэдняя старонка
+Next page	Next page	Наступная старонка
+Band %d	Band %d	Паласа %d
+Band %d Gain	Band %d Gain	Узмацненне паласы %d
+Presets %d/%d	Presets %d/%d	Прэсеты %d/%d
+Save failed; EQ unchanged	Save failed; EQ unchanged	Не ўдалося захаваць эквалайзер
+Advanced	Advanced	Дадаткова
+Enabled: On	Enabled: On	Уключана: Укл.
+Enabled: Off	Enabled: Off	Уключана: Выкл.
+Low	Low	Нізкія
+Mid	Mid	Сярэднія
+High	High	Высокія
+Simple	Simple	Просты
+No photos	No photos	Няма фота
+All Photos	All Photos	Усе фота
+Photos	Photos	Фота
+Can't open this photo	Can't open this photo	Не ўдаецца адкрыць фота
+%d of %d  %s	%d of %d  %s	%d з %d  %s
+Could not save folder speed	Could not save folder speed	Не ўдалося захаваць хуткасць папкі
+Too long to play on the Q2: split it into parts	Too long to play on the Q2: split it into parts	Занадта доўгі для Q2: падзяліце на часткі
+Press again to restart	Press again to restart	Націсніце яшчэ раз для перазапуску
+Could not save playlist	Could not save playlist	Не ўдалося захаваць плэйліст
+Already in playlist	Already in playlist	Ужо ў плэйлісце
+Added to Playlist	Added to Playlist	Дададзена ў плэйліст
+Search songs	Search songs	Пошук песень
+Editing: %s	Editing: %s	Праўка: %s
+Add Songs: %s	Add Songs: %s	Дадаць песні: %s
+Song Actions: %s	Song Actions: %s	Дзеянні з песняй: %s
+Remove song?: %s	Remove song?: %s	Выдаліць песню?: %s
+Add Songs	Add Songs	Дадаць песні
+Move Up	Move Up	Уверх
+Move Down	Move Down	Уніз
+Remove from Playlist	Remove from Playlist	Выдаліць з плэйліста
+Search: %s	Search: %s	Пошук: %s
+No songs match	No songs match	Няма падыходных песень
+Search for more songs	Search for more songs	Шукаць іншыя песні
+Delete Playlist?	Delete Playlist?	Выдаліць плэйліст?
+Delete	Delete	Выдаліць
+Playlist deleted	Playlist deleted	Плэйліст выдалены
+Could not delete playlist	Could not delete playlist	Не ўдалося выдаліць плэйліст
+Delete Playlist	Delete Playlist	Выдаліць плэйліст
+Edit Playlist	Edit Playlist	Змяніць плэйліст
+Queue unchanged	Queue unchanged	Чарга не зменена
+Deselect All	Deselect All	Зняць выбар
+Select All	Select All	Выбраць усе
+Export %d Playlist	Export %d Playlist	Экспартаваць %d плэйліст
+Export %d Playlists	Export %d Playlists	Экспартаваць плэйлісты: %d
+Delete %d Playlist…	Delete %d Playlist…	Выдаліць %d плэйліст…
+Delete %d Playlists…	Delete %d Playlists…	Выдаліць плэйлісты: %d…
+%d Selected	%d Selected	Выбрана: %d
+Select Playlists	Select Playlists	Выбар плэйлістоў
+Playlists	Playlists	Плэйлісты
+No Playlists	No Playlists	Няма плэйлістоў
+New Playlist…	New Playlist…	Новы плэйліст…
+Select Playlists…	Select Playlists…	Выбраць плэйлісты…
+Import Playlists	Import Playlists	Імпарт плэйлістоў
+Export	Export	Экспарт
+No other group	No other group	Іншай групы няма
+Folder not found	Folder not found	Папка не знойдзена
+All Songs	All Songs	Усе песні
+Songs in Album	Songs in Album	Песні альбома
+Albums and Songs	Albums and Songs	Альбомы і песні
+Songs in Folder	Songs in Folder	Песні папкі
+Folders	Folders	Папкі
+Folders and Songs	Folders and Songs	Папкі і песні
+Play One Song	Play One Song	Адна песня
+Play One Album	Play One Album	Адзін альбом
+Repeat Song	Repeat Song	Паўтор песні
+Repeat Album	Repeat Album	Паўтор альбома
+Repeat All	Repeat All	Паўтор усіх
+Play One Folder	Play One Folder	Адна папка
+Repeat Folder	Repeat Folder	Паўтор папкі
+Album	Album	Альбом
+Folder	Folder	Папка
+Repeat	Repeat	Паўтор
+Group by	Group by	Групаванне
+Play Next	Play Next	Іграць наступнай
+Add to Queue	Add to Queue	Дадаць у чаргу
+Add to Favourites	Add to Favourites	Дадаць у абранае
+Remove from Favourites	Remove from Favourites	Прыбраць з абранага
+Add to Playlist	Add to Playlist	Дадаць у плэйліст
+Go to Album	Go to Album	Да альбома
+Go to Artist	Go to Artist	Да выканаўцы
+Next Album	Next Album	Наступны альбом
+Previous Album	Previous Album	Папярэдні альбом
+Rate	Rate	Ацаніць
+Resume	Resume	Працягнуць
+View Queue	View Queue	Паказаць чаргу
+Go to Folder	Go to Folder	Да папкі
+Rate Album	Rate Album	Ацаніць альбом
+Group by: Folder	Group by: Folder	Групаванне: Папка
+Group by: Album	Group by: Album	Групаванне: Альбом
+Next Folder	Next Folder	Наступная папка
+Previous Folder	Previous Folder	Папярэдняя папка
+Wheel: Volume	Wheel: Volume	Колца: Гучнасць
+Wheel: Brightness	Wheel: Brightness	Колца: Яркасць
+Could not save Favourites	Could not save Favourites	Не ўдалося захаваць абранае
+Added to Favourites	Added to Favourites	Дададзена ў абранае
+Removed from Favourites	Removed from Favourites	Прыбрана з абранага
+Stopped	Stopped	Спынена
+Can't play: %s	Can't play: %s	Не ўдаецца прайграць: %s
+Can't play this station	Can't play this station	Станцыя не прайграецца
+Connecting…	Connecting…	Падключэнне…
+Search is too long	Search is too long	Занадта доўгі запыт
+Search stations	Search stations	Пошук станцый
+Favourites	Favourites	Абранае
+Featured	Featured	Рэкамендаваныя
+Top Stations	Top Stations	Топ станцый
+By Country	By Country	Па краінах
+By Genre	By Genre	Па жанрах
+Countries	Countries	Краіны
+Connecting to Wi-Fi…	Connecting to Wi-Fi…	Падключэнне да Wi-Fi…
+Directory unavailable	Directory unavailable	Каталог недаступны
+No Wi-Fi	No Wi-Fi	Няма Wi-Fi
+No stations	No stations	Няма станцый
+No favourites	No favourites	Няма абранага
+Rating not saved	Rating not saved	Ацэнка не захавана
+Ratings are full	Ratings are full	Спіс ацэнак запоўнены
+Favourite not sent to the app	Favourite not sent to the app	Абранае не перададзена праграме
+Unrated	Unrated	Без ацэнкі
+1 Heart	1 Heart	1 сэрца
+%d Hearts	%d Hearts	Сэрцаў: %d
+%d of 5	%d of 5	%d з 5
+Album changed	Album changed	Альбом змяніўся
+Favourite not saved	Favourite not saved	Абранае не захавана
+This app has no favourites	This app has no favourites	У праграме няма абранага
+Top Rated	Top Rated	Лепшыя паводле ацэнкі
+Loved	Loved	Любімыя
+All Rated	All Rated	Усе з ацэнкай
+Disliked	Disliked	Не падабаюцца
+No songs yet	No songs yet	Песень пакуль няма
+Hold the heart on Now Playing to rate	Hold the heart on Now Playing to rate	Утрымлівайце сэрца на экране «Зараз іграе», каб ацаніць
+No rated albums yet	No rated albums yet	Ацэненых альбомаў пакуль няма
+Upload failed, %d sent	Upload failed, %d sent	Збой адпраўкі, адпраўлена: %d
+Scrobbles sent: %d	Scrobbles sent: %d	Скроблаў адпраўлена: %d
+Nothing to upload	Nothing to upload	Няма чаго адпраўляць
+Uploading scrobbles	Uploading scrobbles	Адпраўка скроблаў
+Already uploading	Already uploading	Ужо адпраўляецца
+Upload failed	Upload failed	Не ўдалося адправіць
+Connect to Wi-Fi first	Connect to Wi-Fi first	Спачатку падключыцеся да Wi-Fi
+Waiting for Spotify	Waiting for Spotify	Чаканне Spotify
+Spotify isn't on the card	Spotify isn't on the card	Spotify няма на карце
+See the Q2 Pod guide to add it	See the Q2 Pod guide to add it	Як дадаць, глядзіце ў кіраўніцтве Q2 Pod
+Open Spotify on your phone	Open Spotify on your phone	Адкрыйце Spotify на тэлефоне
+and choose Q2	and choose Q2	і выберыце Q2
+Spotify refused this account	Spotify refused this account	Spotify адхіліў гэты акаўнт
+Its tracks can't play on the Q2	Its tracks can't play on the Q2	Яго трэкі не прайграюцца на Q2
+Playback didn't start	Playback didn't start	Прайграванне не пачалося
+Go back and try again	Go back and try again	Вярніцеся і паўтарыце
+Starting playback	Starting playback	Запуск прайгравання
+Update Spotify on the card	Update Spotify on the card	Абнавіце Spotify на карце
+See the Q2 Pod guide	See the Q2 Pod guide	Глядзіце кіраўніцтва Q2 Pod
+Nothing playing	Nothing playing	Нічога не іграе
+Choose music in Spotify	Choose music in Spotify	Выберыце музыку ў Spotify
+Liked Songs	Liked Songs	Упадабаныя трэкі
+Queue	Queue	Чарга
+Playback Settings	Playback Settings	Налады прайгравання
+Account	Account	Акаўнт
+Downloaded Tracks	Downloaded Tracks	Спампаваныя трэкі
+Downloads	Downloads	Спампоўкі
+Tracks	Tracks	Трэкі
+Open Spotify on your phone and choose Q2	Open Spotify on your phone and choose Q2	Адкрыйце Spotify на тэлефоне і выберыце Q2
+Both on the same Wi-Fi	Both on the same Wi-Fi	Абодва ў адной сетцы Wi-Fi
+to browse on the Q2	to browse on the Q2	для прагляду на Q2
+Downloaded Playlists	Downloaded Playlists	Спампаваныя плэйлісты
+Download Progress	Download Progress	Ход спампоўвання
+Storage Management	Storage Management	Кіраванне сховішчам
+Download Status	Download Status	Стан спампоўвання
+The latest download's progress	The latest download's progress	Ход апошняга спампоўвання
+for saved playlists and download controls	for saved playlists and download controls	для захаваных плэйлістоў і кіравання спампоўваннем
+Remove Playlists…	Remove Playlists…	Выдаліць плэйлісты…
+Remove Tracks…	Remove Tracks…	Выдаліць трэкі…
+Keeps login and settings	Keeps login and settings	Уваход і налады захаваюцца
+Track removal can make playlists incomplete	Track removal can make playlists incomplete	Пасля выдалення трэкаў плэйлісты могуць быць няпоўнымі
+Pause	Pause	Паўза
+Cancel Download	Cancel Download	Скасаваць спампоўванне
+Retry Failed	Retry Failed	Паўтарыць нявыкананыя
+Update Download	Update Download	Абнавіць спампоўванне
+Sign Out of Spotify?	Sign Out of Spotify?	Выйсці са Spotify?
+Sign Out	Sign Out	Выйсці
+Nothing here	Nothing here	Тут пуста
+Selected	Selected	Выбрана
+Press to select	Press to select	Націсніце, каб выбраць
+All	All	Усе
+One	One	Адзін
+Download Liked Songs	Download Liked Songs	Спампаваць упадабаныя трэкі
+Download Playlist	Download Playlist	Спампаваць плэйліст
+For offline listening	For offline listening	Для праслухоўвання афлайн
+Download Controls	Download Controls	Кіраванне спампоўваннем
+Update, retry, pause, resume or cancel	Update, retry, pause, resume or cancel	Абнавіць, паўтарыць, паўза, працягнуць або скасаваць
+Remove Selected…	Remove Selected…	Выдаліць выбранае…
+Confirm the affected count	Confirm the affected count	Пацвердзіце колькасць
+Spotify isn't running	Spotify isn't running	Spotify не запушчаны
+Spotify didn't answer	Spotify didn't answer	Spotify не адказаў
+Search Spotify	Search Spotify	Пошук у Spotify
+Select Tracks	Select Tracks	Выбар трэкаў
+Select at least one item	Select at least one item	Выберыце хаця б адзін пункт
+Selection full. Remove these first	Selection full. Remove these first	Выбрана максімум. Спачатку выдаліце гэтыя
+Boot logo must be a 320x375 JPEG	Boot logo must be a 320x375 JPEG	Лагатып загрузкі: JPEG 320x375
+Could not save boot logo	Could not save boot logo	Не ўдалося захаваць лагатып загрузкі
+Accent: Graphite	Accent: Graphite	Акцэнт: Графіт
+Accent: Crimson	Accent: Crimson	Акцэнт: Барвовы
+Accent: Tidal	Accent: Tidal	Акцэнт: Tidal
+Accent: Champagne	Accent: Champagne	Акцэнт: Шампань
+Accent: Cobalt	Accent: Cobalt	Акцэнт: Кобальт
+Accent: Tangerine	Accent: Tangerine	Акцэнт: Мандарын
+Accent: Plum	Accent: Plum	Акцэнт: Слівавы
+Accent: Ivory	Accent: Ivory	Акцэнт: Слановая костка
+Accent: Green	Accent: Green	Акцэнт: Зялёны
+Favorites	Favorites	Абранае
+Rated Albums	Rated Albums	Альбомы з рэйтынгам
+Podcasts	Podcasts	Падкасты
+Audiobooks	Audiobooks	Аўдыякнігі
+Groovebox can't start from the card	Groovebox can't start from the card	Groovebox не запускаецца з карты
+Groovebox is not on the card	Groovebox is not on the card	Groovebox няма на карце
+Play a Tidal album or playlist first	Play a Tidal album or playlist first	Спачатку ўключыце альбом або плэйліст Tidal
+Downloading %u of %u. Press to stop	Downloading %u of %u. Press to stop	Спампоўванне %u з %u. Націсніце для спынення
+Download Playing Songs	Download Playing Songs	Спампаваць песні, што іграюць
+Tidal Cache full: %u of %u song saved	Tidal Cache full: %u of %u song saved	Кэш Tidal запоўнены. Захавана песень: %u з %u
+Tidal Cache full: %u of %u songs saved	Tidal Cache full: %u of %u songs saved	Кэш Tidal запоўнены. Захавана песень: %u з %u
+Downloaded %u of %u song	Downloaded %u of %u song	Спампавана песень: %u з %u
+Downloaded %u of %u songs	Downloaded %u of %u songs	Спампавана песень: %u з %u
+Nothing to play next	Nothing to play next	Далей нічога няма
+Queue changed	Queue changed	Чарга змянілася
+Never	Never	Ніколі
+USB DAC Charging: %s	USB DAC Charging: %s	Зарадка ў рэжыме USB DAC: %s
+Spectrum	Spectrum	Спектр
+Oscilloscope	Oscilloscope	Асцылограф
+VU Meters	VU Meters	VU-метры
+Halo	Halo	Арэол
+Pulsar	Pulsar	Пульсар
+Contour	Contour	Контур
+More	More	Яшчэ
+A-B Repeat	A-B Repeat	Паўтор A–B
+Speed	Speed	Хуткасць
+*Only for 48 kHz and below	*Only for 48 kHz and below	*Толькі для 48 кГц і ніжэй
+No lyrics	No lyrics	Няма тэксту
+Genre	Genre	Жанр
+Size	Size	Памер
+Year	Year	Год
+Format	Format	Фармат
+Bit Depth	Bit Depth	Разраднасць
+Bit Rate	Bit Rate	Бітрэйт
+Sample Rate	Sample Rate	Частата дыскрэтызацыі
+Auto Scan	Auto Scan	Аўтаскананне
+Update Library Now	Update Library Now	Абнавіць медыятэку
+Scan Folders	Scan Folders	Сканаваць папкі
+OK	OK	ОК
+Bluetooth	Bluetooth	Bluetooth
+Key Lock	Key Lock	Блакіроўка кнопак
+Low Gain	Low Gain	Нізкае ўзмацненне
+USB Storage	USB Storage	USB-назапашвальнік
+Playback	Playback	Прайграванне
+Custom	Custom	Свой
+Reset	Reset	Скід
+Open this address in a browser:	Open this address in a browser:	Адкрыйце гэты адрас у браўзеры:
+Downloaded	Downloaded	Спампавана
+Baidu Netdisk	Baidu Netdisk	Baidu Netdisk
+Sign In	Sign In	Увайсці
+Scan with the Baidu app to sign in	Scan with the Baidu app to sign in	Адскануйце код у праграме Baidu, каб увайсці
+Baidu encryption protects your privacy	Baidu encryption protects your privacy	Шыфраванне Baidu абараняе вашу прыватнасць
+Bluetooth RF test: connect from a computer	Bluetooth RF test: connect from a computer	Тэст радыёчастот Bluetooth: падключыцеся з кампутара
+Press Next to exit	Press Next to exit	Націсніце «Далей» для выхаду
+Brightness Test	Brightness Test	Тэст яркасці
+Next	Next	Далей
+Bluetooth Test	Bluetooth Test	Тэст Bluetooth
+Down	Down	Уніз
+Up	Up	Уверх
+Swipe Left	Swipe Left	Свайп улева
+Swipe Right	Swipe Right	Свайп управа
+Key Test	Key Test	Тэст кнопак
+Headphone Test	Headphone Test	Тэст навушнікаў
+Plug in single-ended headphones	Plug in single-ended headphones	Падключыце навушнікі з несіметрычным выхадам
+Play (left male, right female)	Play (left male, right female)	Прайграць (злева мужчынскі голас, справа жаночы)
+Bluetooth Receiver Test	Bluetooth Receiver Test	Тэст прымача Bluetooth
+Battery Test	Battery Test	Тэст батарэі
+Battery:	Battery:	Батарэя:
+Charging:	Charging:	Зарадка:
+microSD Test	microSD Test	Тэст microSD
+Touch Test	Touch Test	Тэст сэнсара
+Wi-Fi Test	Wi-Fi Test	Тэст Wi-Fi
+Artist	Artist	Выканаўца
+Export Playlists	Export Playlists	Экспарт плэйлістоў
+Playlist	Playlist	Плэйліст
+0 songs	0 songs	0 песень
+System	System	Сістэма
+Rockbox	Rockbox	Rockbox
+Baker Island	Baker Island	Востраў Бэйкер
+Midway	Midway	Мідуэй
+Honolulu	Honolulu	Ганалулу
+Anchorage	Anchorage	Анкарыдж
+Los Angeles	Los Angeles	Лос-Анджэлес
+Denver	Denver	Дэнвер
+Mexico City	Mexico City	Мехіка
+New York	New York	Нью-Ёрк
+Halifax	Halifax	Галіфакс
+St. John's	St. John's	Сент-Джонс
+Buenos Aires	Buenos Aires	Буэнас-Айрэс
+Azores	Azores	Азорскія а-вы
+London	London	Лондан
+Amsterdam	Amsterdam	Амстэрдам
+Bucharest	Bucharest	Бухарэст
+Kuwait	Kuwait	Кувейт
+Tehran	Tehran	Тэгеран
+Muscat	Muscat	Маскат
+Kabul	Kabul	Кабул
+Karachi	Karachi	Карачы
+Dhaka	Dhaka	Дака
+Bangkok	Bangkok	Бангкок
+Shanghai	Shanghai	Шанхай
+Tokyo	Tokyo	Токіо
+Adelaide	Adelaide	Адэлаіда
+Sydney	Sydney	Сідней
+Fiji	Fiji	Фіджы
+Marquesas	Marquesas	Маркізскія а-вы
+South Georgia	South Georgia	Паўд. Джорджыя
+Colombo	Colombo	Каломба
+Kathmandu	Kathmandu	Катманду
+Yangon	Yangon	Янгон
+Eucla	Eucla	Юкла
+L. Howe	L. Howe	Лорд-Хау
+Noumea	Noumea	Нумеа
+Chatham	Chatham	Чатэм
+Tongatapu	Tongatapu	Тонгатапу
+Kiritimati	Kiritimati	Кірытымаці
+Chicago	Chicago	Чыкага
+Phoenix	Phoenix	Фінікс
+Kolkata	Kolkata	Калькута
+Brisbane	Brisbane	Брысбен
+Auckland	Auckland	Окленд
+Status Bar	Status Bar	Радок стану
+Minimal	Minimal	Мінімал
+Modern	Modern	Модэрн
+Classic	Classic	Класічная
+Show Wordmark	Show Wordmark	Паказваць лагатып
+Library on Home	Library on Home	Медыятэка на галоўным
+Row Preview	Row Preview	Перадпрагляд радкоў
+Row Art	Row Art	Вокладкі ў радках
+Classic Blue	Classic Blue	Класічны сіні

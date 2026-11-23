@@ -1,0 +1,1181 @@
+# Slovenščina
+History_record	History record	Zgodovina
+about_cardcap	Card Capacity	Kapaciteta kartice
+about_cardremain	Remaining	Preostalo
+about_ipaddr	IP Address	Naslov IP
+about_model	Model	Model
+about_more	*Our sincere thanks go to the DiamondBond team and all its enthusiasts for their ingenuity, outstanding solutions, and generous contributions.	*Iskreno se zahvaljujemo ekipi DiamondBond in vsem navdušencem za iznajdljivost, izjemne rešitve in radodarne prispevke.
+about_sn	Serial Number	Serijska številka
+about_version	Version	Različica
+about_wifimac	Wi-Fi MAC	MAC Wi-Fi
+album	Album	Album
+album	Album	Album
+albumsinger	Album artist	Izvajalec albuma
+allmusic	All Songs	Vse skladbe
+audio_settings	Audio settings	Nastavitve zvoka
+baidu_login	Log In	Prijava
+baidu_login_tips1	Please use Baidu Netdisk or Baidu App to scan the code to login	Za prijavo z aplikacijo Baidu Netdisk ali Baidu optično preberite kodo
+baidu_login_tips2	Baidu encryption technology protects your privacy and security	Šifriranje Baidu varuje vašo zasebnost in varnost
+baidu_loginout	Log Out	Odjava
+baidunet_floderinfo_failed	Failed to get file list	Seznama datotek ni bilo mogoče pridobiti
+batch_addplaylist	Add to Playlist	Dodaj na seznam predvajanja
+bt_adjvol	Bluetooth Headset Volume Control	Glasnost slušalk Bluetooth
+bt_compatiabledev	Compatible Device	Združljiva naprava
+bt_name	Bluetooth Name	Ime Bluetooth
+bt_paireddev	Paired Device	Seznanjena naprava
+bt_quality	Quality	Kakovost
+bt_search	Scan now	Išči zdaj
+btcode_aac	AAC	AAC
+btcode_aptx	aptX	aptX
+btcode_aptxhd	aptX HD	aptX HD
+btcode_ldacauto	LDAC Connection (auto)	Povezava LDAC (samodejno)
+btcode_ldachq	LDAC HQ	LDAC HQ
+btcode_ldacst	LDAC Standard	LDAC standardno
+btcode_sbc	SBC	SBC
+btcode_sbchq	SBC HQ	SBC HQ
+custom_eq	Custom	Po meri
+display_backlight	Brightness	Svetlost
+display_lighttime	Screen Off Time	Izklop zaslona
+display_screenlock	Lock Screen	Zaklenjen zaslon
+dsdmode_d2p	D2P	D2P
+dsdmode_dop	DOP	DOP
+dsdmode_native	Native	Native
+eq_blues	Blues	Blues
+eq_classical	Classical	Klasika
+eq_club	Club	Klub
+eq_custom1	Custom1	Po meri 1
+eq_custom2	Custom2	Po meri 2
+eq_custom3	Custom3	Po meri 3
+eq_dance	Dance	Dance
+eq_doublebass	Sub-bass	Podbas
+eq_jazz	Jazz	Jazz
+eq_metal	Metal	Metal
+eq_only48kmsg	EQ only for files below 48kHz.	Izenačevalnik le za datoteke pod 48 kHz.
+eq_pop	Pop	Pop
+eq_reset	Reset	Ponastavi
+eq_rock	Rock	Rock
+eq_vocal	Vocal	Vokal
+fav	My Fav	Priljubljene
+filter_delayfast	Low Delay Fast Roll-off	Low Delay Fast Roll-off
+filter_delayslow	Low Delay Slow Roll-off	Low Delay Slow Roll-off
+filter_fast	Fast Roll-off	Fast Roll-off
+filter_slow	Slow Roll-off	Slow Roll-off
+frequentplay	Frequent	Pogosto
+gain_high	High	Visoko
+gain_low	Low	Nizko
+genre	Genre	Žanr
+genre_statistics	Total %d songs	Skladb: %d
+hr	Hi-Res	Hi-Res
+keyboard_keyword	Please enter keyword	Vnesite ključno besedo
+keyboard_netname	Please enter network name	Vnesite ime omrežja
+keyboard_password	Please enter password	Vnesite geslo
+keylock_all	Lock Volume & Buttons	Zakleni glasnost in tipke
+keylock_info	Only effective when the screen is off	Velja le pri izklopljenem zaslonu
+keylock_info2	Effective on Lockscreen and when Screen Off	Velja na zaklenjenem in izklopljenem zaslonu
+keylock_key	Lock Buttons Only	Zakleni le tipke
+keylock_volume	Lock Volume Only	Zakleni le glasnost
+lan_english	English	English
+lan_french	Français	Français
+lan_german	Deutsch	Deutsch
+lan_italian	Italiano	Italiano
+lan_japanese	日本語	日本語
+lan_korean	한국어	한국어
+lan_polish	Polski	Polski
+lan_russian	Русский	Русский
+lan_simplified	简体中文	简体中文
+lan_spanish	español	español
+lan_thai	ภาษาไทย	ภาษาไทย
+lan_traditional	繁體中文	繁體中文
+lan_ukrainian	Українська	Українська
+lighttime_15s	15s	15 s
+lighttime_1min	1min	1 min
+lighttime_2min	2min	2 min
+lighttime_30min	30min	30 min
+lighttime_30s	30s	30 s
+lighttime_5min	5min	5 min
+lighttime_lyricmode	Lyrics mode	Način besedil
+lighttime_off	Off	Izklj.
+list_baidu	Baidu Netdisk	Baidu Netdisk
+list_tidal	TIDAL	TIDAL
+local_album	Albums	Albumi
+local_allmusic	Local Songs	Lokalne skladbe
+local_allsongs	Songs	Skladbe
+local_fav	My Fav	Priljubljene
+local_frequentplay	Frequent	Pogosto
+local_genre	Genres	Žanri
+local_hr	Hi-Res	Hi-Res
+local_playlist	Playlists	Seznami predvajanja
+local_recentadd	Recently Added	Nedavno dodano
+local_recentplay	Recent	Nedavno
+local_songer	Artists	Izvajalci
+local_upmusic	Update Library	Posodobi knjižnico
+login_out	Logout	Odjava
+memplay_location	Location	Lokacija
+memplay_off	Off	Izklj.
+memplay_track	Track	Skladba
+msg_actionnotsupport	Non-local songs,not currently supported	Skladbe, ki niso lokalne, še niso podprte
+msg_actionscan	Scan music?	Pregledam glasbo?
+msg_add_task	Please enter the URL of the file you want to download	Vnesite URL datoteke za prenos
+msg_addfailed	Adding Failed	Dodajanje ni uspelo
+msg_addfavsuccess	Added To Fav	Dodano med priljubljene
+msg_addplaylistsuccess	Added To Playlist	Dodano na seznam predvajanja
+msg_autoshutdown	Shutdown	Izklop
+msg_btabnormal	Bluetooth abnormal	Napaka Bluetooth
+msg_btinit_run	Bluetooth Starting	Zagon Bluetooth
+msg_btreconnect	Reconnect Bluetooth?	Znova vzpostavim povezavo Bluetooth?
+msg_cardeject	Audio Disconnected	Zvok odklopljen
+msg_cardinsert	Audio Connected	Zvok priklopljen
+msg_checkfw	Checking FW	Preverjanje FW
+msg_checkfwerr	FW. Check Error	Napaka preverjanja FW
+msg_closesynclink	Please close SyncLink	Zaprite SyncLink
+msg_confirmupdate	Confirm Update?	Potrdim posodobitev?
+msg_connected	Connected	Povezano
+msg_connecting	Connecting	Povezovanje
+msg_delalbum	Delete Album?	Izbrišem album?
+msg_delalbumfailed	Failed To Delete Album	Albuma ni bilo mogoče izbrisati
+msg_delalbumsuccess	Album Deleted	Album izbrisan
+msg_delartist	Delete Artist?	Izbrišem izvajalca?
+msg_delartistsuccess	Artist Deleted	Izvajalec izbrisan
+msg_delete_task	Are you sure you want to delete the download task?	Ali res želite izbrisati opravilo prenosa?
+msg_deletesource	Also delete source file	Izbriši tudi izvorno datoteko
+msg_delfile	Are you sure you want to delete this file?	Ali res želite izbrisati to datoteko?
+msg_delfile	Delete File?	Izbrišem datoteko?
+msg_delfilefailed	Failed To Delete File	Datoteke ni bilo mogoče izbrisati
+msg_delfilesuccess	File Deleted	Datoteka izbrisana
+msg_delgenre	Delete Genre?	Izbrišem žanr?
+msg_delgenresuccess	Genre Deleted	Žanr izbrisan
+msg_delplaylist	Delete Playlist?	Izbrišem seznam predvajanja?
+msg_delplaylistfailed	Failed To Delete Playlist	Seznama predvajanja ni bilo mogoče izbrisati
+msg_delplaylistsuccess	Playlist Deleted	Seznam predvajanja izbrisan
+msg_delsong	Delete Song?	Izbrišem skladbo?
+msg_delsongfailed	Failed To Delete Song	Skladbe ni bilo mogoče izbrisati
+msg_delsongsuccess	Song Deleted	Skladba izbrisana
+msg_disconnected	Disconnected	Prekinjeno
+msg_disonnectbt	Please disconnect the bluetooth device	Odklopite napravo Bluetooth
+msg_downloadpath	Download path is	Pot za prenos je
+msg_exist_task	The download task already exists	Opravilo prenosa že obstaja
+msg_exitairplay	Quit AirPlay?	Zapustim AirPlay?
+msg_exportplaylist	Export Playlist?	Izvozim seznam predvajanja?
+msg_exportsuccess	Export successful	Izvoz uspel
+msg_factorysuccess	Restore to factory settings succeeded	Tovarniške nastavitve so obnovljene
+msg_favsuccess	Added To Fav	Dodano med priljubljene
+msg_file_exist	The file already exists	Datoteka že obstaja
+msg_importplaylist	Import Playlists?	Uvozim sezname predvajanja?
+msg_importsuccess	Successfully imported	Uvoz uspel
+msg_initsetsuccess	All settings initialized successfully	Vse nastavitve so ponastavljene
+msg_latestfw	Latest Fw. Installed	Nameščena je najnovejša različica
+msg_linkerror	WiFi Connection Error	Napaka povezave Wi-Fi
+msg_lowarn	Line Out sets max volume,continue?	Linijski izhod nastavi največjo glasnost. Nadaljujem?
+msg_lowpower	Low Battery	Baterija skoraj prazna
+msg_namenull	The name can't be empty	Ime ne sme biti prazno
+msg_netnameerr	Network Must Be Named	Omrežje mora imeti ime
+msg_no	Cancel	Prekliči
+msg_no_storage	Storage is full.Some songs couldn't be added.	Pomnilnik je poln. Nekaterih skladb ni bilo mogoče dodati.
+msg_noheadset	Playback is disabled without headphones.Please insert headphones.	Predvajanje brez slušalk je onemogočeno. Priklopite slušalke.
+msg_nosongs	No songs in this folder	V tej mapi ni skladb
+msg_notalbuminfo	This file has no Album data	Ta datoteka nima podatkov o albumu
+msg_notfile	File Not Found	Datoteke ni mogoče najti
+msg_notfolder	Folder not found	Mape ni mogoče najti
+msg_notfoundfw	Fw. Not Found	FW ni najden
+msg_notmemory	Memory is not enough	Premalo pomnilnika
+msg_notmemory	Out of memory	Zmanjkalo je pomnilnika
+msg_notnetwork	Network Disconnected	Omrežje prekinjeno
+msg_nototg	No OTG Found	OTG ni najden
+msg_notplaylist	Playlist Not Found	Seznama predvajanja ni mogoče najti
+msg_notsongerinfo	This file has no Artist data	Ta datoteka nima podatkov o izvajalcu
+msg_notsonglist	No Song List	Ni seznama skladb
+msg_notspecdir	Folder not specified	Mapa ni določena
+msg_notsupport	Not Supported	Ni podprto
+msg_notsupportdel	Can't be removed	Ni mogoče odstraniti
+msg_nottf	No TF Card Found	Kartice microSD ni mogoče najti
+msg_otgeject	OTG Disconnected	OTG odklopljen
+msg_otginfoerr	Failed To Get Version Info	Podatkov o različici ni bilo mogoče pridobiti
+msg_otginsert	OTG Connected	OTG priklopljen
+msg_paircode	Bluetooth Code	Koda Bluetooth
+msg_paired	Paired	Seznanjeno
+msg_playlistexist	Playlist Already Exists	Seznam predvajanja že obstaja
+msg_playlistfull	Could not create playlist	Seznama predvajanja ni bilo mogoče ustvariti
+msg_poweroff	Shut Down?	Izklopim?
+msg_resetdbsuccess	Reset completed	Ponastavitev končana
+msg_restarting	Restarting	Vnovični zagon
+msg_shortpasswd	8 Digits PIN At Least	Vsaj 8-mestna koda PIN
+msg_start_download_task	start the download task	Začnem opravilo prenosa?
+msg_stop_download_task	stop the download task	Ustavim opravilo prenosa?
+msg_testmode	Enter test mode?	Vstopim v testni način?
+msg_tfeject	TF Card Removed	Kartica microSD odstranjena
+msg_tfinsert	TF Card Inserted	Kartica microSD vstavljena
+msg_unpaired	Unpaired	Seznanitev prekinjena
+msg_unpairing	unpair?	Prekinem seznanitev?
+msg_unsupportformat	Unsupported format	Nepodprta oblika
+msg_update	Confirmed	Potrjeno
+msg_wificancelsave	Delete Record?	Izbrišem zapis?
+msg_wifidisconnect	Disconnect Now?	Prekinem povezavo?
+msg_yes	OK	V redu
+navigation_all	All	Vse
+netservice_airplay	AirPlay	AirPlay
+netservice_dlna	DLNA	DLNA
+netservice_wifitrans	Wi-Fi File Transfer	Prenos datotek prek Wi-Fi
+no_search	No search results	Ni rezultatov iskanja
+not_allmusic	Currently no songs	Trenutno ni skladb
+otgdownload_percent	FW Downloaded	FW prenesen
+outputway	Output Options	Možnosti izhoda
+play_all	Play All	Predvajaj vse
+player_abrepeat	AB Repeat	Ponavljanje A-B
+player_albuminfo	Look up Album	Poišči album
+player_bitdepth	Bit Depth	Bitna globina
+player_bitrate	Bitrate	Bitna hitrost
+player_delete	Delete Song	Izbriši skladbo
+player_encoding	Encoding	Kodiranje
+player_era	Year	Leto
+player_filesize	File Size	Velikost datoteke
+player_location	Location	Lokacija
+player_msgmul	*Affecting only files below 48khz	*Velja le za datoteke pod 48 kHz
+player_multiple	Multiple Speed	Hitrost predvajanja
+player_nolyric	No Lyrics	Ni besedila
+player_onlinesearch	Download Cover & Lyrics	Prenesi ovitek in besedilo
+player_playlist	Queue	Čakalna vrsta
+player_samplerate	Sample Rate	Vzorčna frekvenca
+player_songerinfo	Look up Artist	Poišči izvajalca
+player_unknown	Unknown	Neznano
+player_unknown	Unknown Artist	Neznani izvajalec
+playlist	Playlist	Seznam predvajanja
+playlist_create	New playlist	Nov seznam predvajanja
+playlist_export	Export playlist	Izvozi seznam predvajanja
+playlist_import	Import playlist	Uvozi seznam predvajanja
+playmode_listplay	List Play	Predvajanje seznama
+playmode_repeatall	Repeat All	Ponovi vse
+playmode_repeattrack	Repeat Track	Ponovi skladbo
+playmode_shuffle	Shuffle	Naključno
+playset_balance	Channel Balance	Ravnovesje kanalov
+playset_bootvol	Default Volume	Privzeta glasnost
+playset_covermode	Enlarged Album Art	Povečan ovitek albuma
+playset_dsdoutput	DSD Output Mode	Izhodni način DSD
+playset_eq	EQ	Izenačevalnik
+playset_filter	Digital Filters	Digitalni filtri
+playset_foldercover	Folder Album Cover	Ovitek mape
+playset_folderjump	Folder Skip	Preskok map
+playset_gain	Gain	Ojačenje
+playset_gapless	Gapless	Brez premorov
+playset_maxvol	Max Volume	Najv. glasnost
+playset_memplay	Memory Playback	Pomnjenje predvajanja
+playset_noplay	Require Output (Beta)	Zahtevaj izhod (beta)
+playset_playmode	Play Mode	Način predvajanja
+playset_replaygain	ReplayGain	ReplayGain
+playset_usbaudiovol	USB Audio Output	Zvočni izhod USB
+playset_volcover	Volume and Album Display	Glasnost in ovitek albuma
+powerm_deep_off	Standby	Pripravljenost
+powerm_sleep	Sleep Timer	Časovnik spanja
+recentadd	Recently Added	Nedavno dodano
+recentplay	Recent	Nedavno
+rename	Rename	Preimenuj
+renamesuccess	Successfully renamed	Preimenovanje uspelo
+replaygain_track	Song	Skladba
+reset_factory	Full Factory Reset	Popolna tovarniška ponastavitev
+reset_initdatabase	Reset Database	Ponastavi zbirko podatkov
+reset_initset	Reset Settings Only	Ponastavi le nastavitve
+scan_automatic	Automatic Update	Samodejna posodobitev
+scan_now	Scan music now	Preglej glasbo zdaj
+scan_now	Scan music now	Preglej glasbo zdaj
+scan_spec	Scan specified folders	Preglej izbrane mape
+scan_spec	Scan specified folders	Preglej izbrane mape
+scan_startscan	Scan	Preglej
+scan_updatefinish	Library Updated,%d Updated	Knjižnica posodobljena, sprememb: %d
+scan_updating	Updating No.%d	Posodabljanje št. %d
+scover_cover	Cover	Ovitek
+scover_lyric	Lyrics	Besedila
+screenlock_about	Custom Lock Screen	Lasten zaklenjeni zaslon
+screenlock_info1	1. Put the pictures in a folder named "lockscreenimage" at the top of the card.	1. Slike dajte v mapo z imenom "lockscreenimage" na vrhu kartice.
+screenlock_info2	2. PNG or JPG, exactly 375 x 320 pixels, under 1 MB each.	2. PNG ali JPG, natanko 375 x 320 pik, vsaka pod 1 MB.
+screenlock_info3	3. Up to 5 pictures.	3. Največ 5 slik.
+screenlock_timeshow	Show Time	Pokaži uro
+search_tips1	Search for music,artists,albums,genres	Iskanje glasbe, izvajalcev, albumov, žanrov
+search_track	Track	Skladba
+singerbyalbum	Sort by album artist	Razvrsti po izvajalcu albuma
+singerbysong	Sort by song artist	Razvrsti po izvajalcu skladbe
+small_album	Albums	Albumi
+small_coverflow	Album Wall	Stena albumov
+small_folder	Folder	Mapa
+small_local	Local Songs	Lokalne skladbe
+small_playing	Now Playing	Predvaja se
+small_playset	Playback	Predvajanje
+small_stream	Streaming	Pretakanje
+small_sysset	System	Sistem
+songer	Artist	Izvajalec
+sort_addtime	Time added	Datum dodajanja
+sort_alphabet	Alphabetical	Po abecedi
+sort_filename	File name	Ime datoteke
+sort_format	File format	Vrsta datoteke
+sort_time_asc	Time added (ascending)	Datum dodajanja (naraščajoče)
+sort_time_desc	Time added (descending)	Datum dodajanja (padajoče)
+standbyoff_10min	10min	10 min
+standbyoff_1min	1min	1 min
+standbyoff_3min	3min	3 min
+standbyoff_5min	5min	5 min
+standbyoff_deep	Auto-standby	Samodejna pripravljenost
+standbyoff_deepinfo	After 5 minute of idle,device will go into standby mode.	Po 5 minutah nedejavnosti naprava preide v stanje pripravljenosti.
+standbyoff_saver	Auto-shutdown	Samodejni izklop
+synclink_off	Off	Izklj.
+system_about	About	O napravi
+system_carmode	In-Vehicle Mode	Način za v avto
+system_display	Display	Zaslon
+system_general	General	Splošno
+system_keylock	Buttons Lock	Zaklep tipk
+system_keytone	Key Tone	Zvok tipk
+system_language	Language	Jezik
+system_navshow	Show Navigation Bar	Pokaži navigacijsko vrstico
+system_netservice	Network	Omrežje
+system_powermanager	Power	Napajanje
+system_prove	Certification	Certifikati
+system_reset	Reset Settings	Ponastavi nastavitve
+system_sys	System	Sistem
+system_time	Date & Time	Datum in ura
+system_update	System Update	Posodobitev sistema
+system_wheelmode	Wheel Function	Funkcija kolesca
+system_wifiset	Wireless	Brezžično
+timedate_24h	24-Hour	24-urni zapis
+timedate_auto	Automatic Time Set	Samodejna nastavitev ure
+timedate_manual	Set Time Manually	Ročna nastavitev ure
+timezone_gmt+1	(GMT+01:00)Europe/Amsterdam	(GMT+01:00)Evropa/Amsterdam
+timezone_gmt+10	(GMT+10:00)Australia/Sydney	(GMT+10:00)Avstralija/Sydney
+timezone_gmt+12	(GMT+12:00)Pacific/Fiji	(GMT+12:00)Pacifik/Fidži
+timezone_gmt+2	(GMT+02:00)Europe/Bucharest	(GMT+02:00)Evropa/Bukarešta
+timezone_gmt+3	(GMT+03:00)Asia/Kuwait	(GMT+03:00)Azija/Kuvajt
+timezone_gmt+3_30	(GMT+03:30)Asia/Tehran	(GMT+03:30)Azija/Teheran
+timezone_gmt+4	(GMT+04:00)Asia/Muscat	(GMT+04:00)Azija/Maskat
+timezone_gmt+4_30	(GMT+04:30)Asia/Kabul	(GMT+04:30)Azija/Kabul
+timezone_gmt+5	(GMT+05:00)Asia/Karachi	(GMT+05:00)Azija/Karači
+timezone_gmt+6	(GMT+06:00)Asia/Almaty	(GMT+06:00)Azija/Almati
+timezone_gmt+7	(GMT+07:00)Asia/Bangkok	(GMT+07:00)Azija/Bangkok
+timezone_gmt+8	(GMT+08:00)Asia/Shanghai	(GMT+08:00)Azija/Šanghaj
+timezone_gmt+9	(GMT+09:00)Asia/Tokyo	(GMT+09:00)Azija/Tokio
+timezone_gmt+9_30	(GMT+09:30)Australia/Adelaide	(GMT+09:30)Avstralija/Adelaide
+timezone_gmt-0	(GMT 00:00)Europe/London	(GMT 00:00)Evropa/London
+timezone_gmt-1	(GMT-01:00)Atlantic/Azores	(GMT-01:00)Atlantik/Azori
+timezone_gmt-10	(GMT-10:00)Pacific/Honolulu	(GMT-10:00)Pacifik/Honolulu
+timezone_gmt-11	(GMT-11:00)Pacific/Midway	(GMT-11:00)Pacifik/Midway
+timezone_gmt-12	(GMT-12:00)Pacific/Kwajalein	(GMT-12:00)Pacifik/Kwajalein
+timezone_gmt-3	(GMT-03:00)America/Argentina/Buenos_Aires	(GMT-03:00)Amerika/Buenos Aires
+timezone_gmt-3_30	(GMT-03:30)America/St_Johns	(GMT-03:30)Amerika/St. John's
+timezone_gmt-4	(GMT-04:00)Canada/Atlantic	(GMT-04:00)Kanada/Atlantik
+timezone_gmt-5	(GMT-05:00)America/New_York	(GMT-05:00)Amerika/New York
+timezone_gmt-6	(GMT-06:00)America/Mexico_City	(GMT-06:00)Amerika/Ciudad de México
+timezone_gmt-7	(GMT-07:00)America/Denver	(GMT-07:00)Amerika/Denver
+timezone_gmt-8	(GMT-08:00)America/Tijuana	(GMT-08:00)Amerika/Tijuana
+timezone_gmt-9	(GMT-09:00)America/Anchorage	(GMT-09:00)Amerika/Anchorage
+timezone_select	Time Zone Selection	Izbira časovnega pasu
+title_downloaded	Downloaded	Preneseno
+title_downloading	Downloading	Prenašanje
+title_more	More	Več
+title_sort	List sort order	Vrstni red seznama
+update_online	Network update	Posodobitev prek omrežja
+update_tf	TF card update	Posodobitev s kartice
+usb_chargeswitch	USB DAC Charging	Polnjenje USB DAC
+usbmode_audio	USB AUDIO	USB AUDIO
+usbmode_connect	USB Connected	USB povezan
+usbmode_dac	USB DAC	USB DAC
+usbmode_disconnect	USB Disconnected	USB odklopljen
+usbmode_storge	USB Storage	Pomnilnik USB
+usbvol_adjust	Volume Variable	Glasnost spremenljiva
+usbvol_fixed	Volume Fixed	Glasnost stalna
+wheelmode_menu	Menu Mode	Način menija
+wheelmode_volume	Volume Mode	Način glasnosti
+wifi_addnetwork	Add Network	Dodaj omrežje
+wifi_choice	Select Network	Izberi omrežje
+wifi_scan	Scanning	Iskanje
+wifiset_bt	Bluetooth	Bluetooth
+wifiset_synclink	SyncLink	SyncLink
+wifiset_wifi	Wi-Fi	Wi-Fi
+wifits_info1	Enter the following URL into your internet browser:	V spletni brskalnik vnesite ta URL:
+Search	Search	Iskanje
+Streaming	Streaming	Pretakanje
+Library's Games	Library's Games	Igre v knjižnici
+Library's Apps	Library's Apps	Aplikacije v knjižnici
+Network settings	Network settings	Omrežne nastavitve
+Wait until the App Store finishes	Wait until the App Store finishes	Počakajte, da App Store konča
+It isn't on the card	It isn't on the card	Ni na kartici
+It couldn't start	It couldn't start	Zagon ni uspel
+Stop %s	Stop %s	Ustavi: %s
+Loading…	Loading…	Nalaganje…
+More…	More…	Več…
+Working…	Working…	Obdelava…
+Starting %s…	Starting %s…	Zagon: %s…
+Retry	Retry	Poskusi znova
+Install it again in Library → App Store	Install it again in Library → App Store	Znova namestite: Knjižnica → App Store
+Cancel	Cancel	Prekliči
+%s isn't running	%s isn't running	%s ni zagnan
+%s didn't answer	%s didn't answer	%s ne odgovarja
+Too long	Too long	Predolgo
+%s stopped	%s stopped	%s ustavljen
+%s isn't on the card	%s isn't on the card	%s ni na kartici
+Apps	Apps	Aplikacije
+No apps	No apps	Ni aplikacij
+Not running	Not running	Ni zagnano
+No code yet	No code yet	Še ni kode
+Connect the Q2 to Wi-Fi	Connect the Q2 to Wi-Fi	Povežite Q2 z Wi-Fi
+Open it again	Open it again	Odprite znova
+Wait a moment	Wait a moment	Počakajte trenutek
+Then come back here	Then come back here	Nato se vrnite sem
+Scan with your phone's	Scan with your phone's	Skenirajte s kamero
+Scan with your	Scan with your	Skenirajte s
+camera	camera	telefona
+phone's camera	phone's camera	kamero telefona
+or open	or open	ali odprite
+PIN	PIN	PIN
+Couldn't import %s	Couldn't import %s	Uvoz ni uspel: %s
+Playlists updated	Playlists updated	Seznami predvajanja posodobljeni
+No memory card	No memory card	Ni pomnilniške kartice
+Games	Games	Igre
+%d update	%d update	%d posodobitev
+%d updates	%d updates	Posodobitev: %d
+INSTALL	INSTALL	NAMESTI
+UPDATE	UPDATE	POSODOBI
+INSTALLED	INSTALLED	NAMEŠČENO
+AM	AM	AM
+PM	PM	PM
+Jan	Jan	jan
+Feb	Feb	feb
+Mar	Mar	mar
+Apr	Apr	apr
+May	May	maj
+Jun	Jun	jun
+Jul	Jul	jul
+Aug	Aug	avg
+Sep	Sep	sep
+Oct	Oct	okt
+Nov	Nov	nov
+Dec	Dec	dec
+The card is in use over USB	The card is in use over USB	Kartica je v uporabi prek USB
+Storage unavailable	Storage unavailable	Pomnilnik ni na voljo
+The card is full	The card is full	Kartica je polna
+Couldn't save	Couldn't save	Shranjevanje ni uspelo
+Saved to battery-log.txt	Saved to battery-log.txt	Shranjeno v battery-log.txt
+Battery History	Battery History	Zgodovina baterije
+Unplug to start	Unplug to start	Odklopite polnilnik za začetek
+Export Log	Export Log	Izvozi dnevnik
+Card theme turned off after a failed start	Card theme turned off after a failed start	Tema s kartice izklopljena po neuspelem zagonu
+Card theme removed. Restart to finish	Card theme removed. Restart to finish	Tema s kartice odstranjena. Znova zaženite za dokončanje
+Card theme file can't be used	Card theme file can't be used	Datoteke teme s kartice ni mogoče uporabiti
+Card theme saved. Restart to apply	Card theme saved. Restart to apply	Tema s kartice shranjena. Znova zaženite za uveljavitev
+Could not save card theme	Could not save card theme	Teme s kartice ni bilo mogoče shraniti
+Done	Done	Končano
+space	space	preslednica
+New Playlist	New Playlist	Nov seznam predvajanja
+Playlist Name	Playlist Name	Ime seznama predvajanja
+Rename	Rename	Preimenuj
+Songs	Songs	Skladbe
+Artists	Artists	Izvajalci
+Albums	Albums	Albumi
+Genres	Genres	Žanri
+Off	Off	Izklj.
+On	On	Vklj.
+%d of %d songs	%d of %d songs	%d od %d skladb
+Updating Library	Updating Library	Posodabljanje knjižnice
+Connected	Connected	Povezano
+Eject before disconnecting	Eject before disconnecting	Pred odklopom izvrzite
+%d:%02d AM	%d:%02d AM	%d:%02d AM
+%d:%02d PM	%d:%02d PM	%d:%02d PM
+Save	Save	Shrani
+Sort: Album	Sort: Album	Razvrsti: Album
+Sort: Artist	Sort: Artist	Razvrsti: Izvajalec
+Sort: Recently Added	Sort: Recently Added	Razvrsti: Nedavno dodano
+Sort: Most Played	Sort: Most Played	Razvrsti: Največ predvajano
+Sort: Random	Sort: Random	Razvrsti: Naključno
+Sort: Rating	Sort: Rating	Razvrsti: Ocena
+Sort: Year	Sort: Year	Razvrsti: Leto
+%u song	%u song	%u skladba
+%u songs	%u songs	Skladb: %u
+All albums	All albums	Vsi albumi
+Preparing artwork… %d/%d	Preparing artwork… %d/%d	Priprava ovitkov… %d/%d
+Update Library first	Update Library first	Najprej posodobite knjižnico
+%u Song	%u Song	%u skladba
+%u Songs	%u Songs	Skladb: %u
+%u Album	%u Album	%u album
+%u Albums	%u Albums	Albumov: %u
+%u Game	%u Game	%u igra
+%u Games	%u Games	Iger: %u
+%u Service	%u Service	%u storitev
+%u Services	%u Services	Storitev: %u
+%u.%u GB Free	%u.%u GB Free	Prosto: %u.%u GB
+Library	Library	Knjižnica
+Settings	Settings	Nastavitve
+Crossfade: %d s	Crossfade: %d s	Crossfade: %d s
+Crossfade: Off	Crossfade: Off	Crossfade: Izklj.
+Wheel Sensitivity: %d%%	Wheel Sensitivity: %d%%	Občutljivost kolesca: %d%%
+Resume Songs: %d min	Resume Songs: %d min	Nadaljevanje skladb: %d min
+Resume Songs: Off	Resume Songs: Off	Nadaljevanje skladb: Izklj.
+Night Shift: %dK	Night Shift: %dK	Night Shift: %dK
+Night Shift: Auto	Night Shift: Auto	Night Shift: Samodejno
+Night Shift: Off	Night Shift: Off	Night Shift: Izklj.
+Mono Audio	Mono Audio	Mono zvok
+Swap L/R	Swap L/R	Zamenjaj L/D
+Crossfade needs Gapless	Crossfade needs Gapless	Crossfade zahteva način Brez premorov
+Auto	Auto	Samodejno
+Night Shift	Night Shift	Night Shift
+Resume Songs	Resume Songs	Nadaljevanje skladb
+Wheel Sensitivity	Wheel Sensitivity	Občutljivost kolesca
+Crossfade	Crossfade	Crossfade
+Measuring song lengths…	Measuring song lengths…	Merjenje dolžin skladb…
+Sudoku	Sudoku	Sudoku
+Solitaire	Solitaire	Pasjansa
+Snake	Snake	Kača
+Paused	Paused	Zaustavljeno
+Continue	Continue	Nadaljuj
+Quit	Quit	Izhod
+New best!	New best!	Nov rekord!
+Game over	Game over	Konec igre
+Centre: play again	Centre: play again	Sredina: igraj znova
+Play/Pause: resume	Play/Pause: resume	Predvajaj/Premor: nadaljuj
+New game?	New game?	Nova igra?
+Centre: yes   Return: no	Centre: yes   Return: no	Sredina: da   Nazaj: ne
+Solved!	Solved!	Rešeno!
+Play/Pause: new game	Play/Pause: new game	Predvajaj/Premor: nova igra
+Score	Score	Rezultat
+Best	Best	Rekord
+Level	Level	Stopnja
+Centre	Centre	Sredina
+You win!	You win!	Zmagali ste!
+Shuffle	Shuffle	Premešaj
+Era	Era	Desetletja
+Ratings	Ratings	Ocene
+Most Played	Most Played	Največ predvajano
+Long Songs	Long Songs	Dolge skladbe
+App Store	App Store	App Store
+Upload Scrobbles	Upload Scrobbles	Pošlji scrobble
+Tidal Downloads	Tidal Downloads	Prenosi Tidal
+Internet Radio	Internet Radio	Internetni radio
+Configuration	Configuration	Konfiguracija
+Restart to apply?	Restart to apply?	Znova zaženem za uveljavitev?
+Couldn't copy the language	Couldn't copy the language	Jezika ni bilo mogoče kopirati
+Too many songs to shuffle	Too many songs to shuffle	Preveč skladb za mešanje
+Shuffle Songs	Shuffle Songs	Premešaj skladbe
+Shuffle Albums	Shuffle Albums	Premešaj albume
+Shuffle Folders	Shuffle Folders	Premešaj mape
+Albums and folders take a moment to shuffle	Albums and folders take a moment to shuffle	Mešanje albumov in map traja trenutek
+No plays yet	No plays yet	Še ni predvajanj
+%u play	%u play	%u predvajanje
+%u plays	%u plays	Predvajanj: %u
+No downloads yet	No downloads yet	Še ni prenosov
+Clear All Downloads…	Clear All Downloads…	Počisti vse prenose…
+%u track	%u track	%u skladba
+%u tracks	%u tracks	Skladb: %u
+Remove Downloads?	Remove Downloads?	Odstranim prenose?
+Keeps settings	Keeps settings	Nastavitve ostanejo
+Remove	Remove	Odstrani
+It isn't on the card any more	It isn't on the card any more	Ni več na kartici
+%02ds	%02ds	Leta %02d
+%ds	%ds	Leta %d
+Era unavailable	Era unavailable	Desetletja niso na voljo
+Album not found	Album not found	Albuma ni mogoče najti
+%u album	%u album	%u album
+%u albums	%u albums	Albumov: %u
+Play All	Play All	Predvajaj vse
+Every song, shuffled	Every song, shuffled	Vse skladbe, premešano
+No dated albums yet	No dated albums yet	Še ni albumov z datumom
+No songs over 10 minutes	No songs over 10 minutes	Ni skladb, daljših od 10 minut
+Measuring songs… %d/%d	Measuring songs… %d/%d	Merjenje skladb… %d/%d
+Measuring songs…	Measuring songs…	Merjenje skladb…
+Release to search	Release to search	Spustite za iskanje
+Pull to search	Pull to search	Povlecite za iskanje
+Sleep Timer	Sleep Timer	Časovnik spanja
+Lock Screen	Lock Screen	Zaklenjen zaslon
+Accent	Accent	Naglasna barva
+Everything	Everything	Vse
+Buttons only	Buttons only	Samo tipke
+Volume only	Volume only	Samo glasnost
+Wake: Single Press	Wake: Single Press	Prebujanje: en pritisk
+Wake: Double Press	Wake: Double Press	Prebujanje: dvojni pritisk
+Artist View: Grid	Artist View: Grid	Pogled izvajalcev: Mreža
+Artist View: Cover Flow	Artist View: Cover Flow	Pogled izvajalcev: Cover Flow
+Artist View: List	Artist View: List	Pogled izvajalcev: Seznam
+Year Order: Newest First	Year Order: Newest First	Vrstni red let: najnovejše prve
+Year Order: Oldest First	Year Order: Oldest First	Vrstni red let: najstarejše prve
+Artists: Artist	Artists: Artist	Izvajalci: Izvajalec
+Artists: Album Artist	Artists: Album Artist	Izvajalci: Izvajalec albuma
+Resume on Connect: Off	Resume on Connect: Off	Nadaljuj ob povezavi: Izklj.
+Resume on Connect: On	Resume on Connect: On	Nadaljuj ob povezavi: Vklj.
+Clock: Standard	Clock: Standard	Ura: Standardna
+Clock: Large	Clock: Large	Ura: Velika
+Artist Album Order: Year	Artist Album Order: Year	Albumi izvajalca: Leto
+Artist Album Order: A–Z	Artist Album Order: A–Z	Albumi izvajalca: A–Ž
+Volume Guard: Off	Volume Guard: Off	Zaščita glasnosti: Izklj.
+Volume Guard: On	Volume Guard: On	Zaščita glasnosti: Vklj.
+Hold Return: Recent	Hold Return: Recent	Držanje Nazaj: Nedavno
+Hold Return: Home	Hold Return: Home	Držanje Nazaj: Domov
+Standby Limit: Off	Standby Limit: Off	Omejitev pripravljenosti: Izklj.
+Standby Limit: %u h	Standby Limit: %u h	Omejitev pripravljenosti: %u h
+Refresh Cover Flow	Refresh Cover Flow	Osveži Cover Flow
+Playlist View: List	Playlist View: List	Pogled seznamov predvajanja: Seznam
+Playlist View: Cover Flow	Playlist View: Cover Flow	Pogled seznamov predvajanja: Cover Flow
+Update Notifications: Off	Update Notifications: Off	Obvestila o posodobitvah: Izklj.
+Update Notifications: On	Update Notifications: On	Obvestila o posodobitvah: Vklj.
+Album View: List	Album View: List	Pogled albumov: Seznam
+Album View: Grid	Album View: Grid	Pogled albumov: Mreža
+Charge Limit (%u%%)	Charge Limit (%u%%)	Omejitev polnjenja (%u%%)
+Resume on Connect	Resume on Connect	Nadaljuj ob povezavi
+Volume Guard	Volume Guard	Zaščita glasnosti
+Control Device Volume	Control Device Volume	Upravljaj glasnost naprave
+Key Tone	Key Tone	Zvok tipk
+In-Vehicle Mode	In-Vehicle Mode	Način za v avto
+Smart Wi-Fi	Smart Wi-Fi	Smart Wi-Fi
+Enlarged Album Art	Enlarged Album Art	Povečan ovitek albuma
+Folder Album Cover	Folder Album Cover	Ovitek mape
+Fast Navigation	Fast Navigation	Hitro pomikanje
+Scan Song Durations	Scan Song Durations	Preglej dolžine skladb
+Position Bar	Position Bar	Vrstica položaja
+Hide Streaming	Hide Streaming	Skrij Pretakanje
+Hide Folder	Hide Folder	Skrij Mapo
+Hide Apps	Hide Apps	Skrij Aplikacije
+Hide Games	Hide Games	Skrij Igre
+Hide App Store	Hide App Store	Skrij App Store
+Receive Audio	Receive Audio	Sprejemaj zvok
+Log Failed Artwork	Log Failed Artwork	Beleži napake ovitkov
+Hide Duplicate Albums	Hide Duplicate Albums	Skrij podvojene albume
+Hide Duplicate Songs	Hide Duplicate Songs	Skrij podvojene skladbe
+Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	Cover Flow bo ovitke naslednjič zgradil znova
+Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	Za uveljavitev izklopite in vklopite Bluetooth
+Folder Root: %s	Folder Root: %s	Koren map: %s
+Folder Root: Card	Folder Root: Card	Koren map: Kartica
+Library & Folders	Library & Folders	Knjižnica in mape
+Press Centre to Change Mode	Press Centre to Change Mode	Pritisnite sredino za spremembo načina
+Press Centre to Turn On or Off	Press Centre to Turn On or Off	Pritisnite sredino za vklop ali izklop
+Press Centre When Finished	Press Centre When Finished	Ko končate, pritisnite sredino
+OK to Disconnect	OK to Disconnect	Varno za odklop
+Now Playing	Now Playing	Predvaja se
+Cover Flow	Cover Flow	Cover Flow
+EQ	EQ	Izenačevalnik
+Update Library	Update Library	Posodobi knjižnico
+Balance	Balance	Ravnovesje
+Home: Split	Home: Split	Domov: Razdeljeno
+Home: Full	Home: Full	Domov: Polno
+Home: Carousel	Home: Carousel	Domov: Vrtiljak
+Battery: Icon	Battery: Icon	Baterija: Ikona
+Battery: Percent	Battery: Percent	Baterija: Odstotek
+Battery: Icon + Percent	Battery: Icon + Percent	Baterija: Ikona + odstotek
+Battery: Percent Inside	Battery: Percent Inside	Baterija: Odstotek znotraj
+Light Mode: Off	Light Mode: Off	Svetli način: Izklj.
+Light Mode: On	Light Mode: On	Svetli način: Vklj.
+Light Mode: Auto	Light Mode: Auto	Svetli način: Samodejno
+Accent: Card Theme	Accent: Card Theme	Naglasna barva: Tema s kartice
+Battery: Card Theme	Battery: Card Theme	Baterija: Tema s kartice
+Light Mode: Card Theme	Light Mode: Card Theme	Svetli način: Tema s kartice
+Accent: %s	Accent: %s	Naglasna barva: %s
+Theme: %s	Theme: %s	Tema: %s
+Shortcut: None	Shortcut: None	Bližnjica: Brez
+Shortcut: %s	Shortcut: %s	Bližnjica: %s
+Rounded Corners	Rounded Corners	Zaobljeni vogali
+Smart Awake	Smart Awake	Smart Awake
+Centred Now Playing	Centred Now Playing	Predvaja se na sredini
+Click With Headphones	Click With Headphones	Klik s slušalkami
+Single Press Scrub	Single Press Scrub	Previjanje z enim pritiskom
+Time in Title	Time in Title	Ura v naslovu
+Set by the card theme	Set by the card theme	Določa tema s kartice
+Location	Location	Lokacija
+Unknown	Unknown	Neznano
+Appearance	Appearance	Videz
+Controls	Controls	Upravljanje
+Theme	Theme	Tema
+Boot to: Rockbox	Boot to: Rockbox	Zaženi v: Rockbox
+Boot to: Q2 Pod	Boot to: Q2 Pod	Zaženi v: Q2 Pod
+Rockbox is not on the card	Rockbox is not on the card	Rockbox ni na kartici
+Could not save boot choice	Could not save boot choice	Izbire zagona ni bilo mogoče shraniti
+No albums	No albums	Ni albumov
+No artists	No artists	Ni izvajalcev
+No composers	No composers	Ni skladateljev
+No genres	No genres	Ni žanrov
+Chapter %d	Chapter %d	Poglavje %d
+Chapters	Chapters	Poglavja
+Could not read chapters	Could not read chapters	Poglavij ni bilo mogoče prebrati
+No embedded chapters	No embedded chapters	Ni vgrajenih poglavij
+Too long to read chapters on the Q2	Too long to read chapters on the Q2	Predolgo za branje poglavij na Q2
+Loading chapters…	Loading chapters…	Nalaganje poglavij…
+Spotify Cache: %s	Spotify Cache: %s	Predpomnilnik Spotify: %s
+Tidal Cache: %s	Tidal Cache: %s	Predpomnilnik Tidal: %s
+Erasing…	Erasing…	Brisanje…
+Press again to erase login and cache	Press again to erase login and cache	Znova pritisnite za brisanje prijave in predpomnilnika
+Erase Spotify Data	Erase Spotify Data	Izbriši podatke Spotify
+Could not save setting	Could not save setting	Nastavitve ni bilo mogoče shraniti
+Streaming stopped	Streaming stopped	Pretakanje ustavljeno
+Wait for the one in progress	Wait for the one in progress	Počakajte na tekoče opravilo
+Stop Streaming Services	Stop Streaming Services	Ustavi storitve pretakanja
+No %s folder on the card	No %s folder on the card	Na kartici ni mape %s
+CFW. Version	CFW. Version	Različica CFW
+Update to %s	Update to %s	Posodobi na %s
+Latest firmware installed	Latest firmware installed	Nameščena je najnovejša vdelana programska oprema
+Can't reach GitHub	Can't reach GitHub	GitHub ni dosegljiv
+No update for this build	No update for this build	Za to različico ni posodobitve
+Can't write to the card	Can't write to the card	Na kartico ni mogoče pisati
+Download cancelled	Download cancelled	Prenos preklican
+GitHub is busy, try later	GitHub is busy, try later	GitHub je zaseden, poskusite pozneje
+The download was damaged, try again	The download was damaged, try again	Prenos je poškodovan, poskusite znova
+Downloading %d%%	Downloading %d%%	Prenašanje %d%%
+Cancelling…	Cancelling…	Preklicevanje…
+Reconnecting…	Reconnecting…	Ponovno povezovanje…
+Verifying…	Verifying…	Preverjanje…
+Checking…	Checking…	Preverjanje…
+Needs %u MB more space	Needs %u MB more space	Potrebnih je še %u MB prostora
+Update downloaded: use TF card update	Update downloaded: use TF card update	Posodobitev prenesena: uporabite posodobitev s kartice
+Charge the battery first	Charge the battery first	Najprej napolnite baterijo
+Can't start the download	Can't start the download	Prenosa ni mogoče začeti
+Downloading…	Downloading…	Prenašanje…
+Q2 Pod %s is out: System Update → Network update	Q2 Pod %s is out: System Update → Network update	Izšel je Q2 Pod %s: Posodobitev sistema → Posodobitev prek omrežja
+Downloading	Downloading	Prenašanje
+Unpacking…	Unpacking…	Razpakiranje…
+Installing…	Installing…	Nameščanje…
+Removing…	Removing…	Odstranjevanje…
+Connect to Wi-Fi to load the list	Connect to Wi-Fi to load the list	Za nalaganje seznama se povežite z Wi-Fi
+Checked just now	Checked just now	Pravkar preverjeno
+Checked %u min ago	Checked %u min ago	Preverjeno pred %u min
+Checked %u h ago	Checked %u h ago	Preverjeno pred %u h
+Press again to remove	Press again to remove	Znova pritisnite za odstranitev
+Starts at power-on. Press again to install	Starts at power-on. Press again to install	Zažene se ob vklopu. Znova pritisnite za namestitev
+%d app can be updated	%d app can be updated	%d aplikacija za posodobitev
+%d apps can be updated	%d apps can be updated	Aplikacij za posodobitev: %d
+All apps are up to date	All apps are up to date	Vse aplikacije so posodobljene
+The download is not a usable app	The download is not a usable app	Prenos ni uporabna aplikacija
+Rockbox is ready. Find it on Home	Rockbox is ready. Find it on Home	Rockbox je pripravljen. Najdete ga na začetnem zaslonu
+Rockbox Themes are ready in Rockbox's Theme Settings	Rockbox Themes are ready in Rockbox's Theme Settings	Teme Rockbox so pripravljene v nastavitvah tem Rockbox
+%s is ready in %s	%s is ready in %s	%s je pripravljen v %s
+%s removed	%s removed	%s odstranjen
+Spotify's login and cache erased	Spotify's login and cache erased	Prijava in predpomnilnik Spotify izbrisana
+Stopped checking for updates	Stopped checking for updates	Preverjanje posodobitev ustavljeno
+Install Rockbox first	Install Rockbox first	Najprej namestite Rockbox
+Check for Updates	Check for Updates	Preveri posodobitve
+%d of %d	%d of %d	%d od %d
+Album lyrics	Album lyrics	Besedila albuma
+LRCLIB stopped answering	LRCLIB stopped answering	LRCLIB ne odgovarja več
+Cancelled	Cancelled	Preklicano
+%d saved	%d saved	Shranjeno: %d
+%d not found	%d not found	Ni najdeno: %d
+%d already had lyrics	%d already had lyrics	Že z besedilom: %d
+%d failed	%d failed	Neuspešno: %d
+Album lyrics: no songs on the card	Album lyrics: no songs on the card	Besedila albuma: na kartici ni skladb
+Can't reach LRCLIB	Can't reach LRCLIB	LRCLIB ni dosegljiv
+Download Album Lyrics	Download Album Lyrics	Prenesi besedila albuma
+Downloading %d of %d	Downloading %d of %d	Prenašanje %d od %d
+No album songs on the card	No album songs on the card	Na kartici ni skladb albuma
+file exceeds 16384 bytes	file exceeds 16384 bytes	datoteka presega 16384 bajtov
+line exceeds 512 bytes	line exceeds 512 bytes	vrstica presega 512 bajtov
+embedded NUL	embedded NUL	vdelan znak NUL
+unsupported filter form	unsupported filter form	nepodprta oblika filtra
+expected Preamp: <gain> dB	expected Preamp: <gain> dB	pričakovano Preamp: <gain> dB
+preamp outside -60..24 dB or invalid number	preamp outside -60..24 dB or invalid number	preamp zunaj -60..24 dB ali neveljavna številka
+expected Channel: L, R or all	expected Channel: L, R or all	pričakovano Channel: L, R ali all
+only channels L, R and all are supported	only channels L, R and all are supported	podprti so le kanali L, R in all
+unsupported command	unsupported command	nepodprt ukaz
+invalid filter label	invalid filter label	neveljavna oznaka filtra
+expected Filter [number]:	expected Filter [number]:	pričakovano Filter [number]:
+expected ON or OFF	expected ON or OFF	pričakovano ON ali OFF
+unsupported filter type	unsupported filter type	nepodprta vrsta filtra
+expected Fc <Hz> Hz Gain <dB> dB	expected Fc <Hz> Hz Gain <dB> dB	pričakovano Fc <Hz> Hz Gain <dB> dB
+invalid frequency or gain number	invalid frequency or gain number	neveljavna številka frekvence ali ojačenja
+expected Q <number>	expected Q <number>	pričakovano Q <number>
+peaking filter requires Q	peaking filter requires Q	filter peaking zahteva Q
+range: 20..20000 Hz, -24..24 dB, Q 0.1..10	range: 20..20000 Hz, -24..24 dB, Q 0.1..10	obseg: 20..20000 Hz, -24..24 dB, Q 0.1..10
+more than 30 bands	more than 30 bands	več kot 30 pasov
+summed preamp outside -60..24 dB	summed preamp outside -60..24 dB	seštevek preampov zunaj -60..24 dB
+L/R preamp differ by more than 12 dB	L/R preamp differ by more than 12 dB	preampa L/D se razlikujeta za več kot 12 dB
+out of memory	out of memory	zmanjkalo pomnilnika
+cannot open file	cannot open file	datoteke ni mogoče odpreti
+file read failed	file read failed	branje datoteke ni uspelo
+EQ for 3.5 mm	EQ for 3.5 mm	Izenačevalnik za 3,5 mm
+EQ for 4.4 mm	EQ for 4.4 mm	Izenačevalnik za 4,4 mm
+EQ for USB	EQ for USB	Izenačevalnik za USB
+EQ for this Bluetooth device	EQ for this Bluetooth device	Izenač. za to napravo Bluetooth
+Auto (44.1: %.1f / 48: %.1f)	Auto (44.1: %.1f / 48: %.1f)	Auto (44.1: %.1f / 48: %.1f)
+Folder missing or unavailable	Folder missing or unavailable	Mapa manjka ali ni na voljo
+Out of memory; cannot list presets	Out of memory; cannot list presets	Zmanjkalo pomnilnika; prednastavitev ni mogoče prikazati
+No presets found	No presets found	Ni najdenih prednastavitev
+Name not allowed; preset kept	Name not allowed; preset kept	Ime ni dovoljeno; ohranjeno
+Name taken; preset kept	Name taken; preset kept	Ime zasedeno; ohranjeno
+Rename failed; preset kept	Rename failed; preset kept	Preimen. ni uspelo; ohranjeno
+Renamed to %.100s	Renamed to %.100s	Preimenovano v %.100s
+Pop	Pop	Pop
+Rock	Rock	Rock
+Dance	Dance	Dance
+Blues	Blues	Blues
+Metal	Metal	Metal
+Vocal	Vocal	Vokal
+Classical	Classical	Klasika
+Jazz	Jazz	Jazz
+Preset loaded; choose Apply to activate	Preset loaded; choose Apply to activate	Prednastavitev naložena; za vklop izberite Uveljavi
+Preset saved; active EQ unchanged	Preset saved; active EQ unchanged	Prednastavitev shranjena; aktivni izenačevalnik nespremenjen
+Save failed; settings unchanged	Save failed; settings unchanged	Ni shranjeno; nastavitve enake
+Switch failed; EQ unchanged	Switch failed; EQ unchanged	Preklop ni uspel; brez sprememb
+Applied	Applied	Uveljavljeno
+Apply failed; active EQ unchanged	Apply failed; active EQ unchanged	Uveljavitev ni uspela; aktivni izenačevalnik nespremenjen
+Reset; choose Apply to activate	Reset; choose Apply to activate	Ponastavljeno; izberite Uveljavi
+Delete failed; preset kept	Delete failed; preset kept	Brisanje ni uspelo; ohranjeno
+Deleted %.100s; active EQ unchanged	Deleted %.100s; active EQ unchanged	Izbrisano %.100s; EQ nespremenjen
+Line %u: %s	Line %u: %s	Vrstica %u: %s
+Cannot read preset; settings unchanged	Cannot read preset; settings unchanged	Prednastavitve ni mogoče prebrati; nastavitve nespremenjene
+Peaking	Peaking	Peaking
+Low shelf	Low shelf	Nizka polica
+High shelf	High shelf	Visoka polica
+Apply changes	Apply changes	Uveljavi spremembe
+Nothing to apply	Nothing to apply	Ni sprememb za uveljavitev
+Reset to defaults	Reset to defaults	Ponastavi na privzeto
+Enabled	Enabled	Omogočeno
+EQ per Output	EQ per Output	Izenačevalnik po izhodih
+Preamp	Preamp	Predojačenje
+Presets	Presets	Prednastavitve
+Band	Band	Pas
+Channels	Channels	Kanali
+Both	Both	Oba
+Left	Left	Levi
+Right	Right	Desni
+Type	Type	Vrsta
+Frequency	Frequency	Frekvenca
+Gain	Gain	Ojačenje
+Band %d Q	Band %d Q	Pas %d Q
+Band %d Frequency (Hz)	Band %d Frequency (Hz)	Pas %d frekvenca (Hz)
+Raise	Raise	Povečaj
+Lower	Lower	Zmanjšaj
+Step	Step	Korak
+Delete %.100s? Confirm	Delete %.100s? Confirm	Izbrišem %.100s? Potrdite
+Replace existing preset? Confirm	Replace existing preset? Confirm	Zamenjam obstoječe? Potrdite
+Cancel replacement	Cancel replacement	Prekliči zamenjavo
+Save as Manual %02d	Save as Manual %02d	Shrani kot Ročno %02d
+Stock presets	Stock presets	Tovarniške prednastavitve
+Import from SD /EQ	Import from SD /EQ	Uvoz s kartice SD /EQ
+Save editor preset	Save editor preset	Shrani prednastavitev
+Rename a preset	Rename a preset	Preimenuj prednastavitev
+Delete a preset	Delete a preset	Izbriši prednastavitev
+Previous page	Previous page	Prejšnja stran
+Next page	Next page	Naslednja stran
+Band %d	Band %d	Pas %d
+Band %d Gain	Band %d Gain	Pas %d ojačenje
+Presets %d/%d	Presets %d/%d	Prednastavitve %d/%d
+Save failed; EQ unchanged	Save failed; EQ unchanged	Ni shranjeno; EQ nespremenjen
+Advanced	Advanced	Napredno
+Enabled: On	Enabled: On	Omogočeno: Da
+Enabled: Off	Enabled: Off	Omogočeno: Ne
+Low	Low	Nizki
+Mid	Mid	Srednji
+High	High	Visoki
+Simple	Simple	Preprosto
+No photos	No photos	Ni fotografij
+All Photos	All Photos	Vse fotografije
+Photos	Photos	Fotografije
+Can't open this photo	Can't open this photo	Fotografije ni mogoče odpreti
+%d of %d  %s	%d of %d  %s	%d od %d  %s
+Could not save folder speed	Could not save folder speed	Hitrosti mape ni bilo mogoče shraniti
+Too long to play on the Q2: split it into parts	Too long to play on the Q2: split it into parts	Predolgo za predvajanje na Q2: razdelite na dele
+Press again to restart	Press again to restart	Znova pritisnite za ponovni zagon
+Could not save playlist	Could not save playlist	Seznama predvajanja ni bilo mogoče shraniti
+Already in playlist	Already in playlist	Že na seznamu predvajanja
+Added to Playlist	Added to Playlist	Dodano na seznam predvajanja
+Search songs	Search songs	Išči skladbe
+Editing: %s	Editing: %s	Urejanje: %s
+Add Songs: %s	Add Songs: %s	Dodaj skladbe: %s
+Song Actions: %s	Song Actions: %s	Dejanja skladbe: %s
+Remove song?: %s	Remove song?: %s	Odstranim skladbo?: %s
+Add Songs	Add Songs	Dodaj skladbe
+Move Up	Move Up	Premakni gor
+Move Down	Move Down	Premakni dol
+Remove from Playlist	Remove from Playlist	Odstrani s seznama predvajanja
+Search: %s	Search: %s	Iskanje: %s
+No songs match	No songs match	Ni ujemajočih se skladb
+Search for more songs	Search for more songs	Poišči več skladb
+Delete Playlist?	Delete Playlist?	Izbrišem seznam predvajanja?
+Delete	Delete	Izbriši
+Playlist deleted	Playlist deleted	Seznam predvajanja izbrisan
+Could not delete playlist	Could not delete playlist	Seznama predvajanja ni bilo mogoče izbrisati
+Delete Playlist	Delete Playlist	Izbriši seznam predvajanja
+Edit Playlist	Edit Playlist	Uredi seznam predvajanja
+Queue unchanged	Queue unchanged	Čakalna vrsta nespremenjena
+Deselect All	Deselect All	Odznači vse
+Select All	Select All	Izberi vse
+Export %d Playlist	Export %d Playlist	Izvozi %d seznam predvajanja
+Export %d Playlists	Export %d Playlists	Izvozi sezname predvajanja: %d
+Delete %d Playlist…	Delete %d Playlist…	Izbriši %d seznam predvajanja…
+Delete %d Playlists…	Delete %d Playlists…	Izbriši sezname predvajanja: %d…
+%d Selected	%d Selected	Izbrano: %d
+Select Playlists	Select Playlists	Izberi sezname predvajanja
+Playlists	Playlists	Seznami predvajanja
+No Playlists	No Playlists	Ni seznamov predvajanja
+New Playlist…	New Playlist…	Nov seznam predvajanja…
+Select Playlists…	Select Playlists…	Izberi sezname predvajanja…
+Import Playlists	Import Playlists	Uvozi sezname predvajanja
+Export	Export	Izvozi
+No other group	No other group	Ni druge skupine
+Folder not found	Folder not found	Mape ni mogoče najti
+All Songs	All Songs	Vse skladbe
+Songs in Album	Songs in Album	Skladbe v albumu
+Albums and Songs	Albums and Songs	Albumi in skladbe
+Songs in Folder	Songs in Folder	Skladbe v mapi
+Folders	Folders	Mape
+Folders and Songs	Folders and Songs	Mape in skladbe
+Play One Song	Play One Song	Predvajaj eno skladbo
+Play One Album	Play One Album	Predvajaj en album
+Repeat Song	Repeat Song	Ponovi skladbo
+Repeat Album	Repeat Album	Ponovi album
+Repeat All	Repeat All	Ponovi vse
+Play One Folder	Play One Folder	Predvajaj eno mapo
+Repeat Folder	Repeat Folder	Ponovi mapo
+Album	Album	Album
+Folder	Folder	Mapa
+Repeat	Repeat	Ponavljanje
+Group by	Group by	Združi po
+Play Next	Play Next	Predvajaj naslednje
+Add to Queue	Add to Queue	Dodaj v čakalno vrsto
+Add to Favourites	Add to Favourites	Dodaj med priljubljene
+Remove from Favourites	Remove from Favourites	Odstrani iz priljubljenih
+Add to Playlist	Add to Playlist	Dodaj na seznam predvajanja
+Go to Album	Go to Album	Pojdi na album
+Go to Artist	Go to Artist	Pojdi na izvajalca
+Next Album	Next Album	Naslednji album
+Previous Album	Previous Album	Prejšnji album
+Rate	Rate	Oceni
+Resume	Resume	Nadaljuj
+View Queue	View Queue	Pokaži čakalno vrsto
+Go to Folder	Go to Folder	Pojdi na mapo
+Rate Album	Rate Album	Oceni album
+Group by: Folder	Group by: Folder	Združi po: Mapa
+Group by: Album	Group by: Album	Združi po: Album
+Next Folder	Next Folder	Naslednja mapa
+Previous Folder	Previous Folder	Prejšnja mapa
+Wheel: Volume	Wheel: Volume	Kolesce: Glasnost
+Wheel: Brightness	Wheel: Brightness	Kolesce: Svetlost
+Could not save Favourites	Could not save Favourites	Priljubljenih ni bilo mogoče shraniti
+Added to Favourites	Added to Favourites	Dodano med priljubljene
+Removed from Favourites	Removed from Favourites	Odstranjeno iz priljubljenih
+Stopped	Stopped	Ustavljeno
+Can't play: %s	Can't play: %s	Ni mogoče predvajati: %s
+Can't play this station	Can't play this station	Te postaje ni mogoče predvajati
+Connecting…	Connecting…	Povezovanje…
+Search is too long	Search is too long	Iskanje je predolgo
+Search stations	Search stations	Išči postaje
+Favourites	Favourites	Priljubljene
+Featured	Featured	Izpostavljeno
+Top Stations	Top Stations	Najboljše postaje
+By Country	By Country	Po državi
+By Genre	By Genre	Po žanru
+Countries	Countries	Države
+Connecting to Wi-Fi…	Connecting to Wi-Fi…	Povezovanje z Wi-Fi…
+Directory unavailable	Directory unavailable	Imenik ni na voljo
+No Wi-Fi	No Wi-Fi	Ni Wi-Fi
+No stations	No stations	Ni postaj
+No favourites	No favourites	Ni priljubljenih
+Rating not saved	Rating not saved	Ocena ni shranjena
+Ratings are full	Ratings are full	Seznam ocen je poln
+Favourite not sent to the app	Favourite not sent to the app	Priljubljeno ni poslano aplikaciji
+Unrated	Unrated	Brez ocene
+1 Heart	1 Heart	1 srce
+%d Hearts	%d Hearts	Src: %d
+%d of 5	%d of 5	%d od 5
+Album changed	Album changed	Album spremenjen
+Favourite not saved	Favourite not saved	Priljubljeno ni shranjeno
+This app has no favourites	This app has no favourites	Ta aplikacija nima priljubljenih
+Top Rated	Top Rated	Najbolje ocenjeno
+Loved	Loved	Najljubše
+All Rated	All Rated	Vse ocenjeno
+Disliked	Disliked	Ni všeč
+No songs yet	No songs yet	Še ni skladb
+Hold the heart on Now Playing to rate	Hold the heart on Now Playing to rate	Za oceno zadržite srce na zaslonu Predvaja se
+No rated albums yet	No rated albums yet	Še ni ocenjenih albumov
+Upload failed, %d sent	Upload failed, %d sent	Pošiljanje ni uspelo, poslano: %d
+Scrobbles sent: %d	Scrobbles sent: %d	Poslani scrobbli: %d
+Nothing to upload	Nothing to upload	Ni ničesar za pošiljanje
+Uploading scrobbles	Uploading scrobbles	Pošiljanje scrobblov
+Already uploading	Already uploading	Pošiljanje že poteka
+Upload failed	Upload failed	Pošiljanje ni uspelo
+Connect to Wi-Fi first	Connect to Wi-Fi first	Najprej se povežite z Wi-Fi
+Waiting for Spotify	Waiting for Spotify	Čakanje na Spotify
+Spotify isn't on the card	Spotify isn't on the card	Spotify ni na kartici
+See the Q2 Pod guide to add it	See the Q2 Pod guide to add it	Kako ga dodate, preberite v priročniku Q2 Pod
+Open Spotify on your phone	Open Spotify on your phone	Odprite Spotify v telefonu
+and choose Q2	and choose Q2	in izberite Q2
+Spotify refused this account	Spotify refused this account	Spotify je zavrnil ta račun
+Its tracks can't play on the Q2	Its tracks can't play on the Q2	Njegovih skladb ni mogoče predvajati na Q2
+Playback didn't start	Playback didn't start	Predvajanje se ni začelo
+Go back and try again	Go back and try again	Pojdite nazaj in poskusite znova
+Starting playback	Starting playback	Začenjanje predvajanja
+Update Spotify on the card	Update Spotify on the card	Posodobite Spotify na kartici
+See the Q2 Pod guide	See the Q2 Pod guide	Glejte priročnik Q2 Pod
+Nothing playing	Nothing playing	Nič se ne predvaja
+Choose music in Spotify	Choose music in Spotify	Izberite glasbo v Spotify
+Liked Songs	Liked Songs	Všečne skladbe
+Queue	Queue	Čakalna vrsta
+Playback Settings	Playback Settings	Nastavitve predvajanja
+Account	Account	Račun
+Downloaded Tracks	Downloaded Tracks	Prenesene skladbe
+Downloads	Downloads	Prenosi
+Tracks	Tracks	Skladbe
+Open Spotify on your phone and choose Q2	Open Spotify on your phone and choose Q2	Odprite Spotify v telefonu in izberite Q2
+Both on the same Wi-Fi	Both on the same Wi-Fi	Oba v istem omrežju Wi-Fi
+to browse on the Q2	to browse on the Q2	za brskanje na Q2
+Downloaded Playlists	Downloaded Playlists	Preneseni seznami predvajanja
+Download Progress	Download Progress	Potek prenosa
+Storage Management	Storage Management	Upravljanje shrambe
+Download Status	Download Status	Stanje prenosa
+The latest download's progress	The latest download's progress	Potek zadnjega prenosa
+for saved playlists and download controls	for saved playlists and download controls	za shranjene sezname predvajanja in upravljanje prenosov
+Remove Playlists…	Remove Playlists…	Odstrani sezname predvajanja…
+Remove Tracks…	Remove Tracks…	Odstrani skladbe…
+Keeps login and settings	Keeps login and settings	Ohrani prijavo in nastavitve
+Track removal can make playlists incomplete	Track removal can make playlists incomplete	Zaradi odstranitve skladb so seznami predvajanja lahko nepopolni
+Pause	Pause	Premor
+Cancel Download	Cancel Download	Prekliči prenos
+Retry Failed	Retry Failed	Ponovi neuspele
+Update Download	Update Download	Posodobi prenos
+Sign Out of Spotify?	Sign Out of Spotify?	Odjava iz Spotify?
+Sign Out	Sign Out	Odjava
+Nothing here	Nothing here	Tu ni ničesar
+Selected	Selected	Izbrano
+Press to select	Press to select	Pritisnite za izbiro
+All	All	Vse
+One	One	Ena
+Download Liked Songs	Download Liked Songs	Prenesi všečne skladbe
+Download Playlist	Download Playlist	Prenesi seznam predvajanja
+For offline listening	For offline listening	Za poslušanje brez povezave
+Download Controls	Download Controls	Upravljanje prenosov
+Update, retry, pause, resume or cancel	Update, retry, pause, resume or cancel	Posodobi, ponovi, ustavi, nadaljuj ali prekliči
+Remove Selected…	Remove Selected…	Odstrani izbrano…
+Confirm the affected count	Confirm the affected count	Potrdite število
+Spotify isn't running	Spotify isn't running	Spotify ni zagnan
+Spotify didn't answer	Spotify didn't answer	Spotify ne odgovarja
+Search Spotify	Search Spotify	Išči v Spotify
+Select Tracks	Select Tracks	Izberi skladbe
+Select at least one item	Select at least one item	Izberite vsaj eno postavko
+Selection full. Remove these first	Selection full. Remove these first	Izbor je poln. Najprej odstranite te
+Boot logo must be a 320x375 JPEG	Boot logo must be a 320x375 JPEG	Zagonski logotip mora biti JPEG 320x375
+Could not save boot logo	Could not save boot logo	Zagonskega logotipa ni bilo mogoče shraniti
+Accent: Graphite	Accent: Graphite	Naglasna barva: Grafit
+Accent: Crimson	Accent: Crimson	Naglasna barva: Škrlat
+Accent: Tidal	Accent: Tidal	Naglasna barva: Tidal
+Accent: Champagne	Accent: Champagne	Naglasna barva: Šampanjec
+Accent: Cobalt	Accent: Cobalt	Naglasna barva: Kobalt
+Accent: Tangerine	Accent: Tangerine	Naglasna barva: Mandarina
+Accent: Plum	Accent: Plum	Naglasna barva: Sliva
+Accent: Ivory	Accent: Ivory	Naglasna barva: Slonovina
+Accent: Green	Accent: Green	Naglasna barva: Zelena
+Favorites	Favorites	Priljubljene
+Rated Albums	Rated Albums	Ocenjeni albumi
+Podcasts	Podcasts	Podkasti
+Audiobooks	Audiobooks	Zvočne knjige
+Groovebox can't start from the card	Groovebox can't start from the card	Groovebox se ne more zagnati s kartice
+Groovebox is not on the card	Groovebox is not on the card	Groovebox ni na kartici
+Play a Tidal album or playlist first	Play a Tidal album or playlist first	Najprej predvajajte album ali seznam predvajanja Tidal
+Downloading %u of %u. Press to stop	Downloading %u of %u. Press to stop	Prenašanje %u od %u. Pritisnite za ustavitev
+Download Playing Songs	Download Playing Songs	Prenesi predvajane skladbe
+Tidal Cache full: %u of %u song saved	Tidal Cache full: %u of %u song saved	Predpomnilnik Tidal poln: shranjeno %u od %u
+Tidal Cache full: %u of %u songs saved	Tidal Cache full: %u of %u songs saved	Predpomnilnik Tidal poln: shranjeno %u od %u
+Downloaded %u of %u song	Downloaded %u of %u song	Preneseno: %u od %u
+Downloaded %u of %u songs	Downloaded %u of %u songs	Preneseno: %u od %u
+Nothing to play next	Nothing to play next	Ni naslednjih skladb
+Queue changed	Queue changed	Čakalna vrsta spremenjena
+Never	Never	Nikoli
+USB DAC Charging: %s	USB DAC Charging: %s	Polnjenje USB DAC: %s
+Spectrum	Spectrum	Spekter
+Oscilloscope	Oscilloscope	Osciloskop
+VU Meters	VU Meters	Merilniki VU
+Halo	Halo	Halo
+Pulsar	Pulsar	Pulzar
+Contour	Contour	Kontura
+More	More	Več
+A-B Repeat	A-B Repeat	Ponavljanje A-B
+Speed	Speed	Hitrost
+*Only for 48 kHz and below	*Only for 48 kHz and below	*Le do 48 kHz
+No lyrics	No lyrics	Ni besedila
+Genre	Genre	Žanr
+Size	Size	Velikost
+Year	Year	Leto
+Format	Format	Oblika
+Bit Depth	Bit Depth	Bitna globina
+Bit Rate	Bit Rate	Bitna hitrost
+Sample Rate	Sample Rate	Vzorčna frekvenca
+Auto Scan	Auto Scan	Samodejni pregled
+Update Library Now	Update Library Now	Posodobi knjižnico zdaj
+Scan Folders	Scan Folders	Preglej mape
+OK	OK	V redu
+Bluetooth	Bluetooth	Bluetooth
+Key Lock	Key Lock	Zaklep tipk
+Low Gain	Low Gain	Nizko ojačenje
+USB Storage	USB Storage	Pomnilnik USB
+Playback	Playback	Predvajanje
+Custom	Custom	Po meri
+Reset	Reset	Ponastavi
+Open this address in a browser:	Open this address in a browser:	Odprite ta naslov v brskalniku:
+Downloaded	Downloaded	Preneseno
+Baidu Netdisk	Baidu Netdisk	Baidu Netdisk
+Sign In	Sign In	Prijava
+Scan with the Baidu app to sign in	Scan with the Baidu app to sign in	Za prijavo optično preberite kodo v aplikaciji Baidu
+Baidu encryption protects your privacy	Baidu encryption protects your privacy	Šifriranje Baidu varuje vašo zasebnost
+Bluetooth RF test: connect from a computer	Bluetooth RF test: connect from a computer	Preskus RF Bluetooth: povežite se z računalnika
+Press Next to exit	Press Next to exit	Za izhod pritisnite Naprej
+Brightness Test	Brightness Test	Preskus svetlosti
+Next	Next	Naprej
+Bluetooth Test	Bluetooth Test	Preskus Bluetooth
+Down	Down	Dol
+Up	Up	Gor
+Swipe Left	Swipe Left	Podrsaj levo
+Swipe Right	Swipe Right	Podrsaj desno
+Key Test	Key Test	Preskus tipk
+Headphone Test	Headphone Test	Preskus slušalk
+Plug in single-ended headphones	Plug in single-ended headphones	Priklopite slušalke z nesimetričnim izhodom
+Play (left male, right female)	Play (left male, right female)	Predvajaj (levo moški, desno ženska)
+Bluetooth Receiver Test	Bluetooth Receiver Test	Preskus sprejemnika Bluetooth
+Battery Test	Battery Test	Preskus baterije
+Battery:	Battery:	Baterija:
+Charging:	Charging:	Polnjenje:
+microSD Test	microSD Test	Preskus microSD
+Touch Test	Touch Test	Preskus dotika
+Wi-Fi Test	Wi-Fi Test	Preskus Wi-Fi
+Artist	Artist	Izvajalec
+Export Playlists	Export Playlists	Izvozi sezname predvajanja
+Playlist	Playlist	Seznam predvajanja
+0 songs	0 songs	0 skladb
+System	System	Sistem
+Rockbox	Rockbox	Rockbox
+Baker Island	Baker Island	Otok Baker
+Midway	Midway	Midway
+Honolulu	Honolulu	Honolulu
+Anchorage	Anchorage	Anchorage
+Los Angeles	Los Angeles	Los Angeles
+Denver	Denver	Denver
+Mexico City	Mexico City	Ciudad de México
+New York	New York	New York
+Halifax	Halifax	Halifax
+St. John's	St. John's	St. John's
+Buenos Aires	Buenos Aires	Buenos Aires
+Azores	Azores	Azori
+London	London	London
+Amsterdam	Amsterdam	Amsterdam
+Bucharest	Bucharest	Bukarešta
+Kuwait	Kuwait	Kuvajt
+Tehran	Tehran	Teheran
+Muscat	Muscat	Maskat
+Kabul	Kabul	Kabul
+Karachi	Karachi	Karači
+Dhaka	Dhaka	Daka
+Bangkok	Bangkok	Bangkok
+Shanghai	Shanghai	Šanghaj
+Tokyo	Tokyo	Tokio
+Adelaide	Adelaide	Adelaide
+Sydney	Sydney	Sydney
+Fiji	Fiji	Fidži
+Marquesas	Marquesas	Marquesas
+South Georgia	South Georgia	Južna Georgia
+Colombo	Colombo	Kolombo
+Kathmandu	Kathmandu	Katmandu
+Yangon	Yangon	Yangon
+Eucla	Eucla	Eucla
+L. Howe	L. Howe	L. Howe
+Noumea	Noumea	Nouméa
+Chatham	Chatham	Chatham
+Tongatapu	Tongatapu	Tongatapu
+Kiritimati	Kiritimati	Kiritimati
+Chicago	Chicago	Chicago
+Phoenix	Phoenix	Phoenix
+Kolkata	Kolkata	Kolkata
+Brisbane	Brisbane	Brisbane
+Auckland	Auckland	Auckland
+Status Bar	Status Bar	Vrstica stanja
+Minimal	Minimal	Minimalna
+Modern	Modern	Sodobna
+Classic	Classic	Klasična
+Show Wordmark	Show Wordmark	Pokaži logotip
+Library on Home	Library on Home	Knjižnica na začetnem zaslonu
+Row Preview	Row Preview	Predogled vrstice
+Row Art	Row Art	Ovitki v vrsticah
+Classic Blue	Classic Blue	Klasična modra

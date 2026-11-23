@@ -1,0 +1,1181 @@
+# Türkçe
+History_record	History record	Geçmiş kaydı
+about_cardcap	Card Capacity	Kart kapasitesi
+about_cardremain	Remaining	Kalan
+about_ipaddr	IP Address	IP adresi
+about_model	Model	Model
+about_more	*Our sincere thanks go to the DiamondBond team and all its enthusiasts for their ingenuity, outstanding solutions, and generous contributions.	*DiamondBond ekibine ve yaratıcılıkları, olağanüstü çözümleri ve cömert katkıları için tüm meraklılarına içten teşekkürlerimizi sunarız.
+about_sn	Serial Number	Seri numarası
+about_version	Version	Sürüm
+about_wifimac	Wi-Fi MAC	Wi-Fi MAC
+album	Album	Albüm
+album	Album	Albüm
+albumsinger	Album artist	Albüm sanatçısı
+allmusic	All Songs	Tüm şarkılar
+audio_settings	Audio settings	Ses ayarları
+baidu_login	Log In	Giriş yap
+baidu_login_tips1	Please use Baidu Netdisk or Baidu App to scan the code to login	Giriş yapmak için kodu Baidu Netdisk veya Baidu uygulamasıyla tarayın
+baidu_login_tips2	Baidu encryption technology protects your privacy and security	Baidu şifrelemesi gizliliğinizi ve güvenliğinizi korur
+baidu_loginout	Log Out	Çıkış yap
+baidunet_floderinfo_failed	Failed to get file list	Dosya listesi alınamadı
+batch_addplaylist	Add to Playlist	Çalma listesine ekle
+bt_adjvol	Bluetooth Headset Volume Control	Bluetooth kulaklık ses denetimi
+bt_compatiabledev	Compatible Device	Uyumlu cihaz
+bt_name	Bluetooth Name	Bluetooth adı
+bt_paireddev	Paired Device	Eşleşen cihaz
+bt_quality	Quality	Kalite
+bt_search	Scan now	Şimdi tara
+btcode_aac	AAC	AAC
+btcode_aptx	aptX	aptX
+btcode_aptxhd	aptX HD	aptX HD
+btcode_ldacauto	LDAC Connection (auto)	LDAC bağlantısı (otomatik)
+btcode_ldachq	LDAC HQ	LDAC HQ
+btcode_ldacst	LDAC Standard	LDAC Standart
+btcode_sbc	SBC	SBC
+btcode_sbchq	SBC HQ	SBC HQ
+custom_eq	Custom	Özel
+display_backlight	Brightness	Parlaklık
+display_lighttime	Screen Off Time	Ekran kapanma süresi
+display_screenlock	Lock Screen	Ekran kilidi
+dsdmode_d2p	D2P	D2P
+dsdmode_dop	DOP	DOP
+dsdmode_native	Native	Yerel
+eq_blues	Blues	Blues
+eq_classical	Classical	Klasik
+eq_club	Club	Kulüp
+eq_custom1	Custom1	Özel 1
+eq_custom2	Custom2	Özel 2
+eq_custom3	Custom3	Özel 3
+eq_dance	Dance	Dans
+eq_doublebass	Sub-bass	Alt bas
+eq_jazz	Jazz	Caz
+eq_metal	Metal	Metal
+eq_only48kmsg	EQ only for files below 48kHz.	EQ yalnızca 48 kHz altı dosyalarda çalışır.
+eq_pop	Pop	Pop
+eq_reset	Reset	Sıfırla
+eq_rock	Rock	Rock
+eq_vocal	Vocal	Vokal
+fav	My Fav	Favorilerim
+filter_delayfast	Low Delay Fast Roll-off	Düşük gecikme, hızlı kesim
+filter_delayslow	Low Delay Slow Roll-off	Düşük gecikme, yavaş kesim
+filter_fast	Fast Roll-off	Hızlı kesim
+filter_slow	Slow Roll-off	Yavaş kesim
+frequentplay	Frequent	Sık çalınanlar
+gain_high	High	Yüksek
+gain_low	Low	Düşük
+genre	Genre	Tür
+genre_statistics	Total %d songs	Toplam %d şarkı
+hr	Hi-Res	Hi-Res
+keyboard_keyword	Please enter keyword	Anahtar sözcük girin
+keyboard_netname	Please enter network name	Ağ adını girin
+keyboard_password	Please enter password	Parolayı girin
+keylock_all	Lock Volume & Buttons	Ses ve tuşları kilitle
+keylock_info	Only effective when the screen is off	Yalnızca ekran kapalıyken etkin
+keylock_info2	Effective on Lockscreen and when Screen Off	Kilit ekranında ve ekran kapalıyken etkin
+keylock_key	Lock Buttons Only	Yalnızca tuşları kilitle
+keylock_volume	Lock Volume Only	Yalnızca sesi kilitle
+lan_english	English	English
+lan_french	Français	Français
+lan_german	Deutsch	Deutsch
+lan_italian	Italiano	Italiano
+lan_japanese	日本語	日本語
+lan_korean	한국어	한국어
+lan_polish	Polski	Polski
+lan_russian	Русский	Русский
+lan_simplified	简体中文	简体中文
+lan_spanish	español	español
+lan_thai	ภาษาไทย	ภาษาไทย
+lan_traditional	繁體中文	繁體中文
+lan_ukrainian	Українська	Українська
+lighttime_15s	15s	15 sn
+lighttime_1min	1min	1 dk
+lighttime_2min	2min	2 dk
+lighttime_30min	30min	30 dk
+lighttime_30s	30s	30 sn
+lighttime_5min	5min	5 dk
+lighttime_lyricmode	Lyrics mode	Şarkı sözü modu
+lighttime_off	Off	Kapalı
+list_baidu	Baidu Netdisk	Baidu Netdisk
+list_tidal	TIDAL	TIDAL
+local_album	Albums	Albümler
+local_allmusic	Local Songs	Yerel şarkılar
+local_allsongs	Songs	Şarkılar
+local_fav	My Fav	Favorilerim
+local_frequentplay	Frequent	Sık çalınanlar
+local_genre	Genres	Türler
+local_hr	Hi-Res	Hi-Res
+local_playlist	Playlists	Çalma listeleri
+local_recentadd	Recently Added	Son eklenenler
+local_recentplay	Recent	Son çalınanlar
+local_songer	Artists	Sanatçılar
+local_upmusic	Update Library	Kitaplığı güncelle
+login_out	Logout	Çıkış
+memplay_location	Location	Konum
+memplay_off	Off	Kapalı
+memplay_track	Track	Parça
+msg_actionnotsupport	Non-local songs,not currently supported	Yerel olmayan şarkılar şu an desteklenmiyor
+msg_actionscan	Scan music?	Müzik taransın mı?
+msg_add_task	Please enter the URL of the file you want to download	İndirmek istediğiniz dosyanın URL'sini girin
+msg_addfailed	Adding Failed	Ekleme başarısız
+msg_addfavsuccess	Added To Fav	Favorilere eklendi
+msg_addplaylistsuccess	Added To Playlist	Çalma listesine eklendi
+msg_autoshutdown	Shutdown	Kapanma
+msg_btabnormal	Bluetooth abnormal	Bluetooth hatası
+msg_btinit_run	Bluetooth Starting	Bluetooth başlatılıyor
+msg_btreconnect	Reconnect Bluetooth?	Bluetooth yeniden bağlansın mı?
+msg_cardeject	Audio Disconnected	Ses bağlantısı kesildi
+msg_cardinsert	Audio Connected	Ses bağlandı
+msg_checkfw	Checking FW	Bellenim denetleniyor
+msg_checkfwerr	FW. Check Error	Bellenim denetim hatası
+msg_closesynclink	Please close SyncLink	Lütfen SyncLink'i kapatın
+msg_confirmupdate	Confirm Update?	Güncelleme onaylansın mı?
+msg_connected	Connected	Bağlandı
+msg_connecting	Connecting	Bağlanıyor
+msg_delalbum	Delete Album?	Albüm silinsin mi?
+msg_delalbumfailed	Failed To Delete Album	Albüm silinemedi
+msg_delalbumsuccess	Album Deleted	Albüm silindi
+msg_delartist	Delete Artist?	Sanatçı silinsin mi?
+msg_delartistsuccess	Artist Deleted	Sanatçı silindi
+msg_delete_task	Are you sure you want to delete the download task?	İndirme görevini silmek istediğinizden emin misiniz?
+msg_deletesource	Also delete source file	Kaynak dosyayı da sil
+msg_delfile	Are you sure you want to delete this file?	Bu dosyayı silmek istediğinizden emin misiniz?
+msg_delfile	Delete File?	Dosya silinsin mi?
+msg_delfilefailed	Failed To Delete File	Dosya silinemedi
+msg_delfilesuccess	File Deleted	Dosya silindi
+msg_delgenre	Delete Genre?	Tür silinsin mi?
+msg_delgenresuccess	Genre Deleted	Tür silindi
+msg_delplaylist	Delete Playlist?	Çalma listesi silinsin mi?
+msg_delplaylistfailed	Failed To Delete Playlist	Çalma listesi silinemedi
+msg_delplaylistsuccess	Playlist Deleted	Çalma listesi silindi
+msg_delsong	Delete Song?	Şarkı silinsin mi?
+msg_delsongfailed	Failed To Delete Song	Şarkı silinemedi
+msg_delsongsuccess	Song Deleted	Şarkı silindi
+msg_disconnected	Disconnected	Bağlantı kesildi
+msg_disonnectbt	Please disconnect the bluetooth device	Lütfen Bluetooth cihazının bağlantısını kesin
+msg_downloadpath	Download path is	İndirme yolu:
+msg_exist_task	The download task already exists	İndirme görevi zaten var
+msg_exitairplay	Quit AirPlay?	AirPlay'den çıkılsın mı?
+msg_exportplaylist	Export Playlist?	Liste dışa aktarılsın mı?
+msg_exportsuccess	Export successful	Dışa aktarma başarılı
+msg_factorysuccess	Restore to factory settings succeeded	Fabrika ayarlarına dönüldü
+msg_favsuccess	Added To Fav	Favorilere eklendi
+msg_file_exist	The file already exists	Dosya zaten var
+msg_importplaylist	Import Playlists?	Çalma listeleri içe aktarılsın mı?
+msg_importsuccess	Successfully imported	Başarıyla içe aktarıldı
+msg_initsetsuccess	All settings initialized successfully	Tüm ayarlar sıfırlandı
+msg_latestfw	Latest Fw. Installed	En son bellenim yüklü
+msg_linkerror	WiFi Connection Error	Wi-Fi bağlantı hatası
+msg_lowarn	Line Out sets max volume,continue?	Line Out sesi en yükseğe ayarlar, devam edilsin mi?
+msg_lowpower	Low Battery	Pil zayıf
+msg_namenull	The name can't be empty	Ad boş olamaz
+msg_netnameerr	Network Must Be Named	Ağın adı olmalı
+msg_no	Cancel	İptal
+msg_no_storage	Storage is full.Some songs couldn't be added.	Depolama dolu. Bazı şarkılar eklenemedi.
+msg_noheadset	Playback is disabled without headphones.Please insert headphones.	Kulaklık olmadan oynatma kapalı. Lütfen kulaklık takın.
+msg_nosongs	No songs in this folder	Bu klasörde şarkı yok
+msg_notalbuminfo	This file has no Album data	Bu dosyada albüm bilgisi yok
+msg_notfile	File Not Found	Dosya bulunamadı
+msg_notfolder	Folder not found	Klasör bulunamadı
+msg_notfoundfw	Fw. Not Found	Bellenim bulunamadı
+msg_notmemory	Memory is not enough	Bellek yetersiz
+msg_notmemory	Out of memory	Bellek doldu
+msg_notnetwork	Network Disconnected	Ağ bağlantısı kesildi
+msg_nototg	No OTG Found	OTG bulunamadı
+msg_notplaylist	Playlist Not Found	Çalma listesi bulunamadı
+msg_notsongerinfo	This file has no Artist data	Bu dosyada sanatçı bilgisi yok
+msg_notsonglist	No Song List	Şarkı listesi yok
+msg_notspecdir	Folder not specified	Klasör belirtilmedi
+msg_notsupport	Not Supported	Desteklenmiyor
+msg_notsupportdel	Can't be removed	Kaldırılamaz
+msg_nottf	No TF Card Found	TF kart bulunamadı
+msg_otgeject	OTG Disconnected	OTG bağlantısı kesildi
+msg_otginfoerr	Failed To Get Version Info	Sürüm bilgisi alınamadı
+msg_otginsert	OTG Connected	OTG bağlandı
+msg_paircode	Bluetooth Code	Bluetooth kodu
+msg_paired	Paired	Eşleşti
+msg_playlistexist	Playlist Already Exists	Çalma listesi zaten var
+msg_playlistfull	Could not create playlist	Çalma listesi oluşturulamadı
+msg_poweroff	Shut Down?	Kapatılsın mı?
+msg_resetdbsuccess	Reset completed	Sıfırlama tamamlandı
+msg_restarting	Restarting	Yeniden başlatılıyor
+msg_shortpasswd	8 Digits PIN At Least	En az 8 haneli PIN
+msg_start_download_task	start the download task	İndirmeyi başlat
+msg_stop_download_task	stop the download task	İndirmeyi durdur
+msg_testmode	Enter test mode?	Test moduna girilsin mi?
+msg_tfeject	TF Card Removed	TF kart çıkarıldı
+msg_tfinsert	TF Card Inserted	TF kart takıldı
+msg_unpaired	Unpaired	Eşleşme kaldırıldı
+msg_unpairing	unpair?	Eşleşme kaldırılsın mı?
+msg_unsupportformat	Unsupported format	Desteklenmeyen biçim
+msg_update	Confirmed	Onaylandı
+msg_wificancelsave	Delete Record?	Kayıt silinsin mi?
+msg_wifidisconnect	Disconnect Now?	Şimdi bağlantı kesilsin mi?
+msg_yes	OK	Tamam
+navigation_all	All	Tümü
+netservice_airplay	AirPlay	AirPlay
+netservice_dlna	DLNA	DLNA
+netservice_wifitrans	Wi-Fi File Transfer	Wi-Fi dosya aktarımı
+no_search	No search results	Arama sonucu yok
+not_allmusic	Currently no songs	Şu an şarkı yok
+otgdownload_percent	FW Downloaded	Bellenim indirildi
+outputway	Output Options	Çıkış seçenekleri
+play_all	Play All	Tümünü çal
+player_abrepeat	AB Repeat	A-B tekrarı
+player_albuminfo	Look up Album	Albümü ara
+player_bitdepth	Bit Depth	Bit derinliği
+player_bitrate	Bitrate	Bit hızı
+player_delete	Delete Song	Şarkıyı sil
+player_encoding	Encoding	Kodlama
+player_era	Year	Yıl
+player_filesize	File Size	Dosya boyutu
+player_location	Location	Konum
+player_msgmul	*Affecting only files below 48khz	*Yalnızca 48 kHz altı dosyaları etkiler
+player_multiple	Multiple Speed	Oynatma hızı
+player_nolyric	No Lyrics	Şarkı sözü yok
+player_onlinesearch	Download Cover & Lyrics	Kapak ve sözleri indir
+player_playlist	Queue	Sıra
+player_samplerate	Sample Rate	Örnekleme hızı
+player_songerinfo	Look up Artist	Sanatçıyı ara
+player_unknown	Unknown	Bilinmeyen
+player_unknown	Unknown Artist	Bilinmeyen sanatçı
+playlist	Playlist	Çalma listesi
+playlist_create	New playlist	Yeni çalma listesi
+playlist_export	Export playlist	Çalma listesini dışa aktar
+playlist_import	Import playlist	Çalma listesini içe aktar
+playmode_listplay	List Play	Liste çalma
+playmode_repeatall	Repeat All	Tümünü tekrarla
+playmode_repeattrack	Repeat Track	Parçayı tekrarla
+playmode_shuffle	Shuffle	Karışık
+playset_balance	Channel Balance	Kanal dengesi
+playset_bootvol	Default Volume	Varsayılan ses
+playset_covermode	Enlarged Album Art	Büyük albüm kapağı
+playset_dsdoutput	DSD Output Mode	DSD çıkış modu
+playset_eq	EQ	EQ
+playset_filter	Digital Filters	Dijital filtreler
+playset_foldercover	Folder Album Cover	Klasör albüm kapağı
+playset_folderjump	Folder Skip	Klasör atlama
+playset_gain	Gain	Kazanç
+playset_gapless	Gapless	Kesintisiz
+playset_maxvol	Max Volume	En yüksek ses
+playset_memplay	Memory Playback	Oynatmayı hatırla
+playset_noplay	Require Output (Beta)	Çıkış gerekli (Beta)
+playset_playmode	Play Mode	Oynatma modu
+playset_replaygain	ReplayGain	ReplayGain
+playset_usbaudiovol	USB Audio Output	USB ses çıkışı
+playset_volcover	Volume and Album Display	Ses ve albüm gösterimi
+powerm_deep_off	Standby	Bekleme
+powerm_sleep	Sleep Timer	Uyku zamanlayıcı
+recentadd	Recently Added	Son eklenenler
+recentplay	Recent	Son çalınanlar
+rename	Rename	Yeniden adlandır
+renamesuccess	Successfully renamed	Yeniden adlandırıldı
+replaygain_track	Song	Şarkı
+reset_factory	Full Factory Reset	Tam fabrika sıfırlaması
+reset_initdatabase	Reset Database	Veritabanını sıfırla
+reset_initset	Reset Settings Only	Yalnızca ayarları sıfırla
+scan_automatic	Automatic Update	Otomatik güncelleme
+scan_now	Scan music now	Müziği şimdi tara
+scan_now	Scan music now	Müziği şimdi tara
+scan_spec	Scan specified folders	Belirli klasörleri tara
+scan_spec	Scan specified folders	Belirli klasörleri tara
+scan_startscan	Scan	Tara
+scan_updatefinish	Library Updated,%d Updated	Kitaplık güncellendi, %d güncellendi
+scan_updating	Updating No.%d	Güncelleniyor: %d
+scover_cover	Cover	Kapak
+scover_lyric	Lyrics	Şarkı sözleri
+screenlock_about	Custom Lock Screen	Özel kilit ekranı
+screenlock_info1	1. Put the pictures in a folder named "lockscreenimage" at the top of the card.	1. Resimleri kartın ana dizinindeki "lockscreenimage" adlı klasöre koyun.
+screenlock_info2	2. PNG or JPG, exactly 375 x 320 pixels, under 1 MB each.	2. PNG veya JPG, tam 375 x 320 piksel, her biri 1 MB'tan küçük.
+screenlock_info3	3. Up to 5 pictures.	3. En fazla 5 resim.
+screenlock_timeshow	Show Time	Saati göster
+search_tips1	Search for music,artists,albums,genres	Müzik, sanatçı, albüm, tür ara
+search_track	Track	Parça
+singerbyalbum	Sort by album artist	Albüm sanatçısına göre sırala
+singerbysong	Sort by song artist	Şarkı sanatçısına göre sırala
+small_album	Albums	Albümler
+small_coverflow	Album Wall	Albüm duvarı
+small_folder	Folder	Klasör
+small_local	Local Songs	Yerel şarkılar
+small_playing	Now Playing	Şimdi çalıyor
+small_playset	Playback	Oynatma
+small_stream	Streaming	Akış
+small_sysset	System	Sistem
+songer	Artist	Sanatçı
+sort_addtime	Time added	Eklenme zamanı
+sort_alphabet	Alphabetical	Alfabetik
+sort_filename	File name	Dosya adı
+sort_format	File format	Dosya biçimi
+sort_time_asc	Time added (ascending)	Eklenme zamanı (artan)
+sort_time_desc	Time added (descending)	Eklenme zamanı (azalan)
+standbyoff_10min	10min	10 dk
+standbyoff_1min	1min	1 dk
+standbyoff_3min	3min	3 dk
+standbyoff_5min	5min	5 dk
+standbyoff_deep	Auto-standby	Otomatik bekleme
+standbyoff_deepinfo	After 5 minute of idle,device will go into standby mode.	5 dakika işlem yapılmazsa cihaz bekleme moduna geçer.
+standbyoff_saver	Auto-shutdown	Otomatik kapanma
+synclink_off	Off	Kapalı
+system_about	About	Hakkında
+system_carmode	In-Vehicle Mode	Araç modu
+system_display	Display	Ekran
+system_general	General	Genel
+system_keylock	Buttons Lock	Tuş kilidi
+system_keytone	Key Tone	Tuş sesi
+system_language	Language	Dil
+system_navshow	Show Navigation Bar	Gezinme çubuğunu göster
+system_netservice	Network	Ağ
+system_powermanager	Power	Güç
+system_prove	Certification	Sertifika
+system_reset	Reset Settings	Ayarları sıfırla
+system_sys	System	Sistem
+system_time	Date & Time	Tarih ve saat
+system_update	System Update	Sistem güncellemesi
+system_wheelmode	Wheel Function	Tekerlek işlevi
+system_wifiset	Wireless	Kablosuz
+timedate_24h	24-Hour	24 saat
+timedate_auto	Automatic Time Set	Saati otomatik ayarla
+timedate_manual	Set Time Manually	Saati elle ayarla
+timezone_gmt+1	(GMT+01:00)Europe/Amsterdam	(GMT+01:00)Europe/Amsterdam
+timezone_gmt+10	(GMT+10:00)Australia/Sydney	(GMT+10:00)Australia/Sydney
+timezone_gmt+12	(GMT+12:00)Pacific/Fiji	(GMT+12:00)Pacific/Fiji
+timezone_gmt+2	(GMT+02:00)Europe/Bucharest	(GMT+02:00)Europe/Bucharest
+timezone_gmt+3	(GMT+03:00)Asia/Kuwait	(GMT+03:00)Asia/Kuwait
+timezone_gmt+3_30	(GMT+03:30)Asia/Tehran	(GMT+03:30)Asia/Tehran
+timezone_gmt+4	(GMT+04:00)Asia/Muscat	(GMT+04:00)Asia/Muscat
+timezone_gmt+4_30	(GMT+04:30)Asia/Kabul	(GMT+04:30)Asia/Kabul
+timezone_gmt+5	(GMT+05:00)Asia/Karachi	(GMT+05:00)Asia/Karachi
+timezone_gmt+6	(GMT+06:00)Asia/Almaty	(GMT+06:00)Asia/Almaty
+timezone_gmt+7	(GMT+07:00)Asia/Bangkok	(GMT+07:00)Asia/Bangkok
+timezone_gmt+8	(GMT+08:00)Asia/Shanghai	(GMT+08:00)Asia/Shanghai
+timezone_gmt+9	(GMT+09:00)Asia/Tokyo	(GMT+09:00)Asia/Tokyo
+timezone_gmt+9_30	(GMT+09:30)Australia/Adelaide	(GMT+09:30)Australia/Adelaide
+timezone_gmt-0	(GMT 00:00)Europe/London	(GMT 00:00)Europe/London
+timezone_gmt-1	(GMT-01:00)Atlantic/Azores	(GMT-01:00)Atlantic/Azores
+timezone_gmt-10	(GMT-10:00)Pacific/Honolulu	(GMT-10:00)Pacific/Honolulu
+timezone_gmt-11	(GMT-11:00)Pacific/Midway	(GMT-11:00)Pacific/Midway
+timezone_gmt-12	(GMT-12:00)Pacific/Kwajalein	(GMT-12:00)Pacific/Kwajalein
+timezone_gmt-3	(GMT-03:00)America/Argentina/Buenos_Aires	(GMT-03:00)America/Argentina/Buenos_Aires
+timezone_gmt-3_30	(GMT-03:30)America/St_Johns	(GMT-03:30)America/St_Johns
+timezone_gmt-4	(GMT-04:00)Canada/Atlantic	(GMT-04:00)Canada/Atlantic
+timezone_gmt-5	(GMT-05:00)America/New_York	(GMT-05:00)America/New_York
+timezone_gmt-6	(GMT-06:00)America/Mexico_City	(GMT-06:00)America/Mexico_City
+timezone_gmt-7	(GMT-07:00)America/Denver	(GMT-07:00)America/Denver
+timezone_gmt-8	(GMT-08:00)America/Tijuana	(GMT-08:00)America/Tijuana
+timezone_gmt-9	(GMT-09:00)America/Anchorage	(GMT-09:00)America/Anchorage
+timezone_select	Time Zone Selection	Saat dilimi seçimi
+title_downloaded	Downloaded	İndirilenler
+title_downloading	Downloading	İndiriliyor
+title_more	More	Daha fazla
+title_sort	List sort order	Liste sıralaması
+update_online	Network update	Ağ güncellemesi
+update_tf	TF card update	TF kart güncellemesi
+usb_chargeswitch	USB DAC Charging	USB DAC şarjı
+usbmode_audio	USB AUDIO	USB SES
+usbmode_connect	USB Connected	USB bağlandı
+usbmode_dac	USB DAC	USB DAC
+usbmode_disconnect	USB Disconnected	USB bağlantısı kesildi
+usbmode_storge	USB Storage	USB depolama
+usbvol_adjust	Volume Variable	Değişken ses
+usbvol_fixed	Volume Fixed	Sabit ses
+wheelmode_menu	Menu Mode	Menü modu
+wheelmode_volume	Volume Mode	Ses modu
+wifi_addnetwork	Add Network	Ağ ekle
+wifi_choice	Select Network	Ağ seç
+wifi_scan	Scanning	Taranıyor
+wifiset_bt	Bluetooth	Bluetooth
+wifiset_synclink	SyncLink	SyncLink
+wifiset_wifi	Wi-Fi	Wi-Fi
+wifits_info1	Enter the following URL into your internet browser:	Şu URL'yi internet tarayıcınıza girin:
+Search	Search	Ara
+Streaming	Streaming	Akış
+Library's Games	Library's Games	Kitaplık → Oyunlar
+Library's Apps	Library's Apps	Kitaplık → Uygulamalar
+Network settings	Network settings	Ağ ayarları
+Wait until the App Store finishes	Wait until the App Store finishes	App Store bitene kadar bekleyin
+It isn't on the card	It isn't on the card	Kartta yok
+It couldn't start	It couldn't start	Başlatılamadı
+Stop %s	Stop %s	%s uygulamasını durdur
+Loading…	Loading…	Yükleniyor…
+More…	More…	Daha fazla…
+Working…	Working…	Çalışıyor…
+Starting %s…	Starting %s…	%s başlatılıyor…
+Retry	Retry	Yeniden dene
+Install it again in Library → App Store	Install it again in Library → App Store	Kitaplık → App Store'dan yeniden yükleyin
+Cancel	Cancel	İptal
+%s isn't running	%s isn't running	%s çalışmıyor
+%s didn't answer	%s didn't answer	%s yanıt vermedi
+Too long	Too long	Çok uzun
+%s stopped	%s stopped	%s durduruldu
+%s isn't on the card	%s isn't on the card	%s kartta yok
+Apps	Apps	Uygulamalar
+No apps	No apps	Uygulama yok
+Not running	Not running	Çalışmıyor
+No code yet	No code yet	Henüz kod yok
+Connect the Q2 to Wi-Fi	Connect the Q2 to Wi-Fi	Q2'yi Wi-Fi'ye bağlayın
+Open it again	Open it again	Yeniden açın
+Wait a moment	Wait a moment	Biraz bekleyin
+Then come back here	Then come back here	Sonra buraya dönün
+Scan with your phone's	Scan with your phone's	Telefonunuzun
+Scan with your	Scan with your	Telefonunuzun
+camera	camera	kamerasıyla tarayın
+phone's camera	phone's camera	kamerasıyla tarayın
+or open	or open	veya açın
+PIN	PIN	PIN
+Couldn't import %s	Couldn't import %s	%s içe aktarılamadı
+Playlists updated	Playlists updated	Çalma listeleri güncellendi
+No memory card	No memory card	Hafıza kartı yok
+Games	Games	Oyunlar
+%d update	%d update	%d güncelleme
+%d updates	%d updates	%d güncelleme
+INSTALL	INSTALL	YÜKLE
+UPDATE	UPDATE	GÜNCELLE
+INSTALLED	INSTALLED	YÜKLÜ
+AM	AM	ÖÖ
+PM	PM	ÖS
+Jan	Jan	Oca
+Feb	Feb	Şub
+Mar	Mar	Mar
+Apr	Apr	Nis
+May	May	May
+Jun	Jun	Haz
+Jul	Jul	Tem
+Aug	Aug	Ağu
+Sep	Sep	Eyl
+Oct	Oct	Eki
+Nov	Nov	Kas
+Dec	Dec	Ara
+The card is in use over USB	The card is in use over USB	Kart USB üzerinden kullanılıyor
+Storage unavailable	Storage unavailable	Depolama kullanılamıyor
+The card is full	The card is full	Kart dolu
+Couldn't save	Couldn't save	Kaydedilemedi
+Saved to battery-log.txt	Saved to battery-log.txt	battery-log.txt dosyasına kaydedildi
+Battery History	Battery History	Pil geçmişi
+Unplug to start	Unplug to start	Başlamak için fişi çekin
+Export Log	Export Log	Günlüğü dışa aktar
+Card theme turned off after a failed start	Card theme turned off after a failed start	Başarısız açılıştan sonra kart teması kapatıldı
+Card theme removed. Restart to finish	Card theme removed. Restart to finish	Kart teması kaldırıldı. Tamamlamak için yeniden başlatın
+Card theme file can't be used	Card theme file can't be used	Kart teması dosyası kullanılamıyor
+Card theme saved. Restart to apply	Card theme saved. Restart to apply	Kart teması kaydedildi. Uygulamak için yeniden başlatın
+Could not save card theme	Could not save card theme	Kart teması kaydedilemedi
+Done	Done	Bitti
+space	space	boşluk
+New Playlist	New Playlist	Yeni çalma listesi
+Playlist Name	Playlist Name	Çalma listesi adı
+Rename	Rename	Yeniden adlandır
+Songs	Songs	Şarkılar
+Artists	Artists	Sanatçılar
+Albums	Albums	Albümler
+Genres	Genres	Türler
+Off	Off	Kapalı
+On	On	Açık
+%d of %d songs	%d of %d songs	%d / %d şarkı
+Updating Library	Updating Library	Kitaplık güncelleniyor
+Connected	Connected	Bağlandı
+Eject before disconnecting	Eject before disconnecting	Bağlantıyı kesmeden önce çıkarın
+%d:%02d AM	%d:%02d AM	%d:%02d ÖÖ
+%d:%02d PM	%d:%02d PM	%d:%02d ÖS
+Save	Save	Kaydet
+Sort: Album	Sort: Album	Sıralama: Albüm
+Sort: Artist	Sort: Artist	Sıralama: Sanatçı
+Sort: Recently Added	Sort: Recently Added	Sıralama: Son eklenen
+Sort: Most Played	Sort: Most Played	Sıralama: En çok çalınan
+Sort: Random	Sort: Random	Sıralama: Rastgele
+Sort: Rating	Sort: Rating	Sıralama: Puan
+Sort: Year	Sort: Year	Sıralama: Yıl
+%u song	%u song	%u şarkı
+%u songs	%u songs	%u şarkı
+All albums	All albums	Tüm albümler
+Preparing artwork… %d/%d	Preparing artwork… %d/%d	Kapaklar hazırlanıyor… %d/%d
+Update Library first	Update Library first	Önce kitaplığı güncelleyin
+%u Song	%u Song	%u şarkı
+%u Songs	%u Songs	%u şarkı
+%u Album	%u Album	%u albüm
+%u Albums	%u Albums	%u albüm
+%u Game	%u Game	%u oyun
+%u Games	%u Games	%u oyun
+%u Service	%u Service	%u hizmet
+%u Services	%u Services	%u hizmet
+%u.%u GB Free	%u.%u GB Free	%u,%u GB boş
+Library	Library	Kitaplık
+Settings	Settings	Ayarlar
+Crossfade: %d s	Crossfade: %d s	Çapraz geçiş: %d sn
+Crossfade: Off	Crossfade: Off	Çapraz geçiş: Kapalı
+Wheel Sensitivity: %d%%	Wheel Sensitivity: %d%%	Tekerlek duyarlılığı: %d%%
+Resume Songs: %d min	Resume Songs: %d min	Şarkılara devam et: %d dk
+Resume Songs: Off	Resume Songs: Off	Şarkılara devam et: Kapalı
+Night Shift: %dK	Night Shift: %dK	Night Shift: %dK
+Night Shift: Auto	Night Shift: Auto	Night Shift: Otomatik
+Night Shift: Off	Night Shift: Off	Night Shift: Kapalı
+Mono Audio	Mono Audio	Mono ses
+Swap L/R	Swap L/R	Sol/Sağ değiştir
+Crossfade needs Gapless	Crossfade needs Gapless	Çapraz geçiş için Kesintisiz gerekli
+Auto	Auto	Otomatik
+Night Shift	Night Shift	Night Shift
+Resume Songs	Resume Songs	Şarkılara devam et
+Wheel Sensitivity	Wheel Sensitivity	Tekerlek duyarlılığı
+Crossfade	Crossfade	Çapraz geçiş
+Measuring song lengths…	Measuring song lengths…	Şarkı süreleri ölçülüyor…
+Sudoku	Sudoku	Sudoku
+Solitaire	Solitaire	Solitaire
+Snake	Snake	Yılan
+Paused	Paused	Duraklatıldı
+Continue	Continue	Devam
+Quit	Quit	Çık
+New best!	New best!	Yeni rekor!
+Game over	Game over	Oyun bitti
+Centre: play again	Centre: play again	Orta: tekrar oyna
+Play/Pause: resume	Play/Pause: resume	Çal/Duraklat: devam et
+New game?	New game?	Yeni oyun?
+Centre: yes   Return: no	Centre: yes   Return: no	Orta: evet   Geri: hayır
+Solved!	Solved!	Çözüldü!
+Play/Pause: new game	Play/Pause: new game	Çal/Duraklat: yeni oyun
+Score	Score	Skor
+Best	Best	En iyi
+Level	Level	Seviye
+Centre	Centre	Orta
+You win!	You win!	Kazandınız!
+Shuffle	Shuffle	Karıştır
+Era	Era	Dönem
+Ratings	Ratings	Puanlar
+Most Played	Most Played	En çok çalınanlar
+Long Songs	Long Songs	Uzun şarkılar
+App Store	App Store	App Store
+Upload Scrobbles	Upload Scrobbles	Scrobble'ları gönder
+Tidal Downloads	Tidal Downloads	Tidal indirmeleri
+Internet Radio	Internet Radio	İnternet radyosu
+Configuration	Configuration	Yapılandırma
+Restart to apply?	Restart to apply?	Yeniden başlatılsın mı?
+Couldn't copy the language	Couldn't copy the language	Dil kopyalanamadı
+Too many songs to shuffle	Too many songs to shuffle	Karıştırmak için çok fazla şarkı var
+Shuffle Songs	Shuffle Songs	Şarkıları karıştır
+Shuffle Albums	Shuffle Albums	Albümleri karıştır
+Shuffle Folders	Shuffle Folders	Klasörleri karıştır
+Albums and folders take a moment to shuffle	Albums and folders take a moment to shuffle	Albümleri ve klasörleri karıştırmak biraz sürer
+No plays yet	No plays yet	Henüz çalınan yok
+%u play	%u play	%u kez çalındı
+%u plays	%u plays	%u kez çalındı
+No downloads yet	No downloads yet	Henüz indirme yok
+Clear All Downloads…	Clear All Downloads…	Tüm indirmeleri temizle…
+%u track	%u track	%u parça
+%u tracks	%u tracks	%u parça
+Remove Downloads?	Remove Downloads?	İndirmeler kaldırılsın mı?
+Keeps settings	Keeps settings	Ayarlar korunur
+Remove	Remove	Kaldır
+It isn't on the card any more	It isn't on the card any more	Artık kartta değil
+%02ds	%02ds	%02d dönemi
+%ds	%ds	%d dönemi
+Era unavailable	Era unavailable	Dönem kullanılamıyor
+Album not found	Album not found	Albüm bulunamadı
+%u album	%u album	%u albüm
+%u albums	%u albums	%u albüm
+Play All	Play All	Tümünü çal
+Every song, shuffled	Every song, shuffled	Tüm şarkılar, karışık
+No dated albums yet	No dated albums yet	Henüz tarihli albüm yok
+No songs over 10 minutes	No songs over 10 minutes	10 dakikadan uzun şarkı yok
+Measuring songs… %d/%d	Measuring songs… %d/%d	Şarkılar ölçülüyor… %d/%d
+Measuring songs…	Measuring songs…	Şarkılar ölçülüyor…
+Release to search	Release to search	Aramak için bırakın
+Pull to search	Pull to search	Aramak için çekin
+Sleep Timer	Sleep Timer	Uyku zamanlayıcı
+Lock Screen	Lock Screen	Ekran kilidi
+Accent	Accent	Vurgu
+Everything	Everything	Her şey
+Buttons only	Buttons only	Yalnızca tuşlar
+Volume only	Volume only	Yalnızca ses
+Wake: Single Press	Wake: Single Press	Uyandırma: Tek basış
+Wake: Double Press	Wake: Double Press	Uyandırma: Çift basış
+Artist View: Grid	Artist View: Grid	Sanatçı görünümü: Izgara
+Artist View: Cover Flow	Artist View: Cover Flow	Sanatçı görünümü: Cover Flow
+Artist View: List	Artist View: List	Sanatçı görünümü: Liste
+Year Order: Newest First	Year Order: Newest First	Yıl sırası: Yeniden eskiye
+Year Order: Oldest First	Year Order: Oldest First	Yıl sırası: Eskiden yeniye
+Artists: Artist	Artists: Artist	Sanatçılar: Sanatçı
+Artists: Album Artist	Artists: Album Artist	Sanatçılar: Albüm sanatçısı
+Resume on Connect: Off	Resume on Connect: Off	Bağlanınca devam: Kapalı
+Resume on Connect: On	Resume on Connect: On	Bağlanınca devam: Açık
+Clock: Standard	Clock: Standard	Saat: Standart
+Clock: Large	Clock: Large	Saat: Büyük
+Artist Album Order: Year	Artist Album Order: Year	Sanatçı albüm sırası: Yıl
+Artist Album Order: A–Z	Artist Album Order: A–Z	Sanatçı albüm sırası: A–Z
+Volume Guard: Off	Volume Guard: Off	Ses koruması: Kapalı
+Volume Guard: On	Volume Guard: On	Ses koruması: Açık
+Hold Return: Recent	Hold Return: Recent	Geri tuşunu basılı tut: Son çalınanlar
+Hold Return: Home	Hold Return: Home	Geri tuşunu basılı tut: Ana ekran
+Standby Limit: Off	Standby Limit: Off	Bekleme sınırı: Kapalı
+Standby Limit: %u h	Standby Limit: %u h	Bekleme sınırı: %u sa
+Refresh Cover Flow	Refresh Cover Flow	Cover Flow'u yenile
+Playlist View: List	Playlist View: List	Çalma listesi görünümü: Liste
+Playlist View: Cover Flow	Playlist View: Cover Flow	Çalma listesi görünümü: Cover Flow
+Update Notifications: Off	Update Notifications: Off	Güncelleme bildirimleri: Kapalı
+Update Notifications: On	Update Notifications: On	Güncelleme bildirimleri: Açık
+Album View: List	Album View: List	Albüm görünümü: Liste
+Album View: Grid	Album View: Grid	Albüm görünümü: Izgara
+Charge Limit (%u%%)	Charge Limit (%u%%)	Şarj sınırı (%u%%)
+Resume on Connect	Resume on Connect	Bağlanınca devam
+Volume Guard	Volume Guard	Ses koruması
+Control Device Volume	Control Device Volume	Cihaz sesini denetle
+Key Tone	Key Tone	Tuş sesi
+In-Vehicle Mode	In-Vehicle Mode	Araç modu
+Smart Wi-Fi	Smart Wi-Fi	Akıllı Wi-Fi
+Enlarged Album Art	Enlarged Album Art	Büyük albüm kapağı
+Folder Album Cover	Folder Album Cover	Klasör albüm kapağı
+Fast Navigation	Fast Navigation	Hızlı gezinme
+Scan Song Durations	Scan Song Durations	Şarkı sürelerini tara
+Position Bar	Position Bar	Konum çubuğu
+Hide Streaming	Hide Streaming	Akışı gizle
+Hide Folder	Hide Folder	Klasörü gizle
+Hide Apps	Hide Apps	Uygulamaları gizle
+Hide Games	Hide Games	Oyunları gizle
+Hide App Store	Hide App Store	App Store'u gizle
+Receive Audio	Receive Audio	Ses al
+Log Failed Artwork	Log Failed Artwork	Başarısız kapakları kaydet
+Hide Duplicate Albums	Hide Duplicate Albums	Yinelenen albümleri gizle
+Hide Duplicate Songs	Hide Duplicate Songs	Yinelenen şarkıları gizle
+Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	Cover Flow kapakları bir sonraki sefer yeniden oluşturur
+Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	Uygulamak için Bluetooth'u kapatıp açın
+Folder Root: %s	Folder Root: %s	Klasör kökü: %s
+Folder Root: Card	Folder Root: Card	Klasör kökü: Kart
+Library & Folders	Library & Folders	Kitaplık ve klasörler
+Press Centre to Change Mode	Press Centre to Change Mode	Modu değiştirmek için Orta tuşuna basın
+Press Centre to Turn On or Off	Press Centre to Turn On or Off	Açmak veya kapatmak için Orta tuşuna basın
+Press Centre When Finished	Press Centre When Finished	Bitince Orta tuşuna basın
+OK to Disconnect	OK to Disconnect	Bağlantıyı kesebilirsiniz
+Now Playing	Now Playing	Şimdi çalıyor
+Cover Flow	Cover Flow	Cover Flow
+EQ	EQ	EQ
+Update Library	Update Library	Kitaplığı güncelle
+Balance	Balance	Denge
+Home: Split	Home: Split	Ana ekran: Bölünmüş
+Home: Full	Home: Full	Ana ekran: Tam
+Home: Carousel	Home: Carousel	Ana ekran: Döner
+Battery: Icon	Battery: Icon	Pil: Simge
+Battery: Percent	Battery: Percent	Pil: Yüzde
+Battery: Icon + Percent	Battery: Icon + Percent	Pil: Simge + yüzde
+Battery: Percent Inside	Battery: Percent Inside	Pil: Simge içinde yüzde
+Light Mode: Off	Light Mode: Off	Aydınlık mod: Kapalı
+Light Mode: On	Light Mode: On	Aydınlık mod: Açık
+Light Mode: Auto	Light Mode: Auto	Aydınlık mod: Otomatik
+Accent: Card Theme	Accent: Card Theme	Vurgu: Kart teması
+Battery: Card Theme	Battery: Card Theme	Pil: Kart teması
+Light Mode: Card Theme	Light Mode: Card Theme	Aydınlık mod: Kart teması
+Accent: %s	Accent: %s	Vurgu: %s
+Theme: %s	Theme: %s	Tema: %s
+Shortcut: None	Shortcut: None	Kısayol: Yok
+Shortcut: %s	Shortcut: %s	Kısayol: %s
+Rounded Corners	Rounded Corners	Yuvarlak köşeler
+Smart Awake	Smart Awake	Smart Awake
+Centred Now Playing	Centred Now Playing	Ortalanmış Şimdi çalıyor
+Click With Headphones	Click With Headphones	Kulaklıkla tık sesi
+Single Press Scrub	Single Press Scrub	Tek basışla ilerletme
+Time in Title	Time in Title	Başlıkta saat
+Set by the card theme	Set by the card theme	Kart temasıyla belirlendi
+Location	Location	Konum
+Unknown	Unknown	Bilinmeyen
+Appearance	Appearance	Görünüm
+Controls	Controls	Denetimler
+Theme	Theme	Tema
+Boot to: Rockbox	Boot to: Rockbox	Açılış: Rockbox
+Boot to: Q2 Pod	Boot to: Q2 Pod	Açılış: Q2 Pod
+Rockbox is not on the card	Rockbox is not on the card	Rockbox kartta yok
+Could not save boot choice	Could not save boot choice	Açılış seçimi kaydedilemedi
+No albums	No albums	Albüm yok
+No artists	No artists	Sanatçı yok
+No composers	No composers	Besteci yok
+No genres	No genres	Tür yok
+Chapter %d	Chapter %d	Bölüm %d
+Chapters	Chapters	Bölümler
+Could not read chapters	Could not read chapters	Bölümler okunamadı
+No embedded chapters	No embedded chapters	Gömülü bölüm yok
+Too long to read chapters on the Q2	Too long to read chapters on the Q2	Q2'de bölümleri okumak için çok uzun
+Loading chapters…	Loading chapters…	Bölümler yükleniyor…
+Spotify Cache: %s	Spotify Cache: %s	Spotify önbelleği: %s
+Tidal Cache: %s	Tidal Cache: %s	Tidal önbelleği: %s
+Erasing…	Erasing…	Siliniyor…
+Press again to erase login and cache	Press again to erase login and cache	Girişi ve önbelleği silmek için yeniden basın
+Erase Spotify Data	Erase Spotify Data	Spotify verilerini sil
+Could not save setting	Could not save setting	Ayar kaydedilemedi
+Streaming stopped	Streaming stopped	Akış durduruldu
+Wait for the one in progress	Wait for the one in progress	Devam edeni bekleyin
+Stop Streaming Services	Stop Streaming Services	Akış hizmetlerini durdur
+No %s folder on the card	No %s folder on the card	Kartta %s klasörü yok
+CFW. Version	CFW. Version	CFW sürümü
+Update to %s	Update to %s	Güncelle: %s
+Latest firmware installed	Latest firmware installed	En son bellenim yüklü
+Can't reach GitHub	Can't reach GitHub	GitHub'a ulaşılamıyor
+No update for this build	No update for this build	Bu sürüm için güncelleme yok
+Can't write to the card	Can't write to the card	Karta yazılamıyor
+Download cancelled	Download cancelled	İndirme iptal edildi
+GitHub is busy, try later	GitHub is busy, try later	GitHub meşgul, sonra deneyin
+The download was damaged, try again	The download was damaged, try again	İndirme bozuktu, yeniden deneyin
+Downloading %d%%	Downloading %d%%	İndiriliyor %d%%
+Cancelling…	Cancelling…	İptal ediliyor…
+Reconnecting…	Reconnecting…	Yeniden bağlanılıyor…
+Verifying…	Verifying…	Doğrulanıyor…
+Checking…	Checking…	Denetleniyor…
+Needs %u MB more space	Needs %u MB more space	%u MB daha yer gerekli
+Update downloaded: use TF card update	Update downloaded: use TF card update	Güncelleme indirildi: TF kart güncellemesini kullanın
+Charge the battery first	Charge the battery first	Önce pili şarj edin
+Can't start the download	Can't start the download	İndirme başlatılamıyor
+Downloading…	Downloading…	İndiriliyor…
+Q2 Pod %s is out: System Update → Network update	Q2 Pod %s is out: System Update → Network update	Q2 Pod %s çıktı: Sistem güncellemesi → Ağ güncellemesi
+Downloading	Downloading	İndiriliyor
+Unpacking…	Unpacking…	Açılıyor…
+Installing…	Installing…	Yükleniyor…
+Removing…	Removing…	Kaldırılıyor…
+Connect to Wi-Fi to load the list	Connect to Wi-Fi to load the list	Listeyi yüklemek için Wi-Fi'ye bağlanın
+Checked just now	Checked just now	Az önce denetlendi
+Checked %u min ago	Checked %u min ago	%u dk önce denetlendi
+Checked %u h ago	Checked %u h ago	%u sa önce denetlendi
+Press again to remove	Press again to remove	Kaldırmak için yeniden basın
+Starts at power-on. Press again to install	Starts at power-on. Press again to install	Açılışta başlar. Yüklemek için yeniden basın
+%d app can be updated	%d app can be updated	%d uygulama güncellenebilir
+%d apps can be updated	%d apps can be updated	%d uygulama güncellenebilir
+All apps are up to date	All apps are up to date	Tüm uygulamalar güncel
+The download is not a usable app	The download is not a usable app	İndirilen dosya kullanılabilir bir uygulama değil
+Rockbox is ready. Find it on Home	Rockbox is ready. Find it on Home	Rockbox hazır. Ana ekranda bulun
+Rockbox Themes are ready in Rockbox's Theme Settings	Rockbox Themes are ready in Rockbox's Theme Settings	Rockbox temaları, Rockbox'ın tema ayarlarında hazır
+%s is ready in %s	%s is ready in %s	%s hazır: %s
+%s removed	%s removed	%s kaldırıldı
+Spotify's login and cache erased	Spotify's login and cache erased	Spotify girişi ve önbelleği silindi
+Stopped checking for updates	Stopped checking for updates	Güncelleme denetimi durduruldu
+Install Rockbox first	Install Rockbox first	Önce Rockbox'ı yükleyin
+Check for Updates	Check for Updates	Güncellemeleri denetle
+%d of %d	%d of %d	%d / %d
+Album lyrics	Album lyrics	Albüm sözleri
+LRCLIB stopped answering	LRCLIB stopped answering	LRCLIB yanıt vermeyi bıraktı
+Cancelled	Cancelled	İptal edildi
+%d saved	%d saved	%d kaydedildi
+%d not found	%d not found	%d bulunamadı
+%d already had lyrics	%d already had lyrics	%d zaten sözlüydü
+%d failed	%d failed	%d başarısız
+Album lyrics: no songs on the card	Album lyrics: no songs on the card	Albüm sözleri: kartta şarkı yok
+Can't reach LRCLIB	Can't reach LRCLIB	LRCLIB'e ulaşılamıyor
+Download Album Lyrics	Download Album Lyrics	Albüm sözlerini indir
+Downloading %d of %d	Downloading %d of %d	İndiriliyor: %d / %d
+No album songs on the card	No album songs on the card	Kartta albüm şarkısı yok
+file exceeds 16384 bytes	file exceeds 16384 bytes	dosya 16384 baytı aşıyor
+line exceeds 512 bytes	line exceeds 512 bytes	satır 512 baytı aşıyor
+embedded NUL	embedded NUL	gömülü NUL
+unsupported filter form	unsupported filter form	desteklenmeyen filtre biçimi
+expected Preamp: <gain> dB	expected Preamp: <gain> dB	beklenen: Preamp: <gain> dB
+preamp outside -60..24 dB or invalid number	preamp outside -60..24 dB or invalid number	preamp -60..24 dB dışında veya geçersiz sayı
+expected Channel: L, R or all	expected Channel: L, R or all	beklenen: Channel: L, R veya all
+only channels L, R and all are supported	only channels L, R and all are supported	yalnızca L, R ve all kanalları desteklenir
+unsupported command	unsupported command	desteklenmeyen komut
+invalid filter label	invalid filter label	geçersiz filtre etiketi
+expected Filter [number]:	expected Filter [number]:	beklenen: Filter [number]:
+expected ON or OFF	expected ON or OFF	beklenen: ON veya OFF
+unsupported filter type	unsupported filter type	desteklenmeyen filtre türü
+expected Fc <Hz> Hz Gain <dB> dB	expected Fc <Hz> Hz Gain <dB> dB	beklenen: Fc <Hz> Hz Gain <dB> dB
+invalid frequency or gain number	invalid frequency or gain number	geçersiz frekans veya kazanç sayısı
+expected Q <number>	expected Q <number>	beklenen: Q <number>
+peaking filter requires Q	peaking filter requires Q	peaking filtresi Q gerektirir
+range: 20..20000 Hz, -24..24 dB, Q 0.1..10	range: 20..20000 Hz, -24..24 dB, Q 0.1..10	aralık: 20..20000 Hz, -24..24 dB, Q 0.1..10
+more than 30 bands	more than 30 bands	30'dan fazla bant
+summed preamp outside -60..24 dB	summed preamp outside -60..24 dB	toplam preamp -60..24 dB dışında
+L/R preamp differ by more than 12 dB	L/R preamp differ by more than 12 dB	L/R preamp farkı 12 dB'den fazla
+out of memory	out of memory	bellek yetersiz
+cannot open file	cannot open file	dosya açılamıyor
+file read failed	file read failed	dosya okunamadı
+EQ for 3.5 mm	EQ for 3.5 mm	3,5 mm için EQ
+EQ for 4.4 mm	EQ for 4.4 mm	4,4 mm için EQ
+EQ for USB	EQ for USB	USB için EQ
+EQ for this Bluetooth device	EQ for this Bluetooth device	Bu Bluetooth cihazı için EQ
+Auto (44.1: %.1f / 48: %.1f)	Auto (44.1: %.1f / 48: %.1f)	Otomatik (44.1: %.1f / 48: %.1f)
+Folder missing or unavailable	Folder missing or unavailable	Klasör yok veya kullanılamıyor
+Out of memory; cannot list presets	Out of memory; cannot list presets	Bellek yetersiz; hazır ayarlar listelenemiyor
+No presets found	No presets found	Hazır ayar bulunamadı
+Name not allowed; preset kept	Name not allowed; preset kept	Ad kabul edilmedi; ayar korundu
+Name taken; preset kept	Name taken; preset kept	Ad kullanımda; ayar korundu
+Rename failed; preset kept	Rename failed; preset kept	Ad değişmedi; ayar korundu
+Renamed to %.100s	Renamed to %.100s	Adı %.100s oldu
+Pop	Pop	Pop
+Rock	Rock	Rock
+Dance	Dance	Dans
+Blues	Blues	Blues
+Metal	Metal	Metal
+Vocal	Vocal	Vokal
+Classical	Classical	Klasik
+Jazz	Jazz	Caz
+Preset loaded; choose Apply to activate	Preset loaded; choose Apply to activate	Hazır ayar yüklendi; etkinleştirmek için Uygula'yı seçin
+Preset saved; active EQ unchanged	Preset saved; active EQ unchanged	Hazır ayar kaydedildi; etkin EQ değişmedi
+Save failed; settings unchanged	Save failed; settings unchanged	Kaydedilemedi; ayarlar değişmedi
+Switch failed; EQ unchanged	Switch failed; EQ unchanged	Geçiş başarısız; EQ değişmedi
+Applied	Applied	Uygulandı
+Apply failed; active EQ unchanged	Apply failed; active EQ unchanged	Uygulanamadı; etkin EQ değişmedi
+Reset; choose Apply to activate	Reset; choose Apply to activate	Sıfırlandı; Uygula'yı seçin
+Delete failed; preset kept	Delete failed; preset kept	Silinemedi; hazır ayar korundu
+Deleted %.100s; active EQ unchanged	Deleted %.100s; active EQ unchanged	%.100s silindi; etkin EQ değişmedi
+Line %u: %s	Line %u: %s	Satır %u: %s
+Cannot read preset; settings unchanged	Cannot read preset; settings unchanged	Hazır ayar okunamıyor; ayarlar değişmedi
+Peaking	Peaking	Peaking
+Low shelf	Low shelf	Bas raf
+High shelf	High shelf	Tiz raf
+Apply changes	Apply changes	Değişiklikleri uygula
+Nothing to apply	Nothing to apply	Uygulanacak bir şey yok
+Reset to defaults	Reset to defaults	Varsayılanlara sıfırla
+Enabled	Enabled	Etkin
+EQ per Output	EQ per Output	Çıkış başına EQ
+Preamp	Preamp	Preamp
+Presets	Presets	Hazır ayarlar
+Band	Band	Bant
+Channels	Channels	Kanallar
+Both	Both	İkisi
+Left	Left	Sol
+Right	Right	Sağ
+Type	Type	Tür
+Frequency	Frequency	Frekans
+Gain	Gain	Kazanç
+Band %d Q	Band %d Q	Bant %d Q
+Band %d Frequency (Hz)	Band %d Frequency (Hz)	Bant %d frekansı (Hz)
+Raise	Raise	Artır
+Lower	Lower	Azalt
+Step	Step	Adım
+Delete %.100s? Confirm	Delete %.100s? Confirm	%.100s silinsin mi? Onayla
+Replace existing preset? Confirm	Replace existing preset? Confirm	Üzerine yazılsın mı? Onayla
+Cancel replacement	Cancel replacement	Değiştirmeyi iptal et
+Save as Manual %02d	Save as Manual %02d	Manual %02d olarak kaydet
+Stock presets	Stock presets	Yerleşik hazır ayarlar
+Import from SD /EQ	Import from SD /EQ	SD /EQ'dan içe aktar
+Save editor preset	Save editor preset	Düzenleyici ayarını kaydet
+Rename a preset	Rename a preset	Hazır ayarı yeniden adlandır
+Delete a preset	Delete a preset	Hazır ayarı sil
+Previous page	Previous page	Önceki sayfa
+Next page	Next page	Sonraki sayfa
+Band %d	Band %d	Bant %d
+Band %d Gain	Band %d Gain	Bant %d kazancı
+Presets %d/%d	Presets %d/%d	Hazır ayarlar %d/%d
+Save failed; EQ unchanged	Save failed; EQ unchanged	Kaydedilemedi; EQ değişmedi
+Advanced	Advanced	Gelişmiş
+Enabled: On	Enabled: On	Etkin: Açık
+Enabled: Off	Enabled: Off	Etkin: Kapalı
+Low	Low	Bas
+Mid	Mid	Orta
+High	High	Tiz
+Simple	Simple	Basit
+No photos	No photos	Fotoğraf yok
+All Photos	All Photos	Tüm fotoğraflar
+Photos	Photos	Fotoğraflar
+Can't open this photo	Can't open this photo	Bu fotoğraf açılamıyor
+%d of %d  %s	%d of %d  %s	%d / %d  %s
+Could not save folder speed	Could not save folder speed	Klasör hızı kaydedilemedi
+Too long to play on the Q2: split it into parts	Too long to play on the Q2: split it into parts	Q2'de çalmak için çok uzun: parçalara bölün
+Press again to restart	Press again to restart	Baştan başlamak için yeniden basın
+Could not save playlist	Could not save playlist	Çalma listesi kaydedilemedi
+Already in playlist	Already in playlist	Zaten çalma listesinde
+Added to Playlist	Added to Playlist	Çalma listesine eklendi
+Search songs	Search songs	Şarkı ara
+Editing: %s	Editing: %s	Düzenleniyor: %s
+Add Songs: %s	Add Songs: %s	Şarkı ekle: %s
+Song Actions: %s	Song Actions: %s	Şarkı işlemleri: %s
+Remove song?: %s	Remove song?: %s	Şarkı kaldırılsın mı?: %s
+Add Songs	Add Songs	Şarkı ekle
+Move Up	Move Up	Yukarı taşı
+Move Down	Move Down	Aşağı taşı
+Remove from Playlist	Remove from Playlist	Çalma listesinden kaldır
+Search: %s	Search: %s	Ara: %s
+No songs match	No songs match	Eşleşen şarkı yok
+Search for more songs	Search for more songs	Daha fazla şarkı ara
+Delete Playlist?	Delete Playlist?	Çalma listesi silinsin mi?
+Delete	Delete	Sil
+Playlist deleted	Playlist deleted	Çalma listesi silindi
+Could not delete playlist	Could not delete playlist	Çalma listesi silinemedi
+Delete Playlist	Delete Playlist	Çalma listesini sil
+Edit Playlist	Edit Playlist	Çalma listesini düzenle
+Queue unchanged	Queue unchanged	Sıra değişmedi
+Deselect All	Deselect All	Seçimi kaldır
+Select All	Select All	Tümünü seç
+Export %d Playlist	Export %d Playlist	%d çalma listesini dışa aktar
+Export %d Playlists	Export %d Playlists	%d çalma listesini dışa aktar
+Delete %d Playlist…	Delete %d Playlist…	%d çalma listesini sil…
+Delete %d Playlists…	Delete %d Playlists…	%d çalma listesini sil…
+%d Selected	%d Selected	%d seçildi
+Select Playlists	Select Playlists	Çalma listesi seç
+Playlists	Playlists	Çalma listeleri
+No Playlists	No Playlists	Çalma listesi yok
+New Playlist…	New Playlist…	Yeni çalma listesi…
+Select Playlists…	Select Playlists…	Çalma listesi seç…
+Import Playlists	Import Playlists	Çalma listelerini içe aktar
+Export	Export	Dışa aktar
+No other group	No other group	Başka grup yok
+Folder not found	Folder not found	Klasör bulunamadı
+All Songs	All Songs	Tüm şarkılar
+Songs in Album	Songs in Album	Albümdeki şarkılar
+Albums and Songs	Albums and Songs	Albümler ve şarkılar
+Songs in Folder	Songs in Folder	Klasördeki şarkılar
+Folders	Folders	Klasörler
+Folders and Songs	Folders and Songs	Klasörler ve şarkılar
+Play One Song	Play One Song	Tek şarkı çal
+Play One Album	Play One Album	Tek albüm çal
+Repeat Song	Repeat Song	Şarkıyı tekrarla
+Repeat Album	Repeat Album	Albümü tekrarla
+Repeat All	Repeat All	Tümünü tekrarla
+Play One Folder	Play One Folder	Tek klasör çal
+Repeat Folder	Repeat Folder	Klasörü tekrarla
+Album	Album	Albüm
+Folder	Folder	Klasör
+Repeat	Repeat	Tekrarla
+Group by	Group by	Grupla
+Play Next	Play Next	Sıradaki olarak çal
+Add to Queue	Add to Queue	Sıraya ekle
+Add to Favourites	Add to Favourites	Favorilere ekle
+Remove from Favourites	Remove from Favourites	Favorilerden kaldır
+Add to Playlist	Add to Playlist	Çalma listesine ekle
+Go to Album	Go to Album	Albüme git
+Go to Artist	Go to Artist	Sanatçıya git
+Next Album	Next Album	Sonraki albüm
+Previous Album	Previous Album	Önceki albüm
+Rate	Rate	Puanla
+Resume	Resume	Devam et
+View Queue	View Queue	Sırayı göster
+Go to Folder	Go to Folder	Klasöre git
+Rate Album	Rate Album	Albümü puanla
+Group by: Folder	Group by: Folder	Grupla: Klasör
+Group by: Album	Group by: Album	Grupla: Albüm
+Next Folder	Next Folder	Sonraki klasör
+Previous Folder	Previous Folder	Önceki klasör
+Wheel: Volume	Wheel: Volume	Tekerlek: Ses
+Wheel: Brightness	Wheel: Brightness	Tekerlek: Parlaklık
+Could not save Favourites	Could not save Favourites	Favoriler kaydedilemedi
+Added to Favourites	Added to Favourites	Favorilere eklendi
+Removed from Favourites	Removed from Favourites	Favorilerden kaldırıldı
+Stopped	Stopped	Durduruldu
+Can't play: %s	Can't play: %s	Çalınamıyor: %s
+Can't play this station	Can't play this station	Bu istasyon çalınamıyor
+Connecting…	Connecting…	Bağlanıyor…
+Search is too long	Search is too long	Arama çok uzun
+Search stations	Search stations	İstasyon ara
+Favourites	Favourites	Favoriler
+Featured	Featured	Öne çıkanlar
+Top Stations	Top Stations	En iyi istasyonlar
+By Country	By Country	Ülkeye göre
+By Genre	By Genre	Türe göre
+Countries	Countries	Ülkeler
+Connecting to Wi-Fi…	Connecting to Wi-Fi…	Wi-Fi'ye bağlanılıyor…
+Directory unavailable	Directory unavailable	Dizin kullanılamıyor
+No Wi-Fi	No Wi-Fi	Wi-Fi yok
+No stations	No stations	İstasyon yok
+No favourites	No favourites	Favori yok
+Rating not saved	Rating not saved	Puan kaydedilmedi
+Ratings are full	Ratings are full	Puan deposu dolu
+Favourite not sent to the app	Favourite not sent to the app	Favori uygulamaya gönderilmedi
+Unrated	Unrated	Puansız
+1 Heart	1 Heart	1 kalp
+%d Hearts	%d Hearts	%d kalp
+%d of 5	%d of 5	%d / 5
+Album changed	Album changed	Albüm değişti
+Favourite not saved	Favourite not saved	Favori kaydedilmedi
+This app has no favourites	This app has no favourites	Bu uygulamada favori yok
+Top Rated	Top Rated	En yüksek puanlılar
+Loved	Loved	Beğenilenler
+All Rated	All Rated	Tüm puanlılar
+Disliked	Disliked	Beğenilmeyenler
+No songs yet	No songs yet	Henüz şarkı yok
+Hold the heart on Now Playing to rate	Hold the heart on Now Playing to rate	Puanlamak için Şimdi çalıyor ekranında kalbi basılı tutun
+No rated albums yet	No rated albums yet	Henüz puanlanmış albüm yok
+Upload failed, %d sent	Upload failed, %d sent	Gönderilemedi, %d gönderildi
+Scrobbles sent: %d	Scrobbles sent: %d	Gönderilen scrobble: %d
+Nothing to upload	Nothing to upload	Gönderilecek bir şey yok
+Uploading scrobbles	Uploading scrobbles	Scrobble'lar gönderiliyor
+Already uploading	Already uploading	Zaten gönderiliyor
+Upload failed	Upload failed	Gönderilemedi
+Connect to Wi-Fi first	Connect to Wi-Fi first	Önce Wi-Fi'ye bağlanın
+Waiting for Spotify	Waiting for Spotify	Spotify bekleniyor
+Spotify isn't on the card	Spotify isn't on the card	Spotify kartta yok
+See the Q2 Pod guide to add it	See the Q2 Pod guide to add it	Eklemek için Q2 Pod kılavuzuna bakın
+Open Spotify on your phone	Open Spotify on your phone	Telefonunuzda Spotify'ı açın
+and choose Q2	and choose Q2	ve Q2'yi seçin
+Spotify refused this account	Spotify refused this account	Spotify bu hesabı reddetti
+Its tracks can't play on the Q2	Its tracks can't play on the Q2	Parçaları Q2'de çalınamaz
+Playback didn't start	Playback didn't start	Oynatma başlamadı
+Go back and try again	Go back and try again	Geri dönüp yeniden deneyin
+Starting playback	Starting playback	Oynatma başlıyor
+Update Spotify on the card	Update Spotify on the card	Karttaki Spotify'ı güncelleyin
+See the Q2 Pod guide	See the Q2 Pod guide	Q2 Pod kılavuzuna bakın
+Nothing playing	Nothing playing	Çalan bir şey yok
+Choose music in Spotify	Choose music in Spotify	Spotify'da müzik seçin
+Liked Songs	Liked Songs	Beğenilen şarkılar
+Queue	Queue	Sıra
+Playback Settings	Playback Settings	Oynatma ayarları
+Account	Account	Hesap
+Downloaded Tracks	Downloaded Tracks	İndirilen parçalar
+Downloads	Downloads	İndirmeler
+Tracks	Tracks	Parçalar
+Open Spotify on your phone and choose Q2	Open Spotify on your phone and choose Q2	Telefonunuzda Spotify'ı açın ve Q2'yi seçin
+Both on the same Wi-Fi	Both on the same Wi-Fi	İkisi de aynı Wi-Fi'de olmalı
+to browse on the Q2	to browse on the Q2	Q2'de göz atmak için
+Downloaded Playlists	Downloaded Playlists	İndirilen çalma listeleri
+Download Progress	Download Progress	İndirme ilerlemesi
+Storage Management	Storage Management	Depolama yönetimi
+Download Status	Download Status	İndirme durumu
+The latest download's progress	The latest download's progress	Son indirmenin ilerlemesi
+for saved playlists and download controls	for saved playlists and download controls	kayıtlı çalma listeleri ve indirme denetimleri için
+Remove Playlists…	Remove Playlists…	Çalma listelerini kaldır…
+Remove Tracks…	Remove Tracks…	Parçaları kaldır…
+Keeps login and settings	Keeps login and settings	Giriş ve ayarlar korunur
+Track removal can make playlists incomplete	Track removal can make playlists incomplete	Parçaları kaldırmak çalma listelerini eksik bırakabilir
+Pause	Pause	Duraklat
+Cancel Download	Cancel Download	İndirmeyi iptal et
+Retry Failed	Retry Failed	Başarısızları yeniden dene
+Update Download	Update Download	İndirmeyi güncelle
+Sign Out of Spotify?	Sign Out of Spotify?	Spotify oturumu kapatılsın mı?
+Sign Out	Sign Out	Oturumu kapat
+Nothing here	Nothing here	Burada bir şey yok
+Selected	Selected	Seçildi
+Press to select	Press to select	Seçmek için basın
+All	All	Tümü
+One	One	Tek
+Download Liked Songs	Download Liked Songs	Beğenilen şarkıları indir
+Download Playlist	Download Playlist	Çalma listesini indir
+For offline listening	For offline listening	Çevrimdışı dinlemek için
+Download Controls	Download Controls	İndirme denetimleri
+Update, retry, pause, resume or cancel	Update, retry, pause, resume or cancel	Güncelle, yeniden dene, duraklat, sürdür veya iptal et
+Remove Selected…	Remove Selected…	Seçilenleri kaldır…
+Confirm the affected count	Confirm the affected count	Etkilenen sayıyı onaylayın
+Spotify isn't running	Spotify isn't running	Spotify çalışmıyor
+Spotify didn't answer	Spotify didn't answer	Spotify yanıt vermedi
+Search Spotify	Search Spotify	Spotify'da ara
+Select Tracks	Select Tracks	Parça seç
+Select at least one item	Select at least one item	En az bir öğe seçin
+Selection full. Remove these first	Selection full. Remove these first	Seçim dolu. Önce bunları kaldırın
+Boot logo must be a 320x375 JPEG	Boot logo must be a 320x375 JPEG	Açılış logosu 320x375 JPEG olmalı
+Could not save boot logo	Could not save boot logo	Açılış logosu kaydedilemedi
+Accent: Graphite	Accent: Graphite	Vurgu: Grafit
+Accent: Crimson	Accent: Crimson	Vurgu: Koyu kırmızı
+Accent: Tidal	Accent: Tidal	Vurgu: Tidal
+Accent: Champagne	Accent: Champagne	Vurgu: Şampanya
+Accent: Cobalt	Accent: Cobalt	Vurgu: Kobalt
+Accent: Tangerine	Accent: Tangerine	Vurgu: Mandalina
+Accent: Plum	Accent: Plum	Vurgu: Erik
+Accent: Ivory	Accent: Ivory	Vurgu: Fildişi
+Accent: Green	Accent: Green	Vurgu: Yeşil
+Favorites	Favorites	Favoriler
+Rated Albums	Rated Albums	Puanlanan albümler
+Podcasts	Podcasts	Podcast'ler
+Audiobooks	Audiobooks	Sesli kitaplar
+Groovebox can't start from the card	Groovebox can't start from the card	Groovebox karttan başlatılamıyor
+Groovebox is not on the card	Groovebox is not on the card	Groovebox kartta yok
+Play a Tidal album or playlist first	Play a Tidal album or playlist first	Önce bir Tidal albümü veya çalma listesi çalın
+Downloading %u of %u. Press to stop	Downloading %u of %u. Press to stop	İndiriliyor: %u / %u. Durdurmak için basın
+Download Playing Songs	Download Playing Songs	Çalan şarkıları indir
+Tidal Cache full: %u of %u song saved	Tidal Cache full: %u of %u song saved	Tidal önbelleği dolu: %u / %u şarkı kaydedildi
+Tidal Cache full: %u of %u songs saved	Tidal Cache full: %u of %u songs saved	Tidal önbelleği dolu: %u / %u şarkı kaydedildi
+Downloaded %u of %u song	Downloaded %u of %u song	%u / %u şarkı indirildi
+Downloaded %u of %u songs	Downloaded %u of %u songs	%u / %u şarkı indirildi
+Nothing to play next	Nothing to play next	Sırada çalınacak bir şey yok
+Queue changed	Queue changed	Sıra değişti
+Never	Never	Asla
+USB DAC Charging: %s	USB DAC Charging: %s	USB DAC şarjı: %s
+Spectrum	Spectrum	Spektrum
+Oscilloscope	Oscilloscope	Osiloskop
+VU Meters	VU Meters	VU metreler
+Halo	Halo	Halo
+Pulsar	Pulsar	Pulsar
+Contour	Contour	Kontur
+More	More	Daha fazla
+A-B Repeat	A-B Repeat	A-B tekrarı
+Speed	Speed	Hız
+*Only for 48 kHz and below	*Only for 48 kHz and below	*Yalnızca 48 kHz ve altı
+No lyrics	No lyrics	Şarkı sözü yok
+Genre	Genre	Tür
+Size	Size	Boyut
+Year	Year	Yıl
+Format	Format	Biçim
+Bit Depth	Bit Depth	Bit derinliği
+Bit Rate	Bit Rate	Bit hızı
+Sample Rate	Sample Rate	Örnekleme hızı
+Auto Scan	Auto Scan	Otomatik tarama
+Update Library Now	Update Library Now	Kitaplığı şimdi güncelle
+Scan Folders	Scan Folders	Klasörleri tara
+OK	OK	Tamam
+Bluetooth	Bluetooth	Bluetooth
+Key Lock	Key Lock	Tuş kilidi
+Low Gain	Low Gain	Düşük kazanç
+USB Storage	USB Storage	USB depolama
+Playback	Playback	Oynatma
+Custom	Custom	Özel
+Reset	Reset	Sıfırla
+Open this address in a browser:	Open this address in a browser:	Bu adresi bir tarayıcıda açın:
+Downloaded	Downloaded	İndirilenler
+Baidu Netdisk	Baidu Netdisk	Baidu Netdisk
+Sign In	Sign In	Giriş yap
+Scan with the Baidu app to sign in	Scan with the Baidu app to sign in	Giriş yapmak için Baidu uygulamasıyla tarayın
+Baidu encryption protects your privacy	Baidu encryption protects your privacy	Baidu şifrelemesi gizliliğinizi korur
+Bluetooth RF test: connect from a computer	Bluetooth RF test: connect from a computer	Bluetooth RF testi: bir bilgisayardan bağlanın
+Press Next to exit	Press Next to exit	Çıkmak için Sonraki tuşuna basın
+Brightness Test	Brightness Test	Parlaklık testi
+Next	Next	Sonraki
+Bluetooth Test	Bluetooth Test	Bluetooth testi
+Down	Down	Aşağı
+Up	Up	Yukarı
+Swipe Left	Swipe Left	Sola kaydır
+Swipe Right	Swipe Right	Sağa kaydır
+Key Test	Key Test	Tuş testi
+Headphone Test	Headphone Test	Kulaklık testi
+Plug in single-ended headphones	Plug in single-ended headphones	Dengesiz kulaklık takın
+Play (left male, right female)	Play (left male, right female)	Çal (solda erkek, sağda kadın)
+Bluetooth Receiver Test	Bluetooth Receiver Test	Bluetooth alıcı testi
+Battery Test	Battery Test	Pil testi
+Battery:	Battery:	Pil:
+Charging:	Charging:	Şarj:
+microSD Test	microSD Test	microSD testi
+Touch Test	Touch Test	Dokunmatik ekran testi
+Wi-Fi Test	Wi-Fi Test	Wi-Fi testi
+Artist	Artist	Sanatçı
+Export Playlists	Export Playlists	Çalma listelerini dışa aktar
+Playlist	Playlist	Çalma listesi
+0 songs	0 songs	0 şarkı
+System	System	Sistem
+Rockbox	Rockbox	Rockbox
+Baker Island	Baker Island	Baker Adası
+Midway	Midway	Midway
+Honolulu	Honolulu	Honolulu
+Anchorage	Anchorage	Anchorage
+Los Angeles	Los Angeles	Los Angeles
+Denver	Denver	Denver
+Mexico City	Mexico City	Meksiko
+New York	New York	New York
+Halifax	Halifax	Halifax
+St. John's	St. John's	St. John's
+Buenos Aires	Buenos Aires	Buenos Aires
+Azores	Azores	Azorlar
+London	London	Londra
+Amsterdam	Amsterdam	Amsterdam
+Bucharest	Bucharest	Bükreş
+Kuwait	Kuwait	Kuveyt
+Tehran	Tehran	Tahran
+Muscat	Muscat	Maskat
+Kabul	Kabul	Kabil
+Karachi	Karachi	Karaçi
+Dhaka	Dhaka	Dakka
+Bangkok	Bangkok	Bangkok
+Shanghai	Shanghai	Şangay
+Tokyo	Tokyo	Tokyo
+Adelaide	Adelaide	Adelaide
+Sydney	Sydney	Sidney
+Fiji	Fiji	Fiji
+Marquesas	Marquesas	Marquesas
+South Georgia	South Georgia	Güney Georgia
+Colombo	Colombo	Colombo
+Kathmandu	Kathmandu	Katmandu
+Yangon	Yangon	Yangon
+Eucla	Eucla	Eucla
+L. Howe	L. Howe	L. Howe
+Noumea	Noumea	Noumea
+Chatham	Chatham	Chatham
+Tongatapu	Tongatapu	Tongatapu
+Kiritimati	Kiritimati	Kiritimati
+Chicago	Chicago	Şikago
+Phoenix	Phoenix	Phoenix
+Kolkata	Kolkata	Kalküta
+Brisbane	Brisbane	Brisbane
+Auckland	Auckland	Auckland
+Status Bar	Status Bar	Durum çubuğu
+Minimal	Minimal	Minimal
+Modern	Modern	Modern
+Classic	Classic	Klasik
+Show Wordmark	Show Wordmark	Logoyu göster
+Library on Home	Library on Home	Ana ekranda Kitaplık
+Row Preview	Row Preview	Satır önizlemesi
+Row Art	Row Art	Satır resmi
+Classic Blue	Classic Blue	Klasik mavi
