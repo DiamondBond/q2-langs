@@ -4,7 +4,7 @@ about_cardcap	Card Capacity	存储卡容量
 about_cardremain	Remaining	剩余空间
 about_ipaddr	IP Address	IP 地址
 about_model	Model	型号
-about_more	*Our sincere thanks go to the DiamondBond team and all its enthusiasts for their ingenuity, outstanding solutions, and generous contributions.	*感谢 DiamondBond 团队和所有爱好者的奇思妙想与无私付出。
+about_more	*Our sincere thanks go to the DiamondBond team and all its enthusiasts for their ingenuity, outstanding solutions, and generous contributions.	*感谢 DiamondBond 团队和所有爱好者的奇思妙想、出色方案与无私付出。
 about_sn	Serial Number	序列号
 about_version	Version	固件版本
 about_wifimac	Wi-Fi MAC	Wi-Fi MAC
@@ -39,7 +39,7 @@ display_lighttime	Screen Off Time	熄屏时间
 display_screenlock	Lock Screen	锁屏
 dsdmode_d2p	D2P	D2P
 dsdmode_dop	DOP	DOP
-dsdmode_native	Native	Native
+dsdmode_native	Native	原生
 eq_blues	Blues	蓝调
 eq_classical	Classical	古典
 eq_club	Club	俱乐部
@@ -178,7 +178,7 @@ msg_notfile	File Not Found	没找到文件
 msg_notfolder	Folder not found	没找到文件夹
 msg_notfoundfw	Fw. Not Found	没找到新固件
 msg_notmemory	Memory is not enough	内存不足
-msg_notmemory	Out of memory	存储卡空间不足
+msg_notmemory	Out of memory	内存不足
 msg_notnetwork	Network Disconnected	网络未连接
 msg_nototg	No OTG Found	没检测到 OTG
 msg_notplaylist	Playlist Not Found	没找到歌单
@@ -200,14 +200,14 @@ msg_resetdbsuccess	Reset completed	重置完成
 msg_restarting	Restarting	正在重启
 msg_shortpasswd	8 Digits PIN At Least	密码至少 8 位
 msg_start_download_task	start the download task	开始下载
-msg_stop_download_task	stop the download task	暂停下载
+msg_stop_download_task	stop the download task	停止下载
 msg_testmode	Enter test mode?	进入测试模式？
 msg_tfeject	TF Card Removed	存储卡已拔出
 msg_tfinsert	TF Card Inserted	存储卡已插入
 msg_unpaired	Unpaired	已取消配对
 msg_unpairing	unpair?	要取消配对吗？
 msg_unsupportformat	Unsupported format	不支持这个格式
-msg_update	Confirmed	确认更新
+msg_update	Confirmed	已确认
 msg_wificancelsave	Delete Record?	要删掉这条记录吗？
 msg_wifidisconnect	Disconnect Now?	现在断开吗？
 msg_yes	OK	确定
@@ -279,14 +279,14 @@ scan_now	Scan music now	立即扫描音乐
 scan_spec	Scan specified folders	扫描指定文件夹
 scan_spec	Scan specified folders	扫描指定文件夹
 scan_startscan	Scan	扫描
-scan_updatefinish	Library Updated,%d Updated	更新完成，共 %d 首
+scan_updatefinish	Library Updated,%d Updated	曲库已更新，共更新 %d 首
 scan_updating	Updating No.%d	正在更新第 %d 首
 scover_cover	Cover	封面
 scover_lyric	Lyrics	歌词
 screenlock_about	Custom Lock Screen	自定义锁屏
-screenlock_info1	1. Put the pictures in a folder named "lockscreenimage" at the top of the card.	把图片放进存储卡根目录的 lockscreenimage 文件夹。
-screenlock_info2	2. PNG or JPG, exactly 375 x 320 pixels, under 1 MB each.	PNG 或 JPG，尺寸 375×320，每张不超过 1 MB。
-screenlock_info3	3. Up to 5 pictures.	最多 5 张。
+screenlock_info1	1. Put the pictures in a folder named "lockscreenimage" at the top of the card.	1. 把图片放进存储卡根目录的 lockscreenimage 文件夹。
+screenlock_info2	2. PNG or JPG, exactly 375 x 320 pixels, under 1 MB each.	2. PNG 或 JPG，尺寸正好 375×320，每张不超过 1 MB。
+screenlock_info3	3. Up to 5 pictures.	3. 最多 5 张。
 screenlock_timeshow	Show Time	显示时间
 search_tips1	Search for music,artists,albums,genres	搜索歌曲、歌手、专辑或流派
 search_track	Track	单曲
@@ -325,7 +325,7 @@ system_language	Language	语言
 system_navshow	Show Navigation Bar	显示导航栏
 system_netservice	Network	网络
 system_powermanager	Power	电源
-system_prove	Certification	技术证明
+system_prove	Certification	认证
 system_reset	Reset Settings	重置设置
 system_sys	System	系统
 system_time	Date & Time	日期与时间
@@ -543,14 +543,14 @@ App Store	App Store	应用商店
 Upload Scrobbles	Upload Scrobbles	上传听歌记录
 Tidal Downloads	Tidal Downloads	Tidal 下载
 Internet Radio	Internet Radio	网络电台
-Configuration	Configuration	配置
+Configuration	Configuration	流媒体设置
 Restart to apply?	Restart to apply?	重启后生效？
 Couldn't copy the language	Couldn't copy the language	无法复制语言
 Too many songs to shuffle	Too many songs to shuffle	歌曲太多，无法随机播放
 Shuffle Songs	Shuffle Songs	随机歌曲
 Shuffle Albums	Shuffle Albums	随机专辑
 Shuffle Folders	Shuffle Folders	随机文件夹
-Albums and folders take a moment to shuffle	Albums and folders take a moment to shuffle	专辑和文件夹随机需要一点时间
+Albums and folders take a moment to shuffle	Albums and folders take a moment to shuffle	专辑和文件夹随机播放需要一点时间
 No plays yet	No plays yet	还没有播放记录
 %u play	%u play	%u 次播放
 %u plays	%u plays	%u 次播放
@@ -621,7 +621,7 @@ Enlarged Album Art	Enlarged Album Art	放大封面
 Folder Album Cover	Folder Album Cover	文件夹封面
 Fast Navigation	Fast Navigation	快速导航
 Scan Song Durations	Scan Song Durations	扫描歌曲时长
-Position Bar	Position Bar	进度条
+Position Bar	Position Bar	位置条
 Hide Streaming	Hide Streaming	隐藏流媒体
 Hide Folder	Hide Folder	隐藏文件夹
 Hide Apps	Hide Apps	隐藏应用
@@ -674,8 +674,8 @@ Unknown	Unknown	未知
 Appearance	Appearance	外观
 Controls	Controls	控制
 Theme	Theme	主题
-Boot to: Rockbox	Boot to: Rockbox	启动到: Rockbox
-Boot to: Q2 Pod	Boot to: Q2 Pod	启动到: Q2 Pod
+Boot to: Rockbox	Boot to: Rockbox	默认启动: Rockbox
+Boot to: Q2 Pod	Boot to: Q2 Pod	默认启动: Q2 Pod
 Rockbox is not on the card	Rockbox is not on the card	存储卡里没有 Rockbox
 Could not save boot choice	Could not save boot choice	无法保存启动选项
 No albums	No albums	没有专辑
@@ -698,7 +698,7 @@ Streaming stopped	Streaming stopped	流媒体已停止
 Wait for the one in progress	Wait for the one in progress	请等待正在进行的操作
 Stop Streaming Services	Stop Streaming Services	停止流媒体服务
 No %s folder on the card	No %s folder on the card	存储卡里没有 %s 文件夹
-CFW. Version	CFW. Version	CFW 版本
+CFW. Version	CFW. Version	自制固件版本
 Update to %s	Update to %s	更新到 %s
 Latest firmware installed	Latest firmware installed	已是最新固件
 Can't reach GitHub	Can't reach GitHub	无法连接 GitHub
@@ -734,7 +734,7 @@ All apps are up to date	All apps are up to date	所有应用都是最新的
 The download is not a usable app	The download is not a usable app	下载的内容不是可用的应用
 Rockbox is ready. Find it on Home	Rockbox is ready. Find it on Home	Rockbox 已就绪，请在主页中打开
 Rockbox Themes are ready in Rockbox's Theme Settings	Rockbox Themes are ready in Rockbox's Theme Settings	Rockbox 主题已就绪，请在 Rockbox 的主题设置中选择
-%s is ready in %s	%s is ready in %s	%s 已在 %s 中就绪
+%s is ready in %s	%s is ready in %s	%s 已就绪，可在 %s 中打开
 %s removed	%s removed	已移除 %s
 Spotify's login and cache erased	Spotify's login and cache erased	已清除 Spotify 的登录和缓存
 Stopped checking for updates	Stopped checking for updates	已停止检查更新
@@ -820,9 +820,9 @@ Preamp	Preamp	前级增益
 Presets	Presets	预设
 Band	Band	频段
 Channels	Channels	声道
-Both	Both	两者
-Left	Left	左
-Right	Right	右
+Both	Both	双声道
+Left	Left	左声道
+Right	Right	右声道
 Type	Type	类型
 Frequency	Frequency	频率
 Gain	Gain	增益
@@ -849,9 +849,9 @@ Save failed; EQ unchanged	Save failed; EQ unchanged	保存失败，EQ 未改变
 Advanced	Advanced	高级
 Enabled: On	Enabled: On	启用: 开
 Enabled: Off	Enabled: Off	启用: 关
-Low	Low	低
-Mid	Mid	中
-High	High	高
+Low	Low	低频
+Mid	Mid	中频
+High	High	高频
 Simple	Simple	简单
 No photos	No photos	没有照片
 All Photos	All Photos	全部照片
@@ -952,7 +952,7 @@ By Country	By Country	按国家
 By Genre	By Genre	按流派
 Countries	Countries	国家
 Connecting to Wi-Fi…	Connecting to Wi-Fi…	正在连接 Wi-Fi…
-Directory unavailable	Directory unavailable	目录不可用
+Directory unavailable	Directory unavailable	电台目录不可用
 No Wi-Fi	No Wi-Fi	没有 Wi-Fi
 No stations	No stations	没有电台
 No favourites	No favourites	没有收藏
@@ -1024,7 +1024,7 @@ Nothing here	Nothing here	这里什么都没有
 Selected	Selected	已选
 Press to select	Press to select	按下选择
 All	All	全部
-One	One	一个
+One	One	单曲
 Download Liked Songs	Download Liked Songs	下载喜欢的歌曲
 Download Playlist	Download Playlist	下载歌单
 For offline listening	For offline listening	用于离线收听
@@ -1176,6 +1176,6 @@ Modern	Modern	现代
 Classic	Classic	经典
 Show Wordmark	Show Wordmark	显示字标
 Library on Home	Library on Home	主页显示曲库
-Row Preview	Row Preview	行预览
-Row Art	Row Art	行封面
+Row Preview	Row Preview	列表预览
+Row Art	Row Art	列表封面
 Classic Blue	Classic Blue	经典蓝
