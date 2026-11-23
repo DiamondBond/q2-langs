@@ -452,6 +452,11 @@ Saved to battery-log.txt	Saved to battery-log.txt	battery-log.txtに保存しま
 Battery History	Battery History	バッテリー履歴
 Unplug to start	Unplug to start	取り外すと開始
 Export Log	Export Log	ログを書き出し
+Card theme turned off after a failed start	Card theme turned off after a failed start	起動に失敗したためカードのテーマをオフにしました
+Card theme removed. Restart to finish	Card theme removed. Restart to finish	カードのテーマを削除しました。再起動すると完了します
+Card theme file can't be used	Card theme file can't be used	カードのテーマファイルを使用できません
+Card theme saved. Restart to apply	Card theme saved. Restart to apply	カードのテーマを保存しました。再起動すると適用されます
+Could not save card theme	Could not save card theme	カードのテーマを保存できませんでした
 Done	Done	完了
 space	space	スペース
 New Playlist	New Playlist	新しいプレイリスト
@@ -623,6 +628,9 @@ Hide Apps	Hide Apps	アプリを非表示
 Hide Games	Hide Games	ゲームを非表示
 Hide App Store	Hide App Store	App Storeを非表示
 Receive Audio	Receive Audio	音声を受信
+Log Failed Artwork	Log Failed Artwork	失敗したアートワークを記録
+Hide Duplicate Albums	Hide Duplicate Albums	重複したアルバムを非表示
+Hide Duplicate Songs	Hide Duplicate Songs	重複した曲を非表示
 Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	次回、Cover Flowがアートワークを作り直します
 Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	適用するにはBluetoothをオフ/オンしてください
 Folder Root: %s	Folder Root: %s	フォルダのルート: %s
@@ -647,6 +655,9 @@ Battery: Percent Inside	Battery: Percent Inside	バッテリー: パーセント
 Light Mode: Off	Light Mode: Off	ライトモード: オフ
 Light Mode: On	Light Mode: On	ライトモード: オン
 Light Mode: Auto	Light Mode: Auto	ライトモード: 自動
+Accent: Card Theme	Accent: Card Theme	アクセント: カードのテーマ
+Battery: Card Theme	Battery: Card Theme	バッテリー: カードのテーマ
+Light Mode: Card Theme	Light Mode: Card Theme	ライトモード: カードのテーマ
 Accent: %s	Accent: %s	アクセント: %s
 Theme: %s	Theme: %s	テーマ: %s
 Shortcut: None	Shortcut: None	ショートカット: なし
@@ -657,6 +668,7 @@ Centred Now Playing	Centred Now Playing	再生中を中央揃え
 Click With Headphones	Click With Headphones	ヘッドホンでクリック音
 Single Press Scrub	Single Press Scrub	1回押しでシーク
 Time in Title	Time in Title	タイトルに時刻
+Set by the card theme	Set by the card theme	カードのテーマで設定されています
 Location	Location	場所
 Unknown	Unknown	不明
 Appearance	Appearance	外観

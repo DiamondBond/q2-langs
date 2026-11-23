@@ -452,6 +452,11 @@ Saved to battery-log.txt	Saved to battery-log.txt	In battery-log.txt gespeichert
 Battery History	Battery History	Akkuverlauf
 Unplug to start	Unplug to start	Zum Start vom Strom trennen
 Export Log	Export Log	Protokoll exportieren
+Card theme turned off after a failed start	Card theme turned off after a failed start	Kartendesign nach fehlgeschlagenem Start ausgeschaltet
+Card theme removed. Restart to finish	Card theme removed. Restart to finish	Kartendesign entfernt. Zum Abschließen neu starten
+Card theme file can't be used	Card theme file can't be used	Kartendesign-Datei nicht verwendbar
+Card theme saved. Restart to apply	Card theme saved. Restart to apply	Kartendesign gespeichert. Zum Anwenden neu starten
+Could not save card theme	Could not save card theme	Kartendesign konnte nicht gespeichert werden
 Done	Done	Fertig
 space	space	Leerz.
 New Playlist	New Playlist	Neue Playlist
@@ -623,6 +628,9 @@ Hide Apps	Hide Apps	Apps ausblenden
 Hide Games	Hide Games	Spiele ausblenden
 Hide App Store	Hide App Store	App Store ausblenden
 Receive Audio	Receive Audio	Audio empfangen
+Log Failed Artwork	Log Failed Artwork	Cover-Fehler protokollieren
+Hide Duplicate Albums	Hide Duplicate Albums	Doppelte Alben ausblenden
+Hide Duplicate Songs	Hide Duplicate Songs	Doppelte Titel ausblenden
 Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	Cover Flow baut die Cover beim nächsten Mal neu auf
 Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	Zum Anwenden Bluetooth aus- und einschalten
 Folder Root: %s	Folder Root: %s	Stammordner: %s
@@ -647,6 +655,9 @@ Battery: Percent Inside	Battery: Percent Inside	Akku: Prozent im Symbol
 Light Mode: Off	Light Mode: Off	Hellmodus: Aus
 Light Mode: On	Light Mode: On	Hellmodus: Ein
 Light Mode: Auto	Light Mode: Auto	Hellmodus: Auto
+Accent: Card Theme	Accent: Card Theme	Akzent: Kartendesign
+Battery: Card Theme	Battery: Card Theme	Akku: Kartendesign
+Light Mode: Card Theme	Light Mode: Card Theme	Hellmodus: Kartendesign
 Accent: %s	Accent: %s	Akzent: %s
 Theme: %s	Theme: %s	Design: %s
 Shortcut: None	Shortcut: None	Kurzbefehl: Keiner
@@ -657,6 +668,7 @@ Centred Now Playing	Centred Now Playing	Wiedergabe zentriert
 Click With Headphones	Click With Headphones	Klicken mit Kopfhörern
 Single Press Scrub	Single Press Scrub	Spulen per Einmaldruck
 Time in Title	Time in Title	Uhrzeit in Titelleiste
+Set by the card theme	Set by the card theme	Vom Kartendesign festgelegt
 Location	Location	Speicherort
 Unknown	Unknown	Unbekannt
 Appearance	Appearance	Darstellung

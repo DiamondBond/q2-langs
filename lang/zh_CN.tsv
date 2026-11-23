@@ -452,6 +452,11 @@ Saved to battery-log.txt	Saved to battery-log.txt	已保存到 battery-log.txt
 Battery History	Battery History	电池记录
 Unplug to start	Unplug to start	拔掉电源后开始
 Export Log	Export Log	导出记录
+Card theme turned off after a failed start	Card theme turned off after a failed start	启动失败，已关闭存储卡主题
+Card theme removed. Restart to finish	Card theme removed. Restart to finish	已移除存储卡主题，重启后完成
+Card theme file can't be used	Card theme file can't be used	存储卡主题文件无法使用
+Card theme saved. Restart to apply	Card theme saved. Restart to apply	已保存存储卡主题，重启后生效
+Could not save card theme	Could not save card theme	无法保存存储卡主题
 Done	Done	完成
 space	space	空格
 New Playlist	New Playlist	新建歌单
@@ -623,6 +628,9 @@ Hide Apps	Hide Apps	隐藏应用
 Hide Games	Hide Games	隐藏游戏
 Hide App Store	Hide App Store	隐藏应用商店
 Receive Audio	Receive Audio	接收音频
+Log Failed Artwork	Log Failed Artwork	记录生成失败的封面
+Hide Duplicate Albums	Hide Duplicate Albums	隐藏重复专辑
+Hide Duplicate Songs	Hide Duplicate Songs	隐藏重复歌曲
 Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	Cover Flow 将在下次重建封面
 Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	请关闭再打开蓝牙以生效
 Folder Root: %s	Folder Root: %s	文件夹根目录: %s
@@ -647,6 +655,9 @@ Battery: Percent Inside	Battery: Percent Inside	电池: 百分比在内
 Light Mode: Off	Light Mode: Off	亮色模式: 关
 Light Mode: On	Light Mode: On	亮色模式: 开
 Light Mode: Auto	Light Mode: Auto	亮色模式: 自动
+Accent: Card Theme	Accent: Card Theme	强调色: 存储卡主题
+Battery: Card Theme	Battery: Card Theme	电池: 存储卡主题
+Light Mode: Card Theme	Light Mode: Card Theme	亮色模式: 存储卡主题
 Accent: %s	Accent: %s	强调色: %s
 Theme: %s	Theme: %s	主题: %s
 Shortcut: None	Shortcut: None	快捷键: 无
@@ -657,6 +668,7 @@ Centred Now Playing	Centred Now Playing	居中播放页
 Click With Headphones	Click With Headphones	耳机按键音
 Single Press Scrub	Single Press Scrub	单击调节进度
 Time in Title	Time in Title	标题显示时间
+Set by the card theme	Set by the card theme	由存储卡主题设置
 Location	Location	位置
 Unknown	Unknown	未知
 Appearance	Appearance	外观

@@ -452,6 +452,11 @@ Saved to battery-log.txt	Saved to battery-log.txt	Guardado en battery-log.txt
 Battery History	Battery History	Historial de batería
 Unplug to start	Unplug to start	Desconecta el cable para empezar
 Export Log	Export Log	Exportar registro
+Card theme turned off after a failed start	Card theme turned off after a failed start	Tema de la tarjeta desactivado tras un inicio fallido
+Card theme removed. Restart to finish	Card theme removed. Restart to finish	Tema de la tarjeta eliminado. Reinicia para terminar
+Card theme file can't be used	Card theme file can't be used	No se puede usar el archivo del tema de la tarjeta
+Card theme saved. Restart to apply	Card theme saved. Restart to apply	Tema de la tarjeta guardado. Reinicia para aplicarlo
+Could not save card theme	Could not save card theme	No se pudo guardar el tema de la tarjeta
 Done	Done	Hecho
 space	space	espacio
 New Playlist	New Playlist	Nueva lista
@@ -623,6 +628,9 @@ Hide Apps	Hide Apps	Ocultar Apps
 Hide Games	Hide Games	Ocultar Juegos
 Hide App Store	Hide App Store	Ocultar App Store
 Receive Audio	Receive Audio	Recibir audio
+Log Failed Artwork	Log Failed Artwork	Registrar portadas fallidas
+Hide Duplicate Albums	Hide Duplicate Albums	Ocultar álbumes duplicados
+Hide Duplicate Songs	Hide Duplicate Songs	Ocultar canciones duplicadas
 Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	Cover Flow rehará las portadas la próxima vez
 Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	Apaga y enciende Bluetooth para aplicar
 Folder Root: %s	Folder Root: %s	Carpeta raíz: %s
@@ -647,6 +655,9 @@ Battery: Percent Inside	Battery: Percent Inside	Batería: Porcentaje dentro
 Light Mode: Off	Light Mode: Off	Modo claro: Desactivado
 Light Mode: On	Light Mode: On	Modo claro: Activado
 Light Mode: Auto	Light Mode: Auto	Modo claro: Auto
+Accent: Card Theme	Accent: Card Theme	Acento: Tema de la tarjeta
+Battery: Card Theme	Battery: Card Theme	Batería: Tema de la tarjeta
+Light Mode: Card Theme	Light Mode: Card Theme	Modo claro: Tema de la tarjeta
 Accent: %s	Accent: %s	Acento: %s
 Theme: %s	Theme: %s	Tema: %s
 Shortcut: None	Shortcut: None	Atajo: Ninguno
@@ -657,6 +668,7 @@ Centred Now Playing	Centred Now Playing	Reproduciendo centrado
 Click With Headphones	Click With Headphones	Clic con auriculares puestos
 Single Press Scrub	Single Press Scrub	Desplazar con una pulsación
 Time in Title	Time in Title	Hora en el título
+Set by the card theme	Set by the card theme	Lo define el tema de la tarjeta
 Location	Location	Ubicación
 Unknown	Unknown	Desconocido
 Appearance	Appearance	Apariencia

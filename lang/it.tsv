@@ -452,6 +452,11 @@ Saved to battery-log.txt	Saved to battery-log.txt	Salvato in battery-log.txt
 Battery History	Battery History	Cronologia batteria
 Unplug to start	Unplug to start	Scollega per iniziare
 Export Log	Export Log	Esporta registro
+Card theme turned off after a failed start	Card theme turned off after a failed start	Tema della scheda disattivato dopo un avvio non riuscito
+Card theme removed. Restart to finish	Card theme removed. Restart to finish	Tema della scheda rimosso. Riavvia per completare
+Card theme file can't be used	Card theme file can't be used	File del tema della scheda non utilizzabile
+Card theme saved. Restart to apply	Card theme saved. Restart to apply	Tema della scheda salvato. Riavvia per applicarlo
+Could not save card theme	Could not save card theme	Impossibile salvare il tema della scheda
 Done	Done	Fine
 space	space	spazio
 New Playlist	New Playlist	Nuova playlist
@@ -623,6 +628,9 @@ Hide Apps	Hide Apps	Nascondi App
 Hide Games	Hide Games	Nascondi Giochi
 Hide App Store	Hide App Store	Nascondi App Store
 Receive Audio	Receive Audio	Ricevi audio
+Log Failed Artwork	Log Failed Artwork	Registra errori copertine
+Hide Duplicate Albums	Hide Duplicate Albums	Nascondi album duplicati
+Hide Duplicate Songs	Hide Duplicate Songs	Nascondi brani duplicati
 Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	Cover Flow ricrea le copertine la prossima volta
 Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	Spegni e riaccendi il Bluetooth per applicare
 Folder Root: %s	Folder Root: %s	Cartella radice: %s
@@ -647,6 +655,9 @@ Battery: Percent Inside	Battery: Percent Inside	Batteria: Percentuale nell'icona
 Light Mode: Off	Light Mode: Off	Modalità chiara: Off
 Light Mode: On	Light Mode: On	Modalità chiara: On
 Light Mode: Auto	Light Mode: Auto	Modalità chiara: Auto
+Accent: Card Theme	Accent: Card Theme	Accento: Tema della scheda
+Battery: Card Theme	Battery: Card Theme	Batteria: Tema della scheda
+Light Mode: Card Theme	Light Mode: Card Theme	Modalità chiara: Tema della scheda
 Accent: %s	Accent: %s	Accento: %s
 Theme: %s	Theme: %s	Tema: %s
 Shortcut: None	Shortcut: None	Scorciatoia: Nessuna
@@ -657,6 +668,7 @@ Centred Now Playing	Centred Now Playing	In riproduzione centrata
 Click With Headphones	Click With Headphones	Clic con le cuffie
 Single Press Scrub	Single Press Scrub	Scrub a pressione singola
 Time in Title	Time in Title	Ora nel titolo
+Set by the card theme	Set by the card theme	Impostato dal tema della scheda
 Location	Location	Posizione
 Unknown	Unknown	Sconosciuto
 Appearance	Appearance	Aspetto

@@ -452,6 +452,11 @@ Saved to battery-log.txt	Saved to battery-log.txt	Сохранено в battery-
 Battery History	Battery History	История батареи
 Unplug to start	Unplug to start	Отключите зарядку, чтобы начать
 Export Log	Export Log	Экспорт журнала
+Card theme turned off after a failed start	Card theme turned off after a failed start	Тема с карты отключена после неудачного запуска
+Card theme removed. Restart to finish	Card theme removed. Restart to finish	Тема с карты удалена. Перезапустите, чтобы завершить
+Card theme file can't be used	Card theme file can't be used	Не удаётся использовать файл темы с карты
+Card theme saved. Restart to apply	Card theme saved. Restart to apply	Тема с карты сохранена. Перезапустите, чтобы применить
+Could not save card theme	Could not save card theme	Не удалось сохранить тему с карты
 Done	Done	Готово
 space	space	пробел
 New Playlist	New Playlist	Новый плейлист
@@ -623,6 +628,9 @@ Hide Apps	Hide Apps	Скрыть «Приложения»
 Hide Games	Hide Games	Скрыть «Игры»
 Hide App Store	Hide App Store	Скрыть App Store
 Receive Audio	Receive Audio	Приём звука
+Log Failed Artwork	Log Failed Artwork	Журнал сбоев обложек
+Hide Duplicate Albums	Hide Duplicate Albums	Скрыть дубликаты альбомов
+Hide Duplicate Songs	Hide Duplicate Songs	Скрыть дубликаты песен
 Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	Cover Flow перестроит обложки в следующий раз
 Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	Выключите и включите Bluetooth для применения
 Folder Root: %s	Folder Root: %s	Корень папок: %s
@@ -647,6 +655,9 @@ Battery: Percent Inside	Battery: Percent Inside	Батарея: Проценты
 Light Mode: Off	Light Mode: Off	Светлый режим: Выкл.
 Light Mode: On	Light Mode: On	Светлый режим: Вкл.
 Light Mode: Auto	Light Mode: Auto	Светлый режим: Авто
+Accent: Card Theme	Accent: Card Theme	Акцент: Тема с карты
+Battery: Card Theme	Battery: Card Theme	Батарея: Тема с карты
+Light Mode: Card Theme	Light Mode: Card Theme	Светлый режим: Тема с карты
 Accent: %s	Accent: %s	Акцент: %s
 Theme: %s	Theme: %s	Тема: %s
 Shortcut: None	Shortcut: None	Ярлык: Нет
@@ -657,6 +668,7 @@ Centred Now Playing	Centred Now Playing	Сейчас играет по цент�
 Click With Headphones	Click With Headphones	Щелчок в наушниках
 Single Press Scrub	Single Press Scrub	Перемотка одним нажатием
 Time in Title	Time in Title	Время в заголовке
+Set by the card theme	Set by the card theme	Задано темой с карты
 Location	Location	Расположение
 Unknown	Unknown	Неизвестно
 Appearance	Appearance	Оформление

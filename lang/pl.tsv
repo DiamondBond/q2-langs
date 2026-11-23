@@ -452,6 +452,11 @@ Saved to battery-log.txt	Saved to battery-log.txt	Zapisano w battery-log.txt
 Battery History	Battery History	Historia baterii
 Unplug to start	Unplug to start	Odłącz kabel, aby zacząć
 Export Log	Export Log	Eksportuj dziennik
+Card theme turned off after a failed start	Card theme turned off after a failed start	Motyw z karty wyłączony po nieudanym uruchomieniu
+Card theme removed. Restart to finish	Card theme removed. Restart to finish	Usunięto motyw z karty. Uruchom ponownie, aby zakończyć
+Card theme file can't be used	Card theme file can't be used	Nie można użyć pliku motywu z karty
+Card theme saved. Restart to apply	Card theme saved. Restart to apply	Zapisano motyw z karty. Uruchom ponownie, aby zastosować
+Could not save card theme	Could not save card theme	Nie udało się zapisać motywu z karty
 Done	Done	Gotowe
 space	space	spacja
 New Playlist	New Playlist	Nowa playlista
@@ -623,6 +628,9 @@ Hide Apps	Hide Apps	Ukryj Aplikacje
 Hide Games	Hide Games	Ukryj Gry
 Hide App Store	Hide App Store	Ukryj App Store
 Receive Audio	Receive Audio	Odbieraj dźwięk
+Log Failed Artwork	Log Failed Artwork	Rejestruj błędy okładek
+Hide Duplicate Albums	Hide Duplicate Albums	Ukryj zduplikowane albumy
+Hide Duplicate Songs	Hide Duplicate Songs	Ukryj zduplikowane utwory
 Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	Cover Flow odbuduje okładki następnym razem
 Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	Wyłącz i włącz Bluetooth, aby zastosować
 Folder Root: %s	Folder Root: %s	Folder główny: %s
@@ -647,6 +655,9 @@ Battery: Percent Inside	Battery: Percent Inside	Bateria: Procent wewnątrz
 Light Mode: Off	Light Mode: Off	Tryb jasny: Wył.
 Light Mode: On	Light Mode: On	Tryb jasny: Wł.
 Light Mode: Auto	Light Mode: Auto	Tryb jasny: Auto
+Accent: Card Theme	Accent: Card Theme	Akcent: Motyw z karty
+Battery: Card Theme	Battery: Card Theme	Bateria: Motyw z karty
+Light Mode: Card Theme	Light Mode: Card Theme	Tryb jasny: Motyw z karty
 Accent: %s	Accent: %s	Akcent: %s
 Theme: %s	Theme: %s	Motyw: %s
 Shortcut: None	Shortcut: None	Skrót: Brak
@@ -657,6 +668,7 @@ Centred Now Playing	Centred Now Playing	Wyśrodkowane Odtwarzane
 Click With Headphones	Click With Headphones	Klik przy słuchawkach
 Single Press Scrub	Single Press Scrub	Przewijanie jednym naciśnięciem
 Time in Title	Time in Title	Godzina w tytule
+Set by the card theme	Set by the card theme	Ustawione przez motyw z karty
 Location	Location	Lokalizacja
 Unknown	Unknown	Nieznane
 Appearance	Appearance	Wygląd

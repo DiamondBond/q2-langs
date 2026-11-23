@@ -452,6 +452,11 @@ Saved to battery-log.txt	Saved to battery-log.txt	Збережено в battery-
 Battery History	Battery History	Історія батареї
 Unplug to start	Unplug to start	Від'єднайте, щоб почати
 Export Log	Export Log	Експортувати журнал
+Card theme turned off after a failed start	Card theme turned off after a failed start	Тему з картки вимкнено після невдалого запуску
+Card theme removed. Restart to finish	Card theme removed. Restart to finish	Тему з картки видалено. Перезапустіть, щоб завершити
+Card theme file can't be used	Card theme file can't be used	Не вдалося використати файл теми з картки
+Card theme saved. Restart to apply	Card theme saved. Restart to apply	Тему з картки збережено. Перезапустіть, щоб застосувати
+Could not save card theme	Could not save card theme	Не вдалося зберегти тему з картки
 Done	Done	Готово
 space	space	пробіл
 New Playlist	New Playlist	Новий плейлист
@@ -623,6 +628,9 @@ Hide Apps	Hide Apps	Сховати застосунки
 Hide Games	Hide Games	Сховати ігри
 Hide App Store	Hide App Store	Сховати App Store
 Receive Audio	Receive Audio	Приймати звук
+Log Failed Artwork	Log Failed Artwork	Журнал збоїв обкладинок
+Hide Duplicate Albums	Hide Duplicate Albums	Сховати дублікати альбомів
+Hide Duplicate Songs	Hide Duplicate Songs	Сховати дублікати пісень
 Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	Cover Flow оновить обкладинки наступного разу
 Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	Вимкніть і ввімкніть Bluetooth, щоб застосувати
 Folder Root: %s	Folder Root: %s	Корінь папок: %s
@@ -647,6 +655,9 @@ Battery: Percent Inside	Battery: Percent Inside	Батарея: Відсотки
 Light Mode: Off	Light Mode: Off	Світлий режим: Вимкнено
 Light Mode: On	Light Mode: On	Світлий режим: Увімкнено
 Light Mode: Auto	Light Mode: Auto	Світлий режим: Авто
+Accent: Card Theme	Accent: Card Theme	Акцент: Тема з картки
+Battery: Card Theme	Battery: Card Theme	Батарея: Тема з картки
+Light Mode: Card Theme	Light Mode: Card Theme	Світлий режим: Тема з картки
 Accent: %s	Accent: %s	Акцент: %s
 Theme: %s	Theme: %s	Тема: %s
 Shortcut: None	Shortcut: None	Ярлик: Немає
@@ -657,6 +668,7 @@ Centred Now Playing	Centred Now Playing	Зараз грає по центру
 Click With Headphones	Click With Headphones	Клік із навушниками
 Single Press Scrub	Single Press Scrub	Перемотування одним натисканням
 Time in Title	Time in Title	Час у заголовку
+Set by the card theme	Set by the card theme	Задано темою з картки
 Location	Location	Розташування
 Unknown	Unknown	Невідомо
 Appearance	Appearance	Вигляд

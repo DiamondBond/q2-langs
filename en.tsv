@@ -451,6 +451,11 @@ Saved to battery-log.txt	Saved to battery-log.txt	battery.c
 Battery History	Battery History	battery.c
 Unplug to start	Unplug to start	battery.c
 Export Log	Export Log	battery.c
+Card theme turned off after a failed start	Card theme turned off after a failed start	card_theme.c
+Card theme removed. Restart to finish	Card theme removed. Restart to finish	card_theme.c
+Card theme file can't be used	Card theme file can't be used	card_theme.c
+Card theme saved. Restart to apply	Card theme saved. Restart to apply	card_theme.c
+Could not save card theme	Could not save card theme	card_theme.c
 Done	Done	classic_pages.c
 space	space	classic_pages.c
 New Playlist	New Playlist	classic_pages.c
@@ -622,6 +627,9 @@ Hide Apps	Hide Apps	navigation.c
 Hide Games	Hide Games	navigation.c
 Hide App Store	Hide App Store	navigation.c
 Receive Audio	Receive Audio	navigation.c
+Log Failed Artwork	Log Failed Artwork	navigation.c
+Hide Duplicate Albums	Hide Duplicate Albums	navigation.c
+Hide Duplicate Songs	Hide Duplicate Songs	navigation.c
 Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	navigation.c
 Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	navigation.c
 Folder Root: %s	Folder Root: %s	navigation.c
@@ -646,6 +654,9 @@ Battery: Percent Inside	Battery: Percent Inside	navigation.c
 Light Mode: Off	Light Mode: Off	navigation.c
 Light Mode: On	Light Mode: On	navigation.c
 Light Mode: Auto	Light Mode: Auto	navigation.c
+Accent: Card Theme	Accent: Card Theme	navigation.c
+Battery: Card Theme	Battery: Card Theme	navigation.c
+Light Mode: Card Theme	Light Mode: Card Theme	navigation.c
 Accent: %s	Accent: %s	navigation.c
 Theme: %s	Theme: %s	navigation.c
 Shortcut: None	Shortcut: None	navigation.c
@@ -656,6 +667,7 @@ Centred Now Playing	Centred Now Playing	navigation.c
 Click With Headphones	Click With Headphones	navigation.c
 Single Press Scrub	Single Press Scrub	navigation.c
 Time in Title	Time in Title	navigation.c
+Set by the card theme	Set by the card theme	navigation.c
 Location	Location	navigation.c
 Unknown	Unknown	navigation.c
 Appearance	Appearance	navigation.c

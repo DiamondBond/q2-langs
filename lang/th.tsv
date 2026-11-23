@@ -452,6 +452,11 @@ Saved to battery-log.txt	Saved to battery-log.txt	บันทึกลง batte
 Battery History	Battery History	ประวัติแบตเตอรี่
 Unplug to start	Unplug to start	ถอดสายเพื่อเริ่ม
 Export Log	Export Log	ส่งออกบันทึก
+Card theme turned off after a failed start	Card theme turned off after a failed start	ปิดธีมจากการ์ดแล้ว เพราะเริ่มระบบไม่สำเร็จ
+Card theme removed. Restart to finish	Card theme removed. Restart to finish	ลบธีมจากการ์ดแล้ว รีสตาร์ตเพื่อให้เสร็จสิ้น
+Card theme file can't be used	Card theme file can't be used	ใช้ไฟล์ธีมจากการ์ดไม่ได้
+Card theme saved. Restart to apply	Card theme saved. Restart to apply	บันทึกธีมจากการ์ดแล้ว รีสตาร์ตเพื่อใช้งาน
+Could not save card theme	Could not save card theme	บันทึกธีมจากการ์ดไม่ได้
 Done	Done	เสร็จ
 space	space	เว้นวรรค
 New Playlist	New Playlist	เพลย์ลิสต์ใหม่
@@ -623,6 +628,9 @@ Hide Apps	Hide Apps	ซ่อนแอป
 Hide Games	Hide Games	ซ่อนเกม
 Hide App Store	Hide App Store	ซ่อน App Store
 Receive Audio	Receive Audio	รับเสียง
+Log Failed Artwork	Log Failed Artwork	เก็บบันทึกภาพปกที่ล้มเหลว
+Hide Duplicate Albums	Hide Duplicate Albums	ซ่อนอัลบั้มที่ซ้ำ
+Hide Duplicate Songs	Hide Duplicate Songs	ซ่อนเพลงที่ซ้ำ
 Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	Cover Flow จะสร้างภาพปกใหม่ครั้งถัดไป
 Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	ปิดแล้วเปิด Bluetooth ใหม่เพื่อใช้งาน
 Folder Root: %s	Folder Root: %s	โฟลเดอร์ราก: %s
@@ -647,6 +655,9 @@ Battery: Percent Inside	Battery: Percent Inside	แบตเตอรี่: เ
 Light Mode: Off	Light Mode: Off	โหมดสว่าง: ปิด
 Light Mode: On	Light Mode: On	โหมดสว่าง: เปิด
 Light Mode: Auto	Light Mode: Auto	โหมดสว่าง: อัตโนมัติ
+Accent: Card Theme	Accent: Card Theme	สีเน้น: ธีมจากการ์ด
+Battery: Card Theme	Battery: Card Theme	แบตเตอรี่: ธีมจากการ์ด
+Light Mode: Card Theme	Light Mode: Card Theme	โหมดสว่าง: ธีมจากการ์ด
 Accent: %s	Accent: %s	สีเน้น: %s
 Theme: %s	Theme: %s	ธีม: %s
 Shortcut: None	Shortcut: None	ทางลัด: ไม่มี
@@ -657,6 +668,7 @@ Centred Now Playing	Centred Now Playing	กำลังเล่นแบบก�
 Click With Headphones	Click With Headphones	เสียงปุ่มแม้ใช้หูฟัง
 Single Press Scrub	Single Press Scrub	กรอด้วยการกดครั้งเดียว
 Time in Title	Time in Title	เวลาในชื่อเรื่อง
+Set by the card theme	Set by the card theme	ตั้งค่าโดยธีมจากการ์ด
 Location	Location	ตำแหน่ง
 Unknown	Unknown	ไม่ทราบ
 Appearance	Appearance	รูปลักษณ์

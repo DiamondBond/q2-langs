@@ -452,6 +452,11 @@ Saved to battery-log.txt	Saved to battery-log.txt	已儲存到 battery-log.txt
 Battery History	Battery History	電池記錄
 Unplug to start	Unplug to start	拔除電源後開始
 Export Log	Export Log	導出記錄
+Card theme turned off after a failed start	Card theme turned off after a failed start	啟動失敗，已關閉存儲卡主題
+Card theme removed. Restart to finish	Card theme removed. Restart to finish	已移除存儲卡主題，重啟以完成
+Card theme file can't be used	Card theme file can't be used	無法使用存儲卡主題文件
+Card theme saved. Restart to apply	Card theme saved. Restart to apply	已儲存存儲卡主題，重啟以套用
+Could not save card theme	Could not save card theme	無法儲存存儲卡主題
 Done	Done	完成
 space	space	空格
 New Playlist	New Playlist	新建歌單
@@ -623,6 +628,9 @@ Hide Apps	Hide Apps	隱藏應用
 Hide Games	Hide Games	隱藏遊戲
 Hide App Store	Hide App Store	隱藏 App Store
 Receive Audio	Receive Audio	接收音頻
+Log Failed Artwork	Log Failed Artwork	記錄生成失敗的封面
+Hide Duplicate Albums	Hide Duplicate Albums	隱藏重複專輯
+Hide Duplicate Songs	Hide Duplicate Songs	隱藏重複歌曲
 Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	Cover Flow 下次將重建封面
 Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	請關閉再開啟藍牙以套用
 Folder Root: %s	Folder Root: %s	文件夾根目錄: %s
@@ -647,6 +655,9 @@ Battery: Percent Inside	Battery: Percent Inside	電池: 百分比置內
 Light Mode: Off	Light Mode: Off	淺色模式: 關閉
 Light Mode: On	Light Mode: On	淺色模式: 開啟
 Light Mode: Auto	Light Mode: Auto	淺色模式: 自動
+Accent: Card Theme	Accent: Card Theme	強調色: 存儲卡主題
+Battery: Card Theme	Battery: Card Theme	電池: 存儲卡主題
+Light Mode: Card Theme	Light Mode: Card Theme	淺色模式: 存儲卡主題
 Accent: %s	Accent: %s	強調色: %s
 Theme: %s	Theme: %s	主題: %s
 Shortcut: None	Shortcut: None	快捷鍵: 無
@@ -657,6 +668,7 @@ Centred Now Playing	Centred Now Playing	居中播放頁
 Click With Headphones	Click With Headphones	插耳機時按鍵音
 Single Press Scrub	Single Press Scrub	單按調整進度
 Time in Title	Time in Title	標題顯示時間
+Set by the card theme	Set by the card theme	由存儲卡主題設置
 Location	Location	位置
 Unknown	Unknown	未知
 Appearance	Appearance	外觀
