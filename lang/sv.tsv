@@ -113,6 +113,7 @@ login_out	Logout	Logga ut
 memplay_location	Location	Plats
 memplay_off	Off	Av
 memplay_track	Track	Spår
+msg_actionnotsupport	Non-local songs, not currently supported	Icke-lokala låtar stöds inte just nu
 msg_actionnotsupport	Non-local songs,not currently supported	Icke-lokala låtar stöds inte just nu
 msg_actionscan	Scan music?	Söka igenom musiken?
 msg_add_task	Please enter the URL of the file you want to download	Ange webbadressen till filen du vill ladda ned
@@ -165,11 +166,14 @@ msg_importsuccess	Successfully imported	Importen lyckades
 msg_initsetsuccess	All settings initialized successfully	Alla inställningar har återställts
 msg_latestfw	Latest Fw. Installed	Senaste firmware är installerad
 msg_linkerror	WiFi Connection Error	Wi-Fi-anslutningsfel
+msg_lowarn	Line Out sets max volume, continue?	Line Out ställer in maxvolym. Fortsätta?
 msg_lowarn	Line Out sets max volume,continue?	Line Out ställer in maxvolym. Fortsätta?
 msg_lowpower	Low Battery	Lågt batteri
 msg_namenull	The name can't be empty	Namnet får inte vara tomt
 msg_netnameerr	Network Must Be Named	Nätverket måste ha ett namn
 msg_no	Cancel	Avbryt
+msg_no_storage	Storage is full. Some songs couldn't be added.	Lagringen är full. Vissa låtar kunde inte läggas till.
+msg_noheadset	Playback is disabled without headphones. Please insert headphones.	Uppspelning är inaktiverad utan hörlurar. Anslut hörlurar.
 msg_no_storage	Storage is full.Some songs couldn't be added.	Lagringen är full. Vissa låtar kunde inte läggas till.
 msg_noheadset	Playback is disabled without headphones.Please insert headphones.	Uppspelning är inaktiverad utan hörlurar. Anslut hörlurar.
 msg_nosongs	No songs in this folder	Inga låtar i den här mappen
@@ -545,6 +549,7 @@ Tidal Downloads	Tidal Downloads	Tidal-nedladdningar
 Internet Radio	Internet Radio	Internetradio
 Configuration	Configuration	Konfiguration
 Restart to apply?	Restart to apply?	Starta om för att tillämpa?
+Restart	Restart	Starta om
 Couldn't copy the language	Couldn't copy the language	Det gick inte att kopiera språket
 Too many songs to shuffle	Too many songs to shuffle	För många låtar att blanda
 Shuffle Songs	Shuffle Songs	Blanda låtar
@@ -576,6 +581,7 @@ Measuring songs… %d/%d	Measuring songs… %d/%d	Mäter låtar… %d/%d
 Measuring songs…	Measuring songs…	Mäter låtar…
 Release to search	Release to search	Släpp för att söka
 Pull to search	Pull to search	Dra för att söka
+Shut Down	Shut Down	Stäng av
 Sleep Timer	Sleep Timer	Insomningstimer
 Lock Screen	Lock Screen	Lås skärmen
 Accent	Accent	Accent
@@ -627,6 +633,7 @@ Hide Folder	Hide Folder	Dölj Mapp
 Hide Apps	Hide Apps	Dölj Appar
 Hide Games	Hide Games	Dölj Spel
 Hide App Store	Hide App Store	Dölj App Store
+Hide Hi-Res	Hide Hi-Res	Dölj Hi-Res
 Receive Audio	Receive Audio	Ta emot ljud
 Log Failed Artwork	Log Failed Artwork	Logga misslyckade omslag
 Hide Duplicate Albums	Hide Duplicate Albums	Dölj dubbletter av album
@@ -785,6 +792,8 @@ Auto (44.1: %.1f / 48: %.1f)	Auto (44.1: %.1f / 48: %.1f)	Auto (44.1: %.1f / 48:
 Folder missing or unavailable	Folder missing or unavailable	Mappen saknas eller kan inte nås
 Out of memory; cannot list presets	Out of memory; cannot list presets	Slut på minne; kan inte lista förinställningar
 No presets found	No presets found	Inga förinställningar hittades
+Imported %u; %u already saved; %u failed%s	Imported %u; %u already saved; %u failed%s	%u importerade; %u redan sparade; %u misslyckades%s
+; storage full	; storage full	; lagringen är full
 Name not allowed; preset kept	Name not allowed; preset kept	Ogiltigt namn; behålls
 Name taken; preset kept	Name taken; preset kept	Namnet upptaget; behålls
 Rename failed; preset kept	Rename failed; preset kept	Namnbyte misslyckades; behålls
@@ -832,6 +841,7 @@ Raise	Raise	Höj
 Lower	Lower	Sänk
 Step	Step	Steg
 Delete %.100s? Confirm	Delete %.100s? Confirm	Ta bort %.100s? Bekräfta
+Reset all bands? Confirm	Reset all bands? Confirm	Återställ alla band? Bekräfta
 Replace existing preset? Confirm	Replace existing preset? Confirm	Ersätta förinställning? Bekräfta
 Cancel replacement	Cancel replacement	Avbryt ersättning
 Save as Manual %02d	Save as Manual %02d	Spara som Manual %02d
@@ -840,6 +850,8 @@ Import from SD /EQ	Import from SD /EQ	Importera från SD /EQ
 Save editor preset	Save editor preset	Spara editorns förinställning
 Rename a preset	Rename a preset	Byt namn på en förinställning
 Delete a preset	Delete a preset	Ta bort en förinställning
+Import this page	Import this page	Importera den här sidan
+Import all	Import all	Importera alla
 Previous page	Previous page	Föregående sida
 Next page	Next page	Nästa sida
 Band %d	Band %d	Band %d
@@ -979,6 +991,8 @@ Nothing to upload	Nothing to upload	Inget att ladda upp
 Uploading scrobbles	Uploading scrobbles	Laddar upp scrobblar
 Already uploading	Already uploading	Laddar redan upp
 Upload failed	Upload failed	Uppladdningen misslyckades
+Sleep Timer: %d min	Sleep Timer: %d min	Insomningstimer: %d min
+Sleep Timer: %d:%02d	Sleep Timer: %d:%02d	Insomningstimer: %d:%02d
 Connect to Wi-Fi first	Connect to Wi-Fi first	Anslut till Wi-Fi först
 Waiting for Spotify	Waiting for Spotify	Väntar på Spotify
 Spotify isn't on the card	Spotify isn't on the card	Spotify finns inte på kortet

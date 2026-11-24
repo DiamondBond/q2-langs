@@ -113,6 +113,7 @@ login_out	Logout	Tanca la sessió
 memplay_location	Location	Ubicació
 memplay_off	Off	Desactivat
 memplay_track	Track	Pista
+msg_actionnotsupport	Non-local songs, not currently supported	No s'admeten les cançons no locals
 msg_actionnotsupport	Non-local songs,not currently supported	No s'admeten les cançons no locals
 msg_actionscan	Scan music?	Vols escanejar la música?
 msg_add_task	Please enter the URL of the file you want to download	Introdueix l'URL del fitxer que vols baixar
@@ -165,11 +166,14 @@ msg_importsuccess	Successfully imported	Importat correctament
 msg_initsetsuccess	All settings initialized successfully	S'han restablert tots els ajustos
 msg_latestfw	Latest Fw. Installed	Microprogramari actualitzat
 msg_linkerror	WiFi Connection Error	Error de connexió Wi-Fi
+msg_lowarn	Line Out sets max volume, continue?	La sortida de línia fixa el volum al màxim. Vols continuar?
 msg_lowarn	Line Out sets max volume,continue?	La sortida de línia fixa el volum al màxim. Vols continuar?
 msg_lowpower	Low Battery	Bateria baixa
 msg_namenull	The name can't be empty	El nom no pot estar buit
 msg_netnameerr	Network Must Be Named	La xarxa necessita un nom
 msg_no	Cancel	Cancel·la
+msg_no_storage	Storage is full. Some songs couldn't be added.	L'emmagatzematge és ple. No s'han pogut afegir algunes cançons.
+msg_noheadset	Playback is disabled without headphones. Please insert headphones.	La reproducció està desactivada sense auriculars. Connecta'n uns.
 msg_no_storage	Storage is full.Some songs couldn't be added.	L'emmagatzematge és ple. No s'han pogut afegir algunes cançons.
 msg_noheadset	Playback is disabled without headphones.Please insert headphones.	La reproducció està desactivada sense auriculars. Connecta'n uns.
 msg_nosongs	No songs in this folder	No hi ha cap cançó en aquesta carpeta
@@ -545,6 +549,7 @@ Tidal Downloads	Tidal Downloads	Baixades de Tidal
 Internet Radio	Internet Radio	Ràdio per Internet
 Configuration	Configuration	Configuració
 Restart to apply?	Restart to apply?	Vols reiniciar per aplicar-ho?
+Restart	Restart	Reinicia
 Couldn't copy the language	Couldn't copy the language	No s'ha pogut copiar l'idioma
 Too many songs to shuffle	Too many songs to shuffle	Massa cançons per barrejar
 Shuffle Songs	Shuffle Songs	Barreja les cançons
@@ -576,6 +581,7 @@ Measuring songs… %d/%d	Measuring songs… %d/%d	Mesurant les cançons… %d/%d
 Measuring songs…	Measuring songs…	Mesurant les cançons…
 Release to search	Release to search	Deixa anar per cercar
 Pull to search	Pull to search	Arrossega per cercar
+Shut Down	Shut Down	Apaga
 Sleep Timer	Sleep Timer	Temporitzador d'apagada
 Lock Screen	Lock Screen	Pantalla de bloqueig
 Accent	Accent	Accent
@@ -627,6 +633,7 @@ Hide Folder	Hide Folder	Amaga Carpetes
 Hide Apps	Hide Apps	Amaga Aplicacions
 Hide Games	Hide Games	Amaga Jocs
 Hide App Store	Hide App Store	Amaga App Store
+Hide Hi-Res	Hide Hi-Res	Amaga Hi-Res
 Receive Audio	Receive Audio	Rep àudio
 Log Failed Artwork	Log Failed Artwork	Registra les cobertes fallides
 Hide Duplicate Albums	Hide Duplicate Albums	Amaga els àlbums duplicats
@@ -785,6 +792,8 @@ Auto (44.1: %.1f / 48: %.1f)	Auto (44.1: %.1f / 48: %.1f)	Auto (44.1: %.1f / 48:
 Folder missing or unavailable	Folder missing or unavailable	Carpeta absent o no disponible
 Out of memory; cannot list presets	Out of memory; cannot list presets	Sense memòria; no es poden llistar els predefinits
 No presets found	No presets found	No hi ha cap predefinit
+Imported %u; %u already saved; %u failed%s	Imported %u; %u already saved; %u failed%s	Importats: %u; ja desats: %u; fallits: %u%s
+; storage full	; storage full	; emmagatzematge ple
 Name not allowed; preset kept	Name not allowed; preset kept	Nom no permès; es conserva
 Name taken; preset kept	Name taken; preset kept	Nom en ús; es conserva
 Rename failed; preset kept	Rename failed; preset kept	Error en renomenar; es conserva
@@ -832,6 +841,7 @@ Raise	Raise	Augmenta
 Lower	Lower	Disminueix
 Step	Step	Pas
 Delete %.100s? Confirm	Delete %.100s? Confirm	Eliminar %.100s? Confirma
+Reset all bands? Confirm	Reset all bands? Confirm	Restablir totes les bandes? Confirma
 Replace existing preset? Confirm	Replace existing preset? Confirm	Substituir-lo? Confirma
 Cancel replacement	Cancel replacement	Cancel·la la substitució
 Save as Manual %02d	Save as Manual %02d	Desa com a Manual %02d
@@ -840,6 +850,8 @@ Import from SD /EQ	Import from SD /EQ	Importa de SD /EQ
 Save editor preset	Save editor preset	Desa el predefinit
 Rename a preset	Rename a preset	Canvia el nom d'un predefinit
 Delete a preset	Delete a preset	Elimina un predefinit
+Import this page	Import this page	Importa aquesta pàgina
+Import all	Import all	Importa-ho tot
 Previous page	Previous page	Pàgina anterior
 Next page	Next page	Pàgina següent
 Band %d	Band %d	Banda %d
@@ -979,6 +991,8 @@ Nothing to upload	Nothing to upload	Res per enviar
 Uploading scrobbles	Uploading scrobbles	Enviant scrobbles
 Already uploading	Already uploading	Ja s'està enviant
 Upload failed	Upload failed	Error en enviar
+Sleep Timer: %d min	Sleep Timer: %d min	Temporitzador d'apagada: %d min
+Sleep Timer: %d:%02d	Sleep Timer: %d:%02d	Temporitzador d'apagada: %d:%02d
 Connect to Wi-Fi first	Connect to Wi-Fi first	Connecta't primer al Wi-Fi
 Waiting for Spotify	Waiting for Spotify	Esperant Spotify
 Spotify isn't on the card	Spotify isn't on the card	Spotify no és a la targeta

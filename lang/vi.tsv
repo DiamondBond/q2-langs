@@ -113,6 +113,7 @@ login_out	Logout	Đăng xuất
 memplay_location	Location	Vị trí
 memplay_off	Off	Tắt
 memplay_track	Track	Bài hát
+msg_actionnotsupport	Non-local songs, not currently supported	Bài hát trực tuyến chưa hỗ trợ thao tác này
 msg_actionnotsupport	Non-local songs,not currently supported	Bài hát trực tuyến chưa hỗ trợ thao tác này
 msg_actionscan	Scan music?	Quét nhạc?
 msg_add_task	Please enter the URL of the file you want to download	Nhập URL của tệp cần tải xuống
@@ -165,11 +166,14 @@ msg_importsuccess	Successfully imported	Nhập thành công
 msg_initsetsuccess	All settings initialized successfully	Đã đặt lại mọi cài đặt
 msg_latestfw	Latest Fw. Installed	Đã là firmware mới nhất
 msg_linkerror	WiFi Connection Error	Lỗi kết nối Wi-Fi
+msg_lowarn	Line Out sets max volume, continue?	Line Out đặt âm lượng tối đa, tiếp tục?
 msg_lowarn	Line Out sets max volume,continue?	Line Out đặt âm lượng tối đa, tiếp tục?
 msg_lowpower	Low Battery	Pin yếu
 msg_namenull	The name can't be empty	Tên không được để trống
 msg_netnameerr	Network Must Be Named	Mạng phải có tên
 msg_no	Cancel	Hủy
+msg_no_storage	Storage is full. Some songs couldn't be added.	Bộ nhớ đầy. Không thêm được một số bài hát.
+msg_noheadset	Playback is disabled without headphones. Please insert headphones.	Không thể phát khi chưa cắm tai nghe. Vui lòng cắm tai nghe.
 msg_no_storage	Storage is full.Some songs couldn't be added.	Bộ nhớ đầy. Không thêm được một số bài hát.
 msg_noheadset	Playback is disabled without headphones.Please insert headphones.	Không thể phát khi chưa cắm tai nghe. Vui lòng cắm tai nghe.
 msg_nosongs	No songs in this folder	Thư mục này không có bài hát
@@ -545,6 +549,7 @@ Tidal Downloads	Tidal Downloads	Tải xuống từ Tidal
 Internet Radio	Internet Radio	Radio Internet
 Configuration	Configuration	Cấu hình
 Restart to apply?	Restart to apply?	Khởi động lại để áp dụng?
+Restart	Restart	Khởi động lại
 Couldn't copy the language	Couldn't copy the language	Không sao chép được ngôn ngữ
 Too many songs to shuffle	Too many songs to shuffle	Quá nhiều bài hát để xáo trộn
 Shuffle Songs	Shuffle Songs	Xáo trộn bài hát
@@ -576,6 +581,7 @@ Measuring songs… %d/%d	Measuring songs… %d/%d	Đang đo bài hát… %d/%d
 Measuring songs…	Measuring songs…	Đang đo bài hát…
 Release to search	Release to search	Thả để tìm kiếm
 Pull to search	Pull to search	Kéo để tìm kiếm
+Shut Down	Shut Down	Tắt máy
 Sleep Timer	Sleep Timer	Hẹn giờ ngủ
 Lock Screen	Lock Screen	Khóa màn hình
 Accent	Accent	Màu nhấn
@@ -627,6 +633,7 @@ Hide Folder	Hide Folder	Ẩn Thư mục
 Hide Apps	Hide Apps	Ẩn Ứng dụng
 Hide Games	Hide Games	Ẩn Trò chơi
 Hide App Store	Hide App Store	Ẩn App Store
+Hide Hi-Res	Hide Hi-Res	Ẩn Hi-Res
 Receive Audio	Receive Audio	Nhận âm thanh
 Log Failed Artwork	Log Failed Artwork	Ghi nhật ký ảnh bìa lỗi
 Hide Duplicate Albums	Hide Duplicate Albums	Ẩn album trùng
@@ -785,6 +792,8 @@ Auto (44.1: %.1f / 48: %.1f)	Auto (44.1: %.1f / 48: %.1f)	Tự động (44.1: %.
 Folder missing or unavailable	Folder missing or unavailable	Thư mục thiếu hoặc không mở được
 Out of memory; cannot list presets	Out of memory; cannot list presets	Hết bộ nhớ; không liệt kê được các cài đặt sẵn
 No presets found	No presets found	Không tìm thấy cài đặt sẵn
+Imported %u; %u already saved; %u failed%s	Imported %u; %u already saved; %u failed%s	Đã nhập %u; %u đã lưu; %u không thành công%s
+; storage full	; storage full	; bộ nhớ đầy
 Name not allowed; preset kept	Name not allowed; preset kept	Tên không hợp lệ; đã giữ lại
 Name taken; preset kept	Name taken; preset kept	Tên đã có; đã giữ lại
 Rename failed; preset kept	Rename failed; preset kept	Đổi tên lỗi; đã giữ lại
@@ -832,6 +841,7 @@ Raise	Raise	Tăng
 Lower	Lower	Giảm
 Step	Step	Bước
 Delete %.100s? Confirm	Delete %.100s? Confirm	Xóa %.100s? Xác nhận
+Reset all bands? Confirm	Reset all bands? Confirm	Đặt lại mọi băng tần? Xác nhận
 Replace existing preset? Confirm	Replace existing preset? Confirm	Thay thế cài đặt? Xác nhận
 Cancel replacement	Cancel replacement	Hủy thay thế
 Save as Manual %02d	Save as Manual %02d	Lưu thành Thủ công %02d
@@ -840,6 +850,8 @@ Import from SD /EQ	Import from SD /EQ	Nhập từ thẻ SD /EQ
 Save editor preset	Save editor preset	Lưu cài đặt sẵn của trình sửa
 Rename a preset	Rename a preset	Đổi tên cài đặt sẵn
 Delete a preset	Delete a preset	Xóa cài đặt sẵn
+Import this page	Import this page	Nhập trang này
+Import all	Import all	Nhập tất cả
 Previous page	Previous page	Trang trước
 Next page	Next page	Trang sau
 Band %d	Band %d	Băng tần %d
@@ -979,6 +991,8 @@ Nothing to upload	Nothing to upload	Không có gì để tải lên
 Uploading scrobbles	Uploading scrobbles	Đang tải scrobble lên
 Already uploading	Already uploading	Đang tải lên rồi
 Upload failed	Upload failed	Tải lên thất bại
+Sleep Timer: %d min	Sleep Timer: %d min	Hẹn giờ ngủ: %d phút
+Sleep Timer: %d:%02d	Sleep Timer: %d:%02d	Hẹn giờ ngủ: %d:%02d
 Connect to Wi-Fi first	Connect to Wi-Fi first	Hãy kết nối Wi-Fi trước
 Waiting for Spotify	Waiting for Spotify	Đang chờ Spotify
 Spotify isn't on the card	Spotify isn't on the card	Không có Spotify trên thẻ

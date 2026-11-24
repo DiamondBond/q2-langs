@@ -113,6 +113,7 @@ login_out	Logout	ログアウト
 memplay_location	Location	停止位置
 memplay_off	Off	オフ
 memplay_track	Track	トラック
+msg_actionnotsupport	Non-local songs, not currently supported	ローカルにない曲は現在サポートしていません
 msg_actionnotsupport	Non-local songs,not currently supported	ローカルにない曲は現在サポートしていません
 msg_actionscan	Scan music?	音楽をスキャンしますか？
 msg_add_task	Please enter the URL of the file you want to download	ダウンロードするファイルのURLを入力してください
@@ -165,11 +166,14 @@ msg_importsuccess	Successfully imported	インポートしました
 msg_initsetsuccess	All settings initialized successfully	すべての設定を初期化しました
 msg_latestfw	Latest Fw. Installed	最新のファームウェアです
 msg_linkerror	WiFi Connection Error	Wi-Fiに接続できません
+msg_lowarn	Line Out sets max volume, continue?	ライン出力では音量が最大に固定されます。続けますか？
 msg_lowarn	Line Out sets max volume,continue?	ライン出力では音量が最大に固定されます。続けますか？
 msg_lowpower	Low Battery	バッテリー残量わずか
 msg_namenull	The name can't be empty	名前を空にはできません
 msg_netnameerr	Network Must Be Named	ネットワーク名が必要です
 msg_no	Cancel	キャンセル
+msg_no_storage	Storage is full. Some songs couldn't be added.	空き容量がありません。追加できなかった曲があります。
+msg_noheadset	Playback is disabled without headphones. Please insert headphones.	ヘッドホンなしでは再生できません。ヘッドホンを接続してください。
 msg_no_storage	Storage is full.Some songs couldn't be added.	空き容量がありません。追加できなかった曲があります。
 msg_noheadset	Playback is disabled without headphones.Please insert headphones.	ヘッドホンなしでは再生できません。ヘッドホンを接続してください。
 msg_nosongs	No songs in this folder	このフォルダに曲がありません
@@ -545,6 +549,7 @@ Tidal Downloads	Tidal Downloads	Tidalダウンロード
 Internet Radio	Internet Radio	インターネットラジオ
 Configuration	Configuration	ストリーミング設定
 Restart to apply?	Restart to apply?	再起動して適用しますか？
+Restart	Restart	再起動
 Couldn't copy the language	Couldn't copy the language	言語をコピーできませんでした
 Too many songs to shuffle	Too many songs to shuffle	曲が多すぎてシャッフルできません
 Shuffle Songs	Shuffle Songs	曲をシャッフル
@@ -576,6 +581,7 @@ Measuring songs… %d/%d	Measuring songs… %d/%d	曲を測定中… %d/%d
 Measuring songs…	Measuring songs…	曲を測定中…
 Release to search	Release to search	離して検索
 Pull to search	Pull to search	引いて検索
+Shut Down	Shut Down	シャットダウン
 Sleep Timer	Sleep Timer	スリープタイマー
 Lock Screen	Lock Screen	ロック画面
 Accent	Accent	アクセント
@@ -627,6 +633,7 @@ Hide Folder	Hide Folder	フォルダを非表示
 Hide Apps	Hide Apps	アプリを非表示
 Hide Games	Hide Games	ゲームを非表示
 Hide App Store	Hide App Store	App Storeを非表示
+Hide Hi-Res	Hide Hi-Res	ハイレゾを非表示
 Receive Audio	Receive Audio	音声を受信
 Log Failed Artwork	Log Failed Artwork	失敗したアートワークを記録
 Hide Duplicate Albums	Hide Duplicate Albums	重複したアルバムを非表示
@@ -785,6 +792,8 @@ Auto (44.1: %.1f / 48: %.1f)	Auto (44.1: %.1f / 48: %.1f)	自動 (44.1: %.1f / 4
 Folder missing or unavailable	Folder missing or unavailable	フォルダがないか利用できません
 Out of memory; cannot list presets	Out of memory; cannot list presets	メモリ不足です。プリセットを一覧できません
 No presets found	No presets found	プリセットが見つかりません
+Imported %u; %u already saved; %u failed%s	Imported %u; %u already saved; %u failed%s	%u件読み込み、%u件は保存済み、%u件失敗%s
+; storage full	; storage full	、空き容量がありません
 Name not allowed; preset kept	Name not allowed; preset kept	使えない名前です。プリセットはそのままです
 Name taken; preset kept	Name taken; preset kept	その名前は使用中です。プリセットはそのままです
 Rename failed; preset kept	Rename failed; preset kept	名前を変更できませんでした。プリセットはそのままです
@@ -832,6 +841,7 @@ Raise	Raise	上げる
 Lower	Lower	下げる
 Step	Step	刻み
 Delete %.100s? Confirm	Delete %.100s? Confirm	%.100sを削除しますか？ はい
+Reset all bands? Confirm	Reset all bands? Confirm	全バンドをリセットしますか？ はい
 Replace existing preset? Confirm	Replace existing preset? Confirm	既存のプリセットを置き換えますか？ はい
 Cancel replacement	Cancel replacement	置き換えをキャンセル
 Save as Manual %02d	Save as Manual %02d	手動%02dとして保存
@@ -840,6 +850,8 @@ Import from SD /EQ	Import from SD /EQ	SDの/EQから読み込み
 Save editor preset	Save editor preset	編集中のプリセットを保存
 Rename a preset	Rename a preset	プリセットの名前を変更
 Delete a preset	Delete a preset	プリセットを削除
+Import this page	Import this page	このページを読み込み
+Import all	Import all	すべて読み込み
 Previous page	Previous page	前のページ
 Next page	Next page	次のページ
 Band %d	Band %d	バンド%d
@@ -979,6 +991,8 @@ Nothing to upload	Nothing to upload	送信するものがありません
 Uploading scrobbles	Uploading scrobbles	スクロブルを送信中
 Already uploading	Already uploading	すでに送信中です
 Upload failed	Upload failed	送信できませんでした
+Sleep Timer: %d min	Sleep Timer: %d min	スリープタイマー: %d分
+Sleep Timer: %d:%02d	Sleep Timer: %d:%02d	スリープタイマー: %d:%02d
 Connect to Wi-Fi first	Connect to Wi-Fi first	先にWi-Fiに接続してください
 Waiting for Spotify	Waiting for Spotify	Spotifyを待っています
 Spotify isn't on the card	Spotify isn't on the card	Spotifyがカードにありません

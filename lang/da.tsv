@@ -113,6 +113,7 @@ login_out	Logout	Log ud
 memplay_location	Location	Placering
 memplay_off	Off	Fra
 memplay_track	Track	Nummer
+msg_actionnotsupport	Non-local songs, not currently supported	Ikke-lokale sange understøttes ikke i øjeblikket
 msg_actionnotsupport	Non-local songs,not currently supported	Ikke-lokale sange understøttes ikke i øjeblikket
 msg_actionscan	Scan music?	Scan musik?
 msg_add_task	Please enter the URL of the file you want to download	Indtast URL'en på den fil, du vil downloade
@@ -165,11 +166,14 @@ msg_importsuccess	Successfully imported	Import gennemført
 msg_initsetsuccess	All settings initialized successfully	Alle indstillinger er nulstillet
 msg_latestfw	Latest Fw. Installed	Nyeste firmware er installeret
 msg_linkerror	WiFi Connection Error	Wi-Fi-forbindelsesfejl
+msg_lowarn	Line Out sets max volume, continue?	Line Out indstiller maksimal lydstyrke. Fortsæt?
 msg_lowarn	Line Out sets max volume,continue?	Line Out indstiller maksimal lydstyrke. Fortsæt?
 msg_lowpower	Low Battery	Lavt batteri
 msg_namenull	The name can't be empty	Navnet må ikke være tomt
 msg_netnameerr	Network Must Be Named	Netværket skal have et navn
 msg_no	Cancel	Annuller
+msg_no_storage	Storage is full. Some songs couldn't be added.	Lageret er fuldt. Nogle sange kunne ikke tilføjes.
+msg_noheadset	Playback is disabled without headphones. Please insert headphones.	Afspilning er slået fra uden hovedtelefoner. Tilslut hovedtelefoner.
 msg_no_storage	Storage is full.Some songs couldn't be added.	Lageret er fuldt. Nogle sange kunne ikke tilføjes.
 msg_noheadset	Playback is disabled without headphones.Please insert headphones.	Afspilning er slået fra uden hovedtelefoner. Tilslut hovedtelefoner.
 msg_nosongs	No songs in this folder	Ingen sange i denne mappe
@@ -545,6 +549,7 @@ Tidal Downloads	Tidal Downloads	Tidal-downloads
 Internet Radio	Internet Radio	Internetradio
 Configuration	Configuration	Konfiguration
 Restart to apply?	Restart to apply?	Genstart for at anvende?
+Restart	Restart	Genstart
 Couldn't copy the language	Couldn't copy the language	Sproget kunne ikke kopieres
 Too many songs to shuffle	Too many songs to shuffle	For mange sange at blande
 Shuffle Songs	Shuffle Songs	Bland sange
@@ -576,6 +581,7 @@ Measuring songs… %d/%d	Measuring songs… %d/%d	Måler sange… %d/%d
 Measuring songs…	Measuring songs…	Måler sange…
 Release to search	Release to search	Slip for at søge
 Pull to search	Pull to search	Træk for at søge
+Shut Down	Shut Down	Sluk
 Sleep Timer	Sleep Timer	Sovetimer
 Lock Screen	Lock Screen	Låseskærm
 Accent	Accent	Accentfarve
@@ -627,6 +633,7 @@ Hide Folder	Hide Folder	Skjul Mappe
 Hide Apps	Hide Apps	Skjul Apps
 Hide Games	Hide Games	Skjul Spil
 Hide App Store	Hide App Store	Skjul App Store
+Hide Hi-Res	Hide Hi-Res	Skjul Hi-Res
 Receive Audio	Receive Audio	Modtag lyd
 Log Failed Artwork	Log Failed Artwork	Log mislykkede covers
 Hide Duplicate Albums	Hide Duplicate Albums	Skjul dobbelte albummer
@@ -785,6 +792,8 @@ Auto (44.1: %.1f / 48: %.1f)	Auto (44.1: %.1f / 48: %.1f)	Auto (44.1: %.1f / 48:
 Folder missing or unavailable	Folder missing or unavailable	Mappe mangler eller utilgængelig
 Out of memory; cannot list presets	Out of memory; cannot list presets	Ikke nok hukommelse; kan ikke vise forudindstillinger
 No presets found	No presets found	Ingen forudindstillinger fundet
+Imported %u; %u already saved; %u failed%s	Imported %u; %u already saved; %u failed%s	%u importeret; %u allerede gemt; %u mislykkedes%s
+; storage full	; storage full	; lageret er fuldt
 Name not allowed; preset kept	Name not allowed; preset kept	Navnet er ikke tilladt; beholdt
 Name taken; preset kept	Name taken; preset kept	Navnet er optaget; beholdt
 Rename failed; preset kept	Rename failed; preset kept	Omdøbning mislykkedes; beholdt
@@ -832,6 +841,7 @@ Raise	Raise	Hæv
 Lower	Lower	Sænk
 Step	Step	Trin
 Delete %.100s? Confirm	Delete %.100s? Confirm	Slet %.100s? Bekræft
+Reset all bands? Confirm	Reset all bands? Confirm	Nulstil alle bånd? Bekræft
 Replace existing preset? Confirm	Replace existing preset? Confirm	Erstat forudindstilling? Bekræft
 Cancel replacement	Cancel replacement	Annuller erstatning
 Save as Manual %02d	Save as Manual %02d	Gem som Manual %02d
@@ -840,6 +850,8 @@ Import from SD /EQ	Import from SD /EQ	Importér fra SD /EQ
 Save editor preset	Save editor preset	Gem editor-forudindstilling
 Rename a preset	Rename a preset	Omdøb en forudindstilling
 Delete a preset	Delete a preset	Slet en forudindstilling
+Import this page	Import this page	Importér denne side
+Import all	Import all	Importér alle
 Previous page	Previous page	Forrige side
 Next page	Next page	Næste side
 Band %d	Band %d	Bånd %d
@@ -979,6 +991,8 @@ Nothing to upload	Nothing to upload	Intet at uploade
 Uploading scrobbles	Uploading scrobbles	Uploader scrobbles
 Already uploading	Already uploading	Uploader allerede
 Upload failed	Upload failed	Upload mislykkedes
+Sleep Timer: %d min	Sleep Timer: %d min	Sovetimer: %d min
+Sleep Timer: %d:%02d	Sleep Timer: %d:%02d	Sovetimer: %d:%02d
 Connect to Wi-Fi first	Connect to Wi-Fi first	Opret først Wi-Fi-forbindelse
 Waiting for Spotify	Waiting for Spotify	Venter på Spotify
 Spotify isn't on the card	Spotify isn't on the card	Spotify findes ikke på kortet

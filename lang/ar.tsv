@@ -113,6 +113,7 @@ login_out	Logout	تسجيل الخروج
 memplay_location	Location	الموقع
 memplay_off	Off	إيقاف
 memplay_track	Track	المقطع
+msg_actionnotsupport	Non-local songs, not currently supported	الأغاني غير المحلية غير مدعومة حاليا
 msg_actionnotsupport	Non-local songs,not currently supported	الأغاني غير المحلية غير مدعومة حاليا
 msg_actionscan	Scan music?	فحص الموسيقى؟
 msg_add_task	Please enter the URL of the file you want to download	أدخل رابط الملف الذي تريد تنزيله
@@ -165,11 +166,14 @@ msg_importsuccess	Successfully imported	تم الاستيراد بنجاح
 msg_initsetsuccess	All settings initialized successfully	تمت إعادة ضبط كل الإعدادات
 msg_latestfw	Latest Fw. Installed	البرنامج الثابت محدث
 msg_linkerror	WiFi Connection Error	خطأ في اتصال Wi-Fi
+msg_lowarn	Line Out sets max volume, continue?	خرج Line Out يضبط الصوت على الحد الأقصى. هل تتابع؟
 msg_lowarn	Line Out sets max volume,continue?	خرج Line Out يضبط الصوت على الحد الأقصى. هل تتابع؟
 msg_lowpower	Low Battery	البطارية منخفضة
 msg_namenull	The name can't be empty	لا يمكن ترك الاسم فارغا
 msg_netnameerr	Network Must Be Named	يجب تسمية الشبكة
 msg_no	Cancel	إلغاء
+msg_no_storage	Storage is full. Some songs couldn't be added.	مساحة التخزين ممتلئة. تعذرت إضافة بعض الأغاني.
+msg_noheadset	Playback is disabled without headphones. Please insert headphones.	التشغيل متوقف دون سماعات. وصل سماعات الرأس.
 msg_no_storage	Storage is full.Some songs couldn't be added.	مساحة التخزين ممتلئة. تعذرت إضافة بعض الأغاني.
 msg_noheadset	Playback is disabled without headphones.Please insert headphones.	التشغيل متوقف دون سماعات. وصل سماعات الرأس.
 msg_nosongs	No songs in this folder	لا توجد أغان في هذا المجلد
@@ -545,6 +549,7 @@ Tidal Downloads	Tidal Downloads	تنزيلات Tidal
 Internet Radio	Internet Radio	راديو الإنترنت
 Configuration	Configuration	التهيئة
 Restart to apply?	Restart to apply?	إعادة التشغيل للتطبيق؟
+Restart	Restart	إعادة التشغيل
 Couldn't copy the language	Couldn't copy the language	تعذر نسخ اللغة
 Too many songs to shuffle	Too many songs to shuffle	عدد الأغاني أكبر من أن يخلط
 Shuffle Songs	Shuffle Songs	خلط الأغاني
@@ -576,6 +581,7 @@ Measuring songs… %d/%d	Measuring songs… %d/%d	جار قياس الأغاني
 Measuring songs…	Measuring songs…	جار قياس الأغاني…
 Release to search	Release to search	حرر للبحث
 Pull to search	Pull to search	اسحب للبحث
+Shut Down	Shut Down	إيقاف التشغيل
 Sleep Timer	Sleep Timer	مؤقت النوم
 Lock Screen	Lock Screen	قفل الشاشة
 Accent	Accent	اللون المميز
@@ -627,6 +633,7 @@ Hide Folder	Hide Folder	إخفاء المجلد
 Hide Apps	Hide Apps	إخفاء التطبيقات
 Hide Games	Hide Games	إخفاء الألعاب
 Hide App Store	Hide App Store	إخفاء App Store
+Hide Hi-Res	Hide Hi-Res	إخفاء Hi-Res
 Receive Audio	Receive Audio	استقبال الصوت
 Log Failed Artwork	Log Failed Artwork	تسجيل الأغلفة الفاشلة
 Hide Duplicate Albums	Hide Duplicate Albums	إخفاء الألبومات المكررة
@@ -785,6 +792,8 @@ Auto (44.1: %.1f / 48: %.1f)	Auto (44.1: %.1f / 48: %.1f)	تلقائي (44.1: %.
 Folder missing or unavailable	Folder missing or unavailable	المجلد غير موجود أو غير متاح
 Out of memory; cannot list presets	Out of memory; cannot list presets	نفدت الذاكرة؛ تعذر سرد الإعدادات
 No presets found	No presets found	لا توجد إعدادات مسبقة
+Imported %u; %u already saved; %u failed%s	Imported %u; %u already saved; %u failed%s	تم استيراد %u؛ %u محفوظ مسبقا؛ فشل %u%s
+; storage full	; storage full	؛ مساحة التخزين ممتلئة
 Name not allowed; preset kept	Name not allowed; preset kept	الاسم غير مسموح؛ بقي الإعداد
 Name taken; preset kept	Name taken; preset kept	الاسم مستخدم؛ بقي الإعداد
 Rename failed; preset kept	Rename failed; preset kept	فشلت إعادة التسمية؛ بقي الإعداد
@@ -832,6 +841,7 @@ Raise	Raise	رفع
 Lower	Lower	خفض
 Step	Step	الخطوة
 Delete %.100s? Confirm	Delete %.100s? Confirm	حذف %.100s؟ تأكيد
+Reset all bands? Confirm	Reset all bands? Confirm	إعادة ضبط كل النطاقات؟ تأكيد
 Replace existing preset? Confirm	Replace existing preset? Confirm	استبدال الإعداد الموجود؟ تأكيد
 Cancel replacement	Cancel replacement	إلغاء الاستبدال
 Save as Manual %02d	Save as Manual %02d	حفظ باسم Manual %02d
@@ -840,6 +850,8 @@ Import from SD /EQ	Import from SD /EQ	استيراد من SD /EQ
 Save editor preset	Save editor preset	حفظ إعداد المحرر
 Rename a preset	Rename a preset	إعادة تسمية إعداد
 Delete a preset	Delete a preset	حذف إعداد
+Import this page	Import this page	استيراد هذه الصفحة
+Import all	Import all	استيراد الكل
 Previous page	Previous page	الصفحة السابقة
 Next page	Next page	الصفحة التالية
 Band %d	Band %d	النطاق %d
@@ -979,6 +991,8 @@ Nothing to upload	Nothing to upload	لا شيء للرفع
 Uploading scrobbles	Uploading scrobbles	جار رفع Scrobbles
 Already uploading	Already uploading	الرفع جار بالفعل
 Upload failed	Upload failed	فشل الرفع
+Sleep Timer: %d min	Sleep Timer: %d min	مؤقت النوم: %d د
+Sleep Timer: %d:%02d	Sleep Timer: %d:%02d	مؤقت النوم: %d:%02d
 Connect to Wi-Fi first	Connect to Wi-Fi first	صل بشبكة Wi-Fi أولا
 Waiting for Spotify	Waiting for Spotify	في انتظار Spotify
 Spotify isn't on the card	Spotify isn't on the card	Spotify غير موجود على البطاقة

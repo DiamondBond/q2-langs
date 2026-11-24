@@ -113,6 +113,7 @@ login_out	Logout	ออกจากระบบ
 memplay_location	Location	ตำแหน่ง
 memplay_off	Off	ปิด
 memplay_track	Track	เพลง
+msg_actionnotsupport	Non-local songs, not currently supported	ไม่ใช่เพลงในเครื่อง ยังไม่รองรับ
 msg_actionnotsupport	Non-local songs,not currently supported	ไม่ใช่เพลงในเครื่อง ยังไม่รองรับ
 msg_actionscan	Scan music?	สแกนเพลงหรือไม่
 msg_add_task	Please enter the URL of the file you want to download	กรุณาป้อน URL ของไฟล์ที่ต้องการดาวน์โหลด
@@ -165,11 +166,14 @@ msg_importsuccess	Successfully imported	นำเข้าสำเร็จ
 msg_initsetsuccess	All settings initialized successfully	รีเซ็ตการตั้งค่าทั้งหมดสำเร็จ
 msg_latestfw	Latest Fw. Installed	ติดตั้งเฟิร์มแวร์ล่าสุดแล้ว
 msg_linkerror	WiFi Connection Error	เชื่อมต่อ Wi-Fi ไม่สำเร็จ
+msg_lowarn	Line Out sets max volume, continue?	Line Out จะตั้งระดับเสียงสูงสุด ดำเนินการต่อหรือไม่
 msg_lowarn	Line Out sets max volume,continue?	Line Out จะตั้งระดับเสียงสูงสุด ดำเนินการต่อหรือไม่
 msg_lowpower	Low Battery	แบตเตอรี่ต่ำ
 msg_namenull	The name can't be empty	ชื่อต้องไม่ว่างเปล่า
 msg_netnameerr	Network Must Be Named	ต้องตั้งชื่อเครือข่าย
 msg_no	Cancel	ยกเลิก
+msg_no_storage	Storage is full. Some songs couldn't be added.	พื้นที่เก็บข้อมูลเต็ม เพิ่มเพลงไม่ครบทั้งหมด
+msg_noheadset	Playback is disabled without headphones. Please insert headphones.	ไม่สามารถเล่นได้หากไม่มีหูฟัง กรุณาเสียบหูฟัง
 msg_no_storage	Storage is full.Some songs couldn't be added.	พื้นที่เก็บข้อมูลเต็ม เพิ่มเพลงไม่ครบทั้งหมด
 msg_noheadset	Playback is disabled without headphones.Please insert headphones.	ไม่สามารถเล่นได้หากไม่มีหูฟัง กรุณาเสียบหูฟัง
 msg_nosongs	No songs in this folder	ไม่มีเพลงในโฟลเดอร์นี้
@@ -545,6 +549,7 @@ Tidal Downloads	Tidal Downloads	ดาวน์โหลด Tidal
 Internet Radio	Internet Radio	วิทยุอินเทอร์เน็ต
 Configuration	Configuration	การกำหนดค่า
 Restart to apply?	Restart to apply?	รีสตาร์ตเพื่อใช้งานหรือไม่
+Restart	Restart	รีสตาร์ต
 Couldn't copy the language	Couldn't copy the language	คัดลอกภาษาไม่ได้
 Too many songs to shuffle	Too many songs to shuffle	เพลงมากเกินกว่าจะสุ่มได้
 Shuffle Songs	Shuffle Songs	สุ่มเพลง
@@ -576,6 +581,7 @@ Measuring songs… %d/%d	Measuring songs… %d/%d	กำลังวัดเพ
 Measuring songs…	Measuring songs…	กำลังวัดเพลง…
 Release to search	Release to search	ปล่อยเพื่อค้นหา
 Pull to search	Pull to search	ดึงเพื่อค้นหา
+Shut Down	Shut Down	ปิดเครื่อง
 Sleep Timer	Sleep Timer	ตั้งเวลาปิด
 Lock Screen	Lock Screen	ล็อกหน้าจอ
 Accent	Accent	สีเน้น
@@ -627,6 +633,7 @@ Hide Folder	Hide Folder	ซ่อนโฟลเดอร์
 Hide Apps	Hide Apps	ซ่อนแอป
 Hide Games	Hide Games	ซ่อนเกม
 Hide App Store	Hide App Store	ซ่อน App Store
+Hide Hi-Res	Hide Hi-Res	ซ่อน Hi-Res
 Receive Audio	Receive Audio	รับเสียง
 Log Failed Artwork	Log Failed Artwork	เก็บบันทึกภาพปกที่ล้มเหลว
 Hide Duplicate Albums	Hide Duplicate Albums	ซ่อนอัลบั้มที่ซ้ำ
@@ -785,6 +792,8 @@ Auto (44.1: %.1f / 48: %.1f)	Auto (44.1: %.1f / 48: %.1f)	อัตโนมั�
 Folder missing or unavailable	Folder missing or unavailable	ไม่พบโฟลเดอร์หรือใช้งานไม่ได้
 Out of memory; cannot list presets	Out of memory; cannot list presets	หน่วยความจำไม่พอ แสดงรายการพรีเซ็ตไม่ได้
 No presets found	No presets found	ไม่พบพรีเซ็ต
+Imported %u; %u already saved; %u failed%s	Imported %u; %u already saved; %u failed%s	นำเข้าแล้ว %u; บันทึกไว้แล้ว %u; ล้มเหลว %u%s
+; storage full	; storage full	; พื้นที่เก็บข้อมูลเต็ม
 Name not allowed; preset kept	Name not allowed; preset kept	ใช้ชื่อนี้ไม่ได้ คงพรีเซ็ตไว้
 Name taken; preset kept	Name taken; preset kept	มีชื่อนี้แล้ว คงพรีเซ็ตไว้
 Rename failed; preset kept	Rename failed; preset kept	เปลี่ยนชื่อไม่สำเร็จ คงพรีเซ็ตไว้
@@ -832,6 +841,7 @@ Raise	Raise	เพิ่ม
 Lower	Lower	ลด
 Step	Step	ขั้น
 Delete %.100s? Confirm	Delete %.100s? Confirm	ลบ %.100s? ยืนยัน
+Reset all bands? Confirm	Reset all bands? Confirm	รีเซ็ตแบนด์ทั้งหมดหรือไม่ ยืนยัน
 Replace existing preset? Confirm	Replace existing preset? Confirm	แทนที่พรีเซ็ตเดิมหรือไม่ ยืนยัน
 Cancel replacement	Cancel replacement	ยกเลิกการแทนที่
 Save as Manual %02d	Save as Manual %02d	บันทึกเป็นแมนวล %02d
@@ -840,6 +850,8 @@ Import from SD /EQ	Import from SD /EQ	นำเข้าจาก SD /EQ
 Save editor preset	Save editor preset	บันทึกพรีเซ็ตจากตัวแก้ไข
 Rename a preset	Rename a preset	เปลี่ยนชื่อพรีเซ็ต
 Delete a preset	Delete a preset	ลบพรีเซ็ต
+Import this page	Import this page	นำเข้าหน้านี้
+Import all	Import all	นำเข้าทั้งหมด
 Previous page	Previous page	หน้าก่อนหน้า
 Next page	Next page	หน้าถัดไป
 Band %d	Band %d	แบนด์ %d
@@ -979,6 +991,8 @@ Nothing to upload	Nothing to upload	ไม่มีรายการที่�
 Uploading scrobbles	Uploading scrobbles	กำลังอัปโหลด Scrobble
 Already uploading	Already uploading	กำลังอัปโหลดอยู่แล้ว
 Upload failed	Upload failed	อัปโหลดไม่สำเร็จ
+Sleep Timer: %d min	Sleep Timer: %d min	ตั้งเวลาปิด: %d นาที
+Sleep Timer: %d:%02d	Sleep Timer: %d:%02d	ตั้งเวลาปิด: %d:%02d
 Connect to Wi-Fi first	Connect to Wi-Fi first	เชื่อมต่อ Wi-Fi ก่อน
 Waiting for Spotify	Waiting for Spotify	กำลังรอ Spotify
 Spotify isn't on the card	Spotify isn't on the card	ไม่มี Spotify ในการ์ด

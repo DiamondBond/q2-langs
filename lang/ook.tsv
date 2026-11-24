@@ -113,6 +113,7 @@ login_out	Logout	Ook
 memplay_location	Location	Ook
 memplay_off	Off	Ook
 memplay_track	Track	Ook
+msg_actionnotsupport	Non-local songs, not currently supported	Ook-ook ook, ook ook ook
 msg_actionnotsupport	Non-local songs,not currently supported	Ook-ook ook,ook ook ook
 msg_actionscan	Scan music?	Ook ook?
 msg_add_task	Please enter the URL of the file you want to download	Ook ook ook Ook ook ook ook ook ook ook ook
@@ -165,11 +166,14 @@ msg_importsuccess	Successfully imported	Ook ook
 msg_initsetsuccess	All settings initialized successfully	Ook ook ook ook
 msg_latestfw	Latest Fw. Installed	Ook Ook. Ook
 msg_linkerror	WiFi Connection Error	Ook Ook Ook
+msg_lowarn	Line Out sets max volume, continue?	Ook Ook ook ook ook, ook?
 msg_lowarn	Line Out sets max volume,continue?	Ook Ook ook ook ook,ook?
 msg_lowpower	Low Battery	Ook Ook
 msg_namenull	The name can't be empty	Ook ook ook'ook ook ook
 msg_netnameerr	Network Must Be Named	Ook Ook Ook Ook
 msg_no	Cancel	Ook
+msg_no_storage	Storage is full. Some songs couldn't be added.	Ook ook ook. Ook ook ook'ook ook ook.
+msg_noheadset	Playback is disabled without headphones. Please insert headphones.	Ook ook ook ook ook. Ook ook ook.
 msg_no_storage	Storage is full.Some songs couldn't be added.	Ook ook ook.Ook ook ook'ook ook ook.
 msg_noheadset	Playback is disabled without headphones.Please insert headphones.	Ook ook ook ook ook.Ook ook ook.
 msg_nosongs	No songs in this folder	Ook ook ook ook ook
@@ -545,6 +549,7 @@ Tidal Downloads	Tidal Downloads	Ook Ook
 Internet Radio	Internet Radio	Ook Ook
 Configuration	Configuration	Ook
 Restart to apply?	Restart to apply?	Ook ook ook?
+Restart	Restart	Ook
 Couldn't copy the language	Couldn't copy the language	Ook'ook ook ook ook
 Too many songs to shuffle	Too many songs to shuffle	Ook ook ook ook ook
 Shuffle Songs	Shuffle Songs	Ook Ook
@@ -576,6 +581,7 @@ Measuring songs… %d/%d	Measuring songs… %d/%d	Ook ook… %d/%d
 Measuring songs…	Measuring songs…	Ook ook…
 Release to search	Release to search	Ook ook ook
 Pull to search	Pull to search	Ook ook ook
+Shut Down	Shut Down	Ook Ook
 Sleep Timer	Sleep Timer	Ook Ook
 Lock Screen	Lock Screen	Ook Ook
 Accent	Accent	Ook
@@ -627,6 +633,7 @@ Hide Folder	Hide Folder	Ook Ook
 Hide Apps	Hide Apps	Ook Ook
 Hide Games	Hide Games	Ook Ook
 Hide App Store	Hide App Store	Ook Ook Ook
+Hide Hi-Res	Hide Hi-Res	Ook Ook-Ook
 Receive Audio	Receive Audio	Ook Ook
 Log Failed Artwork	Log Failed Artwork	Ook Ook Ook
 Hide Duplicate Albums	Hide Duplicate Albums	Ook Ook Ook
@@ -785,6 +792,8 @@ Auto (44.1: %.1f / 48: %.1f)	Auto (44.1: %.1f / 48: %.1f)	Ook (44.1: %.1f / 48: 
 Folder missing or unavailable	Folder missing or unavailable	Ook ook ook ook
 Out of memory; cannot list presets	Out of memory; cannot list presets	Ook ook ook; ook ook ook
 No presets found	No presets found	Ook ook ook
+Imported %u; %u already saved; %u failed%s	Imported %u; %u already saved; %u failed%s	Ook %u; %u ook ook; %u ook%s
+; storage full	; storage full	; ook ook
 Name not allowed; preset kept	Name not allowed; preset kept	Ook ook ook; ook ook
 Name taken; preset kept	Name taken; preset kept	Ook ook; ook ook
 Rename failed; preset kept	Rename failed; preset kept	Ook ook; ook ook
@@ -832,6 +841,7 @@ Raise	Raise	Ook
 Lower	Lower	Ook
 Step	Step	Ook
 Delete %.100s? Confirm	Delete %.100s? Confirm	Ook %.100s? Ook
+Reset all bands? Confirm	Reset all bands? Confirm	Ook ook ook? Ook
 Replace existing preset? Confirm	Replace existing preset? Confirm	Ook ook ook? Ook
 Cancel replacement	Cancel replacement	Ook ook
 Save as Manual %02d	Save as Manual %02d	Ook ook Ook %02d
@@ -840,6 +850,8 @@ Import from SD /EQ	Import from SD /EQ	Ook ook Ook /Ook
 Save editor preset	Save editor preset	Ook ook ook
 Rename a preset	Rename a preset	Ook ook ook
 Delete a preset	Delete a preset	Ook ook ook
+Import this page	Import this page	Ook ook ook
+Import all	Import all	Ook ook
 Previous page	Previous page	Ook ook
 Next page	Next page	Ook ook
 Band %d	Band %d	Ook %d
@@ -979,6 +991,8 @@ Nothing to upload	Nothing to upload	Ook ook ook
 Uploading scrobbles	Uploading scrobbles	Ook ook
 Already uploading	Already uploading	Ook ook
 Upload failed	Upload failed	Ook ook
+Sleep Timer: %d min	Sleep Timer: %d min	Ook Ook: %d ook
+Sleep Timer: %d:%02d	Sleep Timer: %d:%02d	Ook Ook: %d:%02d
 Connect to Wi-Fi first	Connect to Wi-Fi first	Ook ook Ook-Ook ook
 Waiting for Spotify	Waiting for Spotify	Ook ook Ook
 Spotify isn't on the card	Spotify isn't on the card	Ook ook'ook ook ook ook

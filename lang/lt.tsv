@@ -113,6 +113,7 @@ login_out	Logout	Atsijungti
 memplay_location	Location	Vieta
 memplay_off	Off	Išjungta
 memplay_track	Track	Daina
+msg_actionnotsupport	Non-local songs, not currently supported	Ne vietinės dainos kol kas nepalaikomos
 msg_actionnotsupport	Non-local songs,not currently supported	Ne vietinės dainos kol kas nepalaikomos
 msg_actionscan	Scan music?	Nuskaityti muziką?
 msg_add_task	Please enter the URL of the file you want to download	Įveskite atsisiunčiamo failo URL
@@ -165,11 +166,14 @@ msg_importsuccess	Successfully imported	Importuota
 msg_initsetsuccess	All settings initialized successfully	Visi nustatymai atstatyti
 msg_latestfw	Latest Fw. Installed	Įdiegta naujausia programinė įranga
 msg_linkerror	WiFi Connection Error	Wi-Fi ryšio klaida
+msg_lowarn	Line Out sets max volume, continue?	Line Out nustatys didžiausią garsumą. Tęsti?
 msg_lowarn	Line Out sets max volume,continue?	Line Out nustatys didžiausią garsumą. Tęsti?
 msg_lowpower	Low Battery	Senka baterija
 msg_namenull	The name can't be empty	Pavadinimas negali būti tuščias
 msg_netnameerr	Network Must Be Named	Nurodykite tinklo pavadinimą
 msg_no	Cancel	Atšaukti
+msg_no_storage	Storage is full. Some songs couldn't be added.	Atmintis pilna. Kai kurių dainų nepavyko pridėti.
+msg_noheadset	Playback is disabled without headphones. Please insert headphones.	Be ausinių grojimas išjungtas. Prijunkite ausines.
 msg_no_storage	Storage is full.Some songs couldn't be added.	Atmintis pilna. Kai kurių dainų nepavyko pridėti.
 msg_noheadset	Playback is disabled without headphones.Please insert headphones.	Be ausinių grojimas išjungtas. Prijunkite ausines.
 msg_nosongs	No songs in this folder	Šiame aplanke nėra dainų
@@ -545,6 +549,7 @@ Tidal Downloads	Tidal Downloads	Tidal atsisiuntimai
 Internet Radio	Internet Radio	Interneto radijas
 Configuration	Configuration	Konfigūracija
 Restart to apply?	Restart to apply?	Paleisti iš naujo ir pritaikyti?
+Restart	Restart	Paleisti iš naujo
 Couldn't copy the language	Couldn't copy the language	Nepavyko nukopijuoti kalbos
 Too many songs to shuffle	Too many songs to shuffle	Per daug dainų maišymui
 Shuffle Songs	Shuffle Songs	Maišyti dainas
@@ -576,6 +581,7 @@ Measuring songs… %d/%d	Measuring songs… %d/%d	Matuojamos dainos… %d/%d
 Measuring songs…	Measuring songs…	Matuojamos dainos…
 Release to search	Release to search	Atleiskite, kad ieškotumėte
 Pull to search	Pull to search	Patraukite, kad ieškotumėte
+Shut Down	Shut Down	Išjungti
 Sleep Timer	Sleep Timer	Miego laikmatis
 Lock Screen	Lock Screen	Užrakinimo ekranas
 Accent	Accent	Akcento spalva
@@ -627,6 +633,7 @@ Hide Folder	Hide Folder	Slėpti aplankus
 Hide Apps	Hide Apps	Slėpti programas
 Hide Games	Hide Games	Slėpti žaidimus
 Hide App Store	Hide App Store	Slėpti App Store
+Hide Hi-Res	Hide Hi-Res	Slėpti Hi-Res
 Receive Audio	Receive Audio	Priimti garsą
 Log Failed Artwork	Log Failed Artwork	Registruoti viršelių klaidas
 Hide Duplicate Albums	Hide Duplicate Albums	Slėpti pasikartojančius albumus
@@ -785,6 +792,8 @@ Auto (44.1: %.1f / 48: %.1f)	Auto (44.1: %.1f / 48: %.1f)	Auto (44,1: %.1f / 48:
 Folder missing or unavailable	Folder missing or unavailable	Aplanko nėra / nepasiekiamas
 Out of memory; cannot list presets	Out of memory; cannot list presets	Pritrūko atminties; nepavyksta išvardyti išankstinių nustatymų
 No presets found	No presets found	Išankstinių nustatymų nerasta
+Imported %u; %u already saved; %u failed%s	Imported %u; %u already saved; %u failed%s	Importuota: %u; jau išsaugota: %u; nepavyko: %u%s
+; storage full	; storage full	; atmintis pilna
 Name not allowed; preset kept	Name not allowed; preset kept	Netinkamas pavadinimas; paliktas
 Name taken; preset kept	Name taken; preset kept	Pavadinimas užimtas; paliktas
 Rename failed; preset kept	Rename failed; preset kept	Nepavyko pervardyti; paliktas
@@ -832,6 +841,7 @@ Raise	Raise	Didinti
 Lower	Lower	Mažinti
 Step	Step	Žingsnis
 Delete %.100s? Confirm	Delete %.100s? Confirm	Ištrinti %.100s? Patvirtinti
+Reset all bands? Confirm	Reset all bands? Confirm	Atstatyti visas juostas? Patvirtinti
 Replace existing preset? Confirm	Replace existing preset? Confirm	Pakeisti esamą? Patvirtinti
 Cancel replacement	Cancel replacement	Atšaukti pakeitimą
 Save as Manual %02d	Save as Manual %02d	Išsaugoti kaip Manual %02d
@@ -840,6 +850,8 @@ Import from SD /EQ	Import from SD /EQ	Importuoti iš SD /EQ
 Save editor preset	Save editor preset	Išsaugoti redaktoriaus nustatymą
 Rename a preset	Rename a preset	Pervardyti nustatymą
 Delete a preset	Delete a preset	Ištrinti nustatymą
+Import this page	Import this page	Importuoti šį puslapį
+Import all	Import all	Importuoti viską
 Previous page	Previous page	Ankstesnis puslapis
 Next page	Next page	Kitas puslapis
 Band %d	Band %d	Juosta %d
@@ -979,6 +991,8 @@ Nothing to upload	Nothing to upload	Nėra ko siųsti
 Uploading scrobbles	Uploading scrobbles	Siunčiami scrobblai
 Already uploading	Already uploading	Jau siunčiama
 Upload failed	Upload failed	Nepavyko išsiųsti
+Sleep Timer: %d min	Sleep Timer: %d min	Miego laikmatis: %d min
+Sleep Timer: %d:%02d	Sleep Timer: %d:%02d	Miego laikmatis: %d:%02d
 Connect to Wi-Fi first	Connect to Wi-Fi first	Pirmiausia prisijunkite prie Wi-Fi
 Waiting for Spotify	Waiting for Spotify	Laukiama Spotify
 Spotify isn't on the card	Spotify isn't on the card	Spotify nėra kortelėje

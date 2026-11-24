@@ -113,6 +113,7 @@ login_out	Logout	Terminar sessão
 memplay_location	Location	Localização
 memplay_off	Off	Desativado
 memplay_track	Track	Faixa
+msg_actionnotsupport	Non-local songs, not currently supported	Músicas não locais não são suportadas
 msg_actionnotsupport	Non-local songs,not currently supported	Músicas não locais não são suportadas
 msg_actionscan	Scan music?	Procurar músicas?
 msg_add_task	Please enter the URL of the file you want to download	Introduza o URL do ficheiro a transferir
@@ -165,11 +166,14 @@ msg_importsuccess	Successfully imported	Importação concluída
 msg_initsetsuccess	All settings initialized successfully	Todas as definições foram repostas
 msg_latestfw	Latest Fw. Installed	Firmware já atualizado
 msg_linkerror	WiFi Connection Error	Erro de ligação Wi-Fi
+msg_lowarn	Line Out sets max volume, continue?	A saída de linha define o volume máximo. Continuar?
 msg_lowarn	Line Out sets max volume,continue?	A saída de linha define o volume máximo. Continuar?
 msg_lowpower	Low Battery	Bateria fraca
 msg_namenull	The name can't be empty	O nome não pode estar vazio
 msg_netnameerr	Network Must Be Named	A rede tem de ter um nome
 msg_no	Cancel	Cancelar
+msg_no_storage	Storage is full. Some songs couldn't be added.	Armazenamento cheio. Não foi possível adicionar algumas músicas.
+msg_noheadset	Playback is disabled without headphones. Please insert headphones.	A reprodução está desativada sem auscultadores. Ligue auscultadores.
 msg_no_storage	Storage is full.Some songs couldn't be added.	Armazenamento cheio. Não foi possível adicionar algumas músicas.
 msg_noheadset	Playback is disabled without headphones.Please insert headphones.	A reprodução está desativada sem auscultadores. Ligue auscultadores.
 msg_nosongs	No songs in this folder	Sem músicas nesta pasta
@@ -545,6 +549,7 @@ Tidal Downloads	Tidal Downloads	Transferências Tidal
 Internet Radio	Internet Radio	Rádio na Internet
 Configuration	Configuration	Configuração
 Restart to apply?	Restart to apply?	Reiniciar para aplicar?
+Restart	Restart	Reiniciar
 Couldn't copy the language	Couldn't copy the language	Não foi possível copiar o idioma
 Too many songs to shuffle	Too many songs to shuffle	Demasiadas músicas para reproduzir aleatoriamente
 Shuffle Songs	Shuffle Songs	Músicas aleatórias
@@ -576,6 +581,7 @@ Measuring songs… %d/%d	Measuring songs… %d/%d	A medir músicas… %d/%d
 Measuring songs…	Measuring songs…	A medir músicas…
 Release to search	Release to search	Solte para procurar
 Pull to search	Pull to search	Puxe para procurar
+Shut Down	Shut Down	Desligar
 Sleep Timer	Sleep Timer	Temporizador
 Lock Screen	Lock Screen	Ecrã de bloqueio
 Accent	Accent	Cor de destaque
@@ -627,6 +633,7 @@ Hide Folder	Hide Folder	Ocultar Pasta
 Hide Apps	Hide Apps	Ocultar Apps
 Hide Games	Hide Games	Ocultar Jogos
 Hide App Store	Hide App Store	Ocultar App Store
+Hide Hi-Res	Hide Hi-Res	Ocultar Hi-Res
 Receive Audio	Receive Audio	Receber áudio
 Log Failed Artwork	Log Failed Artwork	Registar capas com falha
 Hide Duplicate Albums	Hide Duplicate Albums	Ocultar álbuns duplicados
@@ -785,6 +792,8 @@ Auto (44.1: %.1f / 48: %.1f)	Auto (44.1: %.1f / 48: %.1f)	Auto (44.1: %.1f / 48:
 Folder missing or unavailable	Folder missing or unavailable	Pasta em falta ou indisponível
 Out of memory; cannot list presets	Out of memory; cannot list presets	Sem memória; não é possível listar predefinições
 No presets found	No presets found	Sem predefinições
+Imported %u; %u already saved; %u failed%s	Imported %u; %u already saved; %u failed%s	Importadas: %u; já guardadas: %u; falhas: %u%s
+; storage full	; storage full	; armazenamento cheio
 Name not allowed; preset kept	Name not allowed; preset kept	Nome inválido; predef. mantida
 Name taken; preset kept	Name taken; preset kept	Nome em uso; predef. mantida
 Rename failed; preset kept	Rename failed; preset kept	Falha ao mudar o nome; mantida
@@ -832,6 +841,7 @@ Raise	Raise	Aumentar
 Lower	Lower	Diminuir
 Step	Step	Passo
 Delete %.100s? Confirm	Delete %.100s? Confirm	Eliminar %.100s? Confirmar
+Reset all bands? Confirm	Reset all bands? Confirm	Repor todas as bandas? Confirmar
 Replace existing preset? Confirm	Replace existing preset? Confirm	Substituir predef.? Confirmar
 Cancel replacement	Cancel replacement	Cancelar a substituição
 Save as Manual %02d	Save as Manual %02d	Guardar como Manual %02d
@@ -840,6 +850,8 @@ Import from SD /EQ	Import from SD /EQ	Importar de SD /EQ
 Save editor preset	Save editor preset	Guardar predefinição do editor
 Rename a preset	Rename a preset	Mudar o nome da predefinição
 Delete a preset	Delete a preset	Eliminar uma predefinição
+Import this page	Import this page	Importar esta página
+Import all	Import all	Importar tudo
 Previous page	Previous page	Página anterior
 Next page	Next page	Página seguinte
 Band %d	Band %d	Banda %d
@@ -979,6 +991,8 @@ Nothing to upload	Nothing to upload	Nada para enviar
 Uploading scrobbles	Uploading scrobbles	A enviar scrobbles
 Already uploading	Already uploading	Já a enviar
 Upload failed	Upload failed	Falha no envio
+Sleep Timer: %d min	Sleep Timer: %d min	Temporizador: %d min
+Sleep Timer: %d:%02d	Sleep Timer: %d:%02d	Temporizador: %d:%02d
 Connect to Wi-Fi first	Connect to Wi-Fi first	Ligue primeiro ao Wi-Fi
 Waiting for Spotify	Waiting for Spotify	A aguardar o Spotify
 Spotify isn't on the card	Spotify isn't on the card	O Spotify não está no cartão

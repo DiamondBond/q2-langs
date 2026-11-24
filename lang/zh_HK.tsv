@@ -113,6 +113,7 @@ login_out	Logout	退出登錄
 memplay_location	Location	位置
 memplay_off	Off	關閉
 memplay_track	Track	曲目
+msg_actionnotsupport	Non-local songs, not currently supported	非本地歌曲，不支持此操作
 msg_actionnotsupport	Non-local songs,not currently supported	非本地歌曲，不支持此操作
 msg_actionscan	Scan music?	是否掃描音樂？
 msg_add_task	Please enter the URL of the file you want to download	請輸入要下載的文件網址
@@ -165,11 +166,14 @@ msg_importsuccess	Successfully imported	導入成功
 msg_initsetsuccess	All settings initialized successfully	所有設置已初始化
 msg_latestfw	Latest Fw. Installed	已是最新固件
 msg_linkerror	WiFi Connection Error	Wi-Fi 連接失敗
+msg_lowarn	Line Out sets max volume, continue?	Line Out 輸出將設為最大音量，是否繼續？
 msg_lowarn	Line Out sets max volume,continue?	Line Out 輸出將設為最大音量，是否繼續？
 msg_lowpower	Low Battery	電量過低
 msg_namenull	The name can't be empty	名稱不能為空
 msg_netnameerr	Network Must Be Named	網絡名稱不能為空
 msg_no	Cancel	取消
+msg_no_storage	Storage is full. Some songs couldn't be added.	存儲空間不足，部分歌曲未能添加
+msg_noheadset	Playback is disabled without headphones. Please insert headphones.	未插耳機時禁止播放，請插入耳機
 msg_no_storage	Storage is full.Some songs couldn't be added.	存儲空間不足，部分歌曲未能添加
 msg_noheadset	Playback is disabled without headphones.Please insert headphones.	未插耳機時禁止播放，請插入耳機
 msg_nosongs	No songs in this folder	此文件夾中沒有歌曲
@@ -545,6 +549,7 @@ Tidal Downloads	Tidal Downloads	Tidal 下載
 Internet Radio	Internet Radio	網絡電台
 Configuration	Configuration	流媒體設置
 Restart to apply?	Restart to apply?	是否重啟以套用？
+Restart	Restart	重啟
 Couldn't copy the language	Couldn't copy the language	無法複製語言
 Too many songs to shuffle	Too many songs to shuffle	歌曲太多，無法隨機播放
 Shuffle Songs	Shuffle Songs	隨機播放歌曲
@@ -576,6 +581,7 @@ Measuring songs… %d/%d	Measuring songs… %d/%d	正在測量歌曲… %d/%d
 Measuring songs…	Measuring songs…	正在測量歌曲…
 Release to search	Release to search	放開即可搜索
 Pull to search	Pull to search	下拉搜索
+Shut Down	Shut Down	關機
 Sleep Timer	Sleep Timer	睡眠定時
 Lock Screen	Lock Screen	鎖屏
 Accent	Accent	強調色
@@ -627,6 +633,7 @@ Hide Folder	Hide Folder	隱藏文件夾
 Hide Apps	Hide Apps	隱藏應用
 Hide Games	Hide Games	隱藏遊戲
 Hide App Store	Hide App Store	隱藏 App Store
+Hide Hi-Res	Hide Hi-Res	隱藏高解析度
 Receive Audio	Receive Audio	接收音頻
 Log Failed Artwork	Log Failed Artwork	記錄生成失敗的封面
 Hide Duplicate Albums	Hide Duplicate Albums	隱藏重複專輯
@@ -785,6 +792,8 @@ Auto (44.1: %.1f / 48: %.1f)	Auto (44.1: %.1f / 48: %.1f)	自動 (44.1: %.1f / 4
 Folder missing or unavailable	Folder missing or unavailable	文件夾缺失或無法使用
 Out of memory; cannot list presets	Out of memory; cannot list presets	內存不足，無法列出預設
 No presets found	No presets found	找不到預設
+Imported %u; %u already saved; %u failed%s	Imported %u; %u already saved; %u failed%s	已導入 %u 個；%u 個已儲存；%u 個失敗%s
+; storage full	; storage full	；存儲空間已滿
 Name not allowed; preset kept	Name not allowed; preset kept	名稱不允許；預設已保留
 Name taken; preset kept	Name taken; preset kept	名稱已被使用；預設已保留
 Rename failed; preset kept	Rename failed; preset kept	重新命名失敗；預設已保留
@@ -832,6 +841,7 @@ Raise	Raise	提高
 Lower	Lower	降低
 Step	Step	步進
 Delete %.100s? Confirm	Delete %.100s? Confirm	刪除 %.100s？確認
+Reset all bands? Confirm	Reset all bands? Confirm	重置所有頻段？確認
 Replace existing preset? Confirm	Replace existing preset? Confirm	取代現有預設？確認
 Cancel replacement	Cancel replacement	取消取代
 Save as Manual %02d	Save as Manual %02d	儲存為 Manual %02d
@@ -840,6 +850,8 @@ Import from SD /EQ	Import from SD /EQ	從 SD 卡 /EQ 導入
 Save editor preset	Save editor preset	儲存編輯器預設
 Rename a preset	Rename a preset	重新命名預設
 Delete a preset	Delete a preset	刪除預設
+Import this page	Import this page	導入本頁
+Import all	Import all	全部導入
 Previous page	Previous page	上一頁
 Next page	Next page	下一頁
 Band %d	Band %d	頻段 %d
@@ -979,6 +991,8 @@ Nothing to upload	Nothing to upload	沒有可上傳的內容
 Uploading scrobbles	Uploading scrobbles	正在上傳 Scrobble
 Already uploading	Already uploading	已在上傳中
 Upload failed	Upload failed	上傳失敗
+Sleep Timer: %d min	Sleep Timer: %d min	睡眠定時: %d 分鐘
+Sleep Timer: %d:%02d	Sleep Timer: %d:%02d	睡眠定時: %d:%02d
 Connect to Wi-Fi first	Connect to Wi-Fi first	請先連接 Wi-Fi
 Waiting for Spotify	Waiting for Spotify	等待 Spotify
 Spotify isn't on the card	Spotify isn't on the card	存儲卡中沒有 Spotify

@@ -113,6 +113,7 @@ login_out	Logout	Kirjaudu ulos
 memplay_location	Location	Sijainti
 memplay_off	Off	Pois
 memplay_track	Track	Kappale
+msg_actionnotsupport	Non-local songs, not currently supported	Muut kuin paikalliset kappaleet eivät ole tuettuja
 msg_actionnotsupport	Non-local songs,not currently supported	Muut kuin paikalliset kappaleet eivät ole tuettuja
 msg_actionscan	Scan music?	Skannataanko musiikki?
 msg_add_task	Please enter the URL of the file you want to download	Anna ladattavan tiedoston URL-osoite
@@ -165,11 +166,14 @@ msg_importsuccess	Successfully imported	Tuonti onnistui
 msg_initsetsuccess	All settings initialized successfully	Kaikki asetukset nollattu
 msg_latestfw	Latest Fw. Installed	Uusin laiteohjelmisto asennettu
 msg_linkerror	WiFi Connection Error	Wi-Fi-yhteysvirhe
+msg_lowarn	Line Out sets max volume, continue?	Line Out asettaa äänenvoimakkuuden maksimiin. Jatketaanko?
 msg_lowarn	Line Out sets max volume,continue?	Line Out asettaa äänenvoimakkuuden maksimiin. Jatketaanko?
 msg_lowpower	Low Battery	Akku vähissä
 msg_namenull	The name can't be empty	Nimi ei voi olla tyhjä
 msg_netnameerr	Network Must Be Named	Verkolla on oltava nimi
 msg_no	Cancel	Peruuta
+msg_no_storage	Storage is full. Some songs couldn't be added.	Tallennustila täynnä. Kaikkia kappaleita ei voitu lisätä.
+msg_noheadset	Playback is disabled without headphones. Please insert headphones.	Toisto on estetty ilman kuulokkeita. Liitä kuulokkeet.
 msg_no_storage	Storage is full.Some songs couldn't be added.	Tallennustila täynnä. Kaikkia kappaleita ei voitu lisätä.
 msg_noheadset	Playback is disabled without headphones.Please insert headphones.	Toisto on estetty ilman kuulokkeita. Liitä kuulokkeet.
 msg_nosongs	No songs in this folder	Tässä kansiossa ei ole kappaleita
@@ -545,6 +549,7 @@ Tidal Downloads	Tidal Downloads	Tidal-lataukset
 Internet Radio	Internet Radio	Internetradio
 Configuration	Configuration	Määritykset
 Restart to apply?	Restart to apply?	Käynnistetäänkö uudelleen?
+Restart	Restart	Käynnistä uudelleen
 Couldn't copy the language	Couldn't copy the language	Kielen kopiointi epäonnistui
 Too many songs to shuffle	Too many songs to shuffle	Liian monta kappaletta sekoitettavaksi
 Shuffle Songs	Shuffle Songs	Sekoita kappaleet
@@ -576,6 +581,7 @@ Measuring songs… %d/%d	Measuring songs… %d/%d	Mitataan kappaleita… %d/%d
 Measuring songs…	Measuring songs…	Mitataan kappaleita…
 Release to search	Release to search	Vapauta hakua varten
 Pull to search	Pull to search	Vedä hakeaksesi
+Shut Down	Shut Down	Sammuta
 Sleep Timer	Sleep Timer	Uniajastin
 Lock Screen	Lock Screen	Näytön lukitus
 Accent	Accent	Korostusväri
@@ -627,6 +633,7 @@ Hide Folder	Hide Folder	Piilota kansio
 Hide Apps	Hide Apps	Piilota sovellukset
 Hide Games	Hide Games	Piilota pelit
 Hide App Store	Hide App Store	Piilota App Store
+Hide Hi-Res	Hide Hi-Res	Piilota Hi-Res
 Receive Audio	Receive Audio	Vastaanota ääntä
 Log Failed Artwork	Log Failed Artwork	Kirjaa kansikuvavirheet
 Hide Duplicate Albums	Hide Duplicate Albums	Piilota päällekkäiset albumit
@@ -785,6 +792,8 @@ Auto (44.1: %.1f / 48: %.1f)	Auto (44.1: %.1f / 48: %.1f)	Auto (44.1: %.1f / 48:
 Folder missing or unavailable	Folder missing or unavailable	Kansio puuttuu
 Out of memory; cannot list presets	Out of memory; cannot list presets	Muisti loppu; ei voi listata
 No presets found	No presets found	Esiasetuksia ei löytynyt
+Imported %u; %u already saved; %u failed%s	Imported %u; %u already saved; %u failed%s	%u tuotu; %u jo tallennettu; %u epäonnistui%s
+; storage full	; storage full	; tallennustila täynnä
 Name not allowed; preset kept	Name not allowed; preset kept	Nimi ei kelpaa; esiasetus säilyy
 Name taken; preset kept	Name taken; preset kept	Nimi on käytössä; säilyy
 Rename failed; preset kept	Rename failed; preset kept	Nimeäminen epäonnistui; säilyy
@@ -832,6 +841,7 @@ Raise	Raise	Nosta
 Lower	Lower	Laske
 Step	Step	Askel
 Delete %.100s? Confirm	Delete %.100s? Confirm	Poistetaanko %.100s? Vahvista
+Reset all bands? Confirm	Reset all bands? Confirm	Palauta kaikki kaistat? Vahvista
 Replace existing preset? Confirm	Replace existing preset? Confirm	Korvataanko esiasetus? Vahvista
 Cancel replacement	Cancel replacement	Peruuta korvaus
 Save as Manual %02d	Save as Manual %02d	Tallenna nimellä Manual %02d
@@ -840,6 +850,8 @@ Import from SD /EQ	Import from SD /EQ	Tuo SD-kortin kansiosta /EQ
 Save editor preset	Save editor preset	Tallenna editorin esiasetus
 Rename a preset	Rename a preset	Nimeä esiasetus uudelleen
 Delete a preset	Delete a preset	Poista esiasetus
+Import this page	Import this page	Tuo tämä sivu
+Import all	Import all	Tuo kaikki
 Previous page	Previous page	Edellinen sivu
 Next page	Next page	Seuraava sivu
 Band %d	Band %d	Kaista %d
@@ -979,6 +991,8 @@ Nothing to upload	Nothing to upload	Ei lähetettävää
 Uploading scrobbles	Uploading scrobbles	Lähetetään scrobblet
 Already uploading	Already uploading	Lähetys on jo käynnissä
 Upload failed	Upload failed	Lähetys epäonnistui
+Sleep Timer: %d min	Sleep Timer: %d min	Uniajastin: %d min
+Sleep Timer: %d:%02d	Sleep Timer: %d:%02d	Uniajastin: %d:%02d
 Connect to Wi-Fi first	Connect to Wi-Fi first	Yhdistä ensin Wi-Fi-verkkoon
 Waiting for Spotify	Waiting for Spotify	Odotetaan Spotify-yhteyttä
 Spotify isn't on the card	Spotify isn't on the card	Spotify ei ole kortilla

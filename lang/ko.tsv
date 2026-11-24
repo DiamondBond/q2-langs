@@ -113,6 +113,7 @@ login_out	Logout	로그아웃
 memplay_location	Location	위치
 memplay_off	Off	끔
 memplay_track	Track	트랙
+msg_actionnotsupport	Non-local songs, not currently supported	로컬이 아닌 노래는 지원되지 않습니다
 msg_actionnotsupport	Non-local songs,not currently supported	로컬이 아닌 노래는 지원되지 않습니다
 msg_actionscan	Scan music?	음악을 스캔할까요?
 msg_add_task	Please enter the URL of the file you want to download	다운로드할 파일의 URL을 입력하세요
@@ -165,11 +166,14 @@ msg_importsuccess	Successfully imported	가져오기 완료
 msg_initsetsuccess	All settings initialized successfully	모든 설정이 초기화되었습니다
 msg_latestfw	Latest Fw. Installed	최신 펌웨어입니다
 msg_linkerror	WiFi Connection Error	Wi-Fi 연결 오류
+msg_lowarn	Line Out sets max volume, continue?	라인 출력은 최대 볼륨으로 설정됩니다. 계속할까요?
 msg_lowarn	Line Out sets max volume,continue?	라인 출력은 최대 볼륨으로 설정됩니다. 계속할까요?
 msg_lowpower	Low Battery	배터리 부족
 msg_namenull	The name can't be empty	이름을 비워 둘 수 없습니다
 msg_netnameerr	Network Must Be Named	네트워크 이름이 필요합니다
 msg_no	Cancel	취소
+msg_no_storage	Storage is full. Some songs couldn't be added.	저장 공간이 가득 찼습니다. 일부 노래를 추가하지 못했습니다.
+msg_noheadset	Playback is disabled without headphones. Please insert headphones.	헤드폰이 없으면 재생할 수 없습니다. 헤드폰을 연결하세요.
 msg_no_storage	Storage is full.Some songs couldn't be added.	저장 공간이 가득 찼습니다. 일부 노래를 추가하지 못했습니다.
 msg_noheadset	Playback is disabled without headphones.Please insert headphones.	헤드폰이 없으면 재생할 수 없습니다. 헤드폰을 연결하세요.
 msg_nosongs	No songs in this folder	이 폴더에 노래가 없습니다
@@ -545,6 +549,7 @@ Tidal Downloads	Tidal Downloads	Tidal 다운로드
 Internet Radio	Internet Radio	인터넷 라디오
 Configuration	Configuration	구성
 Restart to apply?	Restart to apply?	다시 시작해서 적용할까요?
+Restart	Restart	다시 시작
 Couldn't copy the language	Couldn't copy the language	언어를 복사하지 못했습니다
 Too many songs to shuffle	Too many songs to shuffle	셔플하기엔 노래가 너무 많습니다
 Shuffle Songs	Shuffle Songs	노래 셔플
@@ -576,6 +581,7 @@ Measuring songs… %d/%d	Measuring songs… %d/%d	노래 측정 중… %d/%d
 Measuring songs…	Measuring songs…	노래 측정 중…
 Release to search	Release to search	놓으면 검색
 Pull to search	Pull to search	당겨서 검색
+Shut Down	Shut Down	종료
 Sleep Timer	Sleep Timer	슬립 타이머
 Lock Screen	Lock Screen	잠금 화면
 Accent	Accent	강조색
@@ -627,6 +633,7 @@ Hide Folder	Hide Folder	폴더 숨기기
 Hide Apps	Hide Apps	앱 숨기기
 Hide Games	Hide Games	게임 숨기기
 Hide App Store	Hide App Store	앱 스토어 숨기기
+Hide Hi-Res	Hide Hi-Res	하이레스 숨기기
 Receive Audio	Receive Audio	오디오 수신
 Log Failed Artwork	Log Failed Artwork	실패한 아트워크 기록
 Hide Duplicate Albums	Hide Duplicate Albums	중복 앨범 숨기기
@@ -785,6 +792,8 @@ Auto (44.1: %.1f / 48: %.1f)	Auto (44.1: %.1f / 48: %.1f)	자동(44.1: %.1f / 48
 Folder missing or unavailable	Folder missing or unavailable	폴더가 없거나 사용할 수 없음
 Out of memory; cannot list presets	Out of memory; cannot list presets	메모리 부족: 프리셋 목록을 만들 수 없음
 No presets found	No presets found	프리셋 없음
+Imported %u; %u already saved; %u failed%s	Imported %u; %u already saved; %u failed%s	%u개 가져옴, %u개는 이미 저장됨, %u개 실패%s
+; storage full	; storage full	, 저장 공간이 가득 참
 Name not allowed; preset kept	Name not allowed; preset kept	허용되지 않는 이름: 프리셋 유지됨
 Name taken; preset kept	Name taken; preset kept	이미 있는 이름: 프리셋 유지됨
 Rename failed; preset kept	Rename failed; preset kept	이름 변경 실패: 프리셋 유지됨
@@ -832,6 +841,7 @@ Raise	Raise	올리기
 Lower	Lower	내리기
 Step	Step	단계
 Delete %.100s? Confirm	Delete %.100s? Confirm	%.100s 삭제? 확인
+Reset all bands? Confirm	Reset all bands? Confirm	모든 밴드 초기화? 확인
 Replace existing preset? Confirm	Replace existing preset? Confirm	기존 프리셋을 바꿀까요? 확인
 Cancel replacement	Cancel replacement	교체 취소
 Save as Manual %02d	Save as Manual %02d	수동 %02d에 저장
@@ -840,6 +850,8 @@ Import from SD /EQ	Import from SD /EQ	SD /EQ에서 가져오기
 Save editor preset	Save editor preset	편집기 프리셋 저장
 Rename a preset	Rename a preset	프리셋 이름 바꾸기
 Delete a preset	Delete a preset	프리셋 삭제
+Import this page	Import this page	이 페이지 가져오기
+Import all	Import all	모두 가져오기
 Previous page	Previous page	이전 페이지
 Next page	Next page	다음 페이지
 Band %d	Band %d	밴드 %d
@@ -979,6 +991,8 @@ Nothing to upload	Nothing to upload	업로드할 항목 없음
 Uploading scrobbles	Uploading scrobbles	스크로블 업로드 중
 Already uploading	Already uploading	이미 업로드 중
 Upload failed	Upload failed	업로드 실패
+Sleep Timer: %d min	Sleep Timer: %d min	슬립 타이머: %d분
+Sleep Timer: %d:%02d	Sleep Timer: %d:%02d	슬립 타이머: %d:%02d
 Connect to Wi-Fi first	Connect to Wi-Fi first	먼저 Wi-Fi에 연결하세요
 Waiting for Spotify	Waiting for Spotify	Spotify 대기 중
 Spotify isn't on the card	Spotify isn't on the card	카드에 Spotify가 없습니다

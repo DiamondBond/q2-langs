@@ -113,6 +113,7 @@ login_out	Logout	退出登录
 memplay_location	Location	位置
 memplay_off	Off	关闭
 memplay_track	Track	曲目
+msg_actionnotsupport	Non-local songs, not currently supported	在线歌曲暂不支持这个操作
 msg_actionnotsupport	Non-local songs,not currently supported	在线歌曲暂不支持这个操作
 msg_actionscan	Scan music?	要扫描音乐吗？
 msg_add_task	Please enter the URL of the file you want to download	输入要下载文件的网址
@@ -165,11 +166,14 @@ msg_importsuccess	Successfully imported	导入成功
 msg_initsetsuccess	All settings initialized successfully	设置已重置
 msg_latestfw	Latest Fw. Installed	已经是最新版本
 msg_linkerror	WiFi Connection Error	Wi-Fi 连接失败
+msg_lowarn	Line Out sets max volume, continue?	Line Out 会以最大音量输出，继续吗？
 msg_lowarn	Line Out sets max volume,continue?	Line Out 会以最大音量输出，继续吗？
 msg_lowpower	Low Battery	电量不足
 msg_namenull	The name can't be empty	名称不能为空
 msg_netnameerr	Network Must Be Named	请先给网络起个名字
 msg_no	Cancel	取消
+msg_no_storage	Storage is full. Some songs couldn't be added.	空间满了，有几首歌没加进来
+msg_noheadset	Playback is disabled without headphones. Please insert headphones.	请先插上耳机再播放
 msg_no_storage	Storage is full.Some songs couldn't be added.	空间满了，有几首歌没加进来
 msg_noheadset	Playback is disabled without headphones.Please insert headphones.	请先插上耳机再播放
 msg_nosongs	No songs in this folder	这个文件夹里没有歌
@@ -545,6 +549,7 @@ Tidal Downloads	Tidal Downloads	Tidal 下载
 Internet Radio	Internet Radio	网络电台
 Configuration	Configuration	流媒体设置
 Restart to apply?	Restart to apply?	重启后生效？
+Restart	Restart	重启
 Couldn't copy the language	Couldn't copy the language	无法复制语言
 Too many songs to shuffle	Too many songs to shuffle	歌曲太多，无法随机播放
 Shuffle Songs	Shuffle Songs	随机歌曲
@@ -576,6 +581,7 @@ Measuring songs… %d/%d	Measuring songs… %d/%d	正在测量歌曲… %d/%d
 Measuring songs…	Measuring songs…	正在测量歌曲…
 Release to search	Release to search	松开开始搜索
 Pull to search	Pull to search	下拉搜索
+Shut Down	Shut Down	关机
 Sleep Timer	Sleep Timer	定时关机
 Lock Screen	Lock Screen	锁屏
 Accent	Accent	强调色
@@ -627,6 +633,7 @@ Hide Folder	Hide Folder	隐藏文件夹
 Hide Apps	Hide Apps	隐藏应用
 Hide Games	Hide Games	隐藏游戏
 Hide App Store	Hide App Store	隐藏应用商店
+Hide Hi-Res	Hide Hi-Res	隐藏高解析
 Receive Audio	Receive Audio	接收音频
 Log Failed Artwork	Log Failed Artwork	记录生成失败的封面
 Hide Duplicate Albums	Hide Duplicate Albums	隐藏重复专辑
@@ -785,6 +792,8 @@ Auto (44.1: %.1f / 48: %.1f)	Auto (44.1: %.1f / 48: %.1f)	自动 (44.1: %.1f / 4
 Folder missing or unavailable	Folder missing or unavailable	文件夹不存在或不可用
 Out of memory; cannot list presets	Out of memory; cannot list presets	内存不足，无法列出预设
 No presets found	No presets found	没有找到预设
+Imported %u; %u already saved; %u failed%s	Imported %u; %u already saved; %u failed%s	已导入 %u 个，%u 个已保存，%u 个失败%s
+; storage full	; storage full	，存储空间已满
 Name not allowed; preset kept	Name not allowed; preset kept	名称不可用，预设已保留
 Name taken; preset kept	Name taken; preset kept	名称已被占用，预设已保留
 Rename failed; preset kept	Rename failed; preset kept	重命名失败，预设已保留
@@ -832,6 +841,7 @@ Raise	Raise	提高
 Lower	Lower	降低
 Step	Step	步进
 Delete %.100s? Confirm	Delete %.100s? Confirm	删除 %.100s？确认
+Reset all bands? Confirm	Reset all bands? Confirm	重置所有频段？确认
 Replace existing preset? Confirm	Replace existing preset? Confirm	替换现有预设？确认
 Cancel replacement	Cancel replacement	取消替换
 Save as Manual %02d	Save as Manual %02d	另存为手动 %02d
@@ -840,6 +850,8 @@ Import from SD /EQ	Import from SD /EQ	从存储卡 /EQ 导入
 Save editor preset	Save editor preset	保存编辑器预设
 Rename a preset	Rename a preset	重命名预设
 Delete a preset	Delete a preset	删除预设
+Import this page	Import this page	导入本页
+Import all	Import all	全部导入
 Previous page	Previous page	上一页
 Next page	Next page	下一页
 Band %d	Band %d	频段 %d
@@ -979,6 +991,8 @@ Nothing to upload	Nothing to upload	没有可上传的内容
 Uploading scrobbles	Uploading scrobbles	正在上传听歌记录
 Already uploading	Already uploading	正在上传
 Upload failed	Upload failed	上传失败
+Sleep Timer: %d min	Sleep Timer: %d min	定时关机: %d 分钟
+Sleep Timer: %d:%02d	Sleep Timer: %d:%02d	定时关机: %d:%02d
 Connect to Wi-Fi first	Connect to Wi-Fi first	请先连接 Wi-Fi
 Waiting for Spotify	Waiting for Spotify	正在等待 Spotify
 Spotify isn't on the card	Spotify isn't on the card	存储卡里没有 Spotify

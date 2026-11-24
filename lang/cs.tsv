@@ -113,6 +113,7 @@ login_out	Logout	Odhlásit
 memplay_location	Location	Umístění
 memplay_off	Off	Vyp.
 memplay_track	Track	Skladba
+msg_actionnotsupport	Non-local songs, not currently supported	Skladby mimo zařízení zatím nejsou podporovány
 msg_actionnotsupport	Non-local songs,not currently supported	Skladby mimo zařízení zatím nejsou podporovány
 msg_actionscan	Scan music?	Prohledat hudbu?
 msg_add_task	Please enter the URL of the file you want to download	Zadejte adresu URL souboru ke stažení
@@ -165,11 +166,14 @@ msg_importsuccess	Successfully imported	Import dokončen
 msg_initsetsuccess	All settings initialized successfully	Všechna nastavení byla obnovena
 msg_latestfw	Latest Fw. Installed	Je nainstalován nejnovější firmware
 msg_linkerror	WiFi Connection Error	Chyba připojení Wi-Fi
+msg_lowarn	Line Out sets max volume, continue?	Line Out nastaví maximální hlasitost. Pokračovat?
 msg_lowarn	Line Out sets max volume,continue?	Line Out nastaví maximální hlasitost. Pokračovat?
 msg_lowpower	Low Battery	Slabá baterie
 msg_namenull	The name can't be empty	Název nesmí být prázdný
 msg_netnameerr	Network Must Be Named	Zadejte název sítě
 msg_no	Cancel	Zrušit
+msg_no_storage	Storage is full. Some songs couldn't be added.	Úložiště je plné. Některé skladby nebylo možné přidat.
+msg_noheadset	Playback is disabled without headphones. Please insert headphones.	Bez sluchátek je přehrávání zakázáno. Připojte sluchátka.
 msg_no_storage	Storage is full.Some songs couldn't be added.	Úložiště je plné. Některé skladby nebylo možné přidat.
 msg_noheadset	Playback is disabled without headphones.Please insert headphones.	Bez sluchátek je přehrávání zakázáno. Připojte sluchátka.
 msg_nosongs	No songs in this folder	V této složce nejsou žádné skladby
@@ -545,6 +549,7 @@ Tidal Downloads	Tidal Downloads	Stažené z Tidalu
 Internet Radio	Internet Radio	Internetové rádio
 Configuration	Configuration	Konfigurace
 Restart to apply?	Restart to apply?	Restartovat a použít?
+Restart	Restart	Restartovat
 Couldn't copy the language	Couldn't copy the language	Jazyk se nepodařilo zkopírovat
 Too many songs to shuffle	Too many songs to shuffle	Příliš mnoho skladeb k zamíchání
 Shuffle Songs	Shuffle Songs	Zamíchat skladby
@@ -576,6 +581,7 @@ Measuring songs… %d/%d	Measuring songs… %d/%d	Měření skladeb… %d/%d
 Measuring songs…	Measuring songs…	Měření skladeb…
 Release to search	Release to search	Uvolněte a hledejte
 Pull to search	Pull to search	Přetažením vyhledáte
+Shut Down	Shut Down	Vypnout
 Sleep Timer	Sleep Timer	Časovač vypnutí
 Lock Screen	Lock Screen	Zamykací obrazovka
 Accent	Accent	Zvýraznění
@@ -627,6 +633,7 @@ Hide Folder	Hide Folder	Skrýt složku
 Hide Apps	Hide Apps	Skrýt Aplikace
 Hide Games	Hide Games	Skrýt Hry
 Hide App Store	Hide App Store	Skrýt App Store
+Hide Hi-Res	Hide Hi-Res	Skrýt Hi-Res
 Receive Audio	Receive Audio	Přijímat zvuk
 Log Failed Artwork	Log Failed Artwork	Protokolovat chyby obalů
 Hide Duplicate Albums	Hide Duplicate Albums	Skrýt duplicitní alba
@@ -785,6 +792,8 @@ Auto (44.1: %.1f / 48: %.1f)	Auto (44.1: %.1f / 48: %.1f)	Auto (44.1: %.1f / 48:
 Folder missing or unavailable	Folder missing or unavailable	Složka chybí nebo není dostupná
 Out of memory; cannot list presets	Out of memory; cannot list presets	Nedostatek paměti; předvolby nelze vypsat
 No presets found	No presets found	Žádné předvolby nenalezeny
+Imported %u; %u already saved; %u failed%s	Imported %u; %u already saved; %u failed%s	Importováno: %u; již uloženo: %u; selhalo: %u%s
+; storage full	; storage full	; úložiště plné
 Name not allowed; preset kept	Name not allowed; preset kept	Název nepovolen; beze změny
 Name taken; preset kept	Name taken; preset kept	Název je obsazen; beze změny
 Rename failed; preset kept	Rename failed; preset kept	Přejmenování selhalo; beze změny
@@ -832,6 +841,7 @@ Raise	Raise	Zvýšit
 Lower	Lower	Snížit
 Step	Step	Krok
 Delete %.100s? Confirm	Delete %.100s? Confirm	Smazat %.100s? Potvrdit
+Reset all bands? Confirm	Reset all bands? Confirm	Obnovit všechna pásma? Potvrdit
 Replace existing preset? Confirm	Replace existing preset? Confirm	Nahradit předvolbu? Potvrdit
 Cancel replacement	Cancel replacement	Zrušit nahrazení
 Save as Manual %02d	Save as Manual %02d	Uložit jako Ruční %02d
@@ -840,6 +850,8 @@ Import from SD /EQ	Import from SD /EQ	Import z SD /EQ
 Save editor preset	Save editor preset	Uložit předvolbu editoru
 Rename a preset	Rename a preset	Přejmenovat předvolbu
 Delete a preset	Delete a preset	Smazat předvolbu
+Import this page	Import this page	Importovat tuto stranu
+Import all	Import all	Importovat vše
 Previous page	Previous page	Předchozí strana
 Next page	Next page	Další strana
 Band %d	Band %d	Pásmo %d
@@ -979,6 +991,8 @@ Nothing to upload	Nothing to upload	Není co odeslat
 Uploading scrobbles	Uploading scrobbles	Odesílání scrobblů
 Already uploading	Already uploading	Odesílání již probíhá
 Upload failed	Upload failed	Odeslání selhalo
+Sleep Timer: %d min	Sleep Timer: %d min	Časovač vypnutí: %d min
+Sleep Timer: %d:%02d	Sleep Timer: %d:%02d	Časovač vypnutí: %d:%02d
 Connect to Wi-Fi first	Connect to Wi-Fi first	Nejprve se připojte k Wi-Fi
 Waiting for Spotify	Waiting for Spotify	Čekání na Spotify
 Spotify isn't on the card	Spotify isn't on the card	Spotify není na kartě

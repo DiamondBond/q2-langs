@@ -113,6 +113,7 @@ login_out	Logout	Uitloggen
 memplay_location	Location	Locatie
 memplay_off	Off	Uit
 memplay_track	Track	Nummer
+msg_actionnotsupport	Non-local songs, not currently supported	Niet-lokale nummers worden niet ondersteund
 msg_actionnotsupport	Non-local songs,not currently supported	Niet-lokale nummers worden niet ondersteund
 msg_actionscan	Scan music?	Muziek scannen?
 msg_add_task	Please enter the URL of the file you want to download	Voer de URL in van het bestand dat je wilt downloaden
@@ -165,11 +166,14 @@ msg_importsuccess	Successfully imported	Importeren gelukt
 msg_initsetsuccess	All settings initialized successfully	Alle instellingen zijn teruggezet
 msg_latestfw	Latest Fw. Installed	Nieuwste firmware geïnstalleerd
 msg_linkerror	WiFi Connection Error	Wi-Fi-verbindingsfout
+msg_lowarn	Line Out sets max volume, continue?	Line Out stelt het maximale volume in. Doorgaan?
 msg_lowarn	Line Out sets max volume,continue?	Line Out stelt het maximale volume in. Doorgaan?
 msg_lowpower	Low Battery	Batterij bijna leeg
 msg_namenull	The name can't be empty	De naam mag niet leeg zijn
 msg_netnameerr	Network Must Be Named	Netwerk heeft een naam nodig
 msg_no	Cancel	Annuleren
+msg_no_storage	Storage is full. Some songs couldn't be added.	Opslag vol. Sommige nummers konden niet worden toegevoegd.
+msg_noheadset	Playback is disabled without headphones. Please insert headphones.	Afspelen is uitgeschakeld zonder koptelefoon. Sluit een koptelefoon aan.
 msg_no_storage	Storage is full.Some songs couldn't be added.	Opslag vol. Sommige nummers konden niet worden toegevoegd.
 msg_noheadset	Playback is disabled without headphones.Please insert headphones.	Afspelen is uitgeschakeld zonder koptelefoon. Sluit een koptelefoon aan.
 msg_nosongs	No songs in this folder	Geen nummers in deze map
@@ -545,6 +549,7 @@ Tidal Downloads	Tidal Downloads	Tidal-downloads
 Internet Radio	Internet Radio	Internetradio
 Configuration	Configuration	Configuratie
 Restart to apply?	Restart to apply?	Herstarten om toe te passen?
+Restart	Restart	Herstarten
 Couldn't copy the language	Couldn't copy the language	Taal kopiëren mislukt
 Too many songs to shuffle	Too many songs to shuffle	Te veel nummers om willekeurig af te spelen
 Shuffle Songs	Shuffle Songs	Nummers willekeurig
@@ -576,6 +581,7 @@ Measuring songs… %d/%d	Measuring songs… %d/%d	Nummers meten… %d/%d
 Measuring songs…	Measuring songs…	Nummers meten…
 Release to search	Release to search	Laat los om te zoeken
 Pull to search	Pull to search	Trek om te zoeken
+Shut Down	Shut Down	Uitschakelen
 Sleep Timer	Sleep Timer	Slaaptimer
 Lock Screen	Lock Screen	Scherm vergrendelen
 Accent	Accent	Accent
@@ -627,6 +633,7 @@ Hide Folder	Hide Folder	Map verbergen
 Hide Apps	Hide Apps	Apps verbergen
 Hide Games	Hide Games	Games verbergen
 Hide App Store	Hide App Store	App Store verbergen
+Hide Hi-Res	Hide Hi-Res	Hi-Res verbergen
 Receive Audio	Receive Audio	Audio ontvangen
 Log Failed Artwork	Log Failed Artwork	Mislukte hoezen loggen
 Hide Duplicate Albums	Hide Duplicate Albums	Dubbele albums verbergen
@@ -785,6 +792,8 @@ Auto (44.1: %.1f / 48: %.1f)	Auto (44.1: %.1f / 48: %.1f)	Auto (44.1: %.1f / 48:
 Folder missing or unavailable	Folder missing or unavailable	Map ontbreekt of niet bereikbaar
 Out of memory; cannot list presets	Out of memory; cannot list presets	Onvoldoende geheugen; presets niet te tonen
 No presets found	No presets found	Geen presets gevonden
+Imported %u; %u already saved; %u failed%s	Imported %u; %u already saved; %u failed%s	%u geïmporteerd; %u al opgeslagen; %u mislukt%s
+; storage full	; storage full	; opslag vol
 Name not allowed; preset kept	Name not allowed; preset kept	Naam ongeldig; preset behouden
 Name taken; preset kept	Name taken; preset kept	Naam bezet; preset behouden
 Rename failed; preset kept	Rename failed; preset kept	Hernoemen mislukt; preset blijft
@@ -832,6 +841,7 @@ Raise	Raise	Verhogen
 Lower	Lower	Verlagen
 Step	Step	Stap
 Delete %.100s? Confirm	Delete %.100s? Confirm	%.100s verwijderen? Bevestigen
+Reset all bands? Confirm	Reset all bands? Confirm	Alle banden resetten? Bevestigen
 Replace existing preset? Confirm	Replace existing preset? Confirm	Preset vervangen? Bevestigen
 Cancel replacement	Cancel replacement	Vervangen annuleren
 Save as Manual %02d	Save as Manual %02d	Opslaan als Manual %02d
@@ -840,6 +850,8 @@ Import from SD /EQ	Import from SD /EQ	Importeren van SD /EQ
 Save editor preset	Save editor preset	Editorpreset opslaan
 Rename a preset	Rename a preset	Preset hernoemen
 Delete a preset	Delete a preset	Preset verwijderen
+Import this page	Import this page	Deze pagina importeren
+Import all	Import all	Alles importeren
 Previous page	Previous page	Vorige pagina
 Next page	Next page	Volgende pagina
 Band %d	Band %d	Band %d
@@ -979,6 +991,8 @@ Nothing to upload	Nothing to upload	Niets om te uploaden
 Uploading scrobbles	Uploading scrobbles	Scrobbles uploaden
 Already uploading	Already uploading	Uploaden bezig
 Upload failed	Upload failed	Uploaden mislukt
+Sleep Timer: %d min	Sleep Timer: %d min	Slaaptimer: %d min
+Sleep Timer: %d:%02d	Sleep Timer: %d:%02d	Slaaptimer: %d:%02d
 Connect to Wi-Fi first	Connect to Wi-Fi first	Verbind eerst met Wi-Fi
 Waiting for Spotify	Waiting for Spotify	Wachten op Spotify
 Spotify isn't on the card	Spotify isn't on the card	Spotify staat niet op de kaart

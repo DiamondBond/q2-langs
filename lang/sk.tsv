@@ -113,6 +113,7 @@ login_out	Logout	Odhlásiť sa
 memplay_location	Location	Umiestnenie
 memplay_off	Off	Vyp.
 memplay_track	Track	Skladba
+msg_actionnotsupport	Non-local songs, not currently supported	Skladby mimo zariadenia momentálne nie sú podporované
 msg_actionnotsupport	Non-local songs,not currently supported	Skladby mimo zariadenia momentálne nie sú podporované
 msg_actionscan	Scan music?	Skenovať hudbu?
 msg_add_task	Please enter the URL of the file you want to download	Zadajte adresu URL súboru, ktorý chcete stiahnuť
@@ -165,11 +166,14 @@ msg_importsuccess	Successfully imported	Import bol úspešný
 msg_initsetsuccess	All settings initialized successfully	Všetky nastavenia boli obnovené
 msg_latestfw	Latest Fw. Installed	Máte najnovší firmvér
 msg_linkerror	WiFi Connection Error	Chyba pripojenia Wi-Fi
+msg_lowarn	Line Out sets max volume, continue?	Line Out nastaví maximálnu hlasitosť. Pokračovať?
 msg_lowarn	Line Out sets max volume,continue?	Line Out nastaví maximálnu hlasitosť. Pokračovať?
 msg_lowpower	Low Battery	Slabá batéria
 msg_namenull	The name can't be empty	Názov nesmie byť prázdny
 msg_netnameerr	Network Must Be Named	Sieť musí mať názov
 msg_no	Cancel	Zrušiť
+msg_no_storage	Storage is full. Some songs couldn't be added.	Úložisko je plné. Niektoré skladby sa nepodarilo pridať.
+msg_noheadset	Playback is disabled without headphones. Please insert headphones.	Bez slúchadiel je prehrávanie vypnuté. Pripojte slúchadlá.
 msg_no_storage	Storage is full.Some songs couldn't be added.	Úložisko je plné. Niektoré skladby sa nepodarilo pridať.
 msg_noheadset	Playback is disabled without headphones.Please insert headphones.	Bez slúchadiel je prehrávanie vypnuté. Pripojte slúchadlá.
 msg_nosongs	No songs in this folder	V tomto priečinku nie sú žiadne skladby
@@ -545,6 +549,7 @@ Tidal Downloads	Tidal Downloads	Stiahnuté z Tidal
 Internet Radio	Internet Radio	Internetové rádio
 Configuration	Configuration	Konfigurácia
 Restart to apply?	Restart to apply?	Reštartovať a použiť?
+Restart	Restart	Reštartovať
 Couldn't copy the language	Couldn't copy the language	Jazyk sa nepodarilo skopírovať
 Too many songs to shuffle	Too many songs to shuffle	Príliš veľa skladieb na premiešanie
 Shuffle Songs	Shuffle Songs	Premiešať skladby
@@ -576,6 +581,7 @@ Measuring songs… %d/%d	Measuring songs… %d/%d	Meria sa… %d/%d
 Measuring songs…	Measuring songs…	Meria sa…
 Release to search	Release to search	Pustite a hľadajte
 Pull to search	Pull to search	Potiahnite a hľadajte
+Shut Down	Shut Down	Vypnúť
 Sleep Timer	Sleep Timer	Časovač vypnutia
 Lock Screen	Lock Screen	Zamknutá obrazovka
 Accent	Accent	Akcent
@@ -627,6 +633,7 @@ Hide Folder	Hide Folder	Skryť priečinok
 Hide Apps	Hide Apps	Skryť aplikácie
 Hide Games	Hide Games	Skryť hry
 Hide App Store	Hide App Store	Skryť App Store
+Hide Hi-Res	Hide Hi-Res	Skryť Hi-Res
 Receive Audio	Receive Audio	Prijímať zvuk
 Log Failed Artwork	Log Failed Artwork	Zaznamenávať chyby obalov
 Hide Duplicate Albums	Hide Duplicate Albums	Skryť duplicitné albumy
@@ -785,6 +792,8 @@ Auto (44.1: %.1f / 48: %.1f)	Auto (44.1: %.1f / 48: %.1f)	Auto (44.1: %.1f / 48:
 Folder missing or unavailable	Folder missing or unavailable	Priečinok chýba/nie je dostupný
 Out of memory; cannot list presets	Out of memory; cannot list presets	Nedostatok pamäte; predvoľby sa nedajú zobraziť
 No presets found	No presets found	Nenašli sa žiadne predvoľby
+Imported %u; %u already saved; %u failed%s	Imported %u; %u already saved; %u failed%s	Importované: %u; už uložené: %u; zlyhalo: %u%s
+; storage full	; storage full	; úložisko plné
 Name not allowed; preset kept	Name not allowed; preset kept	Zlý názov; predvoľba ostáva
 Name taken; preset kept	Name taken; preset kept	Názov obsadený; predvoľba ostáva
 Rename failed; preset kept	Rename failed; preset kept	Premenovanie zlyhalo; ostáva
@@ -832,6 +841,7 @@ Raise	Raise	Zvýšiť
 Lower	Lower	Znížiť
 Step	Step	Krok
 Delete %.100s? Confirm	Delete %.100s? Confirm	Odstrániť %.100s? Potvrďte
+Reset all bands? Confirm	Reset all bands? Confirm	Obnoviť všetky pásma? Potvrďte
 Replace existing preset? Confirm	Replace existing preset? Confirm	Nahradiť predvoľbu? Potvrďte
 Cancel replacement	Cancel replacement	Zrušiť nahradenie
 Save as Manual %02d	Save as Manual %02d	Uložiť ako Ručné %02d
@@ -840,6 +850,8 @@ Import from SD /EQ	Import from SD /EQ	Importovať z SD /EQ
 Save editor preset	Save editor preset	Uložiť predvoľbu editora
 Rename a preset	Rename a preset	Premenovať predvoľbu
 Delete a preset	Delete a preset	Odstrániť predvoľbu
+Import this page	Import this page	Importovať túto stranu
+Import all	Import all	Importovať všetko
 Previous page	Previous page	Predchádzajúca strana
 Next page	Next page	Ďalšia strana
 Band %d	Band %d	Pásmo %d
@@ -979,6 +991,8 @@ Nothing to upload	Nothing to upload	Nič na odoslanie
 Uploading scrobbles	Uploading scrobbles	Odosielajú sa scrobbly
 Already uploading	Already uploading	Odosielanie už prebieha
 Upload failed	Upload failed	Odoslanie zlyhalo
+Sleep Timer: %d min	Sleep Timer: %d min	Časovač vypnutia: %d min
+Sleep Timer: %d:%02d	Sleep Timer: %d:%02d	Časovač vypnutia: %d:%02d
 Connect to Wi-Fi first	Connect to Wi-Fi first	Najprv sa pripojte k Wi-Fi
 Waiting for Spotify	Waiting for Spotify	Čaká sa na Spotify
 Spotify isn't on the card	Spotify isn't on the card	Spotify nie je na karte

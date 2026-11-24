@@ -113,6 +113,7 @@ login_out	Logout	Выйти
 memplay_location	Location	Расположение
 memplay_off	Off	Выкл.
 memplay_track	Track	Трек
+msg_actionnotsupport	Non-local songs, not currently supported	Не локальные песни пока не поддерживаются
 msg_actionnotsupport	Non-local songs,not currently supported	Не локальные песни пока не поддерживаются
 msg_actionscan	Scan music?	Сканировать музыку?
 msg_add_task	Please enter the URL of the file you want to download	Введите URL файла для загрузки
@@ -165,11 +166,14 @@ msg_importsuccess	Successfully imported	Импорт выполнен
 msg_initsetsuccess	All settings initialized successfully	Все настройки сброшены
 msg_latestfw	Latest Fw. Installed	Установлена последняя прошивка
 msg_linkerror	WiFi Connection Error	Ошибка подключения Wi-Fi
+msg_lowarn	Line Out sets max volume, continue?	Line Out включит макс. громкость. Продолжить?
 msg_lowarn	Line Out sets max volume,continue?	Line Out включит макс. громкость. Продолжить?
 msg_lowpower	Low Battery	Низкий заряд
 msg_namenull	The name can't be empty	Имя не может быть пустым
 msg_netnameerr	Network Must Be Named	Укажите имя сети
 msg_no	Cancel	Отмена
+msg_no_storage	Storage is full. Some songs couldn't be added.	Память заполнена. Не все песни добавлены.
+msg_noheadset	Playback is disabled without headphones. Please insert headphones.	Без наушников воспроизведение отключено. Подключите наушники.
 msg_no_storage	Storage is full.Some songs couldn't be added.	Память заполнена. Не все песни добавлены.
 msg_noheadset	Playback is disabled without headphones.Please insert headphones.	Без наушников воспроизведение отключено. Подключите наушники.
 msg_nosongs	No songs in this folder	В этой папке нет песен
@@ -545,6 +549,7 @@ Tidal Downloads	Tidal Downloads	Загрузки Tidal
 Internet Radio	Internet Radio	Интернет-радио
 Configuration	Configuration	Настройка
 Restart to apply?	Restart to apply?	Перезапустить для применения?
+Restart	Restart	Перезапустить
 Couldn't copy the language	Couldn't copy the language	Не удалось скопировать язык
 Too many songs to shuffle	Too many songs to shuffle	Слишком много песен для перемешивания
 Shuffle Songs	Shuffle Songs	Перемешать песни
@@ -576,6 +581,7 @@ Measuring songs… %d/%d	Measuring songs… %d/%d	Измерение песен�
 Measuring songs…	Measuring songs…	Измерение песен…
 Release to search	Release to search	Отпустите для поиска
 Pull to search	Pull to search	Потяните для поиска
+Shut Down	Shut Down	Выключить
 Sleep Timer	Sleep Timer	Таймер сна
 Lock Screen	Lock Screen	Экран блокировки
 Accent	Accent	Акцент
@@ -627,6 +633,7 @@ Hide Folder	Hide Folder	Скрыть «Папки»
 Hide Apps	Hide Apps	Скрыть «Приложения»
 Hide Games	Hide Games	Скрыть «Игры»
 Hide App Store	Hide App Store	Скрыть App Store
+Hide Hi-Res	Hide Hi-Res	Скрыть Hi-Res
 Receive Audio	Receive Audio	Приём звука
 Log Failed Artwork	Log Failed Artwork	Журнал сбоев обложек
 Hide Duplicate Albums	Hide Duplicate Albums	Скрыть дубликаты альбомов
@@ -785,6 +792,8 @@ Auto (44.1: %.1f / 48: %.1f)	Auto (44.1: %.1f / 48: %.1f)	Авто (44,1: %.1f /
 Folder missing or unavailable	Folder missing or unavailable	Папка отсутствует или недоступна
 Out of memory; cannot list presets	Out of memory; cannot list presets	Не хватает памяти: список пресетов недоступен
 No presets found	No presets found	Пресеты не найдены
+Imported %u; %u already saved; %u failed%s	Imported %u; %u already saved; %u failed%s	Импортировано: %u; уже сохранено: %u; ошибок: %u%s
+; storage full	; storage full	; память заполнена
 Name not allowed; preset kept	Name not allowed; preset kept	Имя недопустимо, пресет не изменён
 Name taken; preset kept	Name taken; preset kept	Имя занято, пресет не изменён
 Rename failed; preset kept	Rename failed; preset kept	Не удалось переименовать, пресет не изменён
@@ -832,6 +841,7 @@ Raise	Raise	Повысить
 Lower	Lower	Понизить
 Step	Step	Шаг
 Delete %.100s? Confirm	Delete %.100s? Confirm	Удалить %.100s? Подтвердить
+Reset all bands? Confirm	Reset all bands? Confirm	Сбросить все полосы? Подтвердить
 Replace existing preset? Confirm	Replace existing preset? Confirm	Заменить пресет? Подтвердить
 Cancel replacement	Cancel replacement	Отменить замену
 Save as Manual %02d	Save as Manual %02d	Сохранить как Manual %02d
@@ -840,6 +850,8 @@ Import from SD /EQ	Import from SD /EQ	Импорт из SD /EQ
 Save editor preset	Save editor preset	Сохранить пресет редактора
 Rename a preset	Rename a preset	Переименовать пресет
 Delete a preset	Delete a preset	Удалить пресет
+Import this page	Import this page	Импорт этой страницы
+Import all	Import all	Импорт всех
 Previous page	Previous page	Предыдущая страница
 Next page	Next page	Следующая страница
 Band %d	Band %d	Полоса %d
@@ -979,6 +991,8 @@ Nothing to upload	Nothing to upload	Нечего отправлять
 Uploading scrobbles	Uploading scrobbles	Отправка скробблов
 Already uploading	Already uploading	Уже отправляется
 Upload failed	Upload failed	Не удалось отправить
+Sleep Timer: %d min	Sleep Timer: %d min	Таймер сна: %d мин
+Sleep Timer: %d:%02d	Sleep Timer: %d:%02d	Таймер сна: %d:%02d
 Connect to Wi-Fi first	Connect to Wi-Fi first	Сначала подключитесь к Wi-Fi
 Waiting for Spotify	Waiting for Spotify	Ожидание Spotify
 Spotify isn't on the card	Spotify isn't on the card	Spotify нет на карте

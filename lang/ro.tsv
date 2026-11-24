@@ -113,6 +113,7 @@ login_out	Logout	Deconectare
 memplay_location	Location	Locaţie
 memplay_off	Off	Oprit
 memplay_track	Track	Piesă
+msg_actionnotsupport	Non-local songs, not currently supported	Melodiile non-locale nu sunt acceptate
 msg_actionnotsupport	Non-local songs,not currently supported	Melodiile non-locale nu sunt acceptate
 msg_actionscan	Scan music?	Scanaţi muzica?
 msg_add_task	Please enter the URL of the file you want to download	Introduceţi adresa URL a fişierului de descărcat
@@ -165,11 +166,14 @@ msg_importsuccess	Successfully imported	Import reuşit
 msg_initsetsuccess	All settings initialized successfully	Toate setările au fost resetate
 msg_latestfw	Latest Fw. Installed	Firmware la zi
 msg_linkerror	WiFi Connection Error	Eroare de conectare Wi-Fi
+msg_lowarn	Line Out sets max volume, continue?	Line Out setează volumul maxim. Continuaţi?
 msg_lowarn	Line Out sets max volume,continue?	Line Out setează volumul maxim. Continuaţi?
 msg_lowpower	Low Battery	Baterie slabă
 msg_namenull	The name can't be empty	Numele nu poate fi gol
 msg_netnameerr	Network Must Be Named	Reţeaua trebuie să aibă un nume
 msg_no	Cancel	Anulează
+msg_no_storage	Storage is full. Some songs couldn't be added.	Memorie plină. Unele melodii nu au putut fi adăugate.
+msg_noheadset	Playback is disabled without headphones. Please insert headphones.	Redarea este dezactivată fără căşti. Conectaţi căşti.
 msg_no_storage	Storage is full.Some songs couldn't be added.	Memorie plină. Unele melodii nu au putut fi adăugate.
 msg_noheadset	Playback is disabled without headphones.Please insert headphones.	Redarea este dezactivată fără căşti. Conectaţi căşti.
 msg_nosongs	No songs in this folder	Nicio melodie în acest dosar
@@ -545,6 +549,7 @@ Tidal Downloads	Tidal Downloads	Descărcări Tidal
 Internet Radio	Internet Radio	Radio internet
 Configuration	Configuration	Configurare
 Restart to apply?	Restart to apply?	Reporniţi pentru a aplica?
+Restart	Restart	Reporneşte
 Couldn't copy the language	Couldn't copy the language	Limba nu a putut fi copiată
 Too many songs to shuffle	Too many songs to shuffle	Prea multe melodii de amestecat
 Shuffle Songs	Shuffle Songs	Amestecă melodiile
@@ -576,6 +581,7 @@ Measuring songs… %d/%d	Measuring songs… %d/%d	Se măsoară melodiile… %d/%
 Measuring songs…	Measuring songs…	Se măsoară melodiile…
 Release to search	Release to search	Eliberaţi pentru a căuta
 Pull to search	Pull to search	Trageţi pentru a căuta
+Shut Down	Shut Down	Opreşte
 Sleep Timer	Sleep Timer	Temporizator de oprire
 Lock Screen	Lock Screen	Ecran de blocare
 Accent	Accent	Accent
@@ -627,6 +633,7 @@ Hide Folder	Hide Folder	Ascunde dosarul
 Hide Apps	Hide Apps	Ascunde aplicaţiile
 Hide Games	Hide Games	Ascunde jocurile
 Hide App Store	Hide App Store	Ascunde App Store
+Hide Hi-Res	Hide Hi-Res	Ascunde Hi-Res
 Receive Audio	Receive Audio	Primeşte audio
 Log Failed Artwork	Log Failed Artwork	Jurnal copertelor eşuate
 Hide Duplicate Albums	Hide Duplicate Albums	Ascunde albumele duplicate
@@ -785,6 +792,8 @@ Auto (44.1: %.1f / 48: %.1f)	Auto (44.1: %.1f / 48: %.1f)	Auto (44,1=%.1f / 48=%
 Folder missing or unavailable	Folder missing or unavailable	Dosar lipsă sau indisponibil
 Out of memory; cannot list presets	Out of memory; cannot list presets	Memorie epuizată; presetările nu pot fi listate
 No presets found	No presets found	Nicio presetare găsită
+Imported %u; %u already saved; %u failed%s	Imported %u; %u already saved; %u failed%s	Importate: %u; deja salvate: %u; eşuate: %u%s
+; storage full	; storage full	; memorie plină
 Name not allowed; preset kept	Name not allowed; preset kept	Nume nepermis; se păstrează
 Name taken; preset kept	Name taken; preset kept	Nume ocupat; se păstrează
 Rename failed; preset kept	Rename failed; preset kept	Redenumire eşuată; se păstrează
@@ -832,6 +841,7 @@ Raise	Raise	Creşte
 Lower	Lower	Scade
 Step	Step	Pas
 Delete %.100s? Confirm	Delete %.100s? Confirm	Ştergeţi %.100s? Confirmaţi
+Reset all bands? Confirm	Reset all bands? Confirm	Resetaţi toate benzile? Confirmaţi
 Replace existing preset? Confirm	Replace existing preset? Confirm	Înlocuiţi presetarea? Confirmaţi
 Cancel replacement	Cancel replacement	Anulează înlocuirea
 Save as Manual %02d	Save as Manual %02d	Salvează ca Manual %02d
@@ -840,6 +850,8 @@ Import from SD /EQ	Import from SD /EQ	Importă de pe SD /EQ
 Save editor preset	Save editor preset	Salvează presetarea
 Rename a preset	Rename a preset	Redenumeşte o presetare
 Delete a preset	Delete a preset	Şterge o presetare
+Import this page	Import this page	Importă această pagină
+Import all	Import all	Importă tot
 Previous page	Previous page	Pagina anterioară
 Next page	Next page	Pagina următoare
 Band %d	Band %d	Banda %d
@@ -979,6 +991,8 @@ Nothing to upload	Nothing to upload	Nimic de trimis
 Uploading scrobbles	Uploading scrobbles	Se trimit scrobble-urile
 Already uploading	Already uploading	Se trimite deja
 Upload failed	Upload failed	Trimitere eşuată
+Sleep Timer: %d min	Sleep Timer: %d min	Temporizator de oprire: %d min
+Sleep Timer: %d:%02d	Sleep Timer: %d:%02d	Temporizator de oprire: %d:%02d
 Connect to Wi-Fi first	Connect to Wi-Fi first	Conectaţi-vă mai întâi la Wi-Fi
 Waiting for Spotify	Waiting for Spotify	Se aşteaptă Spotify
 Spotify isn't on the card	Spotify isn't on the card	Spotify nu este pe card

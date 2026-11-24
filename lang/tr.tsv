@@ -113,6 +113,7 @@ login_out	Logout	Çıkış
 memplay_location	Location	Konum
 memplay_off	Off	Kapalı
 memplay_track	Track	Parça
+msg_actionnotsupport	Non-local songs, not currently supported	Yerel olmayan şarkılar şu an desteklenmiyor
 msg_actionnotsupport	Non-local songs,not currently supported	Yerel olmayan şarkılar şu an desteklenmiyor
 msg_actionscan	Scan music?	Müzik taransın mı?
 msg_add_task	Please enter the URL of the file you want to download	İndirmek istediğiniz dosyanın URL'sini girin
@@ -165,11 +166,14 @@ msg_importsuccess	Successfully imported	Başarıyla içe aktarıldı
 msg_initsetsuccess	All settings initialized successfully	Tüm ayarlar sıfırlandı
 msg_latestfw	Latest Fw. Installed	En son bellenim yüklü
 msg_linkerror	WiFi Connection Error	Wi-Fi bağlantı hatası
+msg_lowarn	Line Out sets max volume, continue?	Line Out sesi en yükseğe ayarlar, devam edilsin mi?
 msg_lowarn	Line Out sets max volume,continue?	Line Out sesi en yükseğe ayarlar, devam edilsin mi?
 msg_lowpower	Low Battery	Pil zayıf
 msg_namenull	The name can't be empty	Ad boş olamaz
 msg_netnameerr	Network Must Be Named	Ağın adı olmalı
 msg_no	Cancel	İptal
+msg_no_storage	Storage is full. Some songs couldn't be added.	Depolama dolu. Bazı şarkılar eklenemedi.
+msg_noheadset	Playback is disabled without headphones. Please insert headphones.	Kulaklık olmadan oynatma kapalı. Lütfen kulaklık takın.
 msg_no_storage	Storage is full.Some songs couldn't be added.	Depolama dolu. Bazı şarkılar eklenemedi.
 msg_noheadset	Playback is disabled without headphones.Please insert headphones.	Kulaklık olmadan oynatma kapalı. Lütfen kulaklık takın.
 msg_nosongs	No songs in this folder	Bu klasörde şarkı yok
@@ -545,6 +549,7 @@ Tidal Downloads	Tidal Downloads	Tidal indirmeleri
 Internet Radio	Internet Radio	İnternet radyosu
 Configuration	Configuration	Yapılandırma
 Restart to apply?	Restart to apply?	Yeniden başlatılsın mı?
+Restart	Restart	Yeniden başlat
 Couldn't copy the language	Couldn't copy the language	Dil kopyalanamadı
 Too many songs to shuffle	Too many songs to shuffle	Karıştırmak için çok fazla şarkı var
 Shuffle Songs	Shuffle Songs	Şarkıları karıştır
@@ -576,6 +581,7 @@ Measuring songs… %d/%d	Measuring songs… %d/%d	Şarkılar ölçülüyor… %d
 Measuring songs…	Measuring songs…	Şarkılar ölçülüyor…
 Release to search	Release to search	Aramak için bırakın
 Pull to search	Pull to search	Aramak için çekin
+Shut Down	Shut Down	Kapat
 Sleep Timer	Sleep Timer	Uyku zamanlayıcı
 Lock Screen	Lock Screen	Ekran kilidi
 Accent	Accent	Vurgu
@@ -627,6 +633,7 @@ Hide Folder	Hide Folder	Klasörü gizle
 Hide Apps	Hide Apps	Uygulamaları gizle
 Hide Games	Hide Games	Oyunları gizle
 Hide App Store	Hide App Store	App Store'u gizle
+Hide Hi-Res	Hide Hi-Res	Hi-Res'i gizle
 Receive Audio	Receive Audio	Ses al
 Log Failed Artwork	Log Failed Artwork	Başarısız kapakları kaydet
 Hide Duplicate Albums	Hide Duplicate Albums	Yinelenen albümleri gizle
@@ -785,6 +792,8 @@ Auto (44.1: %.1f / 48: %.1f)	Auto (44.1: %.1f / 48: %.1f)	Otomatik (44.1: %.1f /
 Folder missing or unavailable	Folder missing or unavailable	Klasör yok veya kullanılamıyor
 Out of memory; cannot list presets	Out of memory; cannot list presets	Bellek yetersiz; hazır ayarlar listelenemiyor
 No presets found	No presets found	Hazır ayar bulunamadı
+Imported %u; %u already saved; %u failed%s	Imported %u; %u already saved; %u failed%s	%u içe aktarıldı; %u zaten kaydedilmiş; %u başarısız%s
+; storage full	; storage full	; depolama dolu
 Name not allowed; preset kept	Name not allowed; preset kept	Ad kabul edilmedi; ayar korundu
 Name taken; preset kept	Name taken; preset kept	Ad kullanımda; ayar korundu
 Rename failed; preset kept	Rename failed; preset kept	Ad değişmedi; ayar korundu
@@ -832,6 +841,7 @@ Raise	Raise	Artır
 Lower	Lower	Azalt
 Step	Step	Adım
 Delete %.100s? Confirm	Delete %.100s? Confirm	%.100s silinsin mi? Onayla
+Reset all bands? Confirm	Reset all bands? Confirm	Tüm bantlar sıfırlansın mı? Onayla
 Replace existing preset? Confirm	Replace existing preset? Confirm	Üzerine yazılsın mı? Onayla
 Cancel replacement	Cancel replacement	Değiştirmeyi iptal et
 Save as Manual %02d	Save as Manual %02d	Manual %02d olarak kaydet
@@ -840,6 +850,8 @@ Import from SD /EQ	Import from SD /EQ	SD /EQ'dan içe aktar
 Save editor preset	Save editor preset	Düzenleyici ayarını kaydet
 Rename a preset	Rename a preset	Hazır ayarı yeniden adlandır
 Delete a preset	Delete a preset	Hazır ayarı sil
+Import this page	Import this page	Bu sayfayı içe aktar
+Import all	Import all	Tümünü içe aktar
 Previous page	Previous page	Önceki sayfa
 Next page	Next page	Sonraki sayfa
 Band %d	Band %d	Bant %d
@@ -979,6 +991,8 @@ Nothing to upload	Nothing to upload	Gönderilecek bir şey yok
 Uploading scrobbles	Uploading scrobbles	Scrobble'lar gönderiliyor
 Already uploading	Already uploading	Zaten gönderiliyor
 Upload failed	Upload failed	Gönderilemedi
+Sleep Timer: %d min	Sleep Timer: %d min	Uyku zamanlayıcı: %d dk
+Sleep Timer: %d:%02d	Sleep Timer: %d:%02d	Uyku zamanlayıcı: %d:%02d
 Connect to Wi-Fi first	Connect to Wi-Fi first	Önce Wi-Fi'ye bağlanın
 Waiting for Spotify	Waiting for Spotify	Spotify bekleniyor
 Spotify isn't on the card	Spotify isn't on the card	Spotify kartta yok

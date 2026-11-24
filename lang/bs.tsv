@@ -113,6 +113,7 @@ login_out	Logout	Odjava
 memplay_location	Location	Lokacija
 memplay_off	Off	Isklj.
 memplay_track	Track	Pjesma
+msg_actionnotsupport	Non-local songs, not currently supported	Pjesme koje nisu lokalne trenutno nisu podržane
 msg_actionnotsupport	Non-local songs,not currently supported	Pjesme koje nisu lokalne trenutno nisu podržane
 msg_actionscan	Scan music?	Skenirati muziku?
 msg_add_task	Please enter the URL of the file you want to download	Unesite URL datoteke za preuzimanje
@@ -165,11 +166,14 @@ msg_importsuccess	Successfully imported	Uvoz uspješan
 msg_initsetsuccess	All settings initialized successfully	Sve postavke su poništene
 msg_latestfw	Latest Fw. Installed	Najnoviji firmver je instaliran
 msg_linkerror	WiFi Connection Error	Greška Wi-Fi veze
+msg_lowarn	Line Out sets max volume, continue?	Line Out postavlja najveću jačinu zvuka. Nastaviti?
 msg_lowarn	Line Out sets max volume,continue?	Line Out postavlja najveću jačinu zvuka. Nastaviti?
 msg_lowpower	Low Battery	Slaba baterija
 msg_namenull	The name can't be empty	Naziv ne može biti prazan
 msg_netnameerr	Network Must Be Named	Mreža mora imati naziv
 msg_no	Cancel	Otkaži
+msg_no_storage	Storage is full. Some songs couldn't be added.	Memorija je puna. Neke pjesme nisu dodane.
+msg_noheadset	Playback is disabled without headphones. Please insert headphones.	Reprodukcija je onemogućena bez slušalica. Priključite slušalice.
 msg_no_storage	Storage is full.Some songs couldn't be added.	Memorija je puna. Neke pjesme nisu dodane.
 msg_noheadset	Playback is disabled without headphones.Please insert headphones.	Reprodukcija je onemogućena bez slušalica. Priključite slušalice.
 msg_nosongs	No songs in this folder	U ovom folderu nema pjesama
@@ -545,6 +549,7 @@ Tidal Downloads	Tidal Downloads	Tidal preuzimanja
 Internet Radio	Internet Radio	Internet radio
 Configuration	Configuration	Konfiguracija
 Restart to apply?	Restart to apply?	Ponovo pokrenuti da se primijeni?
+Restart	Restart	Ponovo pokreni
 Couldn't copy the language	Couldn't copy the language	Jezik se nije mogao kopirati
 Too many songs to shuffle	Too many songs to shuffle	Previše pjesama za miješanje
 Shuffle Songs	Shuffle Songs	Pomiješaj pjesme
@@ -576,6 +581,7 @@ Measuring songs… %d/%d	Measuring songs… %d/%d	Mjerenje pjesama… %d/%d
 Measuring songs…	Measuring songs…	Mjerenje pjesama…
 Release to search	Release to search	Pustite za pretragu
 Pull to search	Pull to search	Povucite za pretragu
+Shut Down	Shut Down	Isključi
 Sleep Timer	Sleep Timer	Tajmer za spavanje
 Lock Screen	Lock Screen	Zaključan ekran
 Accent	Accent	Akcent
@@ -627,6 +633,7 @@ Hide Folder	Hide Folder	Sakrij Folder
 Hide Apps	Hide Apps	Sakrij Aplikacije
 Hide Games	Hide Games	Sakrij Igre
 Hide App Store	Hide App Store	Sakrij App Store
+Hide Hi-Res	Hide Hi-Res	Sakrij Hi-Res
 Receive Audio	Receive Audio	Prijem zvuka
 Log Failed Artwork	Log Failed Artwork	Zapisuj neuspjele omote
 Hide Duplicate Albums	Hide Duplicate Albums	Sakrij duplirane albume
@@ -785,6 +792,8 @@ Auto (44.1: %.1f / 48: %.1f)	Auto (44.1: %.1f / 48: %.1f)	Auto (44.1: %.1f / 48:
 Folder missing or unavailable	Folder missing or unavailable	Folder nije dostupan
 Out of memory; cannot list presets	Out of memory; cannot list presets	Nema memorije; popis presetova nije prikazan
 No presets found	No presets found	Nema pronađenih presetova
+Imported %u; %u already saved; %u failed%s	Imported %u; %u already saved; %u failed%s	Uvezeno: %u; već spremljeno: %u; neuspjelo: %u%s
+; storage full	; storage full	; memorija puna
 Name not allowed; preset kept	Name not allowed; preset kept	Neispravan naziv; preset ostaje
 Name taken; preset kept	Name taken; preset kept	Naziv zauzet; preset zadržan
 Rename failed; preset kept	Rename failed; preset kept	Nije preimenovano; preset ostaje
@@ -832,6 +841,7 @@ Raise	Raise	Povećaj
 Lower	Lower	Smanji
 Step	Step	Korak
 Delete %.100s? Confirm	Delete %.100s? Confirm	Izbrisati %.100s? Potvrdi
+Reset all bands? Confirm	Reset all bands? Confirm	Poništiti sve pojaseve? Potvrdi
 Replace existing preset? Confirm	Replace existing preset? Confirm	Zamijeniti preset? Potvrdi
 Cancel replacement	Cancel replacement	Otkaži zamjenu
 Save as Manual %02d	Save as Manual %02d	Spremi kao Ručno %02d
@@ -840,6 +850,8 @@ Import from SD /EQ	Import from SD /EQ	Uvoz sa SD /EQ
 Save editor preset	Save editor preset	Spremi preset editora
 Rename a preset	Rename a preset	Preimenuj preset
 Delete a preset	Delete a preset	Izbriši preset
+Import this page	Import this page	Uvezi ovu stranicu
+Import all	Import all	Uvezi sve
 Previous page	Previous page	Prethodna stranica
 Next page	Next page	Sljedeća stranica
 Band %d	Band %d	Pojas %d
@@ -979,6 +991,8 @@ Nothing to upload	Nothing to upload	Nema šta poslati
 Uploading scrobbles	Uploading scrobbles	Slanje scrobbleova
 Already uploading	Already uploading	Slanje već traje
 Upload failed	Upload failed	Slanje nije uspjelo
+Sleep Timer: %d min	Sleep Timer: %d min	Tajmer za spavanje: %d min
+Sleep Timer: %d:%02d	Sleep Timer: %d:%02d	Tajmer za spavanje: %d:%02d
 Connect to Wi-Fi first	Connect to Wi-Fi first	Prvo se povežite na Wi-Fi
 Waiting for Spotify	Waiting for Spotify	Čekanje na Spotify
 Spotify isn't on the card	Spotify isn't on the card	Spotify nije na kartici

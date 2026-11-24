@@ -113,6 +113,7 @@ login_out	Logout	Kijelentkezés
 memplay_location	Location	Hely
 memplay_off	Off	Ki
 memplay_track	Track	Szám
+msg_actionnotsupport	Non-local songs, not currently supported	A nem helyi dalok jelenleg nem támogatottak
 msg_actionnotsupport	Non-local songs,not currently supported	A nem helyi dalok jelenleg nem támogatottak
 msg_actionscan	Scan music?	Zene beolvasása?
 msg_add_task	Please enter the URL of the file you want to download	Adja meg a letölteni kívánt fájl URL-jét
@@ -165,11 +166,14 @@ msg_importsuccess	Successfully imported	Sikeres importálás
 msg_initsetsuccess	All settings initialized successfully	Minden beállítás visszaállítva
 msg_latestfw	Latest Fw. Installed	A legújabb firmware telepítve
 msg_linkerror	WiFi Connection Error	Wi-Fi-kapcsolati hiba
+msg_lowarn	Line Out sets max volume, continue?	A Line Out maximális hangerőt állít be. Folytatja?
 msg_lowarn	Line Out sets max volume,continue?	A Line Out maximális hangerőt állít be. Folytatja?
 msg_lowpower	Low Battery	Alacsony akkumulátorszint
 msg_namenull	The name can't be empty	A név nem lehet üres
 msg_netnameerr	Network Must Be Named	A hálózatnak nevet kell adni
 msg_no	Cancel	Mégse
+msg_no_storage	Storage is full. Some songs couldn't be added.	A tároló megtelt. Néhány dal nem adható hozzá.
+msg_noheadset	Playback is disabled without headphones. Please insert headphones.	Fejhallgató nélkül a lejátszás le van tiltva. Csatlakoztasson fejhallgatót.
 msg_no_storage	Storage is full.Some songs couldn't be added.	A tároló megtelt. Néhány dal nem adható hozzá.
 msg_noheadset	Playback is disabled without headphones.Please insert headphones.	Fejhallgató nélkül a lejátszás le van tiltva. Csatlakoztasson fejhallgatót.
 msg_nosongs	No songs in this folder	Nincs dal ebben a mappában
@@ -545,6 +549,7 @@ Tidal Downloads	Tidal Downloads	Tidal-letöltések
 Internet Radio	Internet Radio	Internetrádió
 Configuration	Configuration	Konfiguráció
 Restart to apply?	Restart to apply?	Újraindítja a módosításhoz?
+Restart	Restart	Újraindítás
 Couldn't copy the language	Couldn't copy the language	A nyelv másolása sikertelen
 Too many songs to shuffle	Too many songs to shuffle	Túl sok dal a keveréshez
 Shuffle Songs	Shuffle Songs	Dalok keverése
@@ -576,6 +581,7 @@ Measuring songs… %d/%d	Measuring songs… %d/%d	Dalok mérése… %d/%d
 Measuring songs…	Measuring songs…	Dalok mérése…
 Release to search	Release to search	Engedje el a kereséshez
 Pull to search	Pull to search	Húzza le a kereséshez
+Shut Down	Shut Down	Leállítás
 Sleep Timer	Sleep Timer	Alvásidőzítő
 Lock Screen	Lock Screen	Képernyőzár
 Accent	Accent	Kiemelőszín
@@ -627,6 +633,7 @@ Hide Folder	Hide Folder	Mappa elrejtése
 Hide Apps	Hide Apps	Alkalmazások elrejtése
 Hide Games	Hide Games	Játékok elrejtése
 Hide App Store	Hide App Store	App Store elrejtése
+Hide Hi-Res	Hide Hi-Res	Hi-Res elrejtése
 Receive Audio	Receive Audio	Hang fogadása
 Log Failed Artwork	Log Failed Artwork	Borítóhibák naplózása
 Hide Duplicate Albums	Hide Duplicate Albums	Ismétlődő albumok elrejtése
@@ -785,6 +792,8 @@ Auto (44.1: %.1f / 48: %.1f)	Auto (44.1: %.1f / 48: %.1f)	Auto (44.1: %.1f / 48:
 Folder missing or unavailable	Folder missing or unavailable	A mappa nem érhető el
 Out of memory; cannot list presets	Out of memory; cannot list presets	Elfogyott a memória; az előbeállítások nem listázhatók
 No presets found	No presets found	Nincs előbeállítás
+Imported %u; %u already saved; %u failed%s	Imported %u; %u already saved; %u failed%s	Importálva: %u; már mentve: %u; sikertelen: %u%s
+; storage full	; storage full	; a tároló megtelt
 Name not allowed; preset kept	Name not allowed; preset kept	Név nem engedélyezett; megmarad
 Name taken; preset kept	Name taken; preset kept	Név foglalt; megmarad
 Rename failed; preset kept	Rename failed; preset kept	Átnevezés sikertelen; megmarad
@@ -832,6 +841,7 @@ Raise	Raise	Növelés
 Lower	Lower	Csökkentés
 Step	Step	Lépés
 Delete %.100s? Confirm	Delete %.100s? Confirm	%.100s törlése? Megerősítés
+Reset all bands? Confirm	Reset all bands? Confirm	Sávok visszaállítása? Megerősítés
 Replace existing preset? Confirm	Replace existing preset? Confirm	Felülírja? Megerősítés
 Cancel replacement	Cancel replacement	Csere megszakítása
 Save as Manual %02d	Save as Manual %02d	Mentés – Manual %02d
@@ -840,6 +850,8 @@ Import from SD /EQ	Import from SD /EQ	Importálás az SD /EQ mappából
 Save editor preset	Save editor preset	Szerkesztő előbeállítás mentése
 Rename a preset	Rename a preset	Előbeállítás átnevezése
 Delete a preset	Delete a preset	Előbeállítás törlése
+Import this page	Import this page	Oldal importálása
+Import all	Import all	Összes importálása
 Previous page	Previous page	Előző oldal
 Next page	Next page	Következő oldal
 Band %d	Band %d	%d. sáv
@@ -979,6 +991,8 @@ Nothing to upload	Nothing to upload	Nincs mit feltölteni
 Uploading scrobbles	Uploading scrobbles	Scrobble-ök feltöltése
 Already uploading	Already uploading	Már folyamatban van a feltöltés
 Upload failed	Upload failed	A feltöltés sikertelen
+Sleep Timer: %d min	Sleep Timer: %d min	Alvásidőzítő: %d perc
+Sleep Timer: %d:%02d	Sleep Timer: %d:%02d	Alvásidőzítő: %d:%02d
 Connect to Wi-Fi first	Connect to Wi-Fi first	Előbb csatlakozzon Wi-Fi-hez
 Waiting for Spotify	Waiting for Spotify	Várakozás a Spotifyra
 Spotify isn't on the card	Spotify isn't on the card	A Spotify nincs a kártyán

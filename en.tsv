@@ -112,6 +112,7 @@ login_out	Logout	stock
 memplay_location	Location	stock
 memplay_off	Off	stock
 memplay_track	Track	stock
+msg_actionnotsupport	Non-local songs, not currently supported	stock
 msg_actionnotsupport	Non-local songs,not currently supported	stock
 msg_actionscan	Scan music?	stock
 msg_add_task	Please enter the URL of the file you want to download	stock
@@ -164,11 +165,14 @@ msg_importsuccess	Successfully imported	stock
 msg_initsetsuccess	All settings initialized successfully	stock
 msg_latestfw	Latest Fw. Installed	stock
 msg_linkerror	WiFi Connection Error	stock
+msg_lowarn	Line Out sets max volume, continue?	stock
 msg_lowarn	Line Out sets max volume,continue?	stock
 msg_lowpower	Low Battery	stock
 msg_namenull	The name can't be empty	stock
 msg_netnameerr	Network Must Be Named	stock
 msg_no	Cancel	stock
+msg_no_storage	Storage is full. Some songs couldn't be added.	stock
+msg_noheadset	Playback is disabled without headphones. Please insert headphones.	stock
 msg_no_storage	Storage is full.Some songs couldn't be added.	stock
 msg_noheadset	Playback is disabled without headphones.Please insert headphones.	stock
 msg_nosongs	No songs in this folder	stock
@@ -431,18 +435,18 @@ UPDATE	UPDATE	app_store.c
 INSTALLED	INSTALLED	app_store.c
 AM	AM	battery.c
 PM	PM	battery.c
-Jan	Jan	battery.c
-Feb	Feb	battery.c
-Mar	Mar	battery.c
-Apr	Apr	battery.c
-May	May	battery.c
-Jun	Jun	battery.c
-Jul	Jul	battery.c
-Aug	Aug	battery.c
-Sep	Sep	battery.c
-Oct	Oct	battery.c
-Nov	Nov	battery.c
-Dec	Dec	battery.c
+Jan	Jan	clock.c
+Feb	Feb	clock.c
+Mar	Mar	clock.c
+Apr	Apr	clock.c
+May	May	clock.c
+Jun	Jun	clock.c
+Jul	Jul	clock.c
+Aug	Aug	clock.c
+Sep	Sep	clock.c
+Oct	Oct	clock.c
+Nov	Nov	clock.c
+Dec	Dec	clock.c
 The card is in use over USB	The card is in use over USB	battery.c
 Storage unavailable	Storage unavailable	battery.c
 The card is full	The card is full	battery.c
@@ -543,7 +547,8 @@ Upload Scrobbles	Upload Scrobbles	home.c
 Tidal Downloads	Tidal Downloads	home.c
 Internet Radio	Internet Radio	home.c
 Configuration	Configuration	home.c
-Restart to apply?	Restart to apply?	language.c
+Restart to apply?	Restart to apply?	navigation.c
+Restart	Restart	navigation.c
 Couldn't copy the language	Couldn't copy the language	language.c
 Too many songs to shuffle	Too many songs to shuffle	library_lists.c
 Shuffle Songs	Shuffle Songs	library_lists.c
@@ -575,6 +580,7 @@ Measuring songs… %d/%d	Measuring songs… %d/%d	library_lists.c
 Measuring songs…	Measuring songs…	library_lists.c
 Release to search	Release to search	navigation.c
 Pull to search	Pull to search	navigation.c
+Shut Down	Shut Down	navigation.c
 Sleep Timer	Sleep Timer	navigation.c
 Lock Screen	Lock Screen	navigation.c
 Accent	Accent	navigation.c
@@ -626,6 +632,7 @@ Hide Folder	Hide Folder	navigation.c
 Hide Apps	Hide Apps	navigation.c
 Hide Games	Hide Games	navigation.c
 Hide App Store	Hide App Store	navigation.c
+Hide Hi-Res	Hide Hi-Res	navigation.c
 Receive Audio	Receive Audio	navigation.c
 Log Failed Artwork	Log Failed Artwork	navigation.c
 Hide Duplicate Albums	Hide Duplicate Albums	navigation.c
@@ -784,6 +791,8 @@ Auto (44.1: %.1f / 48: %.1f)	Auto (44.1: %.1f / 48: %.1f)	peq_ui.c
 Folder missing or unavailable	Folder missing or unavailable	peq_ui.c
 Out of memory; cannot list presets	Out of memory; cannot list presets	peq_ui.c
 No presets found	No presets found	peq_ui.c
+Imported %u; %u already saved; %u failed%s	Imported %u; %u already saved; %u failed%s	peq_ui.c
+; storage full	; storage full	peq_ui.c
 Name not allowed; preset kept	Name not allowed; preset kept	peq_ui.c
 Name taken; preset kept	Name taken; preset kept	peq_ui.c
 Rename failed; preset kept	Rename failed; preset kept	peq_ui.c
@@ -831,6 +840,7 @@ Raise	Raise	peq_ui.c
 Lower	Lower	peq_ui.c
 Step	Step	peq_ui.c
 Delete %.100s? Confirm	Delete %.100s? Confirm	peq_ui.c
+Reset all bands? Confirm	Reset all bands? Confirm	peq_ui.c
 Replace existing preset? Confirm	Replace existing preset? Confirm	peq_ui.c
 Cancel replacement	Cancel replacement	peq_ui.c
 Save as Manual %02d	Save as Manual %02d	peq_ui.c
@@ -839,6 +849,8 @@ Import from SD /EQ	Import from SD /EQ	peq_ui.c
 Save editor preset	Save editor preset	peq_ui.c
 Rename a preset	Rename a preset	peq_ui.c
 Delete a preset	Delete a preset	peq_ui.c
+Import this page	Import this page	peq_ui.c
+Import all	Import all	peq_ui.c
 Previous page	Previous page	peq_ui.c
 Next page	Next page	peq_ui.c
 Band %d	Band %d	peq_ui.c
@@ -876,7 +888,7 @@ Search: %s	Search: %s	playlists.c
 No songs match	No songs match	playlists.c
 Search for more songs	Search for more songs	playlists.c
 Delete Playlist?	Delete Playlist?	playlists.c
-Delete	Delete	playlists.c
+Delete	Delete	navigation.c
 Playlist deleted	Playlist deleted	playlists.c
 Could not delete playlist	Could not delete playlist	playlists.c
 Delete Playlist	Delete Playlist	playlists.c
@@ -942,7 +954,7 @@ Stopped	Stopped	radio.c
 Can't play: %s	Can't play: %s	radio.c
 Can't play this station	Can't play this station	radio.c
 Connecting…	Connecting…	radio.c
-Search is too long	Search is too long	radio.c
+Search is too long	Search is too long	addon.c
 Search stations	Search stations	radio.c
 Favourites	Favourites	radio.c
 Featured	Featured	radio.c
@@ -978,6 +990,8 @@ Nothing to upload	Nothing to upload	scrobble_ui.c
 Uploading scrobbles	Uploading scrobbles	scrobble_ui.c
 Already uploading	Already uploading	scrobble_ui.c
 Upload failed	Upload failed	scrobble_ui.c
+Sleep Timer: %d min	Sleep Timer: %d min	sleep_row.c
+Sleep Timer: %d:%02d	Sleep Timer: %d:%02d	sleep_row.c
 Connect to Wi-Fi first	Connect to Wi-Fi first	smart_wifi.c
 Waiting for Spotify	Waiting for Spotify	spotify.c
 Spotify isn't on the card	Spotify isn't on the card	spotify.c

@@ -113,6 +113,7 @@ login_out	Logout	Keluar
 memplay_location	Location	Lokasi
 memplay_off	Off	Mati
 memplay_track	Track	Lagu
+msg_actionnotsupport	Non-local songs, not currently supported	Lagu non-lokal belum didukung
 msg_actionnotsupport	Non-local songs,not currently supported	Lagu non-lokal belum didukung
 msg_actionscan	Scan music?	Pindai musik?
 msg_add_task	Please enter the URL of the file you want to download	Masukkan URL file yang akan diunduh
@@ -165,11 +166,14 @@ msg_importsuccess	Successfully imported	Berhasil diimpor
 msg_initsetsuccess	All settings initialized successfully	Semua pengaturan direset
 msg_latestfw	Latest Fw. Installed	Firmware terbaru terpasang
 msg_linkerror	WiFi Connection Error	Kesalahan koneksi Wi-Fi
+msg_lowarn	Line Out sets max volume, continue?	Line Out mengatur volume maksimum. Lanjutkan?
 msg_lowarn	Line Out sets max volume,continue?	Line Out mengatur volume maksimum. Lanjutkan?
 msg_lowpower	Low Battery	Baterai lemah
 msg_namenull	The name can't be empty	Nama tidak boleh kosong
 msg_netnameerr	Network Must Be Named	Jaringan harus diberi nama
 msg_no	Cancel	Batal
+msg_no_storage	Storage is full. Some songs couldn't be added.	Penyimpanan penuh. Beberapa lagu tidak dapat ditambahkan.
+msg_noheadset	Playback is disabled without headphones. Please insert headphones.	Pemutaran dinonaktifkan tanpa headphone. Pasang headphone.
 msg_no_storage	Storage is full.Some songs couldn't be added.	Penyimpanan penuh. Beberapa lagu tidak dapat ditambahkan.
 msg_noheadset	Playback is disabled without headphones.Please insert headphones.	Pemutaran dinonaktifkan tanpa headphone. Pasang headphone.
 msg_nosongs	No songs in this folder	Tidak ada lagu di folder ini
@@ -545,6 +549,7 @@ Tidal Downloads	Tidal Downloads	Unduhan Tidal
 Internet Radio	Internet Radio	Radio internet
 Configuration	Configuration	Konfigurasi
 Restart to apply?	Restart to apply?	Mulai ulang untuk menerapkan?
+Restart	Restart	Mulai ulang
 Couldn't copy the language	Couldn't copy the language	Tidak dapat menyalin bahasa
 Too many songs to shuffle	Too many songs to shuffle	Terlalu banyak lagu untuk diacak
 Shuffle Songs	Shuffle Songs	Acak lagu
@@ -576,6 +581,7 @@ Measuring songs… %d/%d	Measuring songs… %d/%d	Mengukur lagu… %d/%d
 Measuring songs…	Measuring songs…	Mengukur lagu…
 Release to search	Release to search	Lepas untuk mencari
 Pull to search	Pull to search	Tarik untuk mencari
+Shut Down	Shut Down	Matikan
 Sleep Timer	Sleep Timer	Timer tidur
 Lock Screen	Lock Screen	Kunci layar
 Accent	Accent	Aksen
@@ -627,6 +633,7 @@ Hide Folder	Hide Folder	Sembunyikan Folder
 Hide Apps	Hide Apps	Sembunyikan Aplikasi
 Hide Games	Hide Games	Sembunyikan Game
 Hide App Store	Hide App Store	Sembunyikan App Store
+Hide Hi-Res	Hide Hi-Res	Sembunyikan Hi-Res
 Receive Audio	Receive Audio	Terima audio
 Log Failed Artwork	Log Failed Artwork	Catat sampul gagal
 Hide Duplicate Albums	Hide Duplicate Albums	Sembunyikan album duplikat
@@ -785,6 +792,8 @@ Auto (44.1: %.1f / 48: %.1f)	Auto (44.1: %.1f / 48: %.1f)	Otomatis (44.1: %.1f /
 Folder missing or unavailable	Folder missing or unavailable	Folder hilang/tidak tersedia
 Out of memory; cannot list presets	Out of memory; cannot list presets	Memori habis; tidak dapat mendaftar preset
 No presets found	No presets found	Preset tidak ditemukan
+Imported %u; %u already saved; %u failed%s	Imported %u; %u already saved; %u failed%s	Diimpor %u; %u sudah disimpan; %u gagal%s
+; storage full	; storage full	; penyimpanan penuh
 Name not allowed; preset kept	Name not allowed; preset kept	Nama ditolak; preset tetap ada
 Name taken; preset kept	Name taken; preset kept	Nama dipakai; preset tetap ada
 Rename failed; preset kept	Rename failed; preset kept	Ganti nama gagal; preset tetap
@@ -832,6 +841,7 @@ Raise	Raise	Naikkan
 Lower	Lower	Turunkan
 Step	Step	Langkah
 Delete %.100s? Confirm	Delete %.100s? Confirm	Hapus %.100s? Konfirmasi
+Reset all bands? Confirm	Reset all bands? Confirm	Reset semua band? Konfirmasi
 Replace existing preset? Confirm	Replace existing preset? Confirm	Ganti preset ini? Konfirmasi
 Cancel replacement	Cancel replacement	Batalkan penggantian
 Save as Manual %02d	Save as Manual %02d	Simpan sebagai Manual %02d
@@ -840,6 +850,8 @@ Import from SD /EQ	Import from SD /EQ	Impor dari SD /EQ
 Save editor preset	Save editor preset	Simpan preset editor
 Rename a preset	Rename a preset	Ganti nama preset
 Delete a preset	Delete a preset	Hapus preset
+Import this page	Import this page	Impor halaman ini
+Import all	Import all	Impor semua
 Previous page	Previous page	Halaman sebelumnya
 Next page	Next page	Halaman berikutnya
 Band %d	Band %d	Band %d
@@ -979,6 +991,8 @@ Nothing to upload	Nothing to upload	Tidak ada yang diunggah
 Uploading scrobbles	Uploading scrobbles	Mengunggah scrobble
 Already uploading	Already uploading	Sedang mengunggah
 Upload failed	Upload failed	Unggahan gagal
+Sleep Timer: %d min	Sleep Timer: %d min	Timer tidur: %d mnt
+Sleep Timer: %d:%02d	Sleep Timer: %d:%02d	Timer tidur: %d:%02d
 Connect to Wi-Fi first	Connect to Wi-Fi first	Sambungkan ke Wi-Fi dulu
 Waiting for Spotify	Waiting for Spotify	Menunggu Spotify
 Spotify isn't on the card	Spotify isn't on the card	Spotify tidak ada di kartu
