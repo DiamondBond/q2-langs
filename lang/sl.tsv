@@ -586,6 +586,7 @@ Wednesday	Wednesday	sreda
 Thursday	Thursday	četrtek
 Friday	Friday	petek
 Saturday	Saturday	sobota
+MD	MD	DM
 %u of %u	%u of %u	%u od %u
 slide to unlock	slide to unlock	Povlecite za odklep
 Release to search	Release to search	Spustite za iskanje
@@ -647,14 +648,16 @@ Receive Audio	Receive Audio	Sprejemaj zvok
 Log Failed Artwork	Log Failed Artwork	Beleži napake ovitkov
 Hide Duplicate Albums	Hide Duplicate Albums	Skrij podvojene albume
 Hide Duplicate Songs	Hide Duplicate Songs	Skrij podvojene skladbe
-Show Sample Rate	Show Sample Rate	Pokaži vzorčno frekvenco
+Show Sample Rate	Show Sample Rate	Vzorčna frekvenca
 Layout: Default	Layout: Default	Postavitev: Standardna
 Layout: At a Glance	Layout: At a Glance	Postavitev: Pregled
 Background: Cover Colour	Background: Cover Colour	Ozadje: Barva ovitka
 Background: Plain	Background: Plain	Ozadje: Preprosto
 Background: Blurred Cover	Background: Blurred Cover	Ozadje: Zamegljeno
+Classic Slider	Classic Slider	Klasični drsnik
 Shine	Shine	Sijaj
 Return Unlocks	Return Unlocks	Nazaj odklepa
+Wheel Unlocks	Wheel Unlocks	Kolesce odklepa
 Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	Cover Flow bo ovitke naslednjič zgradil znova
 Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	Za uveljavitev izklopite in vklopite Bluetooth
 Folder Root: %s	Folder Root: %s	Koren map: %s

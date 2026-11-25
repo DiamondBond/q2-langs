@@ -586,6 +586,7 @@ Wednesday	Wednesday	середа
 Thursday	Thursday	четвер
 Friday	Friday	п'ятниця
 Saturday	Saturday	субота
+MD	MD	DM
 %u of %u	%u of %u	%u з %u
 slide to unlock	slide to unlock	Розблокуйте
 Release to search	Release to search	Відпустіть для пошуку
@@ -647,14 +648,16 @@ Receive Audio	Receive Audio	Приймати звук
 Log Failed Artwork	Log Failed Artwork	Журнал збоїв обкладинок
 Hide Duplicate Albums	Hide Duplicate Albums	Сховати дублікати альбомів
 Hide Duplicate Songs	Hide Duplicate Songs	Сховати дублікати пісень
-Show Sample Rate	Show Sample Rate	Показувати частоту дискретизації
+Show Sample Rate	Show Sample Rate	Частота дискретизації
 Layout: Default	Layout: Default	Макет: Стандартний
 Layout: At a Glance	Layout: At a Glance	Макет: Огляд
 Background: Cover Colour	Background: Cover Colour	Фон: Колір обкладинки
 Background: Plain	Background: Plain	Фон: Простий
 Background: Blurred Cover	Background: Blurred Cover	Фон: Розмитий
+Classic Slider	Classic Slider	Класичний повзунок
 Shine	Shine	Блиск
 Return Unlocks	Return Unlocks	«Назад» розблокує
+Wheel Unlocks	Wheel Unlocks	Колесо розблокує
 Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	Cover Flow оновить обкладинки наступного разу
 Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	Вимкніть і ввімкніть Bluetooth, щоб застосувати
 Folder Root: %s	Folder Root: %s	Корінь папок: %s

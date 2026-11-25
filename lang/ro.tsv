@@ -586,6 +586,7 @@ Wednesday	Wednesday	miercuri
 Thursday	Thursday	joi
 Friday	Friday	vineri
 Saturday	Saturday	sâmbătă
+MD	MD	DM
 %u of %u	%u of %u	%u din %u
 slide to unlock	slide to unlock	Glisaţi pentru a debloca
 Release to search	Release to search	Eliberaţi pentru a căuta
@@ -647,14 +648,16 @@ Receive Audio	Receive Audio	Primeşte audio
 Log Failed Artwork	Log Failed Artwork	Jurnal copertelor eşuate
 Hide Duplicate Albums	Hide Duplicate Albums	Ascunde albumele duplicate
 Hide Duplicate Songs	Hide Duplicate Songs	Ascunde melodiile duplicate
-Show Sample Rate	Show Sample Rate	Afişează rata de eşantionare
+Show Sample Rate	Show Sample Rate	Rată de eşantionare
 Layout: Default	Layout: Default	Aspect: Standard
 Layout: At a Glance	Layout: At a Glance	Aspect: Panoramă
 Background: Cover Colour	Background: Cover Colour	Fundal: Culoare copertă
 Background: Plain	Background: Plain	Fundal: Simplu
 Background: Blurred Cover	Background: Blurred Cover	Fundal: Estompat
+Classic Slider	Classic Slider	Glisor clasic
 Shine	Shine	Strălucire
 Return Unlocks	Return Unlocks	Deblochează cu Înapoi
+Wheel Unlocks	Wheel Unlocks	Deblochează cu rotiţa
 Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	Cover Flow reface copertele data viitoare
 Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	Opriţi şi reporniţi Bluetooth pentru a aplica
 Folder Root: %s	Folder Root: %s	Rădăcină dosare: %s

@@ -586,6 +586,7 @@ Wednesday	Wednesday	mercredi
 Thursday	Thursday	jeudi
 Friday	Friday	vendredi
 Saturday	Saturday	samedi
+MD	MD	DM
 %u of %u	%u of %u	%u sur %u
 slide to unlock	slide to unlock	Glisser pour déverrouiller
 Release to search	Release to search	Relâchez pour chercher
@@ -647,14 +648,16 @@ Receive Audio	Receive Audio	Recevoir l'audio
 Log Failed Artwork	Log Failed Artwork	Journal des pochettes en échec
 Hide Duplicate Albums	Hide Duplicate Albums	Masquer les albums en double
 Hide Duplicate Songs	Hide Duplicate Songs	Masquer les morceaux en double
-Show Sample Rate	Show Sample Rate	Afficher la fréquence d'échantillonnage
+Show Sample Rate	Show Sample Rate	Taux d'échantillonnage
 Layout: Default	Layout: Default	Disposition: Standard
 Layout: At a Glance	Layout: At a Glance	Disposition: Aperçu
 Background: Cover Colour	Background: Cover Colour	Fond: Couleur pochette
 Background: Plain	Background: Plain	Fond: Uni
 Background: Blurred Cover	Background: Blurred Cover	Fond: Pochette floue
+Classic Slider	Classic Slider	Curseur classique
 Shine	Shine	Reflet
 Return Unlocks	Return Unlocks	Déverrouiller avec Retour
+Wheel Unlocks	Wheel Unlocks	Déverrouiller avec la molette
 Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	Cover Flow recréera les pochettes ensuite
 Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	Éteignez puis rallumez le Bluetooth pour appliquer
 Folder Root: %s	Folder Root: %s	Racine des dossiers: %s

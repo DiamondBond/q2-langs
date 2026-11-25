@@ -586,6 +586,7 @@ Wednesday	Wednesday	keskiviikko
 Thursday	Thursday	torstai
 Friday	Friday	perjantai
 Saturday	Saturday	lauantai
+MD	MD	DM
 %u of %u	%u of %u	%u / %u
 slide to unlock	slide to unlock	liu'uta avataksesi
 Release to search	Release to search	Vapauta hakua varten
@@ -647,14 +648,16 @@ Receive Audio	Receive Audio	Vastaanota ääntä
 Log Failed Artwork	Log Failed Artwork	Kirjaa kansikuvavirheet
 Hide Duplicate Albums	Hide Duplicate Albums	Piilota päällekkäiset albumit
 Hide Duplicate Songs	Hide Duplicate Songs	Piilota päällekkäiset kappaleet
-Show Sample Rate	Show Sample Rate	Näytä näytteenottotaajuus
+Show Sample Rate	Show Sample Rate	Näytteenottotaajuus
 Layout: Default	Layout: Default	Asettelu: Oletus
 Layout: At a Glance	Layout: At a Glance	Asettelu: Yleisnäkymä
 Background: Cover Colour	Background: Cover Colour	Tausta: Kannen väri
 Background: Plain	Background: Plain	Tausta: Tasainen
 Background: Blurred Cover	Background: Blurred Cover	Tausta: Sumea kansi
+Classic Slider	Classic Slider	Klassinen liukusäädin
 Shine	Shine	Kiilto
 Return Unlocks	Return Unlocks	Paluu avaa lukituksen
+Wheel Unlocks	Wheel Unlocks	Kiekko avaa lukituksen
 Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	Cover Flow rakentaa kansikuvat uudelleen ensi kerralla
 Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	Ota käyttöön kytkemällä Bluetooth pois ja päälle
 Folder Root: %s	Folder Root: %s	Kansion juuri: %s

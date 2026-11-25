@@ -586,6 +586,7 @@ Wednesday	Wednesday	szerda
 Thursday	Thursday	csütörtök
 Friday	Friday	péntek
 Saturday	Saturday	szombat
+MD	MD	MD
 %u of %u	%u of %u	%u / %u
 slide to unlock	slide to unlock	csúsztassa a feloldáshoz
 Release to search	Release to search	Engedje el a kereséshez
@@ -647,14 +648,16 @@ Receive Audio	Receive Audio	Hang fogadása
 Log Failed Artwork	Log Failed Artwork	Borítóhibák naplózása
 Hide Duplicate Albums	Hide Duplicate Albums	Ismétlődő albumok elrejtése
 Hide Duplicate Songs	Hide Duplicate Songs	Ismétlődő dalok elrejtése
-Show Sample Rate	Show Sample Rate	Mintavételi frekvencia megjelenítése
+Show Sample Rate	Show Sample Rate	Mintavételi frekvencia
 Layout: Default	Layout: Default	Elrendezés: Alap
 Layout: At a Glance	Layout: At a Glance	Elrendezés: Áttekintés
 Background: Cover Colour	Background: Cover Colour	Háttér: Borítószín
 Background: Plain	Background: Plain	Háttér: Egyszerű
 Background: Blurred Cover	Background: Blurred Cover	Háttér: Elmosódott
+Classic Slider	Classic Slider	Klasszikus csúszka
 Shine	Shine	Csillogás
 Return Unlocks	Return Unlocks	Vissza feloldja a zárat
+Wheel Unlocks	Wheel Unlocks	Tárcsa feloldja a zárat
 Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	A Cover Flow legközelebb újraépíti a borítókat
 Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	A módosításhoz kapcsolja ki, majd be a Bluetooth funkciót
 Folder Root: %s	Folder Root: %s	Gyökérmappa: %s

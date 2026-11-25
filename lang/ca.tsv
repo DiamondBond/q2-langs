@@ -586,6 +586,7 @@ Wednesday	Wednesday	dimecres
 Thursday	Thursday	dijous
 Friday	Friday	divendres
 Saturday	Saturday	dissabte
+MD	MD	DM
 %u of %u	%u of %u	%u de %u
 slide to unlock	slide to unlock	llisca per desbloquejar
 Release to search	Release to search	Deixa anar per cercar
@@ -647,14 +648,16 @@ Receive Audio	Receive Audio	Rep àudio
 Log Failed Artwork	Log Failed Artwork	Registra les cobertes fallides
 Hide Duplicate Albums	Hide Duplicate Albums	Amaga els àlbums duplicats
 Hide Duplicate Songs	Hide Duplicate Songs	Amaga les cançons duplicades
-Show Sample Rate	Show Sample Rate	Mostra la freqüència de mostreig
+Show Sample Rate	Show Sample Rate	Taxa de mostreig
 Layout: Default	Layout: Default	Disposició: Estàndard
 Layout: At a Glance	Layout: At a Glance	Disposició: D'un cop d'ull
 Background: Cover Colour	Background: Cover Colour	Fons: Color de coberta
 Background: Plain	Background: Plain	Fons: Pla
 Background: Blurred Cover	Background: Blurred Cover	Fons: Desenfocat
+Classic Slider	Classic Slider	Lliscador clàssic
 Shine	Shine	Reflex
 Return Unlocks	Return Unlocks	Enrere desbloqueja
+Wheel Unlocks	Wheel Unlocks	Roda desbloqueja
 Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	Cover Flow tornarà a fer les cobertes la propera vegada
 Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	Apaga i encén el Bluetooth per aplicar-ho
 Folder Root: %s	Folder Root: %s	Carpeta arrel: %s

@@ -586,6 +586,7 @@ Wednesday	Wednesday	onsdag
 Thursday	Thursday	torsdag
 Friday	Friday	fredag
 Saturday	Saturday	lördag
+MD	MD	DM
 %u of %u	%u of %u	%u av %u
 slide to unlock	slide to unlock	Dra för att låsa upp
 Release to search	Release to search	Släpp för att söka
@@ -647,14 +648,16 @@ Receive Audio	Receive Audio	Ta emot ljud
 Log Failed Artwork	Log Failed Artwork	Logga misslyckade omslag
 Hide Duplicate Albums	Hide Duplicate Albums	Dölj dubbletter av album
 Hide Duplicate Songs	Hide Duplicate Songs	Dölj dubbletter av låtar
-Show Sample Rate	Show Sample Rate	Visa samplingsfrekvens
+Show Sample Rate	Show Sample Rate	Samplingsfrekvens
 Layout: Default	Layout: Default	Upplägg: Standard
 Layout: At a Glance	Layout: At a Glance	Upplägg: Översikt
 Background: Cover Colour	Background: Cover Colour	Bakgrund: Omslagsfärg
 Background: Plain	Background: Plain	Bakgrund: Enkel
 Background: Blurred Cover	Background: Blurred Cover	Bakgrund: Suddig
+Classic Slider	Classic Slider	Classic-reglage
 Shine	Shine	Glans
 Return Unlocks	Return Unlocks	Tillbaka låser upp
+Wheel Unlocks	Wheel Unlocks	Hjul låser upp
 Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	Cover Flow bygger om omslagen nästa gång
 Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	Stäng av och slå på Bluetooth för att tillämpa
 Folder Root: %s	Folder Root: %s	Rotmapp: %s

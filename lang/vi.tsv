@@ -586,6 +586,7 @@ Wednesday	Wednesday	Thứ Tư
 Thursday	Thursday	Thứ Năm
 Friday	Friday	Thứ Sáu
 Saturday	Saturday	Thứ Bảy
+MD	MD	DM
 %u of %u	%u of %u	%u trên %u
 slide to unlock	slide to unlock	Trượt để mở khóa
 Release to search	Release to search	Thả để tìm kiếm
@@ -653,8 +654,10 @@ Layout: At a Glance	Layout: At a Glance	Bố cục: Tổng quan
 Background: Cover Colour	Background: Cover Colour	Nền: Màu từ bìa
 Background: Plain	Background: Plain	Nền: Trơn
 Background: Blurred Cover	Background: Blurred Cover	Nền: Ảnh bìa mờ
+Classic Slider	Classic Slider	Thanh trượt Classic
 Shine	Shine	Ánh lóe
 Return Unlocks	Return Unlocks	Nút Quay lại mở khóa
+Wheel Unlocks	Wheel Unlocks	Vòng xoay mở khóa
 Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	Lần sau Cover Flow sẽ tạo lại ảnh bìa
 Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	Tắt rồi bật lại Bluetooth để áp dụng
 Folder Root: %s	Folder Root: %s	Gốc thư mục: %s

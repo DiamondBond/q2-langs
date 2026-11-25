@@ -585,6 +585,7 @@ Wednesday	Wednesday	lock_glance.c
 Thursday	Thursday	lock_glance.c
 Friday	Friday	lock_glance.c
 Saturday	Saturday	lock_glance.c
+MD	MD	lock_glance.c
 %u of %u	%u of %u	lock_glance.c
 slide to unlock	slide to unlock	lock_glance.c
 Release to search	Release to search	navigation.c
@@ -652,8 +653,10 @@ Layout: At a Glance	Layout: At a Glance	navigation.c
 Background: Cover Colour	Background: Cover Colour	navigation.c
 Background: Plain	Background: Plain	navigation.c
 Background: Blurred Cover	Background: Blurred Cover	navigation.c
+Classic Slider	Classic Slider	navigation.c
 Shine	Shine	navigation.c
 Return Unlocks	Return Unlocks	navigation.c
+Wheel Unlocks	Wheel Unlocks	navigation.c
 Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	navigation.c
 Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	navigation.c
 Folder Root: %s	Folder Root: %s	navigation.c

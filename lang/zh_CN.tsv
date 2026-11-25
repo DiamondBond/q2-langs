@@ -586,6 +586,7 @@ Wednesday	Wednesday	星期三
 Thursday	Thursday	星期四
 Friday	Friday	星期五
 Saturday	Saturday	星期六
+MD	MD	MD
 %u of %u	%u of %u	%u / %u
 slide to unlock	slide to unlock	滑动来解锁
 Release to search	Release to search	松开开始搜索
@@ -653,8 +654,10 @@ Layout: At a Glance	Layout: At a Glance	布局: 概览
 Background: Cover Colour	Background: Cover Colour	背景: 封面颜色
 Background: Plain	Background: Plain	背景: 普通
 Background: Blurred Cover	Background: Blurred Cover	背景: 模糊封面
+Classic Slider	Classic Slider	经典滑块
 Shine	Shine	流光
 Return Unlocks	Return Unlocks	返回键解锁
+Wheel Unlocks	Wheel Unlocks	转盘解锁
 Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	Cover Flow 将在下次重建封面
 Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	请关闭再打开蓝牙以生效
 Folder Root: %s	Folder Root: %s	文件夹根目录: %s

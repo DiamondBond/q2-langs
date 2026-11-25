@@ -586,6 +586,7 @@ Wednesday	Wednesday	수요일
 Thursday	Thursday	목요일
 Friday	Friday	금요일
 Saturday	Saturday	토요일
+MD	MD	MD
 %u of %u	%u of %u	%u / %u
 slide to unlock	slide to unlock	밀어서 잠금해제
 Release to search	Release to search	놓으면 검색
@@ -653,8 +654,10 @@ Layout: At a Glance	Layout: At a Glance	레이아웃: 한눈에 보기
 Background: Cover Colour	Background: Cover Colour	배경: 커버 색상
 Background: Plain	Background: Plain	배경: 민무늬
 Background: Blurred Cover	Background: Blurred Cover	배경: 흐린 커버
+Classic Slider	Classic Slider	클래식 슬라이더
 Shine	Shine	반짝임
 Return Unlocks	Return Unlocks	뒤로 버튼으로 잠금 해제
+Wheel Unlocks	Wheel Unlocks	휠로 잠금 해제
 Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	다음에 Cover Flow가 아트워크를 다시 만듭니다
 Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	블루투스를 껐다 켜면 적용됩니다
 Folder Root: %s	Folder Root: %s	폴더 루트: %s

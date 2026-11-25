@@ -586,6 +586,7 @@ Wednesday	Wednesday	Mittwoch
 Thursday	Thursday	Donnerstag
 Friday	Friday	Freitag
 Saturday	Saturday	Samstag
+MD	MD	DM
 %u of %u	%u of %u	%u von %u
 slide to unlock	slide to unlock	Entsperren
 Release to search	Release to search	Zum Suchen loslassen
@@ -653,8 +654,10 @@ Layout: At a Glance	Layout: At a Glance	Anordnung: Übersicht
 Background: Cover Colour	Background: Cover Colour	Hintergrund: Coverfarbe
 Background: Plain	Background: Plain	Hintergrund: Schlicht
 Background: Blurred Cover	Background: Blurred Cover	Hintergrund: Unscharf
+Classic Slider	Classic Slider	Classic-Schieberegler
 Shine	Shine	Glanz
 Return Unlocks	Return Unlocks	Entsperren mit Zurück
+Wheel Unlocks	Wheel Unlocks	Entsperren mit Rad
 Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	Cover Flow baut die Cover beim nächsten Mal neu auf
 Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	Zum Anwenden Bluetooth aus- und einschalten
 Folder Root: %s	Folder Root: %s	Stammordner: %s

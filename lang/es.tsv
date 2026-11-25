@@ -586,6 +586,7 @@ Wednesday	Wednesday	miércoles
 Thursday	Thursday	jueves
 Friday	Friday	viernes
 Saturday	Saturday	sábado
+MD	MD	DM
 %u of %u	%u of %u	%u de %u
 slide to unlock	slide to unlock	desliza para desbloquear
 Release to search	Release to search	Suelta para buscar
@@ -647,14 +648,16 @@ Receive Audio	Receive Audio	Recibir audio
 Log Failed Artwork	Log Failed Artwork	Registrar portadas fallidas
 Hide Duplicate Albums	Hide Duplicate Albums	Ocultar álbumes duplicados
 Hide Duplicate Songs	Hide Duplicate Songs	Ocultar canciones duplicadas
-Show Sample Rate	Show Sample Rate	Mostrar frecuencia de muestreo
+Show Sample Rate	Show Sample Rate	Tasa de muestreo
 Layout: Default	Layout: Default	Disposición: Estándar
 Layout: At a Glance	Layout: At a Glance	Disposición: Vista general
 Background: Cover Colour	Background: Cover Colour	Fondo: Color de portada
 Background: Plain	Background: Plain	Fondo: Liso
 Background: Blurred Cover	Background: Blurred Cover	Fondo: Desenfocado
+Classic Slider	Classic Slider	Control deslizante clásico
 Shine	Shine	Destello
 Return Unlocks	Return Unlocks	Desbloquear con Atrás
+Wheel Unlocks	Wheel Unlocks	Desbloquear con la rueda
 Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	Cover Flow rehará las portadas la próxima vez
 Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	Apaga y enciende Bluetooth para aplicar
 Folder Root: %s	Folder Root: %s	Carpeta raíz: %s

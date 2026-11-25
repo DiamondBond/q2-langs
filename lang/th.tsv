@@ -586,6 +586,7 @@ Wednesday	Wednesday	วันพุธ
 Thursday	Thursday	วันพฤหัสบดี
 Friday	Friday	วันศุกร์
 Saturday	Saturday	วันเสาร์
+MD	MD	DM
 %u of %u	%u of %u	%u จาก %u
 slide to unlock	slide to unlock	เลื่อนเพื่อปลดล็อก
 Release to search	Release to search	ปล่อยเพื่อค้นหา
@@ -653,8 +654,10 @@ Layout: At a Glance	Layout: At a Glance	การจัดวาง: ภาพ�
 Background: Cover Colour	Background: Cover Colour	พื้นหลัง: สีจากปก
 Background: Plain	Background: Plain	พื้นหลัง: ธรรมดา
 Background: Blurred Cover	Background: Blurred Cover	พื้นหลัง: ปกเบลอ
+Classic Slider	Classic Slider	ตัวเลื่อนคลาสสิก
 Shine	Shine	ประกายแสง
 Return Unlocks	Return Unlocks	ปุ่มกลับปลดล็อก
+Wheel Unlocks	Wheel Unlocks	วงล้อปลดล็อก
 Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	Cover Flow จะสร้างภาพปกใหม่ครั้งถัดไป
 Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	ปิดแล้วเปิด Bluetooth ใหม่เพื่อใช้งาน
 Folder Root: %s	Folder Root: %s	โฟลเดอร์ราก: %s

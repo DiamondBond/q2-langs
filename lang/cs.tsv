@@ -586,6 +586,7 @@ Wednesday	Wednesday	středa
 Thursday	Thursday	čtvrtek
 Friday	Friday	pátek
 Saturday	Saturday	sobota
+MD	MD	DM
 %u of %u	%u of %u	%u z %u
 slide to unlock	slide to unlock	Posunutím odemknete
 Release to search	Release to search	Uvolněte a hledejte
@@ -647,14 +648,16 @@ Receive Audio	Receive Audio	Přijímat zvuk
 Log Failed Artwork	Log Failed Artwork	Protokolovat chyby obalů
 Hide Duplicate Albums	Hide Duplicate Albums	Skrýt duplicitní alba
 Hide Duplicate Songs	Hide Duplicate Songs	Skrýt duplicitní skladby
-Show Sample Rate	Show Sample Rate	Zobrazit vzorkovací frekvenci
+Show Sample Rate	Show Sample Rate	Vzorkovací frekvence
 Layout: Default	Layout: Default	Rozvržení: Standardní
 Layout: At a Glance	Layout: At a Glance	Rozvržení: Přehled
 Background: Cover Colour	Background: Cover Colour	Pozadí: Barva obalu
 Background: Plain	Background: Plain	Pozadí: Prosté
 Background: Blurred Cover	Background: Blurred Cover	Pozadí: Rozmazané
+Classic Slider	Classic Slider	Klasický posuvník
 Shine	Shine	Lesk
 Return Unlocks	Return Unlocks	Zpět odemyká
+Wheel Unlocks	Wheel Unlocks	Kolečko odemyká
 Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	Cover Flow příště obaly sestaví znovu
 Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	Použijete vypnutím a zapnutím Bluetooth
 Folder Root: %s	Folder Root: %s	Kořenová složka: %s

@@ -586,6 +586,7 @@ Wednesday	Wednesday	onsdag
 Thursday	Thursday	torsdag
 Friday	Friday	fredag
 Saturday	Saturday	lørdag
+MD	MD	DM
 %u of %u	%u of %u	%u av %u
 slide to unlock	slide to unlock	Skyv for å låse opp
 Release to search	Release to search	Slipp for å søke
@@ -653,8 +654,10 @@ Layout: At a Glance	Layout: At a Glance	Oppsett: Oversikt
 Background: Cover Colour	Background: Cover Colour	Bakgrunn: Omslagsfarge
 Background: Plain	Background: Plain	Bakgrunn: Enkel
 Background: Blurred Cover	Background: Blurred Cover	Bakgrunn: Sløret omslag
+Classic Slider	Classic Slider	Klassisk skyveknapp
 Shine	Shine	Glans
 Return Unlocks	Return Unlocks	Tilbake låser opp
+Wheel Unlocks	Wheel Unlocks	Hjul låser opp
 Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	Cover Flow bygger omslagene på nytt neste gang
 Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	Slå Bluetooth av og på for å bruke
 Folder Root: %s	Folder Root: %s	Mapperot: %s

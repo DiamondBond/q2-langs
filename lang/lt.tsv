@@ -586,6 +586,7 @@ Wednesday	Wednesday	trečiadienis
 Thursday	Thursday	ketvirtadienis
 Friday	Friday	penktadienis
 Saturday	Saturday	šeštadienis
+MD	MD	MD
 %u of %u	%u of %u	%u iš %u
 slide to unlock	slide to unlock	Atrakinkite
 Release to search	Release to search	Atleiskite, kad ieškotumėte
@@ -647,14 +648,16 @@ Receive Audio	Receive Audio	Priimti garsą
 Log Failed Artwork	Log Failed Artwork	Registruoti viršelių klaidas
 Hide Duplicate Albums	Hide Duplicate Albums	Slėpti pasikartojančius albumus
 Hide Duplicate Songs	Hide Duplicate Songs	Slėpti pasikartojančias dainas
-Show Sample Rate	Show Sample Rate	Rodyti diskretizavimo dažnį
+Show Sample Rate	Show Sample Rate	Diskretizavimo dažnis
 Layout: Default	Layout: Default	Išdėstymas: numatytasis
 Layout: At a Glance	Layout: At a Glance	Išdėstymas: apžvalga
 Background: Cover Colour	Background: Cover Colour	Fonas: viršelio spalva
 Background: Plain	Background: Plain	Fonas: paprastas
 Background: Blurred Cover	Background: Blurred Cover	Fonas: neryškus
+Classic Slider	Classic Slider	Klasikinis slankiklis
 Shine	Shine	Blizgesys
 Return Unlocks	Return Unlocks	„Atgal“ atrakina
+Wheel Unlocks	Wheel Unlocks	Ratukas atrakina
 Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	Cover Flow viršelius sukurs iš naujo kitą kartą
 Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	Išjunkite ir vėl įjunkite Bluetooth, kad pritaikytumėte
 Folder Root: %s	Folder Root: %s	Aplankų šaknis: %s

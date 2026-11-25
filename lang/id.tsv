@@ -586,6 +586,7 @@ Wednesday	Wednesday	Rabu
 Thursday	Thursday	Kamis
 Friday	Friday	Jumat
 Saturday	Saturday	Sabtu
+MD	MD	DM
 %u of %u	%u of %u	%u dari %u
 slide to unlock	slide to unlock	Geser untuk buka kunci
 Release to search	Release to search	Lepas untuk mencari
@@ -653,8 +654,10 @@ Layout: At a Glance	Layout: At a Glance	Tata letak: Sekilas
 Background: Cover Colour	Background: Cover Colour	Latar: Warna sampul
 Background: Plain	Background: Plain	Latar: Polos
 Background: Blurred Cover	Background: Blurred Cover	Latar: Sampul buram
+Classic Slider	Classic Slider	Penggeser Classic
 Shine	Shine	Kilau
 Return Unlocks	Return Unlocks	Tombol Kembali buka kunci
+Wheel Unlocks	Wheel Unlocks	Roda buka kunci
 Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	Cover Flow akan membuat ulang sampul lain kali
 Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	Matikan lalu nyalakan Bluetooth untuk menerapkan
 Folder Root: %s	Folder Root: %s	Folder utama: %s

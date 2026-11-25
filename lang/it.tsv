@@ -586,6 +586,7 @@ Wednesday	Wednesday	mercoledì
 Thursday	Thursday	giovedì
 Friday	Friday	venerdì
 Saturday	Saturday	sabato
+MD	MD	DM
 %u of %u	%u of %u	%u di %u
 slide to unlock	slide to unlock	Scorri per sbloccare
 Release to search	Release to search	Rilascia per cercare
@@ -647,14 +648,16 @@ Receive Audio	Receive Audio	Ricevi audio
 Log Failed Artwork	Log Failed Artwork	Registra errori copertine
 Hide Duplicate Albums	Hide Duplicate Albums	Nascondi album duplicati
 Hide Duplicate Songs	Hide Duplicate Songs	Nascondi brani duplicati
-Show Sample Rate	Show Sample Rate	Mostra campionamento
+Show Sample Rate	Show Sample Rate	Campionamento
 Layout: Default	Layout: Default	Disposizione: Standard
 Layout: At a Glance	Layout: At a Glance	Disposizione: Panoramica
 Background: Cover Colour	Background: Cover Colour	Sfondo: Colore copertina
 Background: Plain	Background: Plain	Sfondo: Semplice
 Background: Blurred Cover	Background: Blurred Cover	Sfondo: Sfocato
+Classic Slider	Classic Slider	Cursore classico
 Shine	Shine	Bagliore
 Return Unlocks	Return Unlocks	Sblocca con Indietro
+Wheel Unlocks	Wheel Unlocks	Sblocca con la ghiera
 Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	Cover Flow ricrea le copertine la prossima volta
 Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	Spegni e riaccendi il Bluetooth per applicare
 Folder Root: %s	Folder Root: %s	Cartella radice: %s

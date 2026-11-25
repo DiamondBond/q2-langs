@@ -586,6 +586,7 @@ Wednesday	Wednesday	woensdag
 Thursday	Thursday	donderdag
 Friday	Friday	vrijdag
 Saturday	Saturday	zaterdag
+MD	MD	DM
 %u of %u	%u of %u	%u van %u
 slide to unlock	slide to unlock	Ontgrendel
 Release to search	Release to search	Laat los om te zoeken
@@ -647,14 +648,16 @@ Receive Audio	Receive Audio	Audio ontvangen
 Log Failed Artwork	Log Failed Artwork	Mislukte hoezen loggen
 Hide Duplicate Albums	Hide Duplicate Albums	Dubbele albums verbergen
 Hide Duplicate Songs	Hide Duplicate Songs	Dubbele nummers verbergen
-Show Sample Rate	Show Sample Rate	Samplefrequentie tonen
+Show Sample Rate	Show Sample Rate	Samplefrequentie
 Layout: Default	Layout: Default	Indeling: Standaard
 Layout: At a Glance	Layout: At a Glance	Indeling: Overzicht
 Background: Cover Colour	Background: Cover Colour	Achtergrond: Hoeskleur
 Background: Plain	Background: Plain	Achtergrond: Effen
 Background: Blurred Cover	Background: Blurred Cover	Achtergrond: Vervaagd
+Classic Slider	Classic Slider	Classic-schuifregelaar
 Shine	Shine	Glans
 Return Unlocks	Return Unlocks	Terug ontgrendelt
+Wheel Unlocks	Wheel Unlocks	Wiel ontgrendelt
 Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	Cover Flow bouwt de hoezen de volgende keer opnieuw op
 Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	Zet Bluetooth uit en weer aan om toe te passen
 Folder Root: %s	Folder Root: %s	Hoofdmap: %s
