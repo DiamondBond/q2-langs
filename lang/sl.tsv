@@ -701,6 +701,7 @@ Unknown	Unknown	Neznano
 Appearance	Appearance	Videz
 Controls	Controls	Upravljanje
 Theme	Theme	Tema
+Hide	Hide	Skrij
 Boot to: Rockbox	Boot to: Rockbox	Zaženi v: Rockbox
 Boot to: Q2 Pod	Boot to: Q2 Pod	Zaženi v: Q2 Pod
 Rockbox is not on the card	Rockbox is not on the card	Rockbox ni na kartici
@@ -1072,6 +1073,11 @@ Search Spotify	Search Spotify	Išči v Spotify
 Select Tracks	Select Tracks	Izberi skladbe
 Select at least one item	Select at least one item	Izberite vsaj eno postavko
 Selection full. Remove these first	Selection full. Remove these first	Izbor je poln. Najprej odstranite te
+Charge Limit is not enforced while the Q2 is off.	Charge Limit is not enforced while the Q2 is off.	Omejitev polnjenja ne deluje, ko je Q2 izklopljena.
+Enable Auto-shutdown?	Enable Auto-shutdown?	Vklopim samodejni izklop?
+Standby may leave the Q2 unresponsive.	Standby may leave the Q2 unresponsive.	Pripravljenost lahko povzroči, da se Q2 ne odziva.
+Use Auto-shutdown instead. Enable Standby?	Use Auto-shutdown instead. Enable Standby?	Raje uporabite samodejni izklop. Vklopim pripravljenost?
+Accept	Accept	Vklopi
 Boot logo must be a 320x375 JPEG	Boot logo must be a 320x375 JPEG	Zagonski logotip mora biti JPEG 320x375
 Could not save boot logo	Could not save boot logo	Zagonskega logotipa ni bilo mogoče shraniti
 Accent: Graphite	Accent: Graphite	Naglasna barva: Grafit

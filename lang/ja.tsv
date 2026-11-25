@@ -701,6 +701,7 @@ Unknown	Unknown	不明
 Appearance	Appearance	外観
 Controls	Controls	操作
 Theme	Theme	テーマ
+Hide	Hide	非表示
 Boot to: Rockbox	Boot to: Rockbox	起動先: Rockbox
 Boot to: Q2 Pod	Boot to: Q2 Pod	起動先: Q2 Pod
 Rockbox is not on the card	Rockbox is not on the card	Rockboxがカードにありません
@@ -1072,6 +1073,11 @@ Search Spotify	Search Spotify	Spotifyを検索
 Select Tracks	Select Tracks	トラックを選択
 Select at least one item	Select at least one item	1つ以上選択してください
 Selection full. Remove these first	Selection full. Remove these first	選択がいっぱいです。先にこれらを削除してください
+Charge Limit is not enforced while the Q2 is off.	Charge Limit is not enforced while the Q2 is off.	Q2がオフ中は充電上限が効きません
+Enable Auto-shutdown?	Enable Auto-shutdown?	自動シャットダウンを有効にしますか？
+Standby may leave the Q2 unresponsive.	Standby may leave the Q2 unresponsive.	スタンバイで固まることがあります
+Use Auto-shutdown instead. Enable Standby?	Use Auto-shutdown instead. Enable Standby?	自動シャットダウンをおすすめします。スタンバイを有効にしますか？
+Accept	Accept	有効にする
 Boot logo must be a 320x375 JPEG	Boot logo must be a 320x375 JPEG	起動ロゴは320x375のJPEGにしてください
 Could not save boot logo	Could not save boot logo	起動ロゴを保存できませんでした
 Accent: Graphite	Accent: Graphite	アクセント: グラファイト

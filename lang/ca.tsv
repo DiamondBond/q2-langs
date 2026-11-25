@@ -701,6 +701,7 @@ Unknown	Unknown	Desconegut
 Appearance	Appearance	Aparença
 Controls	Controls	Controls
 Theme	Theme	Tema
+Hide	Hide	Amaga
 Boot to: Rockbox	Boot to: Rockbox	Arrenca a: Rockbox
 Boot to: Q2 Pod	Boot to: Q2 Pod	Arrenca a: Q2 Pod
 Rockbox is not on the card	Rockbox is not on the card	Rockbox no és a la targeta
@@ -1072,6 +1073,11 @@ Search Spotify	Search Spotify	Cerca a Spotify
 Select Tracks	Select Tracks	Selecciona pistes
 Select at least one item	Select at least one item	Selecciona almenys un element
 Selection full. Remove these first	Selection full. Remove these first	Selecció plena. Treu-ne primer aquests
+Charge Limit is not enforced while the Q2 is off.	Charge Limit is not enforced while the Q2 is off.	El límit de càrrega no s'aplica mentre la Q2 està apagada.
+Enable Auto-shutdown?	Enable Auto-shutdown?	Vols activar l'apagada automàtica?
+Standby may leave the Q2 unresponsive.	Standby may leave the Q2 unresponsive.	El mode d'espera pot deixar la Q2 sense resposta.
+Use Auto-shutdown instead. Enable Standby?	Use Auto-shutdown instead. Enable Standby?	Millor l'apagada automàtica. Vols activar el mode d'espera?
+Accept	Accept	Accepta
 Boot logo must be a 320x375 JPEG	Boot logo must be a 320x375 JPEG	El logotip d'arrencada ha de ser un JPEG de 320x375
 Could not save boot logo	Could not save boot logo	No s'ha pogut desar el logotip d'arrencada
 Accent: Graphite	Accent: Graphite	Accent: Grafit

@@ -701,6 +701,7 @@ Unknown	Unknown	Ismeretlen
 Appearance	Appearance	Megjelenés
 Controls	Controls	Vezérlés
 Theme	Theme	Téma
+Hide	Hide	Elrejtés
 Boot to: Rockbox	Boot to: Rockbox	Indítás: Rockbox
 Boot to: Q2 Pod	Boot to: Q2 Pod	Indítás: Q2 Pod
 Rockbox is not on the card	Rockbox is not on the card	A Rockbox nincs a kártyán
@@ -1072,6 +1073,11 @@ Search Spotify	Search Spotify	Keresés a Spotifyban
 Select Tracks	Select Tracks	Számok kijelölése
 Select at least one item	Select at least one item	Jelöljön ki legalább egy elemet
 Selection full. Remove these first	Selection full. Remove these first	A kijelölés megtelt. Előbb távolítsa el ezeket
+Charge Limit is not enforced while the Q2 is off.	Charge Limit is not enforced while the Q2 is off.	Kikapcsolt Q2 esetén a töltési korlát nem érvényesül.
+Enable Auto-shutdown?	Enable Auto-shutdown?	Engedélyezi az automatikus kikapcsolást?
+Standby may leave the Q2 unresponsive.	Standby may leave the Q2 unresponsive.	A készenlét után a Q2 lefagyhat.
+Use Auto-shutdown instead. Enable Standby?	Use Auto-shutdown instead. Enable Standby?	Használja inkább az automatikus kikapcsolást. Engedélyezi a készenlétet?
+Accept	Accept	Elfogadás
 Boot logo must be a 320x375 JPEG	Boot logo must be a 320x375 JPEG	Az indítólogó JPEG legyen, 320x375
 Could not save boot logo	Could not save boot logo	Az indítólogó nem menthető
 Accent: Graphite	Accent: Graphite	Kiemelőszín: Grafit

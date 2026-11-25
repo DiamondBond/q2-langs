@@ -701,6 +701,7 @@ Unknown	Unknown	Necunoscut
 Appearance	Appearance	Aspect
 Controls	Controls	Comenzi
 Theme	Theme	Temă
+Hide	Hide	Ascunde
 Boot to: Rockbox	Boot to: Rockbox	Pornire în: Rockbox
 Boot to: Q2 Pod	Boot to: Q2 Pod	Pornire în: Q2 Pod
 Rockbox is not on the card	Rockbox is not on the card	Rockbox nu este pe card
@@ -1072,6 +1073,11 @@ Search Spotify	Search Spotify	Caută în Spotify
 Select Tracks	Select Tracks	Selectează piese
 Select at least one item	Select at least one item	Selectaţi cel puţin un element
 Selection full. Remove these first	Selection full. Remove these first	Selecţie plină. Eliminaţi mai întâi acestea
+Charge Limit is not enforced while the Q2 is off.	Charge Limit is not enforced while the Q2 is off.	Limita de încărcare nu se aplică cât timp Q2 este oprit.
+Enable Auto-shutdown?	Enable Auto-shutdown?	Activaţi oprirea automată?
+Standby may leave the Q2 unresponsive.	Standby may leave the Q2 unresponsive.	Standby poate face ca Q2 să nu mai răspundă.
+Use Auto-shutdown instead. Enable Standby?	Use Auto-shutdown instead. Enable Standby?	Preferaţi oprirea automată. Activaţi totuşi Standby?
+Accept	Accept	Activează
 Boot logo must be a 320x375 JPEG	Boot logo must be a 320x375 JPEG	Logo-ul de pornire trebuie să fie un JPEG 320x375
 Could not save boot logo	Could not save boot logo	Logo-ul de pornire nu a putut fi salvat
 Accent: Graphite	Accent: Graphite	Accent: Grafit

@@ -701,6 +701,7 @@ Unknown	Unknown	Невідомо
 Appearance	Appearance	Вигляд
 Controls	Controls	Керування
 Theme	Theme	Тема
+Hide	Hide	Сховати
 Boot to: Rockbox	Boot to: Rockbox	Запуск: Rockbox
 Boot to: Q2 Pod	Boot to: Q2 Pod	Запуск: Q2 Pod
 Rockbox is not on the card	Rockbox is not on the card	Rockbox немає на картці
@@ -1072,6 +1073,11 @@ Search Spotify	Search Spotify	Пошук у Spotify
 Select Tracks	Select Tracks	Вибрати треки
 Select at least one item	Select at least one item	Виберіть щонайменше один елемент
 Selection full. Remove these first	Selection full. Remove these first	Вибір заповнено. Спершу видаліть ці
+Charge Limit is not enforced while the Q2 is off.	Charge Limit is not enforced while the Q2 is off.	Ліміт заряду не діє, поки Q2 вимкнено.
+Enable Auto-shutdown?	Enable Auto-shutdown?	Увімкнути автовимкнення?
+Standby may leave the Q2 unresponsive.	Standby may leave the Q2 unresponsive.	Очікування може спричинити зависання Q2.
+Use Auto-shutdown instead. Enable Standby?	Use Auto-shutdown instead. Enable Standby?	Краще автовимкнення. Увімкнути очікування?
+Accept	Accept	Увімкнути
 Boot logo must be a 320x375 JPEG	Boot logo must be a 320x375 JPEG	Логотип запуску має бути JPEG 320x375
 Could not save boot logo	Could not save boot logo	Не вдалося зберегти логотип запуску
 Accent: Graphite	Accent: Graphite	Акцент: Графіт

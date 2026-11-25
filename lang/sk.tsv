@@ -701,6 +701,7 @@ Unknown	Unknown	Neznáme
 Appearance	Appearance	Vzhľad
 Controls	Controls	Ovládanie
 Theme	Theme	Téma
+Hide	Hide	Skryť
 Boot to: Rockbox	Boot to: Rockbox	Spustiť: Rockbox
 Boot to: Q2 Pod	Boot to: Q2 Pod	Spustiť: Q2 Pod
 Rockbox is not on the card	Rockbox is not on the card	Rockbox nie je na karte
@@ -1072,6 +1073,11 @@ Search Spotify	Search Spotify	Hľadať v Spotify
 Select Tracks	Select Tracks	Vybrať skladby
 Select at least one item	Select at least one item	Vyberte aspoň jednu položku
 Selection full. Remove these first	Selection full. Remove these first	Výber je plný. Najprv odstráňte tieto
+Charge Limit is not enforced while the Q2 is off.	Charge Limit is not enforced while the Q2 is off.	Limit nabíjania nefunguje, keď je Q2 vypnuté.
+Enable Auto-shutdown?	Enable Auto-shutdown?	Zapnúť Auto-vypnutie?
+Standby may leave the Q2 unresponsive.	Standby may leave the Q2 unresponsive.	Pohotovosť môže spôsobiť, že Q2 prestane reagovať.
+Use Auto-shutdown instead. Enable Standby?	Use Auto-shutdown instead. Enable Standby?	Radšej použite Auto-vypnutie. Zapnúť pohotovosť?
+Accept	Accept	Zapnúť
 Boot logo must be a 320x375 JPEG	Boot logo must be a 320x375 JPEG	Úvodné logo musí byť JPEG 320x375
 Could not save boot logo	Could not save boot logo	Úvodné logo sa nepodarilo uložiť
 Accent: Graphite	Accent: Graphite	Akcent: Grafit

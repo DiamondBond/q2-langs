@@ -701,6 +701,7 @@ Unknown	Unknown	Không rõ
 Appearance	Appearance	Giao diện
 Controls	Controls	Điều khiển
 Theme	Theme	Giao diện
+Hide	Hide	Ẩn
 Boot to: Rockbox	Boot to: Rockbox	Khởi động vào: Rockbox
 Boot to: Q2 Pod	Boot to: Q2 Pod	Khởi động vào: Q2 Pod
 Rockbox is not on the card	Rockbox is not on the card	Không có Rockbox trên thẻ
@@ -1072,6 +1073,11 @@ Search Spotify	Search Spotify	Tìm trên Spotify
 Select Tracks	Select Tracks	Chọn bài hát
 Select at least one item	Select at least one item	Chọn ít nhất một mục
 Selection full. Remove these first	Selection full. Remove these first	Đã chọn đầy. Hãy xóa các mục này trước
+Charge Limit is not enforced while the Q2 is off.	Charge Limit is not enforced while the Q2 is off.	Giới hạn sạc không có hiệu lực khi Q2 đang tắt.
+Enable Auto-shutdown?	Enable Auto-shutdown?	Kích hoạt Tự động tắt máy?
+Standby may leave the Q2 unresponsive.	Standby may leave the Q2 unresponsive.	Chế độ chờ có thể khiến Q2 không phản hồi.
+Use Auto-shutdown instead. Enable Standby?	Use Auto-shutdown instead. Enable Standby?	Nên dùng Tự động tắt máy hơn. Vẫn kích hoạt Chờ?
+Accept	Accept	Chấp nhận
 Boot logo must be a 320x375 JPEG	Boot logo must be a 320x375 JPEG	Logo khởi động phải là JPEG 320x375
 Could not save boot logo	Could not save boot logo	Không lưu được logo khởi động
 Accent: Graphite	Accent: Graphite	Màu nhấn: Than chì

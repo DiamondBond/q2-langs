@@ -700,6 +700,7 @@ Unknown	Unknown	navigation.c
 Appearance	Appearance	navigation.c
 Controls	Controls	navigation.c
 Theme	Theme	navigation.c
+Hide	Hide	navigation.c
 Boot to: Rockbox	Boot to: Rockbox	navigation.c
 Boot to: Q2 Pod	Boot to: Q2 Pod	navigation.c
 Rockbox is not on the card	Rockbox is not on the card	navigation.c
@@ -1071,6 +1072,11 @@ Search Spotify	Search Spotify	spotify.c
 Select Tracks	Select Tracks	spotify.c
 Select at least one item	Select at least one item	spotify.c
 Selection full. Remove these first	Selection full. Remove these first	spotify.c
+Charge Limit is not enforced while the Q2 is off.	Charge Limit is not enforced while the Q2 is off.	system.c
+Enable Auto-shutdown?	Enable Auto-shutdown?	system.c
+Standby may leave the Q2 unresponsive.	Standby may leave the Q2 unresponsive.	system.c
+Use Auto-shutdown instead. Enable Standby?	Use Auto-shutdown instead. Enable Standby?	system.c
+Accept	Accept	system.c
 Boot logo must be a 320x375 JPEG	Boot logo must be a 320x375 JPEG	system.c
 Could not save boot logo	Could not save boot logo	system.c
 Accent: Graphite	Accent: Graphite	theme_engine.c

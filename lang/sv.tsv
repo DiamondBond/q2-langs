@@ -701,6 +701,7 @@ Unknown	Unknown	Okänd
 Appearance	Appearance	Utseende
 Controls	Controls	Kontroller
 Theme	Theme	Tema
+Hide	Hide	Dölj
 Boot to: Rockbox	Boot to: Rockbox	Starta i: Rockbox
 Boot to: Q2 Pod	Boot to: Q2 Pod	Starta i: Q2 Pod
 Rockbox is not on the card	Rockbox is not on the card	Rockbox finns inte på kortet
@@ -1072,6 +1073,11 @@ Search Spotify	Search Spotify	Sök på Spotify
 Select Tracks	Select Tracks	Välj spår
 Select at least one item	Select at least one item	Välj minst ett objekt
 Selection full. Remove these first	Selection full. Remove these first	Urvalet är fullt. Ta bort dessa först
+Charge Limit is not enforced while the Q2 is off.	Charge Limit is not enforced while the Q2 is off.	Laddningsgränsen gäller inte när Q2 är av.
+Enable Auto-shutdown?	Enable Auto-shutdown?	Aktivera automatisk avstängning?
+Standby may leave the Q2 unresponsive.	Standby may leave the Q2 unresponsive.	Standby kan göra att Q2 inte svarar.
+Use Auto-shutdown instead. Enable Standby?	Use Auto-shutdown instead. Enable Standby?	Använd hellre automatisk avstängning. Aktivera standby?
+Accept	Accept	Aktivera
 Boot logo must be a 320x375 JPEG	Boot logo must be a 320x375 JPEG	Startlogotypen måste vara en JPEG på 320x375
 Could not save boot logo	Could not save boot logo	Det gick inte att spara startlogotypen
 Accent: Graphite	Accent: Graphite	Accent: Grafit

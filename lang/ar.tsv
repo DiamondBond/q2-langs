@@ -701,6 +701,7 @@ Unknown	Unknown	غير معروف
 Appearance	Appearance	المظهر
 Controls	Controls	عناصر التحكم
 Theme	Theme	السمة
+Hide	Hide	إخفاء
 Boot to: Rockbox	Boot to: Rockbox	التشغيل على: Rockbox
 Boot to: Q2 Pod	Boot to: Q2 Pod	التشغيل على: Q2 Pod
 Rockbox is not on the card	Rockbox is not on the card	Rockbox غير موجود على البطاقة
@@ -1072,6 +1073,11 @@ Search Spotify	Search Spotify	بحث في Spotify
 Select Tracks	Select Tracks	تحديد المقاطع
 Select at least one item	Select at least one item	حدد عنصرا واحدا على الأقل
 Selection full. Remove these first	Selection full. Remove these first	التحديد ممتلئ. أزل هذه أولا
+Charge Limit is not enforced while the Q2 is off.	Charge Limit is not enforced while the Q2 is off.	لا يسري حد الشحن عندما يكون Q2 مطفأ.
+Enable Auto-shutdown?	Enable Auto-shutdown?	تفعيل الإيقاف التلقائي؟
+Standby may leave the Q2 unresponsive.	Standby may leave the Q2 unresponsive.	الاستعداد قد يجعل Q2 غير مستجيب.
+Use Auto-shutdown instead. Enable Standby?	Use Auto-shutdown instead. Enable Standby?	استخدم الإيقاف التلقائي بدلاً منه. تفعيل الاستعداد؟
+Accept	Accept	قبول
 Boot logo must be a 320x375 JPEG	Boot logo must be a 320x375 JPEG	يجب أن يكون شعار التشغيل JPEG بحجم 320x375
 Could not save boot logo	Could not save boot logo	تعذر حفظ شعار التشغيل
 Accent: Graphite	Accent: Graphite	اللون المميز: جرافيت

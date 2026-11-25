@@ -701,6 +701,7 @@ Unknown	Unknown	Desconhecido
 Appearance	Appearance	Aparência
 Controls	Controls	Controlos
 Theme	Theme	Tema
+Hide	Hide	Ocultar
 Boot to: Rockbox	Boot to: Rockbox	Arrancar em: Rockbox
 Boot to: Q2 Pod	Boot to: Q2 Pod	Arrancar em: Q2 Pod
 Rockbox is not on the card	Rockbox is not on the card	O Rockbox não está no cartão
@@ -1072,6 +1073,11 @@ Search Spotify	Search Spotify	Pesquisar no Spotify
 Select Tracks	Select Tracks	Selecionar faixas
 Select at least one item	Select at least one item	Selecione pelo menos um item
 Selection full. Remove these first	Selection full. Remove these first	Seleção cheia. Remova primeiro estes
+Charge Limit is not enforced while the Q2 is off.	Charge Limit is not enforced while the Q2 is off.	O limite de carga não se aplica com o Q2 desligado.
+Enable Auto-shutdown?	Enable Auto-shutdown?	Ativar o desligar automático?
+Standby may leave the Q2 unresponsive.	Standby may leave the Q2 unresponsive.	O modo de espera pode fazer o Q2 deixar de responder.
+Use Auto-shutdown instead. Enable Standby?	Use Auto-shutdown instead. Enable Standby?	Prefira o desligar automático. Ativar o modo de espera?
+Accept	Accept	Aceitar
 Boot logo must be a 320x375 JPEG	Boot logo must be a 320x375 JPEG	O logótipo de arranque tem de ser um JPEG de 320x375
 Could not save boot logo	Could not save boot logo	Não foi possível guardar o logótipo de arranque
 Accent: Graphite	Accent: Graphite	Cor de destaque: Grafite

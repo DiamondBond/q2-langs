@@ -701,6 +701,7 @@ Unknown	Unknown	Nežinoma
 Appearance	Appearance	Išvaizda
 Controls	Controls	Valdymas
 Theme	Theme	Tema
+Hide	Hide	Slėpti
 Boot to: Rockbox	Boot to: Rockbox	Paleisti: Rockbox
 Boot to: Q2 Pod	Boot to: Q2 Pod	Paleisti: Q2 Pod
 Rockbox is not on the card	Rockbox is not on the card	Rockbox nėra kortelėje
@@ -1072,6 +1073,11 @@ Search Spotify	Search Spotify	Ieškoti Spotify
 Select Tracks	Select Tracks	Pasirinkti takelius
 Select at least one item	Select at least one item	Pasirinkite bent vieną elementą
 Selection full. Remove these first	Selection full. Remove these first	Pasirinkimas pilnas. Pirmiausia pašalinkite šiuos
+Charge Limit is not enforced while the Q2 is off.	Charge Limit is not enforced while the Q2 is off.	Įkrovos riba netaikoma, kai Q2 išjungtas.
+Enable Auto-shutdown?	Enable Auto-shutdown?	Įjungti automatinį išjungimą?
+Standby may leave the Q2 unresponsive.	Standby may leave the Q2 unresponsive.	Po budėjimo Q2 gali nebereaguoti.
+Use Auto-shutdown instead. Enable Standby?	Use Auto-shutdown instead. Enable Standby?	Verčiau naudokite automatinį išjungimą. Įjungti budėjimą?
+Accept	Accept	Priimti
 Boot logo must be a 320x375 JPEG	Boot logo must be a 320x375 JPEG	Paleidimo logotipas turi būti 320x375 JPEG
 Could not save boot logo	Could not save boot logo	Nepavyko išsaugoti paleidimo logotipo
 Accent: Graphite	Accent: Graphite	Akcentas: grafitas

@@ -701,6 +701,7 @@ Unknown	Unknown	未知
 Appearance	Appearance	外观
 Controls	Controls	控制
 Theme	Theme	主题
+Hide	Hide	隐藏
 Boot to: Rockbox	Boot to: Rockbox	默认启动: Rockbox
 Boot to: Q2 Pod	Boot to: Q2 Pod	默认启动: Q2 Pod
 Rockbox is not on the card	Rockbox is not on the card	存储卡里没有 Rockbox
@@ -1072,6 +1073,11 @@ Search Spotify	Search Spotify	搜索 Spotify
 Select Tracks	Select Tracks	选择歌曲
 Select at least one item	Select at least one item	请至少选择一项
 Selection full. Remove these first	Selection full. Remove these first	已选满，请先移除这些
+Charge Limit is not enforced while the Q2 is off.	Charge Limit is not enforced while the Q2 is off.	Q2 关机时充电上限不生效。
+Enable Auto-shutdown?	Enable Auto-shutdown?	要启用自动关机吗？
+Standby may leave the Q2 unresponsive.	Standby may leave the Q2 unresponsive.	待机可能让 Q2 无响应。
+Use Auto-shutdown instead. Enable Standby?	Use Auto-shutdown instead. Enable Standby?	改用自动关机。仍启用待机？
+Accept	Accept	启用
 Boot logo must be a 320x375 JPEG	Boot logo must be a 320x375 JPEG	开机画面必须是 320x375 的 JPEG
 Could not save boot logo	Could not save boot logo	无法保存开机画面
 Accent: Graphite	Accent: Graphite	强调色: 石墨

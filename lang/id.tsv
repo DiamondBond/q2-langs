@@ -701,6 +701,7 @@ Unknown	Unknown	Tidak diketahui
 Appearance	Appearance	Tampilan
 Controls	Controls	Kontrol
 Theme	Theme	Tema
+Hide	Hide	Sembunyikan
 Boot to: Rockbox	Boot to: Rockbox	Boot ke: Rockbox
 Boot to: Q2 Pod	Boot to: Q2 Pod	Boot ke: Q2 Pod
 Rockbox is not on the card	Rockbox is not on the card	Rockbox tidak ada di kartu
@@ -1072,6 +1073,11 @@ Search Spotify	Search Spotify	Cari di Spotify
 Select Tracks	Select Tracks	Pilih trek
 Select at least one item	Select at least one item	Pilih setidaknya satu item
 Selection full. Remove these first	Selection full. Remove these first	Pilihan penuh. Hapus ini dulu
+Charge Limit is not enforced while the Q2 is off.	Charge Limit is not enforced while the Q2 is off.	Batas pengisian tidak berlaku saat Q2 mati.
+Enable Auto-shutdown?	Enable Auto-shutdown?	Aktifkan Mati otomatis?
+Standby may leave the Q2 unresponsive.	Standby may leave the Q2 unresponsive.	Siaga dapat membuat Q2 tidak merespons.
+Use Auto-shutdown instead. Enable Standby?	Use Auto-shutdown instead. Enable Standby?	Gunakan Mati otomatis saja. Tetap aktifkan Siaga?
+Accept	Accept	Terima
 Boot logo must be a 320x375 JPEG	Boot logo must be a 320x375 JPEG	Logo boot harus JPEG 320x375
 Could not save boot logo	Could not save boot logo	Tidak dapat menyimpan logo boot
 Accent: Graphite	Accent: Graphite	Aksen: Grafit

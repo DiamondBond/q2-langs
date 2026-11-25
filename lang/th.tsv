@@ -701,6 +701,7 @@ Unknown	Unknown	ไม่ทราบ
 Appearance	Appearance	รูปลักษณ์
 Controls	Controls	การควบคุม
 Theme	Theme	ธีม
+Hide	Hide	ซ่อน
 Boot to: Rockbox	Boot to: Rockbox	เปิดเครื่องไปที่: Rockbox
 Boot to: Q2 Pod	Boot to: Q2 Pod	เปิดเครื่องไปที่: Q2 Pod
 Rockbox is not on the card	Rockbox is not on the card	ไม่มี Rockbox ในการ์ด
@@ -1072,6 +1073,11 @@ Search Spotify	Search Spotify	ค้นหา Spotify
 Select Tracks	Select Tracks	เลือกแทร็ก
 Select at least one item	Select at least one item	เลือกอย่างน้อยหนึ่งรายการ
 Selection full. Remove these first	Selection full. Remove these first	เลือกเต็มแล้ว ลบรายการเหล่านี้ก่อน
+Charge Limit is not enforced while the Q2 is off.	Charge Limit is not enforced while the Q2 is off.	จำกัดการชาร์จจะไม่ทำงานขณะที่ Q2 ปิดอยู่
+Enable Auto-shutdown?	Enable Auto-shutdown?	เปิดใช้งาน ปิดเครื่องอัตโนมัติหรือไม่
+Standby may leave the Q2 unresponsive.	Standby may leave the Q2 unresponsive.	สแตนด์บายอาจทำให้ Q2 ไม่ตอบสนอง
+Use Auto-shutdown instead. Enable Standby?	Use Auto-shutdown instead. Enable Standby?	ควรใช้การปิดเครื่องอัตโนมัติแทน เปิดใช้งานสแตนด์บายหรือไม่
+Accept	Accept	ยอมรับ
 Boot logo must be a 320x375 JPEG	Boot logo must be a 320x375 JPEG	โลโก้ตอนเปิดเครื่องต้องเป็น JPEG ขนาด 320x375
 Could not save boot logo	Could not save boot logo	บันทึกโลโก้ตอนเปิดเครื่องไม่ได้
 Accent: Graphite	Accent: Graphite	สีเน้น: กราไฟต์

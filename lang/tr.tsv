@@ -701,6 +701,7 @@ Unknown	Unknown	Bilinmeyen
 Appearance	Appearance	Görünüm
 Controls	Controls	Denetimler
 Theme	Theme	Tema
+Hide	Hide	Gizle
 Boot to: Rockbox	Boot to: Rockbox	Açılış: Rockbox
 Boot to: Q2 Pod	Boot to: Q2 Pod	Açılış: Q2 Pod
 Rockbox is not on the card	Rockbox is not on the card	Rockbox kartta yok
@@ -1072,6 +1073,11 @@ Search Spotify	Search Spotify	Spotify'da ara
 Select Tracks	Select Tracks	Parça seç
 Select at least one item	Select at least one item	En az bir öğe seçin
 Selection full. Remove these first	Selection full. Remove these first	Seçim dolu. Önce bunları kaldırın
+Charge Limit is not enforced while the Q2 is off.	Charge Limit is not enforced while the Q2 is off.	Q2 kapalıyken şarj sınırı uygulanmaz.
+Enable Auto-shutdown?	Enable Auto-shutdown?	Otomatik kapanma açılsın mı?
+Standby may leave the Q2 unresponsive.	Standby may leave the Q2 unresponsive.	Q2, beklemeden sonra yanıt vermeyebilir.
+Use Auto-shutdown instead. Enable Standby?	Use Auto-shutdown instead. Enable Standby?	Otomatik kapanmayı tercih edin. Bekleme açılsın mı?
+Accept	Accept	Kabul et
 Boot logo must be a 320x375 JPEG	Boot logo must be a 320x375 JPEG	Açılış logosu 320x375 JPEG olmalı
 Could not save boot logo	Could not save boot logo	Açılış logosu kaydedilemedi
 Accent: Graphite	Accent: Graphite	Vurgu: Grafit

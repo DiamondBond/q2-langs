@@ -701,6 +701,7 @@ Unknown	Unknown	Tuntematon
 Appearance	Appearance	Ulkoasu
 Controls	Controls	Ohjaus
 Theme	Theme	Teema
+Hide	Hide	Piilota
 Boot to: Rockbox	Boot to: Rockbox	Käynnistys: Rockbox
 Boot to: Q2 Pod	Boot to: Q2 Pod	Käynnistys: Q2 Pod
 Rockbox is not on the card	Rockbox is not on the card	Rockbox puuttuu kortilta
@@ -1072,6 +1073,11 @@ Search Spotify	Search Spotify	Hae Spotify-palvelusta
 Select Tracks	Select Tracks	Valitse kappaleita
 Select at least one item	Select at least one item	Valitse vähintään yksi kohde
 Selection full. Remove these first	Selection full. Remove these first	Valinta täynnä. Poista nämä ensin
+Charge Limit is not enforced while the Q2 is off.	Charge Limit is not enforced while the Q2 is off.	Latausrajaa ei noudateta, kun Q2 on sammutettuna.
+Enable Auto-shutdown?	Enable Auto-shutdown?	Otetaanko automaattinen sammutus käyttöön?
+Standby may leave the Q2 unresponsive.	Standby may leave the Q2 unresponsive.	Valmiustilan jälkeen Q2 ei välttämättä reagoi.
+Use Auto-shutdown instead. Enable Standby?	Use Auto-shutdown instead. Enable Standby?	Käytä sen sijaan automaattista sammutusta. Otetaanko valmiustila käyttöön?
+Accept	Accept	Hyväksy
 Boot logo must be a 320x375 JPEG	Boot logo must be a 320x375 JPEG	Käynnistyslogon on oltava 320x375 JPEG
 Could not save boot logo	Could not save boot logo	Käynnistyslogon tallennus epäonnistui
 Accent: Graphite	Accent: Graphite	Korostusväri: Grafiitti
