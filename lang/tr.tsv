@@ -575,6 +575,8 @@ Album not found	Album not found	Albüm bulunamadı
 %u albums	%u albums	%u albüm
 Play All	Play All	Tümünü çal
 Every song, shuffled	Every song, shuffled	Tüm şarkılar, karışık
+Decades	Decades	On yıllar
+Years	Years	Yıllar
 No dated albums yet	No dated albums yet	Henüz tarihli albüm yok
 No songs over 10 minutes	No songs over 10 minutes	10 dakikadan uzun şarkı yok
 Measuring songs… %d/%d	Measuring songs… %d/%d	Şarkılar ölçülüyor… %d/%d
@@ -702,6 +704,7 @@ Appearance	Appearance	Görünüm
 Controls	Controls	Denetimler
 Theme	Theme	Tema
 Hide	Hide	Gizle
+Shortcut	Shortcut	Kısayol
 Boot to: Rockbox	Boot to: Rockbox	Açılış: Rockbox
 Boot to: Q2 Pod	Boot to: Q2 Pod	Açılış: Q2 Pod
 Rockbox is not on the card	Rockbox is not on the card	Rockbox kartta yok
@@ -1093,6 +1096,8 @@ Favorites	Favorites	Favoriler
 Rated Albums	Rated Albums	Puanlanan albümler
 Podcasts	Podcasts	Podcast'ler
 Audiobooks	Audiobooks	Sesli kitaplar
+None	None	Yok
+%s is not on the card	%s is not on the card	%s kartta yok
 Groovebox can't start from the card	Groovebox can't start from the card	Groovebox karttan başlatılamıyor
 Groovebox is not on the card	Groovebox is not on the card	Groovebox kartta yok
 Play a Tidal album or playlist first	Play a Tidal album or playlist first	Önce bir Tidal albümü veya çalma listesi çalın

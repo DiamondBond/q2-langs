@@ -575,6 +575,8 @@ Album not found	Album not found	ไม่พบอัลบั้ม
 %u albums	%u albums	%u อัลบั้ม
 Play All	Play All	เล่นทั้งหมด
 Every song, shuffled	Every song, shuffled	ทุกเพลง สุ่มลำดับ
+Decades	Decades	ทศวรรษ
+Years	Years	ปี
 No dated albums yet	No dated albums yet	ยังไม่มีอัลบั้มที่ระบุปี
 No songs over 10 minutes	No songs over 10 minutes	ไม่มีเพลงที่ยาวเกิน 10 นาที
 Measuring songs… %d/%d	Measuring songs… %d/%d	กำลังวัดเพลง… %d/%d
@@ -702,6 +704,7 @@ Appearance	Appearance	รูปลักษณ์
 Controls	Controls	การควบคุม
 Theme	Theme	ธีม
 Hide	Hide	ซ่อน
+Shortcut	Shortcut	ทางลัด
 Boot to: Rockbox	Boot to: Rockbox	เปิดเครื่องไปที่: Rockbox
 Boot to: Q2 Pod	Boot to: Q2 Pod	เปิดเครื่องไปที่: Q2 Pod
 Rockbox is not on the card	Rockbox is not on the card	ไม่มี Rockbox ในการ์ด
@@ -1093,6 +1096,8 @@ Favorites	Favorites	รายการโปรด
 Rated Albums	Rated Albums	อัลบั้มที่ให้คะแนน
 Podcasts	Podcasts	พอดแคสต์
 Audiobooks	Audiobooks	หนังสือเสียง
+None	None	ไม่มี
+%s is not on the card	%s is not on the card	ไม่มี %s ในการ์ด
 Groovebox can't start from the card	Groovebox can't start from the card	เริ่ม Groovebox จากการ์ดไม่ได้
 Groovebox is not on the card	Groovebox is not on the card	ไม่มี Groovebox ในการ์ด
 Play a Tidal album or playlist first	Play a Tidal album or playlist first	เล่นอัลบั้มหรือเพลย์ลิสต์ Tidal ก่อน

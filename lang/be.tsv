@@ -575,6 +575,8 @@ Album not found	Album not found	Альбом не знойдзены
 %u albums	%u albums	Альбомаў: %u
 Play All	Play All	Іграць усё
 Every song, shuffled	Every song, shuffled	Усе песні ў выпадковым парадку
+Decades	Decades	Дзесяцігоддзі
+Years	Years	Гады
 No dated albums yet	No dated albums yet	Альбомаў з датай пакуль няма
 No songs over 10 minutes	No songs over 10 minutes	Няма песень даўжэй за 10 хвілін
 Measuring songs… %d/%d	Measuring songs… %d/%d	Вымярэнне песень… %d/%d
@@ -702,6 +704,7 @@ Appearance	Appearance	Знешні выгляд
 Controls	Controls	Кіраванне
 Theme	Theme	Тэма
 Hide	Hide	Схаваць
+Shortcut	Shortcut	Ярлык
 Boot to: Rockbox	Boot to: Rockbox	Загрузка: Rockbox
 Boot to: Q2 Pod	Boot to: Q2 Pod	Загрузка: Q2 Pod
 Rockbox is not on the card	Rockbox is not on the card	Rockbox няма на карце
@@ -1093,6 +1096,8 @@ Favorites	Favorites	Абранае
 Rated Albums	Rated Albums	Альбомы з рэйтынгам
 Podcasts	Podcasts	Падкасты
 Audiobooks	Audiobooks	Аўдыякнігі
+None	None	Няма
+%s is not on the card	%s is not on the card	%s няма на карце
 Groovebox can't start from the card	Groovebox can't start from the card	Groovebox не запускаецца з карты
 Groovebox is not on the card	Groovebox is not on the card	Groovebox няма на карце
 Play a Tidal album or playlist first	Play a Tidal album or playlist first	Спачатку ўключыце альбом або плэйліст Tidal

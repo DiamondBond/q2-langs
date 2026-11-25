@@ -575,6 +575,8 @@ Album not found	Album not found	الألبوم غير موجود
 %u albums	%u albums	الألبومات: %u
 Play All	Play All	تشغيل الكل
 Every song, shuffled	Every song, shuffled	كل الأغاني، بترتيب عشوائي
+Decades	Decades	العقود
+Years	Years	السنوات
 No dated albums yet	No dated albums yet	لا توجد ألبومات مؤرخة بعد
 No songs over 10 minutes	No songs over 10 minutes	لا توجد أغان تتجاوز 10 دقائق
 Measuring songs… %d/%d	Measuring songs… %d/%d	جار قياس الأغاني… %d/%d
@@ -702,6 +704,7 @@ Appearance	Appearance	المظهر
 Controls	Controls	عناصر التحكم
 Theme	Theme	السمة
 Hide	Hide	إخفاء
+Shortcut	Shortcut	الاختصار
 Boot to: Rockbox	Boot to: Rockbox	التشغيل على: Rockbox
 Boot to: Q2 Pod	Boot to: Q2 Pod	التشغيل على: Q2 Pod
 Rockbox is not on the card	Rockbox is not on the card	Rockbox غير موجود على البطاقة
@@ -1093,6 +1096,8 @@ Favorites	Favorites	المفضلة
 Rated Albums	Rated Albums	الألبومات المقيمة
 Podcasts	Podcasts	البودكاست
 Audiobooks	Audiobooks	الكتب الصوتية
+None	None	بلا
+%s is not on the card	%s is not on the card	%s غير موجود على البطاقة
 Groovebox can't start from the card	Groovebox can't start from the card	لا يمكن تشغيل Groovebox من البطاقة
 Groovebox is not on the card	Groovebox is not on the card	Groovebox غير موجود على البطاقة
 Play a Tidal album or playlist first	Play a Tidal album or playlist first	شغل ألبوم أو قائمة تشغيل من Tidal أولا

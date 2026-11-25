@@ -575,6 +575,8 @@ Album not found	Album not found	Album tidak ditemukan
 %u albums	%u albums	%u album
 Play All	Play All	Putar semua
 Every song, shuffled	Every song, shuffled	Semua lagu, diacak
+Decades	Decades	Dekade
+Years	Years	Tahun
 No dated albums yet	No dated albums yet	Belum ada album bertanggal
 No songs over 10 minutes	No songs over 10 minutes	Tidak ada lagu di atas 10 menit
 Measuring songs… %d/%d	Measuring songs… %d/%d	Mengukur lagu… %d/%d
@@ -702,6 +704,7 @@ Appearance	Appearance	Tampilan
 Controls	Controls	Kontrol
 Theme	Theme	Tema
 Hide	Hide	Sembunyikan
+Shortcut	Shortcut	Pintasan
 Boot to: Rockbox	Boot to: Rockbox	Boot ke: Rockbox
 Boot to: Q2 Pod	Boot to: Q2 Pod	Boot ke: Q2 Pod
 Rockbox is not on the card	Rockbox is not on the card	Rockbox tidak ada di kartu
@@ -1093,6 +1096,8 @@ Favorites	Favorites	Favorit
 Rated Albums	Rated Albums	Album berperingkat
 Podcasts	Podcasts	Podcast
 Audiobooks	Audiobooks	Buku audio
+None	None	Tidak ada
+%s is not on the card	%s is not on the card	%s tidak ada di kartu
 Groovebox can't start from the card	Groovebox can't start from the card	Groovebox tidak dapat dimulai dari kartu
 Groovebox is not on the card	Groovebox is not on the card	Groovebox tidak ada di kartu
 Play a Tidal album or playlist first	Play a Tidal album or playlist first	Putar album atau playlist Tidal dulu

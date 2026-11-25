@@ -575,6 +575,8 @@ Album not found	Album not found	Album nije pronađen
 %u albums	%u albums	Albumi: %u
 Play All	Play All	Reproduciraj sve
 Every song, shuffled	Every song, shuffled	Sve pjesme, nasumično
+Decades	Decades	Decenije
+Years	Years	Godine
 No dated albums yet	No dated albums yet	Još nema datiranih albuma
 No songs over 10 minutes	No songs over 10 minutes	Nema pjesama dužih od 10 minuta
 Measuring songs… %d/%d	Measuring songs… %d/%d	Mjerenje pjesama… %d/%d
@@ -702,6 +704,7 @@ Appearance	Appearance	Izgled
 Controls	Controls	Kontrole
 Theme	Theme	Tema
 Hide	Hide	Sakrij
+Shortcut	Shortcut	Prečica
 Boot to: Rockbox	Boot to: Rockbox	Pokretanje: Rockbox
 Boot to: Q2 Pod	Boot to: Q2 Pod	Pokretanje: Q2 Pod
 Rockbox is not on the card	Rockbox is not on the card	Rockbox nije na kartici
@@ -1093,6 +1096,8 @@ Favorites	Favorites	Omiljeno
 Rated Albums	Rated Albums	Ocijenjeni albumi
 Podcasts	Podcasts	Podcasti
 Audiobooks	Audiobooks	Audioknjige
+None	None	Nijedna
+%s is not on the card	%s is not on the card	%s nije na kartici
 Groovebox can't start from the card	Groovebox can't start from the card	Groovebox se ne može pokrenuti s kartice
 Groovebox is not on the card	Groovebox is not on the card	Groovebox nije na kartici
 Play a Tidal album or playlist first	Play a Tidal album or playlist first	Prvo reproducirajte Tidal album ili plejlistu

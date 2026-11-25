@@ -575,6 +575,8 @@ Album not found	Album not found	Album nenalezeno
 %u albums	%u albums	Alba: %u
 Play All	Play All	Přehrát vše
 Every song, shuffled	Every song, shuffled	Všechny skladby, náhodně
+Decades	Decades	Dekády
+Years	Years	Roky
 No dated albums yet	No dated albums yet	Zatím žádná alba s datem
 No songs over 10 minutes	No songs over 10 minutes	Žádné skladby delší než 10 minut
 Measuring songs… %d/%d	Measuring songs… %d/%d	Měření skladeb… %d/%d
@@ -702,6 +704,7 @@ Appearance	Appearance	Vzhled
 Controls	Controls	Ovládání
 Theme	Theme	Motiv
 Hide	Hide	Skrýt
+Shortcut	Shortcut	Zkratka
 Boot to: Rockbox	Boot to: Rockbox	Po zapnutí: Rockbox
 Boot to: Q2 Pod	Boot to: Q2 Pod	Po zapnutí: Q2 Pod
 Rockbox is not on the card	Rockbox is not on the card	Rockbox není na kartě
@@ -1093,6 +1096,8 @@ Favorites	Favorites	Oblíbené
 Rated Albums	Rated Albums	Hodnocená alba
 Podcasts	Podcasts	Podcasty
 Audiobooks	Audiobooks	Audioknihy
+None	None	Žádná
+%s is not on the card	%s is not on the card	%s není na kartě
 Groovebox can't start from the card	Groovebox can't start from the card	Groovebox nelze spustit z karty
 Groovebox is not on the card	Groovebox is not on the card	Groovebox není na kartě
 Play a Tidal album or playlist first	Play a Tidal album or playlist first	Nejprve přehrajte album nebo playlist z Tidalu

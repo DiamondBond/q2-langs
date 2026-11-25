@@ -575,6 +575,8 @@ Album not found	Album not found	Ook ook ook
 %u albums	%u albums	%u ook
 Play All	Play All	Ook Ook
 Every song, shuffled	Every song, shuffled	Ook ook, ook
+Decades	Decades	Ook
+Years	Years	Ook
 No dated albums yet	No dated albums yet	Ook ook ook ook
 No songs over 10 minutes	No songs over 10 minutes	Ook ook ook 10 ook
 Measuring songs… %d/%d	Measuring songs… %d/%d	Ook ook… %d/%d
@@ -702,6 +704,7 @@ Appearance	Appearance	Ook
 Controls	Controls	Ook
 Theme	Theme	Ook
 Hide	Hide	Ook
+Shortcut	Shortcut	Ook
 Boot to: Rockbox	Boot to: Rockbox	Ook ook: Ook
 Boot to: Q2 Pod	Boot to: Q2 Pod	Ook ook: Ook2 Ook
 Rockbox is not on the card	Rockbox is not on the card	Ook ook ook ook ook ook
@@ -1093,6 +1096,8 @@ Favorites	Favorites	Ook
 Rated Albums	Rated Albums	Ook Ook
 Podcasts	Podcasts	Ook
 Audiobooks	Audiobooks	Ook
+None	None	Ook
+%s is not on the card	%s is not on the card	%s ook ook ook ook ook
 Groovebox can't start from the card	Groovebox can't start from the card	Ook ook'ook ook ook ook ook
 Groovebox is not on the card	Groovebox is not on the card	Ook ook ook ook ook ook
 Play a Tidal album or playlist first	Play a Tidal album or playlist first	Ook ook Ook ook ook ook ook

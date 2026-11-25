@@ -575,6 +575,8 @@ Album not found	Album not found	Albumas nerastas
 %u albums	%u albums	Albumų: %u
 Play All	Play All	Groti viską
 Every song, shuffled	Every song, shuffled	Visos dainos, sumaišytos
+Decades	Decades	Dešimtmečiai
+Years	Years	Metai
 No dated albums yet	No dated albums yet	Albumų su data dar nėra
 No songs over 10 minutes	No songs over 10 minutes	Dainų, ilgesnių nei 10 minučių, nėra
 Measuring songs… %d/%d	Measuring songs… %d/%d	Matuojamos dainos… %d/%d
@@ -702,6 +704,7 @@ Appearance	Appearance	Išvaizda
 Controls	Controls	Valdymas
 Theme	Theme	Tema
 Hide	Hide	Slėpti
+Shortcut	Shortcut	Nuoroda
 Boot to: Rockbox	Boot to: Rockbox	Paleisti: Rockbox
 Boot to: Q2 Pod	Boot to: Q2 Pod	Paleisti: Q2 Pod
 Rockbox is not on the card	Rockbox is not on the card	Rockbox nėra kortelėje
@@ -1093,6 +1096,8 @@ Favorites	Favorites	Mėgstamiausi
 Rated Albums	Rated Albums	Įvertinti albumai
 Podcasts	Podcasts	Tinklalaidės
 Audiobooks	Audiobooks	Audioknygos
+None	None	Nėra
+%s is not on the card	%s is not on the card	%s nėra kortelėje
 Groovebox can't start from the card	Groovebox can't start from the card	Groovebox negali pasileisti iš kortelės
 Groovebox is not on the card	Groovebox is not on the card	Groovebox nėra kortelėje
 Play a Tidal album or playlist first	Play a Tidal album or playlist first	Pirmiausia paleiskite Tidal albumą ar grojaraštį

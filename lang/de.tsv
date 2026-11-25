@@ -575,6 +575,8 @@ Album not found	Album not found	Album nicht gefunden
 %u albums	%u albums	%u Alben
 Play All	Play All	Alle abspielen
 Every song, shuffled	Every song, shuffled	Alle Titel, gemischt
+Decades	Decades	Jahrzehnte
+Years	Years	Jahre
 No dated albums yet	No dated albums yet	Noch keine datierten Alben
 No songs over 10 minutes	No songs over 10 minutes	Keine Titel über 10 Minuten
 Measuring songs… %d/%d	Measuring songs… %d/%d	Titel werden gemessen… %d/%d
@@ -702,6 +704,7 @@ Appearance	Appearance	Darstellung
 Controls	Controls	Bedienung
 Theme	Theme	Design
 Hide	Hide	Ausblenden
+Shortcut	Shortcut	Kurzbefehl
 Boot to: Rockbox	Boot to: Rockbox	Start mit: Rockbox
 Boot to: Q2 Pod	Boot to: Q2 Pod	Start mit: Q2 Pod
 Rockbox is not on the card	Rockbox is not on the card	Rockbox ist nicht auf der Karte
@@ -1093,6 +1096,8 @@ Favorites	Favorites	Favoriten
 Rated Albums	Rated Albums	Bewertete Alben
 Podcasts	Podcasts	Podcasts
 Audiobooks	Audiobooks	Hörbücher
+None	None	Keiner
+%s is not on the card	%s is not on the card	%s ist nicht auf der Karte
 Groovebox can't start from the card	Groovebox can't start from the card	Groovebox startet nicht von der Karte
 Groovebox is not on the card	Groovebox is not on the card	Groovebox ist nicht auf der Karte
 Play a Tidal album or playlist first	Play a Tidal album or playlist first	Zuerst ein Tidal-Album oder eine Playlist abspielen

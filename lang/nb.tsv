@@ -575,6 +575,8 @@ Album not found	Album not found	Fant ikke albumet
 %u albums	%u albums	%u album
 Play All	Play All	Spill alle
 Every song, shuffled	Every song, shuffled	Alle sanger, blandet
+Decades	Decades	Tiår
+Years	Years	År
 No dated albums yet	No dated albums yet	Ingen daterte album ennå
 No songs over 10 minutes	No songs over 10 minutes	Ingen sanger over 10 minutter
 Measuring songs… %d/%d	Measuring songs… %d/%d	Måler sanger… %d/%d
@@ -702,6 +704,7 @@ Appearance	Appearance	Utseende
 Controls	Controls	Kontroller
 Theme	Theme	Tema
 Hide	Hide	Skjul
+Shortcut	Shortcut	Snarvei
 Boot to: Rockbox	Boot to: Rockbox	Start i: Rockbox
 Boot to: Q2 Pod	Boot to: Q2 Pod	Start i: Q2 Pod
 Rockbox is not on the card	Rockbox is not on the card	Rockbox finnes ikke på kortet
@@ -1093,6 +1096,8 @@ Favorites	Favorites	Favoritter
 Rated Albums	Rated Albums	Vurderte album
 Podcasts	Podcasts	Podkaster
 Audiobooks	Audiobooks	Lydbøker
+None	None	Ingen
+%s is not on the card	%s is not on the card	%s finnes ikke på kortet
 Groovebox can't start from the card	Groovebox can't start from the card	Groovebox kan ikke starte fra kortet
 Groovebox is not on the card	Groovebox is not on the card	Groovebox finnes ikke på kortet
 Play a Tidal album or playlist first	Play a Tidal album or playlist first	Spill først et Tidal-album eller en spilleliste

@@ -427,7 +427,7 @@ PIN	PIN	addon.c
 Couldn't import %s	Couldn't import %s	addon_library.c
 Playlists updated	Playlists updated	addon_library.c
 No memory card	No memory card	addon_library.c
-Games	Games	app_store.c
+Games	Games	games.c
 %d update	%d update	app_store.c
 %d updates	%d updates	app_store.c
 INSTALL	INSTALL	app_store.c
@@ -574,6 +574,8 @@ Album not found	Album not found	library_lists.c
 %u albums	%u albums	library_lists.c
 Play All	Play All	library_lists.c
 Every song, shuffled	Every song, shuffled	library_lists.c
+Decades	Decades	library_lists.c
+Years	Years	library_lists.c
 No dated albums yet	No dated albums yet	library_lists.c
 No songs over 10 minutes	No songs over 10 minutes	library_lists.c
 Measuring songs… %d/%d	Measuring songs… %d/%d	library_lists.c
@@ -701,6 +703,7 @@ Appearance	Appearance	navigation.c
 Controls	Controls	navigation.c
 Theme	Theme	navigation.c
 Hide	Hide	navigation.c
+Shortcut	Shortcut	navigation.c
 Boot to: Rockbox	Boot to: Rockbox	navigation.c
 Boot to: Q2 Pod	Boot to: Q2 Pod	navigation.c
 Rockbox is not on the card	Rockbox is not on the card	navigation.c
@@ -1092,6 +1095,8 @@ Favorites	Favorites	theme_engine.c
 Rated Albums	Rated Albums	theme_engine.c
 Podcasts	Podcasts	theme_engine.c
 Audiobooks	Audiobooks	theme_engine.c
+None	None	theme_engine.c
+%s is not on the card	%s is not on the card	theme_engine.c
 Groovebox can't start from the card	Groovebox can't start from the card	theme_engine.c
 Groovebox is not on the card	Groovebox is not on the card	theme_engine.c
 Play a Tidal album or playlist first	Play a Tidal album or playlist first	tidal.c

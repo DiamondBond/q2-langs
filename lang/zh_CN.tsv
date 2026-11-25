@@ -575,6 +575,8 @@ Album not found	Album not found	没有找到专辑
 %u albums	%u albums	%u 张专辑
 Play All	Play All	全部播放
 Every song, shuffled	Every song, shuffled	全部歌曲，随机播放
+Decades	Decades	年代
+Years	Years	年份
 No dated albums yet	No dated albums yet	还没有带年份的专辑
 No songs over 10 minutes	No songs over 10 minutes	没有超过 10 分钟的歌曲
 Measuring songs… %d/%d	Measuring songs… %d/%d	正在测量歌曲… %d/%d
@@ -702,6 +704,7 @@ Appearance	Appearance	外观
 Controls	Controls	控制
 Theme	Theme	主题
 Hide	Hide	隐藏
+Shortcut	Shortcut	快捷键
 Boot to: Rockbox	Boot to: Rockbox	默认启动: Rockbox
 Boot to: Q2 Pod	Boot to: Q2 Pod	默认启动: Q2 Pod
 Rockbox is not on the card	Rockbox is not on the card	存储卡里没有 Rockbox
@@ -1093,6 +1096,8 @@ Favorites	Favorites	我的最爱
 Rated Albums	Rated Albums	已评分专辑
 Podcasts	Podcasts	播客
 Audiobooks	Audiobooks	有声书
+None	None	无
+%s is not on the card	%s is not on the card	存储卡里没有 %s
 Groovebox can't start from the card	Groovebox can't start from the card	Groovebox 无法从存储卡启动
 Groovebox is not on the card	Groovebox is not on the card	存储卡里没有 Groovebox
 Play a Tidal album or playlist first	Play a Tidal album or playlist first	请先播放 Tidal 专辑或歌单

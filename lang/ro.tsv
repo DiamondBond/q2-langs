@@ -575,6 +575,8 @@ Album not found	Album not found	Album negăsit
 %u albums	%u albums	Albume: %u
 Play All	Play All	Redă tot
 Every song, shuffled	Every song, shuffled	Toate melodiile, aleatoriu
+Decades	Decades	Decenii
+Years	Years	Ani
 No dated albums yet	No dated albums yet	Niciun album cu dată încă
 No songs over 10 minutes	No songs over 10 minutes	Nicio melodie de peste 10 minute
 Measuring songs… %d/%d	Measuring songs… %d/%d	Se măsoară melodiile… %d/%d
@@ -702,6 +704,7 @@ Appearance	Appearance	Aspect
 Controls	Controls	Comenzi
 Theme	Theme	Temă
 Hide	Hide	Ascunde
+Shortcut	Shortcut	Comandă rapidă
 Boot to: Rockbox	Boot to: Rockbox	Pornire în: Rockbox
 Boot to: Q2 Pod	Boot to: Q2 Pod	Pornire în: Q2 Pod
 Rockbox is not on the card	Rockbox is not on the card	Rockbox nu este pe card
@@ -1093,6 +1096,8 @@ Favorites	Favorites	Favorite
 Rated Albums	Rated Albums	Albume evaluate
 Podcasts	Podcasts	Podcasturi
 Audiobooks	Audiobooks	Cărţi audio
+None	None	Niciuna
+%s is not on the card	%s is not on the card	%s nu este pe card
 Groovebox can't start from the card	Groovebox can't start from the card	Groovebox nu poate porni de pe card
 Groovebox is not on the card	Groovebox is not on the card	Groovebox nu este pe card
 Play a Tidal album or playlist first	Play a Tidal album or playlist first	Redaţi mai întâi un album sau un playlist Tidal

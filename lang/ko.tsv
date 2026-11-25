@@ -575,6 +575,8 @@ Album not found	Album not found	앨범을 찾을 수 없음
 %u albums	%u albums	앨범 %u개
 Play All	Play All	모두 재생
 Every song, shuffled	Every song, shuffled	모든 노래 셔플
+Decades	Decades	연대
+Years	Years	연도
 No dated albums yet	No dated albums yet	연도 정보가 있는 앨범 없음
 No songs over 10 minutes	No songs over 10 minutes	10분이 넘는 노래 없음
 Measuring songs… %d/%d	Measuring songs… %d/%d	노래 측정 중… %d/%d
@@ -702,6 +704,7 @@ Appearance	Appearance	모양
 Controls	Controls	컨트롤
 Theme	Theme	테마
 Hide	Hide	숨기기
+Shortcut	Shortcut	바로가기
 Boot to: Rockbox	Boot to: Rockbox	부팅: Rockbox
 Boot to: Q2 Pod	Boot to: Q2 Pod	부팅: Q2 Pod
 Rockbox is not on the card	Rockbox is not on the card	카드에 Rockbox가 없습니다
@@ -1093,6 +1096,8 @@ Favorites	Favorites	즐겨찾기
 Rated Albums	Rated Albums	평가한 앨범
 Podcasts	Podcasts	팟캐스트
 Audiobooks	Audiobooks	오디오북
+None	None	없음
+%s is not on the card	%s is not on the card	%s - 카드에 없음
 Groovebox can't start from the card	Groovebox can't start from the card	카드에서 Groovebox를 시작할 수 없습니다
 Groovebox is not on the card	Groovebox is not on the card	카드에 Groovebox가 없습니다
 Play a Tidal album or playlist first	Play a Tidal album or playlist first	먼저 Tidal 앨범이나 재생목록을 재생하세요

@@ -575,6 +575,8 @@ Album not found	Album not found	Albumia ei löydy
 %u albums	%u albums	%u albumia
 Play All	Play All	Soita kaikki
 Every song, shuffled	Every song, shuffled	Kaikki kappaleet sekoitettuna
+Decades	Decades	Vuosikymmenet
+Years	Years	Vuodet
 No dated albums yet	No dated albums yet	Ei vielä vuosiluvullisia albumeita
 No songs over 10 minutes	No songs over 10 minutes	Ei yli 10 minuutin kappaleita
 Measuring songs… %d/%d	Measuring songs… %d/%d	Mitataan kappaleita… %d/%d
@@ -702,6 +704,7 @@ Appearance	Appearance	Ulkoasu
 Controls	Controls	Ohjaus
 Theme	Theme	Teema
 Hide	Hide	Piilota
+Shortcut	Shortcut	Pikavalinta
 Boot to: Rockbox	Boot to: Rockbox	Käynnistys: Rockbox
 Boot to: Q2 Pod	Boot to: Q2 Pod	Käynnistys: Q2 Pod
 Rockbox is not on the card	Rockbox is not on the card	Rockbox puuttuu kortilta
@@ -1093,6 +1096,8 @@ Favorites	Favorites	Suosikit
 Rated Albums	Rated Albums	Arvostellut albumit
 Podcasts	Podcasts	Podcastit
 Audiobooks	Audiobooks	Äänikirjat
+None	None	Ei mitään
+%s is not on the card	%s is not on the card	%s ei ole kortilla
 Groovebox can't start from the card	Groovebox can't start from the card	Groovebox ei voi käynnistyä kortilta
 Groovebox is not on the card	Groovebox is not on the card	Groovebox ei ole kortilla
 Play a Tidal album or playlist first	Play a Tidal album or playlist first	Soita ensin Tidal-albumi tai -soittolista

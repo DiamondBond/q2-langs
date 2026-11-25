@@ -575,6 +575,8 @@ Album not found	Album not found	アルバムが見つかりません
 %u albums	%u albums	%uアルバム
 Play All	Play All	すべて再生
 Every song, shuffled	Every song, shuffled	すべての曲をシャッフル
+Decades	Decades	年代
+Years	Years	年
 No dated albums yet	No dated albums yet	年のあるアルバムがありません
 No songs over 10 minutes	No songs over 10 minutes	10分を超える曲がありません
 Measuring songs… %d/%d	Measuring songs… %d/%d	曲を測定中… %d/%d
@@ -702,6 +704,7 @@ Appearance	Appearance	外観
 Controls	Controls	操作
 Theme	Theme	テーマ
 Hide	Hide	非表示
+Shortcut	Shortcut	ショートカット
 Boot to: Rockbox	Boot to: Rockbox	起動先: Rockbox
 Boot to: Q2 Pod	Boot to: Q2 Pod	起動先: Q2 Pod
 Rockbox is not on the card	Rockbox is not on the card	Rockboxがカードにありません
@@ -1093,6 +1096,8 @@ Favorites	Favorites	お気に入り
 Rated Albums	Rated Albums	評価済みアルバム
 Podcasts	Podcasts	ポッドキャスト
 Audiobooks	Audiobooks	オーディオブック
+None	None	なし
+%s is not on the card	%s is not on the card	%sがカードにありません
 Groovebox can't start from the card	Groovebox can't start from the card	Grooveboxをカードから起動できません
 Groovebox is not on the card	Groovebox is not on the card	Grooveboxがカードにありません
 Play a Tidal album or playlist first	Play a Tidal album or playlist first	先にTidalのアルバムかプレイリストを再生してください

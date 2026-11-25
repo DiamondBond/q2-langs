@@ -575,6 +575,8 @@ Album not found	Album not found	Album niet gevonden
 %u albums	%u albums	%u albums
 Play All	Play All	Alles afspelen
 Every song, shuffled	Every song, shuffled	Alle nummers, willekeurig
+Decades	Decades	Decennia
+Years	Years	Jaren
 No dated albums yet	No dated albums yet	Nog geen albums met jaartal
 No songs over 10 minutes	No songs over 10 minutes	Geen nummers van meer dan 10 minuten
 Measuring songs… %d/%d	Measuring songs… %d/%d	Nummers meten… %d/%d
@@ -702,6 +704,7 @@ Appearance	Appearance	Weergave
 Controls	Controls	Bediening
 Theme	Theme	Thema
 Hide	Hide	Verbergen
+Shortcut	Shortcut	Snelkoppeling
 Boot to: Rockbox	Boot to: Rockbox	Opstarten naar: Rockbox
 Boot to: Q2 Pod	Boot to: Q2 Pod	Opstarten naar: Q2 Pod
 Rockbox is not on the card	Rockbox is not on the card	Rockbox staat niet op de kaart
@@ -1093,6 +1096,8 @@ Favorites	Favorites	Favorieten
 Rated Albums	Rated Albums	Beoordeelde albums
 Podcasts	Podcasts	Podcasts
 Audiobooks	Audiobooks	Luisterboeken
+None	None	Geen
+%s is not on the card	%s is not on the card	%s staat niet op de kaart
 Groovebox can't start from the card	Groovebox can't start from the card	Groovebox kan niet vanaf de kaart starten
 Groovebox is not on the card	Groovebox is not on the card	Groovebox staat niet op de kaart
 Play a Tidal album or playlist first	Play a Tidal album or playlist first	Speel eerst een Tidal-album of -afspeellijst af
