@@ -579,6 +579,15 @@ No dated albums yet	No dated albums yet	Chưa có album nào có năm
 No songs over 10 minutes	No songs over 10 minutes	Không có bài hát nào dài hơn 10 phút
 Measuring songs… %d/%d	Measuring songs… %d/%d	Đang đo bài hát… %d/%d
 Measuring songs…	Measuring songs…	Đang đo bài hát…
+Sunday	Sunday	Chủ Nhật
+Monday	Monday	Thứ Hai
+Tuesday	Tuesday	Thứ Ba
+Wednesday	Wednesday	Thứ Tư
+Thursday	Thursday	Thứ Năm
+Friday	Friday	Thứ Sáu
+Saturday	Saturday	Thứ Bảy
+%u of %u	%u of %u	%u trên %u
+slide to unlock	slide to unlock	Trượt để mở khóa
 Release to search	Release to search	Thả để tìm kiếm
 Pull to search	Pull to search	Kéo để tìm kiếm
 Shut Down	Shut Down	Tắt máy
@@ -638,6 +647,14 @@ Receive Audio	Receive Audio	Nhận âm thanh
 Log Failed Artwork	Log Failed Artwork	Ghi nhật ký ảnh bìa lỗi
 Hide Duplicate Albums	Hide Duplicate Albums	Ẩn album trùng
 Hide Duplicate Songs	Hide Duplicate Songs	Ẩn bài hát trùng
+Show Sample Rate	Show Sample Rate	Hiện tần số lấy mẫu
+Layout: Default	Layout: Default	Bố cục: Tiêu chuẩn
+Layout: At a Glance	Layout: At a Glance	Bố cục: Tổng quan
+Background: Cover Colour	Background: Cover Colour	Nền: Màu từ bìa
+Background: Plain	Background: Plain	Nền: Trơn
+Background: Blurred Cover	Background: Blurred Cover	Nền: Ảnh bìa mờ
+Shine	Shine	Ánh lóe
+Return Unlocks	Return Unlocks	Nút Quay lại mở khóa
 Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	Lần sau Cover Flow sẽ tạo lại ảnh bìa
 Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	Tắt rồi bật lại Bluetooth để áp dụng
 Folder Root: %s	Folder Root: %s	Gốc thư mục: %s

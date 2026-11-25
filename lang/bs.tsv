@@ -579,6 +579,15 @@ No dated albums yet	No dated albums yet	Još nema datiranih albuma
 No songs over 10 minutes	No songs over 10 minutes	Nema pjesama dužih od 10 minuta
 Measuring songs… %d/%d	Measuring songs… %d/%d	Mjerenje pjesama… %d/%d
 Measuring songs…	Measuring songs…	Mjerenje pjesama…
+Sunday	Sunday	nedjelja
+Monday	Monday	ponedjeljak
+Tuesday	Tuesday	utorak
+Wednesday	Wednesday	srijeda
+Thursday	Thursday	četvrtak
+Friday	Friday	petak
+Saturday	Saturday	subota
+%u of %u	%u of %u	%u od %u
+slide to unlock	slide to unlock	Prevucite da otključate
 Release to search	Release to search	Pustite za pretragu
 Pull to search	Pull to search	Povucite za pretragu
 Shut Down	Shut Down	Isključi
@@ -638,6 +647,14 @@ Receive Audio	Receive Audio	Prijem zvuka
 Log Failed Artwork	Log Failed Artwork	Zapisuj neuspjele omote
 Hide Duplicate Albums	Hide Duplicate Albums	Sakrij duplirane albume
 Hide Duplicate Songs	Hide Duplicate Songs	Sakrij duplirane pjesme
+Show Sample Rate	Show Sample Rate	Prikaži frekvenciju uzorkovanja
+Layout: Default	Layout: Default	Raspored: Standardni
+Layout: At a Glance	Layout: At a Glance	Raspored: Pregled
+Background: Cover Colour	Background: Cover Colour	Pozadina: Boja omota
+Background: Plain	Background: Plain	Pozadina: Jednostavna
+Background: Blurred Cover	Background: Blurred Cover	Pozadina: Zamućena
+Shine	Shine	Sjaj
+Return Unlocks	Return Unlocks	Nazad otključava
 Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	Cover Flow će sljedeći put ponovo izgraditi omote
 Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	Isključite i uključite Bluetooth da se primijeni
 Folder Root: %s	Folder Root: %s	Korijen foldera: %s

@@ -579,6 +579,15 @@ No dated albums yet	No dated albums yet	年のあるアルバムがありませ�
 No songs over 10 minutes	No songs over 10 minutes	10分を超える曲がありません
 Measuring songs… %d/%d	Measuring songs… %d/%d	曲を測定中… %d/%d
 Measuring songs…	Measuring songs…	曲を測定中…
+Sunday	Sunday	日曜日
+Monday	Monday	月曜日
+Tuesday	Tuesday	火曜日
+Wednesday	Wednesday	水曜日
+Thursday	Thursday	木曜日
+Friday	Friday	金曜日
+Saturday	Saturday	土曜日
+%u of %u	%u of %u	%u / %u
+slide to unlock	slide to unlock	スライドでロック解除
 Release to search	Release to search	離して検索
 Pull to search	Pull to search	引いて検索
 Shut Down	Shut Down	シャットダウン
@@ -638,6 +647,14 @@ Receive Audio	Receive Audio	音声を受信
 Log Failed Artwork	Log Failed Artwork	失敗したアートワークを記録
 Hide Duplicate Albums	Hide Duplicate Albums	重複したアルバムを非表示
 Hide Duplicate Songs	Hide Duplicate Songs	重複した曲を非表示
+Show Sample Rate	Show Sample Rate	サンプリングレートを表示
+Layout: Default	Layout: Default	レイアウト: 標準
+Layout: At a Glance	Layout: At a Glance	レイアウト: 概要
+Background: Cover Colour	Background: Cover Colour	背景: カバーの色
+Background: Plain	Background: Plain	背景: 無地
+Background: Blurred Cover	Background: Blurred Cover	背景: ぼかしカバー
+Shine	Shine	輝き
+Return Unlocks	Return Unlocks	戻るボタンでロック解除
 Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	次回、Cover Flowがアートワークを作り直します
 Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	適用するにはBluetoothをオフ/オンしてください
 Folder Root: %s	Folder Root: %s	フォルダのルート: %s

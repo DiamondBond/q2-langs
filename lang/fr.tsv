@@ -579,6 +579,15 @@ No dated albums yet	No dated albums yet	Aucun album daté
 No songs over 10 minutes	No songs over 10 minutes	Aucun morceau de plus de 10 min
 Measuring songs… %d/%d	Measuring songs… %d/%d	Mesure des morceaux… %d/%d
 Measuring songs…	Measuring songs…	Mesure des morceaux…
+Sunday	Sunday	dimanche
+Monday	Monday	lundi
+Tuesday	Tuesday	mardi
+Wednesday	Wednesday	mercredi
+Thursday	Thursday	jeudi
+Friday	Friday	vendredi
+Saturday	Saturday	samedi
+%u of %u	%u of %u	%u sur %u
+slide to unlock	slide to unlock	Glisser pour déverrouiller
 Release to search	Release to search	Relâchez pour chercher
 Pull to search	Pull to search	Tirez pour chercher
 Shut Down	Shut Down	Éteindre
@@ -638,6 +647,14 @@ Receive Audio	Receive Audio	Recevoir l'audio
 Log Failed Artwork	Log Failed Artwork	Journal des pochettes en échec
 Hide Duplicate Albums	Hide Duplicate Albums	Masquer les albums en double
 Hide Duplicate Songs	Hide Duplicate Songs	Masquer les morceaux en double
+Show Sample Rate	Show Sample Rate	Afficher la fréquence d'échantillonnage
+Layout: Default	Layout: Default	Disposition: Standard
+Layout: At a Glance	Layout: At a Glance	Disposition: Aperçu
+Background: Cover Colour	Background: Cover Colour	Fond: Couleur pochette
+Background: Plain	Background: Plain	Fond: Uni
+Background: Blurred Cover	Background: Blurred Cover	Fond: Pochette floue
+Shine	Shine	Reflet
+Return Unlocks	Return Unlocks	Déverrouiller avec Retour
 Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	Cover Flow recréera les pochettes ensuite
 Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	Éteignez puis rallumez le Bluetooth pour appliquer
 Folder Root: %s	Folder Root: %s	Racine des dossiers: %s

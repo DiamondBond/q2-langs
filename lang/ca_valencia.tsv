@@ -579,6 +579,15 @@ No dated albums yet	No dated albums yet	Encara no hi ha àlbums amb any
 No songs over 10 minutes	No songs over 10 minutes	No hi ha cançons de més de 10 minuts
 Measuring songs… %d/%d	Measuring songs… %d/%d	Mesurant cançons… %d/%d
 Measuring songs…	Measuring songs…	Mesurant cançons…
+Sunday	Sunday	diumenge
+Monday	Monday	dilluns
+Tuesday	Tuesday	dimarts
+Wednesday	Wednesday	dimecres
+Thursday	Thursday	dijous
+Friday	Friday	divendres
+Saturday	Saturday	dissabte
+%u of %u	%u of %u	%u de %u
+slide to unlock	slide to unlock	llisca per desbloquejar
 Release to search	Release to search	Solta per a buscar
 Pull to search	Pull to search	Arrossega per a buscar
 Shut Down	Shut Down	Apaga
@@ -638,6 +647,14 @@ Receive Audio	Receive Audio	Rep àudio
 Log Failed Artwork	Log Failed Artwork	Registra les portades fallides
 Hide Duplicate Albums	Hide Duplicate Albums	Amaga els àlbums duplicats
 Hide Duplicate Songs	Hide Duplicate Songs	Amaga les cançons duplicades
+Show Sample Rate	Show Sample Rate	Mostra la freqüència de mostreig
+Layout: Default	Layout: Default	Disposició: Estàndard
+Layout: At a Glance	Layout: At a Glance	Disposició: D'un cop d'ull
+Background: Cover Colour	Background: Cover Colour	Fons: Color de portada
+Background: Plain	Background: Plain	Fons: Pla
+Background: Blurred Cover	Background: Blurred Cover	Fons: Desenfocat
+Shine	Shine	Reflex
+Return Unlocks	Return Unlocks	Arrere desbloqueja
 Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	Cover Flow tornarà a fer les portades la pròxima vegada
 Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	Apaga i encén Bluetooth per a aplicar-ho
 Folder Root: %s	Folder Root: %s	Carpeta arrel: %s

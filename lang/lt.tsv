@@ -579,6 +579,15 @@ No dated albums yet	No dated albums yet	Albumų su data dar nėra
 No songs over 10 minutes	No songs over 10 minutes	Dainų, ilgesnių nei 10 minučių, nėra
 Measuring songs… %d/%d	Measuring songs… %d/%d	Matuojamos dainos… %d/%d
 Measuring songs…	Measuring songs…	Matuojamos dainos…
+Sunday	Sunday	sekmadienis
+Monday	Monday	pirmadienis
+Tuesday	Tuesday	antradienis
+Wednesday	Wednesday	trečiadienis
+Thursday	Thursday	ketvirtadienis
+Friday	Friday	penktadienis
+Saturday	Saturday	šeštadienis
+%u of %u	%u of %u	%u iš %u
+slide to unlock	slide to unlock	Atrakinkite
 Release to search	Release to search	Atleiskite, kad ieškotumėte
 Pull to search	Pull to search	Patraukite, kad ieškotumėte
 Shut Down	Shut Down	Išjungti
@@ -638,6 +647,14 @@ Receive Audio	Receive Audio	Priimti garsą
 Log Failed Artwork	Log Failed Artwork	Registruoti viršelių klaidas
 Hide Duplicate Albums	Hide Duplicate Albums	Slėpti pasikartojančius albumus
 Hide Duplicate Songs	Hide Duplicate Songs	Slėpti pasikartojančias dainas
+Show Sample Rate	Show Sample Rate	Rodyti diskretizavimo dažnį
+Layout: Default	Layout: Default	Išdėstymas: numatytasis
+Layout: At a Glance	Layout: At a Glance	Išdėstymas: apžvalga
+Background: Cover Colour	Background: Cover Colour	Fonas: viršelio spalva
+Background: Plain	Background: Plain	Fonas: paprastas
+Background: Blurred Cover	Background: Blurred Cover	Fonas: neryškus
+Shine	Shine	Blizgesys
+Return Unlocks	Return Unlocks	„Atgal“ atrakina
 Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	Cover Flow viršelius sukurs iš naujo kitą kartą
 Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	Išjunkite ir vėl įjunkite Bluetooth, kad pritaikytumėte
 Folder Root: %s	Folder Root: %s	Aplankų šaknis: %s

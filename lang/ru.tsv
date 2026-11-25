@@ -579,6 +579,15 @@ No dated albums yet	No dated albums yet	Альбомов с датой пока 
 No songs over 10 minutes	No songs over 10 minutes	Нет песен длиннее 10 минут
 Measuring songs… %d/%d	Measuring songs… %d/%d	Измерение песен… %d/%d
 Measuring songs…	Measuring songs…	Измерение песен…
+Sunday	Sunday	воскресенье
+Monday	Monday	понедельник
+Tuesday	Tuesday	вторник
+Wednesday	Wednesday	среда
+Thursday	Thursday	четверг
+Friday	Friday	пятница
+Saturday	Saturday	суббота
+%u of %u	%u of %u	%u из %u
+slide to unlock	slide to unlock	Разблокируйте
 Release to search	Release to search	Отпустите для поиска
 Pull to search	Pull to search	Потяните для поиска
 Shut Down	Shut Down	Выключить
@@ -638,6 +647,14 @@ Receive Audio	Receive Audio	Приём звука
 Log Failed Artwork	Log Failed Artwork	Журнал сбоев обложек
 Hide Duplicate Albums	Hide Duplicate Albums	Скрыть дубликаты альбомов
 Hide Duplicate Songs	Hide Duplicate Songs	Скрыть дубликаты песен
+Show Sample Rate	Show Sample Rate	Показывать частоту дискретизации
+Layout: Default	Layout: Default	Макет: Обычный
+Layout: At a Glance	Layout: At a Glance	Макет: Обзор
+Background: Cover Colour	Background: Cover Colour	Фон: Цвет обложки
+Background: Plain	Background: Plain	Фон: Простой
+Background: Blurred Cover	Background: Blurred Cover	Фон: Размытый
+Shine	Shine	Блик
+Return Unlocks	Return Unlocks	«Назад» разблокирует
 Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	Cover Flow перестроит обложки в следующий раз
 Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	Выключите и включите Bluetooth для применения
 Folder Root: %s	Folder Root: %s	Корень папок: %s

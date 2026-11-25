@@ -579,6 +579,15 @@ No dated albums yet	No dated albums yet	Belum ada album bertanggal
 No songs over 10 minutes	No songs over 10 minutes	Tidak ada lagu di atas 10 menit
 Measuring songs… %d/%d	Measuring songs… %d/%d	Mengukur lagu… %d/%d
 Measuring songs…	Measuring songs…	Mengukur lagu…
+Sunday	Sunday	Minggu
+Monday	Monday	Senin
+Tuesday	Tuesday	Selasa
+Wednesday	Wednesday	Rabu
+Thursday	Thursday	Kamis
+Friday	Friday	Jumat
+Saturday	Saturday	Sabtu
+%u of %u	%u of %u	%u dari %u
+slide to unlock	slide to unlock	Geser untuk buka kunci
 Release to search	Release to search	Lepas untuk mencari
 Pull to search	Pull to search	Tarik untuk mencari
 Shut Down	Shut Down	Matikan
@@ -638,6 +647,14 @@ Receive Audio	Receive Audio	Terima audio
 Log Failed Artwork	Log Failed Artwork	Catat sampul gagal
 Hide Duplicate Albums	Hide Duplicate Albums	Sembunyikan album duplikat
 Hide Duplicate Songs	Hide Duplicate Songs	Sembunyikan lagu duplikat
+Show Sample Rate	Show Sample Rate	Tampilkan sample rate
+Layout: Default	Layout: Default	Tata letak: Standar
+Layout: At a Glance	Layout: At a Glance	Tata letak: Sekilas
+Background: Cover Colour	Background: Cover Colour	Latar: Warna sampul
+Background: Plain	Background: Plain	Latar: Polos
+Background: Blurred Cover	Background: Blurred Cover	Latar: Sampul buram
+Shine	Shine	Kilau
+Return Unlocks	Return Unlocks	Tombol Kembali buka kunci
 Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	Cover Flow akan membuat ulang sampul lain kali
 Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	Matikan lalu nyalakan Bluetooth untuk menerapkan
 Folder Root: %s	Folder Root: %s	Folder utama: %s

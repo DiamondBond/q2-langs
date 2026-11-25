@@ -579,6 +579,15 @@ No dated albums yet	No dated albums yet	Ei vielä vuosiluvullisia albumeita
 No songs over 10 minutes	No songs over 10 minutes	Ei yli 10 minuutin kappaleita
 Measuring songs… %d/%d	Measuring songs… %d/%d	Mitataan kappaleita… %d/%d
 Measuring songs…	Measuring songs…	Mitataan kappaleita…
+Sunday	Sunday	sunnuntai
+Monday	Monday	maanantai
+Tuesday	Tuesday	tiistai
+Wednesday	Wednesday	keskiviikko
+Thursday	Thursday	torstai
+Friday	Friday	perjantai
+Saturday	Saturday	lauantai
+%u of %u	%u of %u	%u / %u
+slide to unlock	slide to unlock	liu'uta avataksesi
 Release to search	Release to search	Vapauta hakua varten
 Pull to search	Pull to search	Vedä hakeaksesi
 Shut Down	Shut Down	Sammuta
@@ -638,6 +647,14 @@ Receive Audio	Receive Audio	Vastaanota ääntä
 Log Failed Artwork	Log Failed Artwork	Kirjaa kansikuvavirheet
 Hide Duplicate Albums	Hide Duplicate Albums	Piilota päällekkäiset albumit
 Hide Duplicate Songs	Hide Duplicate Songs	Piilota päällekkäiset kappaleet
+Show Sample Rate	Show Sample Rate	Näytä näytteenottotaajuus
+Layout: Default	Layout: Default	Asettelu: Oletus
+Layout: At a Glance	Layout: At a Glance	Asettelu: Yleisnäkymä
+Background: Cover Colour	Background: Cover Colour	Tausta: Kannen väri
+Background: Plain	Background: Plain	Tausta: Tasainen
+Background: Blurred Cover	Background: Blurred Cover	Tausta: Sumea kansi
+Shine	Shine	Kiilto
+Return Unlocks	Return Unlocks	Paluu avaa lukituksen
 Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	Cover Flow rakentaa kansikuvat uudelleen ensi kerralla
 Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	Ota käyttöön kytkemällä Bluetooth pois ja päälle
 Folder Root: %s	Folder Root: %s	Kansion juuri: %s

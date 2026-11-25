@@ -579,6 +579,15 @@ No dated albums yet	No dated albums yet	ยังไม่มีอัลบั�
 No songs over 10 minutes	No songs over 10 minutes	ไม่มีเพลงที่ยาวเกิน 10 นาที
 Measuring songs… %d/%d	Measuring songs… %d/%d	กำลังวัดเพลง… %d/%d
 Measuring songs…	Measuring songs…	กำลังวัดเพลง…
+Sunday	Sunday	วันอาทิตย์
+Monday	Monday	วันจันทร์
+Tuesday	Tuesday	วันอังคาร
+Wednesday	Wednesday	วันพุธ
+Thursday	Thursday	วันพฤหัสบดี
+Friday	Friday	วันศุกร์
+Saturday	Saturday	วันเสาร์
+%u of %u	%u of %u	%u จาก %u
+slide to unlock	slide to unlock	เลื่อนเพื่อปลดล็อก
 Release to search	Release to search	ปล่อยเพื่อค้นหา
 Pull to search	Pull to search	ดึงเพื่อค้นหา
 Shut Down	Shut Down	ปิดเครื่อง
@@ -638,6 +647,14 @@ Receive Audio	Receive Audio	รับเสียง
 Log Failed Artwork	Log Failed Artwork	เก็บบันทึกภาพปกที่ล้มเหลว
 Hide Duplicate Albums	Hide Duplicate Albums	ซ่อนอัลบั้มที่ซ้ำ
 Hide Duplicate Songs	Hide Duplicate Songs	ซ่อนเพลงที่ซ้ำ
+Show Sample Rate	Show Sample Rate	แสดงแซมเปิลเรต
+Layout: Default	Layout: Default	การจัดวาง: มาตรฐาน
+Layout: At a Glance	Layout: At a Glance	การจัดวาง: ภาพรวม
+Background: Cover Colour	Background: Cover Colour	พื้นหลัง: สีจากปก
+Background: Plain	Background: Plain	พื้นหลัง: ธรรมดา
+Background: Blurred Cover	Background: Blurred Cover	พื้นหลัง: ปกเบลอ
+Shine	Shine	ประกายแสง
+Return Unlocks	Return Unlocks	ปุ่มกลับปลดล็อก
 Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	Cover Flow จะสร้างภาพปกใหม่ครั้งถัดไป
 Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	ปิดแล้วเปิด Bluetooth ใหม่เพื่อใช้งาน
 Folder Root: %s	Folder Root: %s	โฟลเดอร์ราก: %s

@@ -579,6 +579,15 @@ No dated albums yet	No dated albums yet	연도 정보가 있는 앨범 없음
 No songs over 10 minutes	No songs over 10 minutes	10분이 넘는 노래 없음
 Measuring songs… %d/%d	Measuring songs… %d/%d	노래 측정 중… %d/%d
 Measuring songs…	Measuring songs…	노래 측정 중…
+Sunday	Sunday	일요일
+Monday	Monday	월요일
+Tuesday	Tuesday	화요일
+Wednesday	Wednesday	수요일
+Thursday	Thursday	목요일
+Friday	Friday	금요일
+Saturday	Saturday	토요일
+%u of %u	%u of %u	%u / %u
+slide to unlock	slide to unlock	밀어서 잠금해제
 Release to search	Release to search	놓으면 검색
 Pull to search	Pull to search	당겨서 검색
 Shut Down	Shut Down	종료
@@ -638,6 +647,14 @@ Receive Audio	Receive Audio	오디오 수신
 Log Failed Artwork	Log Failed Artwork	실패한 아트워크 기록
 Hide Duplicate Albums	Hide Duplicate Albums	중복 앨범 숨기기
 Hide Duplicate Songs	Hide Duplicate Songs	중복 노래 숨기기
+Show Sample Rate	Show Sample Rate	샘플 레이트 표시
+Layout: Default	Layout: Default	레이아웃: 표준
+Layout: At a Glance	Layout: At a Glance	레이아웃: 한눈에 보기
+Background: Cover Colour	Background: Cover Colour	배경: 커버 색상
+Background: Plain	Background: Plain	배경: 민무늬
+Background: Blurred Cover	Background: Blurred Cover	배경: 흐린 커버
+Shine	Shine	반짝임
+Return Unlocks	Return Unlocks	뒤로 버튼으로 잠금 해제
 Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	다음에 Cover Flow가 아트워크를 다시 만듭니다
 Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	블루투스를 껐다 켜면 적용됩니다
 Folder Root: %s	Folder Root: %s	폴더 루트: %s

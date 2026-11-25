@@ -579,6 +579,15 @@ No dated albums yet	No dated albums yet	Nog geen albums met jaartal
 No songs over 10 minutes	No songs over 10 minutes	Geen nummers van meer dan 10 minuten
 Measuring songs… %d/%d	Measuring songs… %d/%d	Nummers meten… %d/%d
 Measuring songs…	Measuring songs…	Nummers meten…
+Sunday	Sunday	zondag
+Monday	Monday	maandag
+Tuesday	Tuesday	dinsdag
+Wednesday	Wednesday	woensdag
+Thursday	Thursday	donderdag
+Friday	Friday	vrijdag
+Saturday	Saturday	zaterdag
+%u of %u	%u of %u	%u van %u
+slide to unlock	slide to unlock	Ontgrendel
 Release to search	Release to search	Laat los om te zoeken
 Pull to search	Pull to search	Trek om te zoeken
 Shut Down	Shut Down	Uitschakelen
@@ -638,6 +647,14 @@ Receive Audio	Receive Audio	Audio ontvangen
 Log Failed Artwork	Log Failed Artwork	Mislukte hoezen loggen
 Hide Duplicate Albums	Hide Duplicate Albums	Dubbele albums verbergen
 Hide Duplicate Songs	Hide Duplicate Songs	Dubbele nummers verbergen
+Show Sample Rate	Show Sample Rate	Samplefrequentie tonen
+Layout: Default	Layout: Default	Indeling: Standaard
+Layout: At a Glance	Layout: At a Glance	Indeling: Overzicht
+Background: Cover Colour	Background: Cover Colour	Achtergrond: Hoeskleur
+Background: Plain	Background: Plain	Achtergrond: Effen
+Background: Blurred Cover	Background: Blurred Cover	Achtergrond: Vervaagd
+Shine	Shine	Glans
+Return Unlocks	Return Unlocks	Terug ontgrendelt
 Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	Cover Flow bouwt de hoezen de volgende keer opnieuw op
 Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	Zet Bluetooth uit en weer aan om toe te passen
 Folder Root: %s	Folder Root: %s	Hoofdmap: %s

@@ -579,6 +579,15 @@ No dated albums yet	No dated albums yet	Henüz tarihli albüm yok
 No songs over 10 minutes	No songs over 10 minutes	10 dakikadan uzun şarkı yok
 Measuring songs… %d/%d	Measuring songs… %d/%d	Şarkılar ölçülüyor… %d/%d
 Measuring songs…	Measuring songs…	Şarkılar ölçülüyor…
+Sunday	Sunday	Pazar
+Monday	Monday	Pazartesi
+Tuesday	Tuesday	Salı
+Wednesday	Wednesday	Çarşamba
+Thursday	Thursday	Perşembe
+Friday	Friday	Cuma
+Saturday	Saturday	Cumartesi
+%u of %u	%u of %u	%u / %u
+slide to unlock	slide to unlock	Kilidi açmak için kaydırın
 Release to search	Release to search	Aramak için bırakın
 Pull to search	Pull to search	Aramak için çekin
 Shut Down	Shut Down	Kapat
@@ -638,6 +647,14 @@ Receive Audio	Receive Audio	Ses al
 Log Failed Artwork	Log Failed Artwork	Başarısız kapakları kaydet
 Hide Duplicate Albums	Hide Duplicate Albums	Yinelenen albümleri gizle
 Hide Duplicate Songs	Hide Duplicate Songs	Yinelenen şarkıları gizle
+Show Sample Rate	Show Sample Rate	Örnekleme hızını göster
+Layout: Default	Layout: Default	Düzen: Varsayılan
+Layout: At a Glance	Layout: At a Glance	Düzen: Genel bakış
+Background: Cover Colour	Background: Cover Colour	Arka plan: Kapak rengi
+Background: Plain	Background: Plain	Arka plan: Düz
+Background: Blurred Cover	Background: Blurred Cover	Arka plan: Bulanık kapak
+Shine	Shine	Parıltı
+Return Unlocks	Return Unlocks	Geri tuşu kilidi açar
 Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	Cover Flow kapakları bir sonraki sefer yeniden oluşturur
 Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	Uygulamak için Bluetooth'u kapatıp açın
 Folder Root: %s	Folder Root: %s	Klasör kökü: %s

@@ -579,6 +579,15 @@ No dated albums yet	No dated albums yet	لا توجد ألبومات مؤرخة 
 No songs over 10 minutes	No songs over 10 minutes	لا توجد أغان تتجاوز 10 دقائق
 Measuring songs… %d/%d	Measuring songs… %d/%d	جار قياس الأغاني… %d/%d
 Measuring songs…	Measuring songs…	جار قياس الأغاني…
+Sunday	Sunday	الأحد
+Monday	Monday	الاثنين
+Tuesday	Tuesday	الثلاثاء
+Wednesday	Wednesday	الأربعاء
+Thursday	Thursday	الخميس
+Friday	Friday	الجمعة
+Saturday	Saturday	السبت
+%u of %u	%u of %u	%u من %u
+slide to unlock	slide to unlock	اسحب لفتح القفل
 Release to search	Release to search	حرر للبحث
 Pull to search	Pull to search	اسحب للبحث
 Shut Down	Shut Down	إيقاف التشغيل
@@ -638,6 +647,14 @@ Receive Audio	Receive Audio	استقبال الصوت
 Log Failed Artwork	Log Failed Artwork	تسجيل الأغلفة الفاشلة
 Hide Duplicate Albums	Hide Duplicate Albums	إخفاء الألبومات المكررة
 Hide Duplicate Songs	Hide Duplicate Songs	إخفاء الأغاني المكررة
+Show Sample Rate	Show Sample Rate	إظهار معدل العينة
+Layout: Default	Layout: Default	التخطيط: عادي
+Layout: At a Glance	Layout: At a Glance	التخطيط: نظرة عامة
+Background: Cover Colour	Background: Cover Colour	الخلفية: لون الغلاف
+Background: Plain	Background: Plain	الخلفية: سادة
+Background: Blurred Cover	Background: Blurred Cover	الخلفية: غلاف مموه
+Shine	Shine	لمعان
+Return Unlocks	Return Unlocks	فتح القفل بزر الرجوع
 Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	سيعيد Cover Flow بناء الأغلفة في المرة القادمة
 Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	أوقف Bluetooth ثم شغله للتطبيق
 Folder Root: %s	Folder Root: %s	جذر المجلدات: %s

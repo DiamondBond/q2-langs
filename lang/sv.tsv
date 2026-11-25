@@ -579,6 +579,15 @@ No dated albums yet	No dated albums yet	Inga daterade album än
 No songs over 10 minutes	No songs over 10 minutes	Inga låtar över 10 minuter
 Measuring songs… %d/%d	Measuring songs… %d/%d	Mäter låtar… %d/%d
 Measuring songs…	Measuring songs…	Mäter låtar…
+Sunday	Sunday	söndag
+Monday	Monday	måndag
+Tuesday	Tuesday	tisdag
+Wednesday	Wednesday	onsdag
+Thursday	Thursday	torsdag
+Friday	Friday	fredag
+Saturday	Saturday	lördag
+%u of %u	%u of %u	%u av %u
+slide to unlock	slide to unlock	Dra för att låsa upp
 Release to search	Release to search	Släpp för att söka
 Pull to search	Pull to search	Dra för att söka
 Shut Down	Shut Down	Stäng av
@@ -638,6 +647,14 @@ Receive Audio	Receive Audio	Ta emot ljud
 Log Failed Artwork	Log Failed Artwork	Logga misslyckade omslag
 Hide Duplicate Albums	Hide Duplicate Albums	Dölj dubbletter av album
 Hide Duplicate Songs	Hide Duplicate Songs	Dölj dubbletter av låtar
+Show Sample Rate	Show Sample Rate	Visa samplingsfrekvens
+Layout: Default	Layout: Default	Upplägg: Standard
+Layout: At a Glance	Layout: At a Glance	Upplägg: Översikt
+Background: Cover Colour	Background: Cover Colour	Bakgrund: Omslagsfärg
+Background: Plain	Background: Plain	Bakgrund: Enkel
+Background: Blurred Cover	Background: Blurred Cover	Bakgrund: Suddig
+Shine	Shine	Glans
+Return Unlocks	Return Unlocks	Tillbaka låser upp
 Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	Cover Flow bygger om omslagen nästa gång
 Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	Stäng av och slå på Bluetooth för att tillämpa
 Folder Root: %s	Folder Root: %s	Rotmapp: %s

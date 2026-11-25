@@ -579,6 +579,15 @@ No dated albums yet	No dated albums yet	Ainda sem álbuns datados
 No songs over 10 minutes	No songs over 10 minutes	Sem músicas com mais de 10 minutos
 Measuring songs… %d/%d	Measuring songs… %d/%d	A medir músicas… %d/%d
 Measuring songs…	Measuring songs…	A medir músicas…
+Sunday	Sunday	domingo
+Monday	Monday	segunda-feira
+Tuesday	Tuesday	terça-feira
+Wednesday	Wednesday	quarta-feira
+Thursday	Thursday	quinta-feira
+Friday	Friday	sexta-feira
+Saturday	Saturday	sábado
+%u of %u	%u of %u	%u de %u
+slide to unlock	slide to unlock	deslize para desbloquear
 Release to search	Release to search	Solte para procurar
 Pull to search	Pull to search	Puxe para procurar
 Shut Down	Shut Down	Desligar
@@ -638,6 +647,14 @@ Receive Audio	Receive Audio	Receber áudio
 Log Failed Artwork	Log Failed Artwork	Registar capas com falha
 Hide Duplicate Albums	Hide Duplicate Albums	Ocultar álbuns duplicados
 Hide Duplicate Songs	Hide Duplicate Songs	Ocultar músicas duplicadas
+Show Sample Rate	Show Sample Rate	Mostrar taxa de amostragem
+Layout: Default	Layout: Default	Layout: Normal
+Layout: At a Glance	Layout: At a Glance	Layout: Num relance
+Background: Cover Colour	Background: Cover Colour	Fundo: Cor da capa
+Background: Plain	Background: Plain	Fundo: Liso
+Background: Blurred Cover	Background: Blurred Cover	Fundo: Desfocado
+Shine	Shine	Reflexo
+Return Unlocks	Return Unlocks	Voltar desbloqueia
 Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	O Cover Flow refaz as capas da próxima vez
 Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	Desligue e volte a ligar o Bluetooth para aplicar
 Folder Root: %s	Folder Root: %s	Pasta raiz: %s

@@ -579,6 +579,15 @@ No dated albums yet	No dated albums yet	尚無標有年份的專輯
 No songs over 10 minutes	No songs over 10 minutes	沒有超過 10 分鐘的歌曲
 Measuring songs… %d/%d	Measuring songs… %d/%d	正在測量歌曲… %d/%d
 Measuring songs…	Measuring songs…	正在測量歌曲…
+Sunday	Sunday	星期日
+Monday	Monday	星期一
+Tuesday	Tuesday	星期二
+Wednesday	Wednesday	星期三
+Thursday	Thursday	星期四
+Friday	Friday	星期五
+Saturday	Saturday	星期六
+%u of %u	%u of %u	%u / %u
+slide to unlock	slide to unlock	滑動來解鎖
 Release to search	Release to search	放開即可搜索
 Pull to search	Pull to search	下拉搜索
 Shut Down	Shut Down	關機
@@ -638,6 +647,14 @@ Receive Audio	Receive Audio	接收音頻
 Log Failed Artwork	Log Failed Artwork	記錄生成失敗的封面
 Hide Duplicate Albums	Hide Duplicate Albums	隱藏重複專輯
 Hide Duplicate Songs	Hide Duplicate Songs	隱藏重複歌曲
+Show Sample Rate	Show Sample Rate	顯示採樣率
+Layout: Default	Layout: Default	佈局: 標準
+Layout: At a Glance	Layout: At a Glance	佈局: 概覽
+Background: Cover Colour	Background: Cover Colour	背景: 封面顏色
+Background: Plain	Background: Plain	背景: 普通
+Background: Blurred Cover	Background: Blurred Cover	背景: 模糊封面
+Shine	Shine	流光
+Return Unlocks	Return Unlocks	返回鍵解鎖
 Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	Cover Flow 下次將重建封面
 Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	請關閉再開啟藍牙以套用
 Folder Root: %s	Folder Root: %s	文件夾根目錄: %s

@@ -579,6 +579,15 @@ No dated albums yet	No dated albums yet	Альбомаў з датай паку�
 No songs over 10 minutes	No songs over 10 minutes	Няма песень даўжэй за 10 хвілін
 Measuring songs… %d/%d	Measuring songs… %d/%d	Вымярэнне песень… %d/%d
 Measuring songs…	Measuring songs…	Вымярэнне песень…
+Sunday	Sunday	нядзеля
+Monday	Monday	панядзелак
+Tuesday	Tuesday	аўторак
+Wednesday	Wednesday	серада
+Thursday	Thursday	чацвер
+Friday	Friday	пятніца
+Saturday	Saturday	субота
+%u of %u	%u of %u	%u з %u
+slide to unlock	slide to unlock	Разблакуйце
 Release to search	Release to search	Адпусціце для пошуку
 Pull to search	Pull to search	Пацягніце для пошуку
 Shut Down	Shut Down	Выключыць
@@ -638,6 +647,14 @@ Receive Audio	Receive Audio	Прыём гуку
 Log Failed Artwork	Log Failed Artwork	Журнал збояў вокладак
 Hide Duplicate Albums	Hide Duplicate Albums	Схаваць дублікаты альбомаў
 Hide Duplicate Songs	Hide Duplicate Songs	Схаваць дублікаты песень
+Show Sample Rate	Show Sample Rate	Паказваць частату дыскрэтызацыі
+Layout: Default	Layout: Default	Макет: Звычайны
+Layout: At a Glance	Layout: At a Glance	Макет: Агляд
+Background: Cover Colour	Background: Cover Colour	Фон: Колер вокладкі
+Background: Plain	Background: Plain	Фон: Просты
+Background: Blurred Cover	Background: Blurred Cover	Фон: Размыты
+Shine	Shine	Блік
+Return Unlocks	Return Unlocks	«Назад» разблакуе
 Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	Cover Flow перабудуе вокладкі наступным разам
 Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	Выключыце і ўключыце Bluetooth, каб ужыць
 Folder Root: %s	Folder Root: %s	Корань папак: %s

@@ -578,6 +578,15 @@ No dated albums yet	No dated albums yet	library_lists.c
 No songs over 10 minutes	No songs over 10 minutes	library_lists.c
 Measuring songs… %d/%d	Measuring songs… %d/%d	library_lists.c
 Measuring songs…	Measuring songs…	library_lists.c
+Sunday	Sunday	lock_glance.c
+Monday	Monday	lock_glance.c
+Tuesday	Tuesday	lock_glance.c
+Wednesday	Wednesday	lock_glance.c
+Thursday	Thursday	lock_glance.c
+Friday	Friday	lock_glance.c
+Saturday	Saturday	lock_glance.c
+%u of %u	%u of %u	lock_glance.c
+slide to unlock	slide to unlock	lock_glance.c
 Release to search	Release to search	navigation.c
 Pull to search	Pull to search	navigation.c
 Shut Down	Shut Down	navigation.c
@@ -637,6 +646,14 @@ Receive Audio	Receive Audio	navigation.c
 Log Failed Artwork	Log Failed Artwork	navigation.c
 Hide Duplicate Albums	Hide Duplicate Albums	navigation.c
 Hide Duplicate Songs	Hide Duplicate Songs	navigation.c
+Show Sample Rate	Show Sample Rate	navigation.c
+Layout: Default	Layout: Default	navigation.c
+Layout: At a Glance	Layout: At a Glance	navigation.c
+Background: Cover Colour	Background: Cover Colour	navigation.c
+Background: Plain	Background: Plain	navigation.c
+Background: Blurred Cover	Background: Blurred Cover	navigation.c
+Shine	Shine	navigation.c
+Return Unlocks	Return Unlocks	navigation.c
 Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	navigation.c
 Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	navigation.c
 Folder Root: %s	Folder Root: %s	navigation.c

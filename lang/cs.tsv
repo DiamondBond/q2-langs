@@ -579,6 +579,15 @@ No dated albums yet	No dated albums yet	Zatím žádná alba s datem
 No songs over 10 minutes	No songs over 10 minutes	Žádné skladby delší než 10 minut
 Measuring songs… %d/%d	Measuring songs… %d/%d	Měření skladeb… %d/%d
 Measuring songs…	Measuring songs…	Měření skladeb…
+Sunday	Sunday	neděle
+Monday	Monday	pondělí
+Tuesday	Tuesday	úterý
+Wednesday	Wednesday	středa
+Thursday	Thursday	čtvrtek
+Friday	Friday	pátek
+Saturday	Saturday	sobota
+%u of %u	%u of %u	%u z %u
+slide to unlock	slide to unlock	Posunutím odemknete
 Release to search	Release to search	Uvolněte a hledejte
 Pull to search	Pull to search	Přetažením vyhledáte
 Shut Down	Shut Down	Vypnout
@@ -638,6 +647,14 @@ Receive Audio	Receive Audio	Přijímat zvuk
 Log Failed Artwork	Log Failed Artwork	Protokolovat chyby obalů
 Hide Duplicate Albums	Hide Duplicate Albums	Skrýt duplicitní alba
 Hide Duplicate Songs	Hide Duplicate Songs	Skrýt duplicitní skladby
+Show Sample Rate	Show Sample Rate	Zobrazit vzorkovací frekvenci
+Layout: Default	Layout: Default	Rozvržení: Standardní
+Layout: At a Glance	Layout: At a Glance	Rozvržení: Přehled
+Background: Cover Colour	Background: Cover Colour	Pozadí: Barva obalu
+Background: Plain	Background: Plain	Pozadí: Prosté
+Background: Blurred Cover	Background: Blurred Cover	Pozadí: Rozmazané
+Shine	Shine	Lesk
+Return Unlocks	Return Unlocks	Zpět odemyká
 Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	Cover Flow příště obaly sestaví znovu
 Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	Použijete vypnutím a zapnutím Bluetooth
 Folder Root: %s	Folder Root: %s	Kořenová složka: %s

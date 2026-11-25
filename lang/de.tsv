@@ -579,6 +579,15 @@ No dated albums yet	No dated albums yet	Noch keine datierten Alben
 No songs over 10 minutes	No songs over 10 minutes	Keine Titel über 10 Minuten
 Measuring songs… %d/%d	Measuring songs… %d/%d	Titel werden gemessen… %d/%d
 Measuring songs…	Measuring songs…	Titel werden gemessen…
+Sunday	Sunday	Sonntag
+Monday	Monday	Montag
+Tuesday	Tuesday	Dienstag
+Wednesday	Wednesday	Mittwoch
+Thursday	Thursday	Donnerstag
+Friday	Friday	Freitag
+Saturday	Saturday	Samstag
+%u of %u	%u of %u	%u von %u
+slide to unlock	slide to unlock	Entsperren
 Release to search	Release to search	Zum Suchen loslassen
 Pull to search	Pull to search	Zum Suchen ziehen
 Shut Down	Shut Down	Herunterfahren
@@ -638,6 +647,14 @@ Receive Audio	Receive Audio	Audio empfangen
 Log Failed Artwork	Log Failed Artwork	Cover-Fehler protokollieren
 Hide Duplicate Albums	Hide Duplicate Albums	Doppelte Alben ausblenden
 Hide Duplicate Songs	Hide Duplicate Songs	Doppelte Titel ausblenden
+Show Sample Rate	Show Sample Rate	Abtastrate anzeigen
+Layout: Default	Layout: Default	Anordnung: Standard
+Layout: At a Glance	Layout: At a Glance	Anordnung: Übersicht
+Background: Cover Colour	Background: Cover Colour	Hintergrund: Coverfarbe
+Background: Plain	Background: Plain	Hintergrund: Schlicht
+Background: Blurred Cover	Background: Blurred Cover	Hintergrund: Unscharf
+Shine	Shine	Glanz
+Return Unlocks	Return Unlocks	Entsperren mit Zurück
 Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	Cover Flow baut die Cover beim nächsten Mal neu auf
 Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	Zum Anwenden Bluetooth aus- und einschalten
 Folder Root: %s	Folder Root: %s	Stammordner: %s

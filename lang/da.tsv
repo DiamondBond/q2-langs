@@ -579,6 +579,15 @@ No dated albums yet	No dated albums yet	Ingen daterede albummer endnu
 No songs over 10 minutes	No songs over 10 minutes	Ingen sange over 10 minutter
 Measuring songs… %d/%d	Measuring songs… %d/%d	Måler sange… %d/%d
 Measuring songs…	Measuring songs…	Måler sange…
+Sunday	Sunday	søndag
+Monday	Monday	mandag
+Tuesday	Tuesday	tirsdag
+Wednesday	Wednesday	onsdag
+Thursday	Thursday	torsdag
+Friday	Friday	fredag
+Saturday	Saturday	lørdag
+%u of %u	%u of %u	%u af %u
+slide to unlock	slide to unlock	Skub for at låse op
 Release to search	Release to search	Slip for at søge
 Pull to search	Pull to search	Træk for at søge
 Shut Down	Shut Down	Sluk
@@ -638,6 +647,14 @@ Receive Audio	Receive Audio	Modtag lyd
 Log Failed Artwork	Log Failed Artwork	Log mislykkede covers
 Hide Duplicate Albums	Hide Duplicate Albums	Skjul dobbelte albummer
 Hide Duplicate Songs	Hide Duplicate Songs	Skjul dobbelte sange
+Show Sample Rate	Show Sample Rate	Vis samplingfrekvens
+Layout: Default	Layout: Default	Opstilling: Standard
+Layout: At a Glance	Layout: At a Glance	Opstilling: Overblik
+Background: Cover Colour	Background: Cover Colour	Baggrund: Coverfarve
+Background: Plain	Background: Plain	Baggrund: Enkel
+Background: Blurred Cover	Background: Blurred Cover	Baggrund: Sløret cover
+Shine	Shine	Glans
+Return Unlocks	Return Unlocks	Tilbage låser op
 Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	Cover Flow genopbygger covers næste gang
 Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	Slå Bluetooth fra og til for at anvende
 Folder Root: %s	Folder Root: %s	Rodmappe: %s

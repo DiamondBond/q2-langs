@@ -579,6 +579,15 @@ No dated albums yet	No dated albums yet	Альбомів з датою ще не
 No songs over 10 minutes	No songs over 10 minutes	Немає пісень довших за 10 хвилин
 Measuring songs… %d/%d	Measuring songs… %d/%d	Вимірювання пісень… %d/%d
 Measuring songs…	Measuring songs…	Вимірювання пісень…
+Sunday	Sunday	неділя
+Monday	Monday	понеділок
+Tuesday	Tuesday	вівторок
+Wednesday	Wednesday	середа
+Thursday	Thursday	четвер
+Friday	Friday	п'ятниця
+Saturday	Saturday	субота
+%u of %u	%u of %u	%u з %u
+slide to unlock	slide to unlock	Розблокуйте
 Release to search	Release to search	Відпустіть для пошуку
 Pull to search	Pull to search	Потягніть для пошуку
 Shut Down	Shut Down	Вимкнути
@@ -638,6 +647,14 @@ Receive Audio	Receive Audio	Приймати звук
 Log Failed Artwork	Log Failed Artwork	Журнал збоїв обкладинок
 Hide Duplicate Albums	Hide Duplicate Albums	Сховати дублікати альбомів
 Hide Duplicate Songs	Hide Duplicate Songs	Сховати дублікати пісень
+Show Sample Rate	Show Sample Rate	Показувати частоту дискретизації
+Layout: Default	Layout: Default	Макет: Стандартний
+Layout: At a Glance	Layout: At a Glance	Макет: Огляд
+Background: Cover Colour	Background: Cover Colour	Фон: Колір обкладинки
+Background: Plain	Background: Plain	Фон: Простий
+Background: Blurred Cover	Background: Blurred Cover	Фон: Розмитий
+Shine	Shine	Блиск
+Return Unlocks	Return Unlocks	«Назад» розблокує
 Cover Flow rebuilds artwork next time	Cover Flow rebuilds artwork next time	Cover Flow оновить обкладинки наступного разу
 Turn Bluetooth off and on to apply	Turn Bluetooth off and on to apply	Вимкніть і ввімкніть Bluetooth, щоб застосувати
 Folder Root: %s	Folder Root: %s	Корінь папок: %s
